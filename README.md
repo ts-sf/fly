@@ -1,10 +1,17 @@
-﻿# fly
+# fly
 # 不定时更新
 所有免费节点都爬取自网络，请勿用于非法用途  
 |  工具  | Android  | Windows  |  
 |  ----  | ----   | ----  |  
-| v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases) | [v2rayN](https://github.com/2dust/v2rayN/releases) |  
+| v2ray  | [v2rayNG] (https://github.com/2dust/v2rayNG/releases) | [v2rayN](https://github.com/2dust/v2rayN/releases) |  
   
 ### 节点更新订阅  
 - `https://raw.githubusercontent.com/ts-sf/fly/main/v2`  
-- `https://raw.fastgit.org/ts-sf/fly/main/v2` 
+- `https://raw.fastgit.org/ts-sf/fly/main/v2`  
+``` 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70iLA0KICAiYWRkIjogIjEzNy4xNzUuOS4xOTMiLA0KICAicG9ydCI6ICI1NzQwMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIxMzcuMTc1LjkuMTkzIiwNCiAgInBhdGgiOiAiL3R1bm5lbHZtZXNzIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6IG51bGwsDQogICJwcyI6ICLwn4eu8J+HqklF54ix5bCU5YWwIiwNCiAgImFkZCI6ICJ2dWsxLjBiYWQuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiBudWxsLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAiYXV0byIsDQogICJob3N0IjogInZ1azEuMGJhZC5jb20iLA0KICAicGF0aCI6ICIvY2hhdCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70iLA0KICAiYWRkIjogIjE0Mi40LjEwOC4yOCIsDQogICJwb3J0IjogIjU1MTAyIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjE0Mi40LjEwOC4yOCIsDQogICJwYXRoIjogIi9ibHVlIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70iLA0KICAiYWRkIjogInZ1czIuMGJhZC5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6IG51bGwsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICIiLA0KICAiaG9zdCI6ICJ2dXMyLjBiYWQuY29tIiwNCiAgInBhdGgiOiAiL2NoYXQiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiBudWxsDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7jwn4esU0fmlrDliqDlnaEiLA0KICAiYWRkIjogIm0ubHd2em1kdS5jbiIsDQogICJwb3J0IjogIjE2NjE4IiwNCiAgImlkIjogImU1MzA1ODg4LTQyM2QtNDIzOS1iMTQwLTQ5NWY1MzAxNDA5OCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibS5sd3Z6bWR1LmNuIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+```
