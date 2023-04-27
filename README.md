@@ -9,9 +9,9 @@
 - `https://raw.githubusercontent.com/ts-sf/fly/main/v2`  
 - `https://raw.fastgit.org/ts-sf/fly/main/v2`  
 ``` 
-ss://YWVzLTI1Ni1nY206Mjg1YWRmZjItZWIwYi00MWY2LTgwZDctOGE4ZmM2NWIxMGZj@154db23a-6333-441b-8e5b-b5bf95dba2fb.interface.buzz:21511#%f0%9f%87%b8%f0%9f%87%acSG%e6%96%b0%e5%8a%a0%e5%9d%a1
-ss://YWVzLTI1Ni1nY206Mjg1YWRmZjItZWIwYi00MWY2LTgwZDctOGE4ZmM2NWIxMGZj@73a69ef1-5c16-4eef-86ea-f289396a755f.interface.buzz:52798#%f0%9f%87%ba%f0%9f%87%b8US%e7%be%8e%e5%9b%bd
-trojan://bdfe527b-5394-4537-8140-d410723a75af@ru.mjt001.com:443?allowInsecure=1&sni=ru.mjt001.com#%f0%9f%87%b7%f0%9f%87%baRU%e4%bf%84%e7%bd%97%e6%96%af
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6/wn4e1SlDml6XmnKwiLA0KICAiYWRkIjogInpmYy53aW5kb3dzdXBkYXRlMS5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYTU1YTc1MmYtM2Y3My00YjdmLThjMWMtYjZiYTA2OTMwNzI0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJqcDEuaG5va2tkZi50b3AiLA0KICAicGF0aCI6ICIva2JqYy9qcDEiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAianAxLmhub2trZGYudG9wIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70iLA0KICAiYWRkIjogIjE0Mi40LjEyNS41MyIsDQogICJwb3J0IjogIjUwMDQ0IiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkZWRpcGF0aC5jbG91ZGZsYXJlLnF1ZXN0IiwNCiAgInBhdGgiOiAiL2FyaWVzP2VkPTIwNDgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+trojan://7a6a29ad-abbe-468b-ae69-276028322689@ukjs.stablize.top:443?allowInsecure=1#%f0%9f%87%ac%f0%9f%87%a7GB%e8%8b%b1%e5%9b%bd
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6/wn4e1SlDml6XmnKwiLA0KICAiYWRkIjogInQuY2NjYW8uY3lvdSIsDQogICJwb3J0IjogIjE2NjE3IiwNCiAgImlkIjogImJkZmU1MjdiLTUzOTQtNDUzNy04MTQwLWQ0MTA3MjNhNzVhZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidC5jY2Nhby5jeW91IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+trojan://7a6a29ad-abbe-468b-ae69-276028322689@dejs.stablize.top:443?allowInsecure=1#%f0%9f%87%a9%f0%9f%87%aaDE%e5%be%b7%e5%9b%bd
+trojan://3bf921df-46a1-4138-b8e5-f38e2249e72d@tw1.microsoftjs.top:443?allowInsecure=1&sni=tls.microsoftjs.top#%f0%9f%87%b9%f0%9f%87%bcTW%e5%8f%b0%e6%b9%be
+trojan://3bf921df-46a1-4138-b8e5-f38e2249e72d@hk12.microsoftjs.top:443?allowInsecure=1&sni=tls.microsoftjs.top#%f0%9f%87%ad%f0%9f%87%b0HK%e9%a6%99%e6%b8%af
 ```
