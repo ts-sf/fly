@@ -9,9 +9,9 @@
 - `https://raw.githubusercontent.com/ts-sf/fly/main/v2`  
 - `https://raw.fastgit.org/ts-sf/fly/main/v2`  
 ``` 
-trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@hk5.cnamazon.sbs:443?allowInsecure=1&sni=tlsdata.cnamazon.sbs#%f0%9f%87%ad%f0%9f%87%b0HK%e9%a6%99%e6%b8%af
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.91.118:40044#%f0%9f%87%ba%f0%9f%87%b8US%e7%be%8e%e5%9b%bd
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmEyMTczZi03MjYyLTRkYjItYjQxZC1iM2U0ZjM4ZWZkMGI@gy.51vv.top:32011#%f0%9f%87%b9%f0%9f%87%bcTW%e5%8f%b0%e6%b9%be
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ar.mjt001.com:443?allowInsecure=1&sni=ar.mjt001.com#%f0%9f%87%a6%f0%9f%87%b7AR%e9%98%bf%e6%a0%b9%e5%bb%b7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MjU3MjIxMTM2@172.105.247.246:38867#%f0%9f%87%a9%f0%9f%87%aaDE%e5%be%b7%e5%9b%bd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUxlWkhRQWhHWk5hSmhRc0pDTVhP@139.162.6.26:443#%f0%9f%87%b8%f0%9f%87%acSG%e6%96%b0%e5%8a%a0%e5%9d%a1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNWZiNTkyNy01OWM4LTQwMzMtOTUyNy0yMDBjZGU2OWFiZjU@kr02.network-cdn-gw.cc:41118#%f0%9f%87%b0%f0%9f%87%b7KR%e9%9f%a9%e5%9b%bd
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@uk.mjt001.com:443?allowInsecure=1&sni=uk.mjt001.com#%f0%9f%87%ac%f0%9f%87%a7GB%e8%8b%b1%e5%9b%bd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNWZiNTkyNy01OWM4LTQwMzMtOTUyNy0yMDBjZGU2OWFiZjU@vn01.network-cdn-gw.cc:20001#%f0%9f%87%bb%f0%9f%87%b3VN%e8%b6%8a%e5%8d%97
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@tr.mjt001.com:443?allowInsecure=1&sni=tr.mjt001.com#TR%e5%9c%9f%e8%80%b3%e5%85%b6
 ```
