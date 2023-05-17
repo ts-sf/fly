@@ -9,9 +9,9 @@
 - `https://raw.githubusercontent.com/ts-sf/fly/main/v2`  
 - `https://raw.fastgit.org/ts-sf/fly/main/v2`  
 ``` 
-trojan://0e6654d1-571c-48b0-aa9b-85f9a021d390@43.198.105.210:443?allowInsecure=1&sni=download.xn--mes358acgm99l.com#%f0%9f%87%ad%f0%9f%87%b0HK%e9%a6%99%e6%b8%af
-trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@hk5.cnamazon.sbs:443?allowInsecure=1&sni=tlsdata.cnamazon.sbs#%f0%9f%87%ad%f0%9f%87%b0HK%e9%a6%99%e6%b8%af
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7fwn4e6UlXkv4TnvZfmlq8iLA0KICAiYWRkIjogIjE4NS4xMzMuNDAuMTkyIiwNCiAgInBvcnQiOiAiMzUwNTkiLA0KICAiaWQiOiAiOGQ3OGMyYTgtYWNhYS00NjdkLTkyMzQtZDI2MDY2MjQ1MDZkIiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInVzLTEuYWN5dW4uY2YiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70iLA0KICAiYWRkIjogImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiZDFmY2ExOGItMDBjZS00MDI0LThjYzgtNGI0OWE0ZGQ1ZTUyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzc3JzdWIudjAyLnNzcnN1Yi5jb20iLA0KICAicGF0aCI6ICIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNWZiNTkyNy01OWM4LTQwMzMtOTUyNy0yMDBjZGU2OWFiZjU@kr02.network-cdn-gw.cc:41118#%f0%9f%87%b0%f0%9f%87%b7KR%e9%9f%a9%e5%9b%bd
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ru.mjt001.com:443?allowInsecure=1&sni=ru.mjt001.com#%f0%9f%87%b7%f0%9f%87%baRU%e4%bf%84%e7%bd%97%e6%96%af
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70iLA0KICAiYWRkIjogIjE3Mi42Ny45NC41OSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI5NTg4Y2IwZi01MTAyLTRlNjYtZDVmYi1mOTZjYmE5YWNkZGEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRvdS52dGNzcy50b3AiLA0KICAicGF0aCI6ICIvcWF6eGN2MDAiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTljNzg5Mi0zNmM0LTQ1MmQtOGFiOS0xODFjZWQxOTYzMzk@hd-tw.transit.tg-cloud.top:60180#%f0%9f%87%b9%f0%9f%87%bcTW%e5%8f%b0%e6%b9%be
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@pt.mjt001.com:443#%f0%9f%87%ba%f0%9f%87%b8US%e7%be%8e%e5%9b%bd
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh67wn4ezSU7ljbDluqYiLA0KICAiYWRkIjogImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjJkNWQ4YjljLThlYzQtNGEzNy1iNjEwLTc4ZTcxZTEzZWFlZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaW4uc2hhcmVjZW50cmVwcm8uY29tIiwNCiAgInBhdGgiOiAiL3NoaXJrZXIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 ```
