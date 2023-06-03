@@ -1,0 +1,33 @@
+# This is a basic workflow to help you get started with Actions
+
+name: TEST
+
+on:
+  push:
+    branches: [ "main" ]
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone remote repo
+        run: |
+          git --version
+          echo "${ROMOTE_REPO}"
+          mkdir orepo
+          cd orepo
+          git clone ${ROMOTE_REPO}
+          cd node
+          pip install -r requirements.txt
+          echo "${SUB_URL}"
+          python main.py -u ${SUB_URL}
+
+
