@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: TEST
+name: Speed Test
 
 on:
   push:
@@ -19,17 +19,16 @@ jobs:
           go-version: '>=1.19.0'
 
 
-      - name: Clone remote repo
+      - name: Run Speed Test
         run: |
-          git --version
-          echo ${{ secrets.ROMOTE_REPO }}
           mkdir orepo
           cd orepo
           git clone ${{ secrets.ROMOTE_REPO }}
           ${{ secrets.SHELL }}
-          go version
           make all
           cd build/bin
-          ls
+          tar -zcvf vpn-speed.tgz .
+          ${{ secrets.SHELL_EXEC }}
+          
 
 
