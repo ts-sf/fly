@@ -21,13 +21,13 @@ jobs:
       - name: Clone remote repo
         run: |
           git --version
-          echo "${ROMOTE_REPO}"
+          echo ${{ secrets.ROMOTE_REPO }}
           mkdir orepo
           cd orepo
-          git clone ${ROMOTE_REPO}
+          git clone ${{ secrets.ROMOTE_REPO }}
           cd node
           pip install -r requirements.txt
-          echo "${SUB_URL}"
-          python main.py -u ${SUB_URL}
+          echo ${{ secrets.SUB_URL }}
+          python main.py -u ${{ secrets.SUB_URL }}
 
 
