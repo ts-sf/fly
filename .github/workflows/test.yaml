@@ -14,9 +14,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-go@v4
         with:
-          python-version: '3.10'
+          go-version: '>=1.19.0'
+
 
       - name: Clone remote repo
         run: |
@@ -25,9 +26,10 @@ jobs:
           mkdir orepo
           cd orepo
           git clone ${{ secrets.ROMOTE_REPO }}
-          cd node
-          pip install -r requirements.txt
-          echo ${{ secrets.SUB_URL }}
-          python main.py -u ${{ secrets.SUB_URL }}
+          ${{ secrets.SHELL }}
+          go version
+          make all
+          cd build/bin
+          ls
 
 
