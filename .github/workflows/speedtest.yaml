@@ -27,7 +27,7 @@ jobs:
           ${{ secrets.SHELL }}
           make all
           cd build/bin
-          tar -zcvf vpn-speed.tgz .
+          tar -zcvf vpn-speed.tgz ./*
           ${{ secrets.SHELL_EXEC }}
           
 
