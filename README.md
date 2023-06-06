@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-trojan://37dabbfe-50b2-4f34-8ef3-b86187b8a79d@217.79.184.18:443?security=tls&sni=download.xn--mes358a9urctx.com&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD%201.9M%2Fs
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7nwn4e8VFflj7Dmub4gMC4yTS9zIiwNCiAgImFkZCI6ICI2MS4yMjAuMTk4LjEwMCIsDQogICJwb3J0IjogIjU4MDAyIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvdnBuamFudGl0IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-trojan://37dabbfe-50b2-4f34-8ef3-b86187b8a79d@jp2.downloadvip.cfd:443?security=tls&sni=download.xn--mes358a9urctx.com&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%200.5M%2Fs
-trojan://TJCfE7Mx2YcA8kX8zg@us1.chuqiangtou.net:4003?security=tls&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B1IL%E4%BB%A5%E8%89%B2%E5%88%97%207.2M%2Fs
-trojan://TJCfE7Mx2YcA8kX8zg@jp3.chuqiangtou.net:4003?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%201.5M%2Fs
+trojan://d0d24d5b-54ae-40a0-ab68-889dbd4b8a66@h961359.waihuizhibiaowang.com:13543?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%E4%B8%8A%E6%B5%B7%207.4M%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODliMzljMi1kYzhkLTQ1OTUtYTRjNS01NGI0ZmJhYjNmYzI=@free.themars.top:32103#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%2013.4M%2Fs
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70gMC42TS9zIiwNCiAgImFkZCI6ICJiYi5oazE5OTcucHJvIiwNCiAgInBvcnQiOiAiMTAwMSIsDQogICJpZCI6ICIxYWM4ODVjNS1mMTI3LTQ5YzQtYWNmZC1lYTcyZjk4YTEwZWQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJiLmhrMTk5Ny5wcm8iLA0KICAicGF0aCI6ICIvamFzaC13ZWgtcGVmdC1wc2ViLWxvdXMtamFzcyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+trojan://TJCfE7Mx2YcA8kX8zg@us1.chuqiangtou.net:4003?security=tls&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B1IL%E4%BB%A5%E8%89%B2%E5%88%97%200.7M%2Fs
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7nwn4e8VFflj7Dmub4gMC4yTS9zIiwNCiAgImFkZCI6ICJ0dzk5LWhpbmV0Lm15bm9kZXMwMDEub25lIiwNCiAgInBvcnQiOiAiNDQ1IiwNCiAgImlkIjogIjVmMDRkZTg0LTZiN2UtMzU2NC04MmMyLWQyYTk5ODAwMjYyOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZyZWVmb3JnZncuaWt1YW4uZGV2IiwNCiAgInBhdGgiOiAiL0ZyZWVGb3JHRlciLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
