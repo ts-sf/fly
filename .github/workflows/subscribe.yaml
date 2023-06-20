@@ -1,5 +1,3 @@
-# This is a basic workflow to help you get started with Actions
-
 name: subscribe update
 
 on:
@@ -14,10 +12,8 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       
-
       - name: make env
         run: |
           git --version
@@ -54,30 +50,33 @@ jobs:
       #   run: sudo timedatectl set-timezone 'Asia/Shanghai'
       - name: commit changes
         run:  |
-          git config user.email "github-actions+bot@github.com"
+          git config user.email "github-actions+bot@no-reply.github.com"
           git config user.name "github-actions"
           git add .
-          git commit -m "♻ $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "♻ $(date -d '-8 hours ago' "+%Y-%m-%d %H:%M:%S")"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.PERSONAL_TOKEN }}
 
-      # - name: checkout speed
-      #   uses: actions/checkout@v3
-      #   with:
-      #     ref:  speed
-      #     path: 'orepo/speed'
-      # - name: push speed also
-      #   run:  |
-      #     cd ${{ github.workspace }}/orepo/speed
-      #     rm v2
-      #     rm clash
-      #     rm ${{ github.workspace }}/README.md
+      - name: checkout speed and commit
+        uses: actions/checkout@v3
+        with:
+          ref:  speed
+          path: 'orepo/speed'
+      - name: push speed also
+        run:  |
+          cd ${{ github.workspace }}/orepo/speed
+          rm v2
+          rm clash
+          rm ${{ github.workspace }}/README.md
 
-      #     mv ${{ github.workspace }}/orepo/v2speed/data/v2_speed ${{ github.workspace }}/orepo/speed/v2
-      #     mv ${{ github.workspace }}/orepo/v2speed/data/clash_speed ${{ github.workspace }}/orepo/speed/clash
-      #     mv ${{ github.workspace }}/orepo/v2speed/data/README.md_speed ${{ github.workspace }}/orepo/speed/README.md
-      #     git add .
-      #     git commit -m "🤡 $(date '+%Y-%m-%d %H:%M:%S')"
-      #     git push https://${{secrets.PERSONAL_TOKEN}}@github.com/ts-sf/fly.git speed
+          mv ${{ github.workspace }}/orepo/v2speed/data/v2_speed ${{ github.workspace }}/orepo/speed/v2
+          mv ${{ github.workspace }}/orepo/v2speed/data/clash_speed ${{ github.workspace }}/orepo/speed/clash
+          mv ${{ github.workspace }}/orepo/v2speed/data/README.md_speed ${{ github.workspace }}/orepo/speed/README.md
+          
+          git config user.email "github-actions+bot@no-reply.github.com"
+          git config user.name "github-actions"
+          git add .
+          git commit -m "🤡 $(date -d '-8 hours ago' "+%Y-%m-%d %H:%M:%S")"
+          git push https://${{secrets.PERSONAL_TOKEN}}@github.com/ts-sf/fly.git speed
