@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@148.59.74.52:443?allowInsecure=1&sni=18-140-66-207.nhost.00cdn.com#%f0%9f%87%ba%f0%9f%87%b8US%e7%be%8e%e5%9b%bd
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70iLA0KICAiYWRkIjogIjE2Mi4xNTkuMjQzLjIzNSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkZGRkMGIyOS0xNTc2LTQwMDMtOTk5MC1kN2NlYTM0MjY0ZGIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogbnVsbCwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIiIsDQogICJob3N0IjogImRlZGkyLjE4MDguY2YiLA0KICAicGF0aCI6ICIvODM1NzU3IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogbnVsbA0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7nwn4e8VFflj7Dmub4iLA0KICAiYWRkIjogImE3ZDQ4MTM1NTBjMi5zYW5mZW4wMDQubWUiLA0KICAicG9ydCI6ICIyOTAzMyIsDQogICJpZCI6ICIxNWNlZGIxZS1iNmU3LTRkZDgtYWM2NS00MjJlMWEzMjI5NzIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICLwn4e58J+HvFRX5Y+w5rm+KHlvdXR1YmXpmL/kvJ/np5HmioAyKSIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-trojan://39666941-4cb2-4ce7-8a63-f183fedfd6bb@jp2.gsjc.cfd:443?allowInsecure=1&sni=20-212-60-88.nhost.00cdn.com#%f0%9f%87%af%f0%9f%87%b5JP%e6%97%a5%e6%9c%ac
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70gNTMuME1CIiwNCiAgImFkZCI6ICIxNDAuOTkuMTQ5LjQ2IiwNCiAgInBvcnQiOiAiNTMwODIiLA0KICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIvCfh7rwn4e4VVPnvo7lm70oeW91dHViZemYv+S8n+enkeaKgDIpIiwNCiAgInBhdGgiOiAiL3l1bGluZ2thaXNoaTAxIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+trojan://746b6774-e899-4205-a097-3da55c26f5b3@84.252.121.218:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none&host=%f0%9f%87%a9%f0%9f%87%aaDE%e5%be%b7%e5%9b%bd(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%802)#%f0%9f%87%a9%f0%9f%87%aaDE%e5%be%b7%e5%9b%bd%2010.5MB
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6/wn4e1SlDml6XmnKwiLA0KICAiYWRkIjogImRvd25sb2FkdmlwLmNmZCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiNWYzZDI3ZC1jNGJjLTQ5MWQtYWM2ZS0xYTM0MjkxNjU2MzkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImpwMS5kampjLnNicyIsDQogICJwYXRoIjogIi9kampjL2pwMSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODgwMjkyMS04ZjA4LTQxMzAtYjRkMC1lMjg3MTUwODdlNTc=@cttw1.createmofa.xyz:34999#%f0%9f%87%b9%f0%9f%87%bcTW%e5%8f%b0%e6%b9%be
+trojan://TJCfE7Mx2YcA8kX8zg@nl3.barbecuepie.com:4003?flow=🇳🇱NL荷兰(youtube阿伟科技2)&security=tls&type=tcp&headerType=none#%f0%9f%87%b3%f0%9f%87%b1NL%e8%8d%b7%e5%85%b0%2075.1MB
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7nwn4e8VFflj7Dmub4iLA0KICAiYWRkIjogImE3ZDQ4MTM1NTBjMi5zYW5mZW4wMDQubWUiLA0KICAicG9ydCI6ICIyOTAzMyIsDQogICJpZCI6ICIyYTczMzRlMi1kNDEwLTRjYjEtYmIzNS04YTE1YmMxYThkOWUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICLwn4e58J+HvFRX5Y+w5rm+KHlvdXR1YmXpmL/kvJ/np5HmioAyKSIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
