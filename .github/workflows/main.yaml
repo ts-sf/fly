@@ -50,8 +50,8 @@ jobs:
           mv ${{ github.workspace }}/orepo/v2speed/data/README.md_main ${{ github.workspace }}/README.md
       
       # - uses: actions/checkout@v3
-      - name: set time
-        run: sudo timedatectl set-timezone 'Asia/Shanghai'
+      # - name: set time
+      #   run: sudo timedatectl set-timezone 'Asia/Shanghai'
       - name: commit changes
         run:  |
           git config user.email "github-actions+bot@github.com"
