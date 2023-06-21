@@ -1,11 +1,11 @@
 name: subscribe update
 
 on:
-  push:
-    branches: [ "main" ]
+  # push:
+  #   branches: [ "main" ]
   schedule:
     - cron: '20 */4 * * *'
-
+  workflow_dispatch:
 
 jobs:
   build:
@@ -37,9 +37,7 @@ jobs:
           powershell $psfile
 
           cd ${{ github.workspace }}
-          rm v2
-          rm clash
-          rm ${{ github.workspace }}/README.md
+          rm v2 clash README.md
 
           mv ${{ github.workspace }}/orepo/v2speed/data/v2_main ${{ github.workspace }}/v2
           mv ${{ github.workspace }}/orepo/v2speed/data/clash_main ${{ github.workspace }}/clash
@@ -52,24 +50,22 @@ jobs:
         run:  |
           git config user.email "github-actions+bot@no-reply.github.com"
           git config user.name "github-actions"
-          git add .
+          git add v2 clash README.md
           git commit -m "♻ $(date -d '-8 hours ago' "+%Y-%m-%d %H:%M:%S")"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.PERSONAL_TOKEN }}
 
-      - name: checkout speed and commit
+      - name: checkout speed
         uses: actions/checkout@v3
         with:
           ref:  speed
           path: 'orepo/speed'
-      - name: push speed also
+      - name: commit and push speed
         run:  |
           cd ${{ github.workspace }}/orepo/speed
-          rm v2
-          rm clash
-          rm README.md
+          rm v2 clash README.md
 
           mv ${{ github.workspace }}/orepo/v2speed/data/v2_speed ${{ github.workspace }}/orepo/speed/v2
           mv ${{ github.workspace }}/orepo/v2speed/data/clash_speed ${{ github.workspace }}/orepo/speed/clash
@@ -77,6 +73,6 @@ jobs:
           
           git config user.email "github-actions+bot@no-reply.github.com"
           git config user.name "github-actions"
-          git add .
+          git add v2 clash README.md
           git commit -m "🤡 $(date -d '-8 hours ago' "+%Y-%m-%d %H:%M:%S")"
           git push https://${{secrets.PERSONAL_TOKEN}}@github.com/ts-sf/fly.git speed
