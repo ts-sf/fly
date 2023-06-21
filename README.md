@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-trojan://PlF471nxneY0YevI@de2.nigirocloud.com:4003#%f0%9f%87%ae%f0%9f%87%b1IL%e4%bb%a5%e8%89%b2%e5%88%97%201.5MB/s
-trojan://535b9369-31d4-4685-9bb5-7c223d383524@sg0001.170203.xyz:45363#%f0%9f%87%ba%f0%9f%87%b8US%e7%be%8e%e5%9b%bd%2010.3MB/s
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70gMS4wTUIiLA0KICAiYWRkIjogIjIzLjIyNC4xNS4xODEiLA0KICAicG9ydCI6ICI1MDAwMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL21laGRpIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=/s
-trojan://97d557df-6f6a-5bad-9483-600aba02da3a@au-01-gh3fg1.ferryhwp8ebm.com:42103?allowInsecure=1&sni=au-01-651.duuk.info#%f0%9f%87%a6%f0%9f%87%baAU%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a%201.4MB/s
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Pwn4exTkzojbflhbAgNTUuMk1CIiwNCiAgImFkZCI6ICJici1icC5ybmlramVoLnNob3AiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZDZmMGFmMjktODJjOS00MGU0LTkyMzYtYjMyZjY2YTMzMDk2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYnItYnAucm5pa2plaC5zaG9wIiwNCiAgInBhdGgiOiAiL2tTWTRLWGNzQm1DZ0pFRUZvM2ZrdDl5NCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJici1icC5ybmlramVoLnNob3AiDQp9/s
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlpB5Y2X6Z2eIDE3LjRNQiIsDQogICJhZGQiOiAiMTU2LjIyNS42Ny43NiIsDQogICJwb3J0IjogIjQwODAwIiwNCiAgImlkIjogIjNlMDE2YzRkLTk4NmUtNDJkZi04MzhjLTYwNDZmM2Q4OWVjZiIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==/s
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlpB5Y2X6Z2eIDQwMi4yS0IiLA0KICAiYWRkIjogIjE1Ni4yMjUuNjcuMTMxIiwNCiAgInBvcnQiOiAiNDg4MjEiLA0KICAiaWQiOiAiNTE1YmNiNGQtMGJhMS00Y2FlLTg3Y2YtYTA0NzAwN2VlYzU0IiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9/s
+trojan://PlF471nxneY0YevI@de2.nigirocloud.com:4003#%f0%9f%87%ae%f0%9f%87%b1IL%e4%bb%a5%e8%89%b2%e5%88%97%2013.9MB/s
+trojan://535b9369-31d4-4685-9bb5-7c223d383524@kr02.170203.xyz:443#%f0%9f%87%b0%f0%9f%87%b7KR%e9%9f%a9%e5%9b%bd%2019.2MB/s
+trojan://535b9369-31d4-4685-9bb5-7c223d383524@sgss01.170203.xyz:45632?allowInsecure=1&sni=sgss01.170203.xyz#%f0%9f%87%b8%f0%9f%87%acSG%e6%96%b0%e5%8a%a0%e5%9d%a1%2014.5MB/s
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
