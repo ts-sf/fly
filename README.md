@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-trojan://PlF471nxneY0YevI@de3.nigirocloud.com:4003#%f0%9f%87%ae%f0%9f%87%b1IL%e4%bb%a5%e8%89%b2%e5%88%97%2011.4MB/s
-trojan://TJCfE7Mx2YcA8kX8zg@nl3.barbecuepie.com:4003#%f0%9f%87%ae%f0%9f%87%b1IL%e4%bb%a5%e8%89%b2%e5%88%97%20103.8MB/s
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70gNS4wTUIiLA0KICAiYWRkIjogImNmLnl4am5vZGUuY29tIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiMDljMWQzMmQtNDQ1OC00ZWJmLWIzNmQtNGRkNzMyYmFlM2FhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkcDEueXhqbm9kZS5jb20iLA0KICAicGF0aCI6ICIveXh6YnAiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==/s
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7nwn4e8VFflj7Dmub4gMTIuMk1CIiwNCiAgImFkZCI6ICJ0dzk5LWhpbmV0Lm15bm9kZXMwMDEub25lIiwNCiAgInBvcnQiOiAiNDQ1IiwNCiAgImlkIjogIjVmMDRkZTg0LTZiN2UtMzU2NC04MmMyLWQyYTk5ODAwMjYyOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIvCfh7nwn4e8VFflj7Dmub4oeW91dHViZemYv+S8n+enkeaKgDIpIiwNCiAgInBhdGgiOiAiL2FudGkxMy56aW5nZmFzdC52biIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9/s
-trojan://PlF471nxneY0YevI@de1.nigirocloud.com:4003#%f0%9f%87%ae%f0%9f%87%b1IL%e4%bb%a5%e8%89%b2%e5%88%97%202.9MB/s
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVPnvo7lm70gMjEuMk1CIiwNCiAgImFkZCI6ICJkbDYudjAwMXNzc3YucHciLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI4ZWVjZTJlMS1jZmMxLTRmODQtODAzZS0xYTY2NjUwOTgyZWEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiBudWxsLA0KICAiaG9zdCI6ICJkbDYudjAwMXNzc3YucHciLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogbnVsbA0KfQ==/s
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Dwn4e3S1Lpn6nlm70gMzM3LjBLQiIsDQogICJhZGQiOiAiYmV0YS5kdXJvdi5pciIsDQogICJwb3J0IjogIjIwODYiLA0KICAiaWQiOiAiYzc2NTQ5ODAtNzJmZS00OTJkLThiNmYtYTRjYjU1Yzk0YzJlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJvdmguaWlpby53aWtpIiwNCiAgInBhdGgiOiAiL2FyaWVzP2VkPTIwNDgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==/s
+trojan://TJCfE7Mx2YcA8kX8zg@nl3.barbecuepie.com:4003?flow=🇳🇱NL荷兰(youtube阿伟科技2)&security=tls&type=tcp&headerType=none#%f0%9f%87%b3%f0%9f%87%b1NL%e8%8d%b7%e5%85%b0%2089.1MB/s
+trojan://TJCfE7Mx2YcA8kX8zg@uk1.barbecuepie.com:4003?flow=🇬🇧GB英国(youtube阿伟科技)&security=tls&type=tcp&headerType=none#%f0%9f%87%ac%f0%9f%87%a7GB%e8%8b%b1%e5%9b%bd%202.0MB/s
+trojan://TJCfE7Mx2YcA8kX8zg@uk1.barbecuepie.com:4003?security=tls&type=tcp&headerType=none#%f0%9f%87%ac%f0%9f%87%a7GB%e8%8b%b1%e5%9b%bd%202.1MB/s
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
