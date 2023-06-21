@@ -38,6 +38,18 @@ jobs:
 
           cd ${{ github.workspace }}
           rm v2 clash README.md
+          
+          $gitbmp = "${{ github.workspace }}/traffic.png"
+          $exit = (Test-Path $bmp)
+          if($exit -eq "True"){
+            rm $gitbmp
+          }
+          
+          $outbmp = "$here/data/traffic.png"
+          $exit = (Test-Path $outbmp)
+          if($exit -eq "True"){
+            mv $outbmp ${{ github.workspace }}/traffic.png
+          }
 
           mv ${{ github.workspace }}/orepo/v2speed/data/v2_main ${{ github.workspace }}/v2
           mv ${{ github.workspace }}/orepo/v2speed/data/clash_main ${{ github.workspace }}/clash
@@ -50,7 +62,7 @@ jobs:
         run:  |
           git config user.email "github-actions+bot@no-reply.github.com"
           git config user.name "github-actions"
-          git add v2 clash README.md
+          git add .
           git commit -m "♻ $(date -d '-8 hours ago' "+%Y-%m-%d %H:%M:%S")"
       - name: Push changes
         uses: ad-m/github-push-action@master
