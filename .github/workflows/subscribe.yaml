@@ -2,71 +2,83 @@ name: subscribe update
 
 on:
   # push:
-  #   branches: [ "main" ]
+  #    branches: [ "main" ]
   schedule:
     - cron: '20 */4 * * *'
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
+
+      #- name: setup rust and go
+      #  run:  |
+      #    sudo curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: actions/setup-go@v4
+        with:
+          go-version: '>=1.19.0'
+      - run:  |
+          cargo --version
+          rustc --version
+          go version
+
+
       
       - name: make env
         run: |
           git --version
-          echo ${{ secrets.ROMOTE_REPO }}
+          # echo ${{ secrets.ROMOTE_REPO }}
           mkdir orepo
           cd orepo
         
+      - uses: actions/checkout@v3
+        with:
+          repository: 'ts-sf/v2tool'
+          path: '${{ github.workspace }}/orepo/v2tool'
+          ref:  'dev'
+
       - uses: actions/checkout@v3
         with:
           repository: '${{ secrets.ROMOTE_REPO }}'
           token: '${{ secrets.PERSONAL_TOKEN }}'
           path: '${{ github.workspace }}/orepo/v2speed'
 
-      - name: run scripts
+      - name: build and run
         run: |
-          cd orepo
-          ls
-          $here = "${{ github.workspace }}/orepo/v2speed"
-          cd $here
-          $psfile = "$here/run.ps1"
-          powershell $psfile
+          cd ${{ github.workspace }}/orepo/v2tool
+          # ls
+          # $bin = "${{ github.workspace }}/target/release"
 
-          cd ${{ github.workspace }}
-          rm v2
-          rm clash
-          rm README.md
-          
-          $gitbmp = "${{ github.workspace }}/traffic.png"
-          $exit = (Test-Path $gitbmp)
-          if($exit -eq "True"){
-            rm $gitbmp
-          }
-          
-          $outbmp = "$here/data/traffic.png"
-          $exit = (Test-Path $outbmp)
-          if($exit -eq "True"){
-            mv $outbmp ${{ github.workspace }}/traffic.png
-          }
+          go mod tidy
+          go build -o ${{ github.workspace }}/orepo/v2speed/target/release/v2tool
 
-          mv ${{ github.workspace }}/orepo/v2speed/data/v2_main ${{ github.workspace }}/v2
-          mv ${{ github.workspace }}/orepo/v2speed/data/clash_main ${{ github.workspace }}/clash
-          mv ${{ github.workspace }}/orepo/v2speed/data/README.md_main ${{ github.workspace }}/README.md
+          cd ${{ github.workspace }}/orepo/v2speed
+          cargo build --release
+
+          chmod 777 run.sh
+          mv run.sh ${{ github.workspace }}/orepo/v2speed/target/release
+          cd ${{ github.workspace }}/orepo/v2speed/target/release
+          ./run.sh
+
+          mv ${{ github.workspace }}/orepo/v2speed/target/release/out.png ${{ github.workspace }}/traffic.png
+          
+          mv ${{ github.workspace }}/orepo/v2speed/target/release/data/v2_main ${{ github.workspace }}/v2
+          mv ${{ github.workspace }}/orepo/v2speed/target/release/data/clash_main ${{ github.workspace }}/clash
+          mv ${{ github.workspace }}/orepo/v2speed/target/release/data/README.md_main ${{ github.workspace }}/README.md
+
       
-      # - uses: actions/checkout@v3
-      # - name: set time
-      #   run: sudo timedatectl set-timezone 'Asia/Shanghai'
       - name: commit changes
         run:  |
+          cd ${{ github.workspace }}
           git config user.email "github-actions+bot@no-reply.github.com"
           git config user.name "github-actions"
           git add .
-          git commit -m "♻ $(date -d '-8 hours ago' "+%Y-%m-%d %H:%M:%S")"
-      - name: Push changes
+          git commit -m "🚀 $(date -d '-8 hours ago' "+%Y-%m-%d %H:%M:%S")"
+      - name: push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.PERSONAL_TOKEN }}
@@ -83,12 +95,12 @@ jobs:
           rm clash
           rm README.md
 
-          mv ${{ github.workspace }}/orepo/v2speed/data/v2_speed ${{ github.workspace }}/orepo/speed/v2
-          mv ${{ github.workspace }}/orepo/v2speed/data/clash_speed ${{ github.workspace }}/orepo/speed/clash
-          mv ${{ github.workspace }}/orepo/v2speed/data/README.md_speed ${{ github.workspace }}/orepo/speed/README.md
+          mv ${{ github.workspace }}/orepo/v2speed/target/release/data/v2_speed ${{ github.workspace }}/orepo/speed/v2
+          mv ${{ github.workspace }}/orepo/v2speed/target/release/data/clash_speed ${{ github.workspace }}/orepo/speed/clash
+          mv ${{ github.workspace }}/orepo/v2speed/target/release/data/README.md_speed ${{ github.workspace }}/orepo/speed/README.md
           
           git config user.email "github-actions+bot@no-reply.github.com"
           git config user.name "github-actions"
           git add .
-          git commit -m "🤡 $(date -d '-8 hours ago' "+%Y-%m-%d %H:%M:%S")"
+          git commit -m "♻ $(date -d '-8 hours ago' "+%Y-%m-%d %H:%M:%S")"
           git push https://${{secrets.PERSONAL_TOKEN}}@github.com/ts-sf/fly.git speed
