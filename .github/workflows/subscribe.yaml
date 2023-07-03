@@ -1,8 +1,8 @@
 name: subscribe update
 
 on:
-  # push:
-  #    branches: [ "main" ]
+  push:
+      branches: [ "main" ]
   schedule:
     - cron: '20 */8 * * *'
   workflow_dispatch:
@@ -47,7 +47,7 @@ jobs:
           token: '${{ secrets.PERSONAL_TOKEN }}'
           path: '${{ github.workspace }}/orepo/v2speed'
 
-      - name: build and run
+      - name: build
         run: |
           cd ${{ github.workspace }}/orepo/v2tool
           # ls
@@ -61,6 +61,9 @@ jobs:
 
           chmod 777 run.sh
           mv run.sh ${{ github.workspace }}/orepo/v2speed/target/release
+          
+      - name: run
+        run: |
           cd ${{ github.workspace }}/orepo/v2speed/target/release
           ./run.sh
 
@@ -74,8 +77,8 @@ jobs:
       - name: commit changes
         run:  |
           cd ${{ github.workspace }}
-          git config user.email "github-actions+bot@no-reply.github.com"
-          git config user.name "github-actions"
+          git config user.email "github-actions+bot+4fas4f15@no-reply.github.com"
+          git config user.name "actions"
           git add .
           git commit -m "🚀 $(date -d '-8 hours ago' "+%Y-%m-%d %H:%M:%S")"
       - name: push changes
@@ -99,8 +102,8 @@ jobs:
           mv ${{ github.workspace }}/orepo/v2speed/target/release/data/clash_speed ${{ github.workspace }}/orepo/speed/clash
           mv ${{ github.workspace }}/orepo/v2speed/target/release/data/README.md_speed ${{ github.workspace }}/orepo/speed/README.md
           
-          git config user.email "github-actions+bot@no-reply.github.com"
-          git config user.name "github-actions"
+          git config user.email "github-actions+bot+545465hgf@no-reply.github.com"
+          git config user.name "actions"
           git add .
           git commit -m "♻ $(date -d '-8 hours ago' "+%Y-%m-%d %H:%M:%S")"
           git push https://${{secrets.PERSONAL_TOKEN}}@github.com/ts-sf/fly.git speed
