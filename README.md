@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://telegram-id-privatevpns@18.193.82.59:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMGZkOTQ1Zi03ZWI5LTRjMDMtOGQ0Ny1kMDA0NGZlM2ZhZTI=@zjcu.artehr.org:32003#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6xTR+aWsOWKoOWdoSIsImFkZCI6IjE5NC4yMzMuOTUuMTgwIiwicG9ydCI6IjgwIiwiaWQiOiIwMzRmN2U4OC01NjFhLTRmYjktYjkxNy00YWIzMzQzYjY3NTUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMTk0LjIzMy45NS4xODAiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlNH5paw5Yqg5Z2hIn0=
-trojan://telegram-id-privatevpns@15.237.192.59:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIgNzAuN01CL3MiLCJhZGQiOiI1LjE2MS4yMTIuMTI1IiwicG9ydCI6Ijg4ODAiLCJpZCI6IjQ1OTY0Y2I1LWFmNzktNGQ1My04Yjk5LTk2NTI2NGVmMTAzYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70yIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzQyMzk0NTQy@172.105.21.239:44460#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
+trojan://bd23a31e-7a2c-4065-8ca4-cd2d5d2bf5ba@pqawssg2.aiopen.cfd:443?security=tls&headerType=none&type=tcp&sni=18-140-66-207.nhost.00cdn.com&host=#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMDUzN2UyNy0yMzMwLTQzODEtYWEyMy03N2QwYzkxZWVmNDE=@free.themars.top:32102#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://2e724af9-64f0-353b-8a68-d5a9223b08b1@t-06.outrdp.xyz:14008?security=tls&headerType=none&type=tcp&sni=ip2648428075.mobgslb.tbcache.com&host=#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7VKUOaXpeacrDIgMTAuN01CL3MiLCJhZGQiOiI4NmpwanAuZnI5OWt0LnRvcCIsInBvcnQiOiI4MCIsImlkIjoiYWQxM2Y1NzQtZjZiNy00MjdlLWJiMjktMjI0YTA3YzU2ZDEwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Ijg2anBqcC5mcjk5a3QudG9wIiwicGF0aCI6Ii9yZGciLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJKUOaXpeacrDIifQ==
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
