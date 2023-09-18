@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiIxNDIuNC4xMTAuMTE4IiwicG9ydCI6IjQ0MyIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3d3cuNjQ4MzAyMDYueHl6IiwicGF0aCI6Ii9wYXRoLzE2OTE2NjQxMzY4NTgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTIifQ==
+trojan://telegram-id-privatevpns@35.180.54.47:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
 trojan://bd23a31e-7a2c-4065-8ca4-cd2d5d2bf5ba@gsawsjp1.aiopen.cfd:443?security=tls&headerType=none&type=tcp&sni=18-140-66-207.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://telegram-id-privatevpns@15.237.192.59:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7VKUOaXpeacrDIiLCJhZGQiOiI4NmpwanAuZnI5OWt0LnRvcCIsInBvcnQiOiI4MCIsImlkIjoiYWQxM2Y1NzQtZjZiNy00MjdlLWJiMjktMjI0YTA3YzU2ZDEwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Ijg2anBqcC5mcjk5a3QudG9wIiwicGF0aCI6Ii9yZGciLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJKUOaXpeacrDIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSA3LjFNQi9zIiwiYWRkIjoicnRsLnNlcnZlcm1lbGkueHl6IiwicG9ydCI6IjIwODciLCJpZCI6IjFlNDA0ZTgwLTZhODQtNDY3Yi05ZmU5LThhMjc3OTRkZGM0MyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImZsbDYuYXBwbWFuYWdlNS5pciIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiZmxsNi5hcHBtYW5hZ2U1LmlyIiwidGVzdF9uYW1lIjoiVVPnvo7lm70ifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzQyMzk0NTQy@172.105.21.239:44460#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMiLCJhZGQiOiIxMi5rY2NpYzJwYS54eXoiLCJwb3J0IjoiNTAwMTIiLCJpZCI6IjVlNDE5MDAxLWFhZjAtNDk3NS1hOTMxLWZjN2ZjOTQ1OTcxOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoid3d3LjIyODY2OTQ3Lnh5eiIsInBhdGgiOiIvcGF0aC8xNjkxNDg5NTQyMzg1IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70zIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6xTR+aWsOWKoOWdoSIsImFkZCI6InNob3VlcjRqaWEyNC4yMDk5NjYueHl6IiwicG9ydCI6IjEwMDYiLCJpZCI6Ijc0Mjg4MTVlLWQzNDEtNDUwZC1iNGVlLTJmZmY4Nzg1MTljZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzaG91ZXI0amlhMjQuMjA5OTY2Lnh5eiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiU0fmlrDliqDlnaEifQ==
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
