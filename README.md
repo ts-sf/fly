@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7dLUumfqeWbvSIsImFkZCI6InNob3VlcjRqaWEyNC4yMDk5NjYueHl6IiwicG9ydCI6IjEwMDkiLCJpZCI6Ijc0Mjg4MTVlLWQzNDEtNDUwZC1iNGVlLTJmZmY4Nzg1MTljZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzaG91ZXI0amlhMjQuMjA5OTY2Lnh5eiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiS1Lpn6nlm70ifQ==
-trojan://bd23a31e-7a2c-4065-8ca4-cd2d5d2bf5ba@pqawsjp3.aiopen.cfd:443?security=tls&headerType=none&type=tcp&sni=18-140-66-207.nhost.00cdn.com&host=#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://telegram-id-privatevpns@3.70.238.92:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMGZkOTQ1Zi03ZWI5LTRjMDMtOGQ0Ny1kMDA0NGZlM2ZhZTI=@zjcu.artehr.org:32005#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2
-trojan://2e724af9-64f0-353b-8a68-d5a9223b08b1@t-06.outrdp.xyz:14008?security=tls&headerType=none&type=tcp&sni=ip2648428075.mobgslb.tbcache.com&host=#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSIsImFkZCI6ImhvbWUuY21ibS5saW5rIiwicG9ydCI6IjQ0MyIsImlkIjoiNTQzNjQ3NGQtMTNhOS00N2VmLTg5OGEtNzEwMWMyOTIxYmU5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImhvbWUuY21ibS5saW5rIiwicGF0aCI6Ii9yZSIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9In0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMGZkOTQ1Zi03ZWI5LTRjMDMtOGQ0Ny1kMDA0NGZlM2ZhZTI=@zjcu.artehr.org:32003#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://2e724af9-64f0-353b-8a68-d5a9223b08b1@t-06.outrdp.xyz:14002?security=tls&headerType=none&type=tcp&sni=ip2648428075.mobgslb.tbcache.com&host=#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzQyMzk0NTQy@172.105.21.239:44460#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
+trojan://telegram-id-privatevpns@15.237.192.59:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
