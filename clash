@@ -2,9 +2,9 @@
 ####################################
 # 创建者：https://github.com/ts-sf/fly
 # 客户端：Clash
-# 创建时间：2023-09-20 09:32:17
+# 创建时间：2023-09-25 16:33:33
 # 使用模版：V2RaySE 默认模版
-# 节点数量：7
+# 节点数量：6
 ####################################
 #
 mixed-port: 7890
@@ -12,13 +12,12 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇰🇷KR韩国 648.2KB/s","type":"vmess","server":"krawycaa.76898102.xyz","port":2095,"cipher":"auto","uuid":"7ed7e770-140d-37d0-8bbd-11cafb8186e2","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/funsdfrh","headers":{"host":"krawyca.76898102.xyz"}}}
-  - {"name":"🇺🇸US美国8 194.2KB/s","type":"vmess","server":"104.31.16.14","port":80,"cipher":"auto","uuid":"d53cc5f9-b8ff-4cbe-bf10-295956c03276","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/@hopev2ray","headers":{"host":"de1vm.cdn-03.live"}}}
-  - {"name":"🇺🇸US美国11 442.8KB/s","type":"vmess","server":"cfyd.starsea.vip","port":80,"cipher":"auto","uuid":"c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sshkit/1736960111/64ee26041efcc/","headers":{"host":"sg1-v2ray.sshkit.org"}}}
-  - {"name":"🇸🇬SG新加坡2 263.4KB/s","type":"vmess","server":"194.233.95.180","port":80,"cipher":"auto","uuid":"034f7e88-561a-4fb9-b917-4ab3343b6755","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"194.233.95.180"}}}
-  - {"name":"🇸🇬SG新加坡4 292.9KB/s","type":"vmess","server":"si4co.09vpn.com","port":80,"cipher":"auto","uuid":"034f7e88-561a-4fb9-b917-4ab3343b6755","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"si4co.09vpn.com"}}}
-  - {"name":"🇺🇸US美国24 98.7KB/s","type":"vmess","server":"104.18.12.192","port":80,"cipher":"auto","uuid":"60492148-7815-4259-acdc-92bd15afa81c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"france-1vm.mr-radwan-daoud.de"}}}
-  - {"name":"🇺🇸US美国26 32.0KB/s","type":"vmess","server":"104.21.75.246","port":80,"cipher":"auto","uuid":"81fc114e-44d7-44c7-9912-942453b03154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"bl.shabijichang.com"}}}
+  - {"name":"🇨🇳广东 81.4KB/s","type":"vmess","server":"183.233.187.233","port":49553,"cipher":"auto","uuid":"770ee730-2450-4e3c-a6c6-3932bd32afbd","alterId":64,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US美国3 7.4MB/s","type":"trojan","server":"tokyo.clare88.tk","port":43986,"cipher":"auto","alterId":0,"tls":true,"password":"3pfvcVO2H7","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国10 141.5KB/s","type":"vmess","server":"cf.yx.alue.link","port":2052,"cipher":"auto","uuid":"fe5edf04-c2af-4ac5-84ee-16d43024decb","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"lu.wx.alue.link"}}}
+  - {"name":"🇺🇸US美国16 1.6MB/s","type":"vmess","server":"67.21.64.84","port":43123,"cipher":"auto","uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇿🇦ZA南非2 904.1KB/s","type":"vmess","server":"156.225.67.25","port":51381,"cipher":"auto","uuid":"375e70f0-5d46-476f-8d69-0fb35c5548a9","alterId":64,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬SG新加坡7 368.7KB/s","type":"vmess","server":"si4co.09vpn.com","port":80,"cipher":"auto","uuid":"034f7e88-561a-4fb9-b917-4ab3343b6755","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"si4co.09vpn.com"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -26,13 +25,12 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇰🇷KR韩国 648.2KB/s
-      - 🇺🇸US美国8 194.2KB/s
-      - 🇺🇸US美国11 442.8KB/s
-      - 🇸🇬SG新加坡2 263.4KB/s
-      - 🇸🇬SG新加坡4 292.9KB/s
-      - 🇺🇸US美国24 98.7KB/s
-      - 🇺🇸US美国26 32.0KB/s
+      - 🇨🇳广东 81.4KB/s
+      - 🇺🇸US美国3 7.4MB/s
+      - 🇺🇸US美国10 141.5KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇿🇦ZA南非2 904.1KB/s
+      - 🇸🇬SG新加坡7 368.7KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -40,13 +38,12 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇰🇷KR韩国 648.2KB/s
-      - 🇺🇸US美国8 194.2KB/s
-      - 🇺🇸US美国11 442.8KB/s
-      - 🇸🇬SG新加坡2 263.4KB/s
-      - 🇸🇬SG新加坡4 292.9KB/s
-      - 🇺🇸US美国24 98.7KB/s
-      - 🇺🇸US美国26 32.0KB/s
+      - 🇨🇳广东 81.4KB/s
+      - 🇺🇸US美国3 7.4MB/s
+      - 🇺🇸US美国10 141.5KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇿🇦ZA南非2 904.1KB/s
+      - 🇸🇬SG新加坡7 368.7KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -54,52 +51,48 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇰🇷KR韩国 648.2KB/s
-      - 🇺🇸US美国8 194.2KB/s
-      - 🇺🇸US美国11 442.8KB/s
-      - 🇸🇬SG新加坡2 263.4KB/s
-      - 🇸🇬SG新加坡4 292.9KB/s
-      - 🇺🇸US美国24 98.7KB/s
-      - 🇺🇸US美国26 32.0KB/s
+      - 🇨🇳广东 81.4KB/s
+      - 🇺🇸US美国3 7.4MB/s
+      - 🇺🇸US美国10 141.5KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇿🇦ZA南非2 904.1KB/s
+      - 🇸🇬SG新加坡7 368.7KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇰🇷KR韩国 648.2KB/s
-      - 🇺🇸US美国8 194.2KB/s
-      - 🇺🇸US美国11 442.8KB/s
-      - 🇸🇬SG新加坡2 263.4KB/s
-      - 🇸🇬SG新加坡4 292.9KB/s
-      - 🇺🇸US美国24 98.7KB/s
-      - 🇺🇸US美国26 32.0KB/s
+      - 🇨🇳广东 81.4KB/s
+      - 🇺🇸US美国3 7.4MB/s
+      - 🇺🇸US美国10 141.5KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇿🇦ZA南非2 904.1KB/s
+      - 🇸🇬SG新加坡7 368.7KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇰🇷KR韩国 648.2KB/s
-      - 🇺🇸US美国8 194.2KB/s
-      - 🇺🇸US美国11 442.8KB/s
-      - 🇸🇬SG新加坡2 263.4KB/s
-      - 🇸🇬SG新加坡4 292.9KB/s
-      - 🇺🇸US美国24 98.7KB/s
-      - 🇺🇸US美国26 32.0KB/s
+      - 🇨🇳广东 81.4KB/s
+      - 🇺🇸US美国3 7.4MB/s
+      - 🇺🇸US美国10 141.5KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇿🇦ZA南非2 904.1KB/s
+      - 🇸🇬SG新加坡7 368.7KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇰🇷KR韩国 648.2KB/s
-      - 🇺🇸US美国8 194.2KB/s
-      - 🇺🇸US美国11 442.8KB/s
-      - 🇸🇬SG新加坡2 263.4KB/s
-      - 🇸🇬SG新加坡4 292.9KB/s
-      - 🇺🇸US美国24 98.7KB/s
-      - 🇺🇸US美国26 32.0KB/s
+      - 🇨🇳广东 81.4KB/s
+      - 🇺🇸US美国3 7.4MB/s
+      - 🇺🇸US美国10 141.5KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇿🇦ZA南非2 904.1KB/s
+      - 🇸🇬SG新加坡7 368.7KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -123,13 +116,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇰🇷KR韩国 648.2KB/s
-      - 🇺🇸US美国8 194.2KB/s
-      - 🇺🇸US美国11 442.8KB/s
-      - 🇸🇬SG新加坡2 263.4KB/s
-      - 🇸🇬SG新加坡4 292.9KB/s
-      - 🇺🇸US美国24 98.7KB/s
-      - 🇺🇸US美国26 32.0KB/s
+      - 🇨🇳广东 81.4KB/s
+      - 🇺🇸US美国3 7.4MB/s
+      - 🇺🇸US美国10 141.5KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇿🇦ZA南非2 904.1KB/s
+      - 🇸🇬SG新加坡7 368.7KB/s
 
 
 rules:
