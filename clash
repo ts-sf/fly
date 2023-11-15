@@ -2,9 +2,9 @@
 ####################################
 # 创建者：https://github.com/ts-sf/fly
 # 客户端：Clash
-# 创建时间：2023-11-14 09:35:36
+# 创建时间：2023-11-15 16:33:57
 # 使用模版：V2RaySE 默认模版
-# 节点数量：6
+# 节点数量：8
 ####################################
 #
 mixed-port: 7890
@@ -12,12 +12,14 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇨🇳广东 393.4KB/s","type":"ss","server":"6daayvvf1enzed6v.rongkun.xyz","port":40402,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"01698f7a-7315-49fd-8085-96c288d6b2ac","skip-cert-verify":true}
-  - {"name":"🇸🇬SG新加坡5 117.1KB/s","type":"vmess","server":"si4co.09vpn.com","port":80,"cipher":"auto","uuid":"034f7e88-561a-4fb9-b917-4ab3343b6755","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"si4co.09vpn.com"}}}
-  - {"name":"🇨🇳广东4 305.8KB/s","type":"ss","server":"6daayvvf1enzed6v.rongkun.xyz","port":40403,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"01698f7a-7315-49fd-8085-96c288d6b2ac","skip-cert-verify":true}
-  - {"name":"🇸🇬SG新加坡6 123.3KB/s","type":"vmess","server":"194.233.95.180","port":80,"cipher":"auto","uuid":"034f7e88-561a-4fb9-b917-4ab3343b6755","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"194.233.95.180"}}}
-  - {"name":"🇨🇳广东5 163.9KB/s","type":"vmess","server":"183.233.187.214","port":38962,"cipher":"auto","uuid":"770ee730-2450-4e3c-a6c6-3932bd32afbd","alterId":64,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US美国19 2.4MB/s","type":"vmess","server":"142.4.97.65","port":30000,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1699624723213","headers":{"host":"www.39838266.xyz"}}}
+  - {"name":"🇷🇺RU俄罗斯 66.3KB/s","type":"ss","server":"5.35.34.107","port":55990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"tOwOyvlXiY5ATJAUOpXNPN","skip-cert-verify":true}
+  - {"name":"🇮🇱IL以色列 147.0KB/s","type":"vmess","server":"hkcn23m.jdkfcom.xyz","port":80,"cipher":"auto","uuid":"63096863-6fd7-4d7e-cf53-a59341312b9c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"🇵🇱PL波兰 47.1KB/s","type":"vmess","server":"v2node15.bipbupvpn.com","port":10100,"cipher":"auto","uuid":"75b28ee0-1c81-4130-8206-eb96e2305b03","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"v2node15.bipbupvpn.com"}}}
+  - {"name":"🇸🇬SG新加坡 78.4KB/s","type":"vmess","server":"si4co.09vpn.com","port":80,"cipher":"auto","uuid":"034f7e88-561a-4fb9-b917-4ab3343b6755","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"si4co.09vpn.com"}}}
+  - {"name":"🇺🇸US美国8 346.8KB/s","type":"vmess","server":"zj.hhc586.link","port":8080,"cipher":"auto","uuid":"e2b593e7-3c3f-4402-c625-aeea2c748c04","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"ycy.vipnet01.cf"}}}
+  - {"name":"🇺🇸US美国9 769.7KB/s","type":"vmess","server":"146.190.94.177","port":13888,"cipher":"auto","uuid":"167f474c-ce96-456b-ca0c-04c7718bd387","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"media-exp1.licdn.com"}}}
+  - {"name":"🇨🇦CA加拿大 2.0MB/s","type":"ss","server":"142.202.48.45","port":8091,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国15 7.6MB/s","type":"ss","server":"162.247.153.108","port":28896,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"jFDpUoKUDZPEGTBJRiLZgo","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -25,12 +27,14 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇨🇳广东 393.4KB/s
-      - 🇸🇬SG新加坡5 117.1KB/s
-      - 🇨🇳广东4 305.8KB/s
-      - 🇸🇬SG新加坡6 123.3KB/s
-      - 🇨🇳广东5 163.9KB/s
-      - 🇺🇸US美国19 2.4MB/s
+      - 🇷🇺RU俄罗斯 66.3KB/s
+      - 🇮🇱IL以色列 147.0KB/s
+      - 🇵🇱PL波兰 47.1KB/s
+      - 🇸🇬SG新加坡 78.4KB/s
+      - 🇺🇸US美国8 346.8KB/s
+      - 🇺🇸US美国9 769.7KB/s
+      - 🇨🇦CA加拿大 2.0MB/s
+      - 🇺🇸US美国15 7.6MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -38,12 +42,14 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇨🇳广东 393.4KB/s
-      - 🇸🇬SG新加坡5 117.1KB/s
-      - 🇨🇳广东4 305.8KB/s
-      - 🇸🇬SG新加坡6 123.3KB/s
-      - 🇨🇳广东5 163.9KB/s
-      - 🇺🇸US美国19 2.4MB/s
+      - 🇷🇺RU俄罗斯 66.3KB/s
+      - 🇮🇱IL以色列 147.0KB/s
+      - 🇵🇱PL波兰 47.1KB/s
+      - 🇸🇬SG新加坡 78.4KB/s
+      - 🇺🇸US美国8 346.8KB/s
+      - 🇺🇸US美国9 769.7KB/s
+      - 🇨🇦CA加拿大 2.0MB/s
+      - 🇺🇸US美国15 7.6MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -51,48 +57,56 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇨🇳广东 393.4KB/s
-      - 🇸🇬SG新加坡5 117.1KB/s
-      - 🇨🇳广东4 305.8KB/s
-      - 🇸🇬SG新加坡6 123.3KB/s
-      - 🇨🇳广东5 163.9KB/s
-      - 🇺🇸US美国19 2.4MB/s
+      - 🇷🇺RU俄罗斯 66.3KB/s
+      - 🇮🇱IL以色列 147.0KB/s
+      - 🇵🇱PL波兰 47.1KB/s
+      - 🇸🇬SG新加坡 78.4KB/s
+      - 🇺🇸US美国8 346.8KB/s
+      - 🇺🇸US美国9 769.7KB/s
+      - 🇨🇦CA加拿大 2.0MB/s
+      - 🇺🇸US美国15 7.6MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇳广东 393.4KB/s
-      - 🇸🇬SG新加坡5 117.1KB/s
-      - 🇨🇳广东4 305.8KB/s
-      - 🇸🇬SG新加坡6 123.3KB/s
-      - 🇨🇳广东5 163.9KB/s
-      - 🇺🇸US美国19 2.4MB/s
+      - 🇷🇺RU俄罗斯 66.3KB/s
+      - 🇮🇱IL以色列 147.0KB/s
+      - 🇵🇱PL波兰 47.1KB/s
+      - 🇸🇬SG新加坡 78.4KB/s
+      - 🇺🇸US美国8 346.8KB/s
+      - 🇺🇸US美国9 769.7KB/s
+      - 🇨🇦CA加拿大 2.0MB/s
+      - 🇺🇸US美国15 7.6MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇨🇳广东 393.4KB/s
-      - 🇸🇬SG新加坡5 117.1KB/s
-      - 🇨🇳广东4 305.8KB/s
-      - 🇸🇬SG新加坡6 123.3KB/s
-      - 🇨🇳广东5 163.9KB/s
-      - 🇺🇸US美国19 2.4MB/s
+      - 🇷🇺RU俄罗斯 66.3KB/s
+      - 🇮🇱IL以色列 147.0KB/s
+      - 🇵🇱PL波兰 47.1KB/s
+      - 🇸🇬SG新加坡 78.4KB/s
+      - 🇺🇸US美国8 346.8KB/s
+      - 🇺🇸US美国9 769.7KB/s
+      - 🇨🇦CA加拿大 2.0MB/s
+      - 🇺🇸US美国15 7.6MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇳广东 393.4KB/s
-      - 🇸🇬SG新加坡5 117.1KB/s
-      - 🇨🇳广东4 305.8KB/s
-      - 🇸🇬SG新加坡6 123.3KB/s
-      - 🇨🇳广东5 163.9KB/s
-      - 🇺🇸US美国19 2.4MB/s
+      - 🇷🇺RU俄罗斯 66.3KB/s
+      - 🇮🇱IL以色列 147.0KB/s
+      - 🇵🇱PL波兰 47.1KB/s
+      - 🇸🇬SG新加坡 78.4KB/s
+      - 🇺🇸US美国8 346.8KB/s
+      - 🇺🇸US美国9 769.7KB/s
+      - 🇨🇦CA加拿大 2.0MB/s
+      - 🇺🇸US美国15 7.6MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -116,12 +130,14 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇨🇳广东 393.4KB/s
-      - 🇸🇬SG新加坡5 117.1KB/s
-      - 🇨🇳广东4 305.8KB/s
-      - 🇸🇬SG新加坡6 123.3KB/s
-      - 🇨🇳广东5 163.9KB/s
-      - 🇺🇸US美国19 2.4MB/s
+      - 🇷🇺RU俄罗斯 66.3KB/s
+      - 🇮🇱IL以色列 147.0KB/s
+      - 🇵🇱PL波兰 47.1KB/s
+      - 🇸🇬SG新加坡 78.4KB/s
+      - 🇺🇸US美国8 346.8KB/s
+      - 🇺🇸US美国9 769.7KB/s
+      - 🇨🇦CA加拿大 2.0MB/s
+      - 🇺🇸US美国15 7.6MB/s
 
 
 rules:
