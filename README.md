@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6pEReW+t+WbvSIsImFkZCI6IjE4My4yMzIuMjQ5LjQwIiwicG9ydCI6IjUyMjcxIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkRF5b635Zu9In0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzQyMzk0NTQy@172.105.21.239:44460#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
+trojan://telegram-id-privatevpns@18.193.82.59:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+ss://YWVzLTI1Ni1nY206NWM4YjIxMGEtMmYwMC00MjkyLTk2NGItMDUyODFjN2FkNWQx@bjcu.xzyunjiasu.icu:33952#%F0%9F%87%A8%F0%9F%87%B3%E6%B9%96%E5%8D%97
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiJzaG91ZXI0amlhMjQuMjA5OTY2Lnh5eiIsInBvcnQiOiIxMDAxIiwiaWQiOiI3NDI4ODE1ZS1kMzQxLTQ1MGQtYjRlZS0yZmZmODc4NTE5Y2UiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZGF0YS52aWRlby5xaXlpLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70yIn0=
-trojan://telegram-id-privatevpns@15.237.192.59:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7xUV+WPsOa5viIsImFkZCI6IjA4LmtjY2ljMnBhLnh5eiIsInBvcnQiOiI1MDAwOCIsImlkIjoiNWU0MTkwMDEtYWFmMC00OTc1LWE5MzEtZmM3ZmM5NDU5NzE4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlRX5Y+w5rm+In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6pEReW+t+WbvTIiLCJhZGQiOiIxOTIuNzQuMjMyLjIzOSIsInBvcnQiOiI0NDMiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoid3d3LjU0MDkyNDE1Lnh5eiIsInBhdGgiOiIvcGF0aC8xNjkxNTU4ODM5MTMzIiwidGxzIjoidGxzIiwic25pIjoiIiwidGVzdF9uYW1lIjoiREXlvrflm70yIn0=
+trojan://telegram-id-privatevpns@3.70.238.92:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
