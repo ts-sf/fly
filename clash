@@ -2,9 +2,9 @@
 ####################################
 # 创建者：https://github.com/ts-sf/fly
 # 客户端：Clash
-# 创建时间：2024-01-09 09:38:01
+# 创建时间：2024-01-10 16:32:30
 # 使用模版：V2RaySE 默认模版
-# 节点数量：7
+# 节点数量：6
 ####################################
 #
 mixed-port: 7890
@@ -12,13 +12,12 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇺🇸US美国11 468.5KB/s","type":"vmess","server":"104.18.140.242","port":2052,"cipher":"auto","uuid":"2dbeeb76-a71f-493f-bd92-33f0193291c5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"hkyx.651568.xyz"}}}
-  - {"name":"🇺🇸US美国13 252.7KB/s","type":"vmess","server":"au.takeshi.wiki","port":80,"cipher":"auto","uuid":"a19f357b-c836-4cf6-9e43-72390e6a00df","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/takeshi.wiki","headers":{"host":"dl.kgvn.garenanow.com"}}}
-  - {"name":"🇮🇷IR伊朗 61.2KB/s","type":"vmess","server":"ser52.gsmxssh.com","port":20554,"cipher":"auto","uuid":"5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇫🇷FR法国2 1.8MB/s","type":"ss","server":"51.158.146.102","port":7001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
-  - {"name":"🇮🇷IR伊朗2 21.7KB/s","type":"vmess","server":"81.12.27.4","port":20554,"cipher":"auto","uuid":"5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US美国25 544.4KB/s","type":"vmess","server":"104.17.2.183","port":80,"cipher":"auto","uuid":"f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"v3ra3do.wakeuptimerap.shop"}}}
-  - {"name":"🇺🇸US美国26 11.3MB/s","type":"vmess","server":"172.67.217.144","port":80,"cipher":"auto","uuid":"85674552-ce41-44d9-bb2a-50f76450b3d8","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"lv1.xv2ray.net"}}}
+  - {"name":"🇺🇸US美国6 434.1KB/s","type":"vmess","server":"mehdi10.mehdimoghaddam.fun","port":2082,"cipher":"auto","uuid":"089b3e45-1be5-4dad-8754-6cec4ccb3ae9","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/@forwardv2ray"}}
+  - {"name":"🇺🇸US美国7 11.8MB/s","type":"ss","server":"series-a2-me.samanehha.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Bog0ELmMM9DSxDdQ","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国12 369.4KB/s","type":"vmess","server":"mehdi18.mehdimoghaddam.fun","port":2086,"cipher":"auto","uuid":"6d695795-2fd7-42ae-91ab-0eff97edec92","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/@forwardv2ray"}}
+  - {"name":"🇬🇧GB英国2 1.8MB/s","type":"ss","server":"145.239.6.202","port":4444,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
+  - {"name":"🇷🇸RS塞尔维亚 688.5KB/s","type":"vmess","server":"dm.imzcc.com","port":59492,"cipher":"auto","uuid":"3cd1a2f0-499f-4eb0-862a-cdd0ecd821c7","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/imzcc","headers":{"host":"dm.imzcc.com"}}}
+  - {"name":"🇺🇸US美国24 28.2MB/s","type":"vmess","server":"cf.best.lafuseessub.uk","port":443,"cipher":"auto","uuid":"0a4defdd-924d-4781-9d95-ff05c28860e4","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/lafusees","headers":{"host":"us.lafuseessub.uk"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -26,13 +25,12 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇸US美国11 468.5KB/s
-      - 🇺🇸US美国13 252.7KB/s
-      - 🇮🇷IR伊朗 61.2KB/s
-      - 🇫🇷FR法国2 1.8MB/s
-      - 🇮🇷IR伊朗2 21.7KB/s
-      - 🇺🇸US美国25 544.4KB/s
-      - 🇺🇸US美国26 11.3MB/s
+      - 🇺🇸US美国6 434.1KB/s
+      - 🇺🇸US美国7 11.8MB/s
+      - 🇺🇸US美国12 369.4KB/s
+      - 🇬🇧GB英国2 1.8MB/s
+      - 🇷🇸RS塞尔维亚 688.5KB/s
+      - 🇺🇸US美国24 28.2MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -40,13 +38,12 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸US美国11 468.5KB/s
-      - 🇺🇸US美国13 252.7KB/s
-      - 🇮🇷IR伊朗 61.2KB/s
-      - 🇫🇷FR法国2 1.8MB/s
-      - 🇮🇷IR伊朗2 21.7KB/s
-      - 🇺🇸US美国25 544.4KB/s
-      - 🇺🇸US美国26 11.3MB/s
+      - 🇺🇸US美国6 434.1KB/s
+      - 🇺🇸US美国7 11.8MB/s
+      - 🇺🇸US美国12 369.4KB/s
+      - 🇬🇧GB英国2 1.8MB/s
+      - 🇷🇸RS塞尔维亚 688.5KB/s
+      - 🇺🇸US美国24 28.2MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -54,52 +51,48 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸US美国11 468.5KB/s
-      - 🇺🇸US美国13 252.7KB/s
-      - 🇮🇷IR伊朗 61.2KB/s
-      - 🇫🇷FR法国2 1.8MB/s
-      - 🇮🇷IR伊朗2 21.7KB/s
-      - 🇺🇸US美国25 544.4KB/s
-      - 🇺🇸US美国26 11.3MB/s
+      - 🇺🇸US美国6 434.1KB/s
+      - 🇺🇸US美国7 11.8MB/s
+      - 🇺🇸US美国12 369.4KB/s
+      - 🇬🇧GB英国2 1.8MB/s
+      - 🇷🇸RS塞尔维亚 688.5KB/s
+      - 🇺🇸US美国24 28.2MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国11 468.5KB/s
-      - 🇺🇸US美国13 252.7KB/s
-      - 🇮🇷IR伊朗 61.2KB/s
-      - 🇫🇷FR法国2 1.8MB/s
-      - 🇮🇷IR伊朗2 21.7KB/s
-      - 🇺🇸US美国25 544.4KB/s
-      - 🇺🇸US美国26 11.3MB/s
+      - 🇺🇸US美国6 434.1KB/s
+      - 🇺🇸US美国7 11.8MB/s
+      - 🇺🇸US美国12 369.4KB/s
+      - 🇬🇧GB英国2 1.8MB/s
+      - 🇷🇸RS塞尔维亚 688.5KB/s
+      - 🇺🇸US美国24 28.2MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇸US美国11 468.5KB/s
-      - 🇺🇸US美国13 252.7KB/s
-      - 🇮🇷IR伊朗 61.2KB/s
-      - 🇫🇷FR法国2 1.8MB/s
-      - 🇮🇷IR伊朗2 21.7KB/s
-      - 🇺🇸US美国25 544.4KB/s
-      - 🇺🇸US美国26 11.3MB/s
+      - 🇺🇸US美国6 434.1KB/s
+      - 🇺🇸US美国7 11.8MB/s
+      - 🇺🇸US美国12 369.4KB/s
+      - 🇬🇧GB英国2 1.8MB/s
+      - 🇷🇸RS塞尔维亚 688.5KB/s
+      - 🇺🇸US美国24 28.2MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国11 468.5KB/s
-      - 🇺🇸US美国13 252.7KB/s
-      - 🇮🇷IR伊朗 61.2KB/s
-      - 🇫🇷FR法国2 1.8MB/s
-      - 🇮🇷IR伊朗2 21.7KB/s
-      - 🇺🇸US美国25 544.4KB/s
-      - 🇺🇸US美国26 11.3MB/s
+      - 🇺🇸US美国6 434.1KB/s
+      - 🇺🇸US美国7 11.8MB/s
+      - 🇺🇸US美国12 369.4KB/s
+      - 🇬🇧GB英国2 1.8MB/s
+      - 🇷🇸RS塞尔维亚 688.5KB/s
+      - 🇺🇸US美国24 28.2MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -123,13 +116,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸US美国11 468.5KB/s
-      - 🇺🇸US美国13 252.7KB/s
-      - 🇮🇷IR伊朗 61.2KB/s
-      - 🇫🇷FR法国2 1.8MB/s
-      - 🇮🇷IR伊朗2 21.7KB/s
-      - 🇺🇸US美国25 544.4KB/s
-      - 🇺🇸US美国26 11.3MB/s
+      - 🇺🇸US美国6 434.1KB/s
+      - 🇺🇸US美国7 11.8MB/s
+      - 🇺🇸US美国12 369.4KB/s
+      - 🇬🇧GB英国2 1.8MB/s
+      - 🇷🇸RS塞尔维亚 688.5KB/s
+      - 🇺🇸US美国24 28.2MB/s
 
 
 rules:
