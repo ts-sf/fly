@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://telegram-id-privatevpns@18.193.82.59:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-trojan://bd23a31e-7a2c-4065-8ca4-cd2d5d2bf5ba@pqawssg2.aiopen.cfd:443?security=tls&headerType=none&type=tcp&sni=18-140-66-207.nhost.00cdn.com&host=#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://bd23a31e-7a2c-4065-8ca4-cd2d5d2bf5ba@pqhinet3.aiopen.cfd:443?security=tls&headerType=none&type=tcp&sni=18-140-66-207.nhost.00cdn.com&host=#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hv/Cfh6ZaQeWNl+mdniIsImFkZCI6ImNmMS50cm9qYW4udGVsIiwicG9ydCI6Ijg4ODAiLCJpZCI6ImZiY2YxM2ViLWExMmEtNGI3My04YmZmLTg1ZWM1YTlkYjlhNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzc3JzdWItY2YtdjQudHJvamFuLnRlbCIsInBhdGgiOiIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJaQeWNl+mdniJ9
-trojan://telegram-id-privatevpns@3.8.6.93:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
+trojan://telegram-id-privatevpns@35.180.54.47:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMGZkOTQ1Zi03ZWI5LTRjMDMtOGQ0Ny1kMDA0NGZlM2ZhZTI=@zjcu.artehr.org:32003#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7xUV+WPsOa5viIsImFkZCI6InNob3VlcjRqaWEyNC4yMDk5NjYueHl6IiwicG9ydCI6IjE4ODAxIiwiaWQiOiI3NDI4ODE1ZS1kMzQxLTQ1MGQtYjRlZS0yZmZmODc4NTE5Y2UiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidjktZHkuaXhpZ3VhLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVFflj7Dmub4ifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSIsImFkZCI6IjUuMTYxLjIxMi4xMjUiLCJwb3J0IjoiODg4MCIsImlkIjoiNDU5NjRjYjUtYWY3OS00ZDUzLThiOTktOTY1MjY0ZWYxMDNiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvSJ9
+trojan://telegram-id-privatevpns@15.237.192.59:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
