@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%209.2MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7xUV+WPsOa5viIsImFkZCI6IjA4LmtjY2ljMnBhLnh5eiIsInBvcnQiOiI1MDAwOCIsImlkIjoiNWU0MTkwMDEtYWFmMC00OTc1LWE5MzEtZmM3ZmM5NDU5NzE4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlRX5Y+w5rm+In0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@3.9.156.146:443#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiI2NC4zMi40LjUzIiwicG9ydCI6IjQzNTU2IiwiaWQiOiI4NjUzMDA0Zi1kZTY3LTQ0YzItOWNjZS1lMDgzMDkzM2ZiMDMiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMiLCJhZGQiOiI1LjE2MS4yMTIuMTI1IiwicG9ydCI6Ijg4ODAiLCJpZCI6IjQ1OTY0Y2I1LWFmNzktNGQ1My04Yjk5LTk2NTI2NGVmMTAzYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70zIn0=
+trojan://bd23a31e-7a2c-4065-8ca4-cd2d5d2bf5ba@pqhinet3.aiopen.cfd:443?security=tls&headerType=none&type=tcp&sni=18-140-66-207.nhost.00cdn.com&host=#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzQyMzk0NTQy@194.233.162.152:44460#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMGZkOTQ1Zi03ZWI5LTRjMDMtOGQ0Ny1kMDA0NGZlM2ZhZTI=@zjcu.artehr.org:32003#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7FOTOiNt+WFsCIsImFkZCI6IjE1Ni4yMjUuNjcuMTUzIiwicG9ydCI6IjQ0MyIsImlkIjoiYTdmYThmMTQtNGZiNi00MjgwLTkwMDUtZDZiYmU5OWM1ZGE5IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3d3cuODQ1NTAxNzkueHl6IiwicGF0aCI6Ii9wYXRoLzE2OTE2NjQxMzY4NTgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuODQ1NTAxNzkueHl6IiwidGVzdF9uYW1lIjoiTkzojbflhbAifQ==
+trojan://94744160-abe9-44ca-b085-0f6994e1944e@hk.zgc.su:567?#%E6%9C%AA%E7%9F%A5%2046.1KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
