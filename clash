@@ -2,7 +2,7 @@
 ####################################
 # 创建者：https://github.com/ts-sf/fly
 # 客户端：Clash
-# 创建时间：2024-01-25 16:33:01
+# 创建时间：2024-01-26 09:32:04
 # 使用模版：V2RaySE 默认模版
 # 节点数量：6
 ####################################
@@ -12,12 +12,12 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇬🇧GB英国 15.4MB/s","type":"ss","server":"jseyu.arvancode.eu.Org","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Bog0ELmMM9DSxDdQ","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国13 679.0KB/s","type":"vmess","server":"cfcdn2.sanfencdn9.com","port":2052,"cipher":"auto","uuid":"2b48622d-307c-40cf-88ca-954f83f3a9dd","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/u4eCZTxW","headers":{"host":"jpafzyhfsg3.yofnhkfc.xyz"}}}
-  - {"name":"🇫🇷FR法国 1.7MB/s","type":"ss","server":"51.158.204.204","port":1165,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"GLDCSOlCF4mMQytulOHkjQ","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国20 230.4KB/s","type":"vmess","server":"s1c.v2.v001sss.xyz","port":2082,"cipher":"auto","uuid":"112ac36f-3f53-4e26-8371-d25c028e1b9a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"s1c.v2.v001sss.xyz"}}}
-  - {"name":"🇹🇼TW台湾6 157.8KB/s","type":"vmess","server":"nb22.ntbq.dynu.net","port":12002,"cipher":"auto","uuid":"05f1e2ad-1d21-449b-9bbb-97a8b4662934","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US美国23 17.5MB/s","type":"ss","server":"series-a2-mec.samanehha.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"u17T3BvpYaaiuW2c","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡 220.5KB/s","type":"vmess","server":"si4co.09vpn.com","port":80,"cipher":"auto","uuid":"034f7e88-561a-4fb9-b917-4ab3343b6755","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"si4co.09vpn.com"}}}
+  - {"name":"🇺🇸US美国 11.7MB/s","type":"ss","server":"18.134.81.3","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"u17T3BvpYaaiuW2c","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国8 3.4MB/s","type":"vmess","server":"cfcdn3.sanfencdn9.com","port":2052,"cipher":"auto","uuid":"2b48622d-307c-40cf-88ca-954f83f3a9dd","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/Zo98PYfE","headers":{"host":"kvjqqknzjp6.yofnhkfc.xyz"}}}
+  - {"name":"🇸🇬SG新加坡5 221.6KB/s","type":"vmess","server":"194.233.95.180","port":80,"cipher":"auto","uuid":"034f7e88-561a-4fb9-b917-4ab3343b6755","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"194.233.95.180"}}}
+  - {"name":"🇧🇬BG保加利亚 189.9KB/s","type":"ss","server":"213.183.63.189","port":16325,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"lgTGrmtOtgcDduVPJ1LU5s","skip-cert-verify":true}
+  - {"name":"🇨🇷CR哥斯达黎加 4.3MB/s","type":"ss","server":"144.22.175.207","port":7701,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"f2f16516-5636-416f-8ba4-d9687e275276","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -25,12 +25,12 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇬🇧GB英国 15.4MB/s
-      - 🇺🇸US美国13 679.0KB/s
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇺🇸US美国20 230.4KB/s
-      - 🇹🇼TW台湾6 157.8KB/s
-      - 🇺🇸US美国23 17.5MB/s
+      - 🇸🇬SG新加坡 220.5KB/s
+      - 🇺🇸US美国 11.7MB/s
+      - 🇺🇸US美国8 3.4MB/s
+      - 🇸🇬SG新加坡5 221.6KB/s
+      - 🇧🇬BG保加利亚 189.9KB/s
+      - 🇨🇷CR哥斯达黎加 4.3MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -38,12 +38,12 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇬🇧GB英国 15.4MB/s
-      - 🇺🇸US美国13 679.0KB/s
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇺🇸US美国20 230.4KB/s
-      - 🇹🇼TW台湾6 157.8KB/s
-      - 🇺🇸US美国23 17.5MB/s
+      - 🇸🇬SG新加坡 220.5KB/s
+      - 🇺🇸US美国 11.7MB/s
+      - 🇺🇸US美国8 3.4MB/s
+      - 🇸🇬SG新加坡5 221.6KB/s
+      - 🇧🇬BG保加利亚 189.9KB/s
+      - 🇨🇷CR哥斯达黎加 4.3MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -51,48 +51,48 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧GB英国 15.4MB/s
-      - 🇺🇸US美国13 679.0KB/s
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇺🇸US美国20 230.4KB/s
-      - 🇹🇼TW台湾6 157.8KB/s
-      - 🇺🇸US美国23 17.5MB/s
+      - 🇸🇬SG新加坡 220.5KB/s
+      - 🇺🇸US美国 11.7MB/s
+      - 🇺🇸US美国8 3.4MB/s
+      - 🇸🇬SG新加坡5 221.6KB/s
+      - 🇧🇬BG保加利亚 189.9KB/s
+      - 🇨🇷CR哥斯达黎加 4.3MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧GB英国 15.4MB/s
-      - 🇺🇸US美国13 679.0KB/s
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇺🇸US美国20 230.4KB/s
-      - 🇹🇼TW台湾6 157.8KB/s
-      - 🇺🇸US美国23 17.5MB/s
+      - 🇸🇬SG新加坡 220.5KB/s
+      - 🇺🇸US美国 11.7MB/s
+      - 🇺🇸US美国8 3.4MB/s
+      - 🇸🇬SG新加坡5 221.6KB/s
+      - 🇧🇬BG保加利亚 189.9KB/s
+      - 🇨🇷CR哥斯达黎加 4.3MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇬🇧GB英国 15.4MB/s
-      - 🇺🇸US美国13 679.0KB/s
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇺🇸US美国20 230.4KB/s
-      - 🇹🇼TW台湾6 157.8KB/s
-      - 🇺🇸US美国23 17.5MB/s
+      - 🇸🇬SG新加坡 220.5KB/s
+      - 🇺🇸US美国 11.7MB/s
+      - 🇺🇸US美国8 3.4MB/s
+      - 🇸🇬SG新加坡5 221.6KB/s
+      - 🇧🇬BG保加利亚 189.9KB/s
+      - 🇨🇷CR哥斯达黎加 4.3MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧GB英国 15.4MB/s
-      - 🇺🇸US美国13 679.0KB/s
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇺🇸US美国20 230.4KB/s
-      - 🇹🇼TW台湾6 157.8KB/s
-      - 🇺🇸US美国23 17.5MB/s
+      - 🇸🇬SG新加坡 220.5KB/s
+      - 🇺🇸US美国 11.7MB/s
+      - 🇺🇸US美国8 3.4MB/s
+      - 🇸🇬SG新加坡5 221.6KB/s
+      - 🇧🇬BG保加利亚 189.9KB/s
+      - 🇨🇷CR哥斯达黎加 4.3MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -116,12 +116,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧GB英国 15.4MB/s
-      - 🇺🇸US美国13 679.0KB/s
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇺🇸US美国20 230.4KB/s
-      - 🇹🇼TW台湾6 157.8KB/s
-      - 🇺🇸US美国23 17.5MB/s
+      - 🇸🇬SG新加坡 220.5KB/s
+      - 🇺🇸US美国 11.7MB/s
+      - 🇺🇸US美国8 3.4MB/s
+      - 🇸🇬SG新加坡5 221.6KB/s
+      - 🇧🇬BG保加利亚 189.9KB/s
+      - 🇨🇷CR哥斯达黎加 4.3MB/s
 
 
 rules:
