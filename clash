@@ -2,9 +2,9 @@
 ####################################
 # 创建者：https://github.com/ts-sf/fly
 # 客户端：Clash
-# 创建时间：2024-01-29 09:30:57
+# 创建时间：2024-02-01 00:30:28
 # 使用模版：V2RaySE 默认模版
-# 节点数量：6
+# 节点数量：7
 ####################################
 #
 mixed-port: 7890
@@ -12,12 +12,13 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇺🇦UA乌克兰 67.9KB/s","type":"vmess","server":"be1-vmess.sshmax.xyz","port":80,"cipher":"auto","uuid":"38df59ec-30e2-45e9-86c7-5a58667e6994","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess"}}
-  - {"name":"🇵🇱PL波兰 12.2MB/s","type":"ss","server":"37.252.10.45","port":47580,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"bzlLrRCRHdXp4SSL0voHBS","skip-cert-verify":true}
-  - {"name":"🇹🇼TW台湾4 50.7KB/s","type":"vmess","server":"b23.ntbq.dynu.net","port":2024,"cipher":"auto","uuid":"38ff99d8-dbaf-430a-867e-200b89f4c70a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US美国8 18.8MB/s","type":"ss","server":"java.ct.arvancode.eu.Org","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"W74XFALLLuw6m5IA","skip-cert-verify":true}
-  - {"name":"🇹🇼TW台湾7 237.6KB/s","type":"vmess","server":"114.37.139.157","port":2024,"cipher":"auto","uuid":"38ff99d8-dbaf-430a-867e-200b89f4c70a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US美国21 18.0MB/s","type":"ss","server":"series-a2-mec.samanehha.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"u17T3BvpYaaiuW2c","skip-cert-verify":true}
+  - {"name":"🇺🇦UA乌克兰 46.8KB/s","type":"vmess","server":"be1-vmess.sshmax.xyz","port":80,"cipher":"auto","uuid":"38df59ec-30e2-45e9-86c7-5a58667e6994","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess"}}
+  - {"name":"🇸🇬SG新加坡2 50.8KB/s","type":"vmess","server":"si4co.09vpn.com","port":80,"cipher":"auto","uuid":"034f7e88-561a-4fb9-b917-4ab3343b6755","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"si4co.09vpn.com"}}}
+  - {"name":"🇬🇧GB英国2 134.8KB/s","type":"ss","server":"51.142.177.91","port":27907,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"jOwiIELioYqQsb1lYlBiNl","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国19 21.3MB/s","type":"ss","server":"series-a2-mec.samanehha.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"u17T3BvpYaaiuW2c","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡5 126.1KB/s","type":"vmess","server":"194.233.95.180","port":80,"cipher":"auto","uuid":"034f7e88-561a-4fb9-b917-4ab3343b6755","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"194.233.95.180"}}}
+  - {"name":"🇺🇸US美国24 17.7MB/s","type":"ss","server":"18.171.89.221","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"u17T3BvpYaaiuW2c","skip-cert-verify":true}
+  - {"name":"🇹🇼TW台湾7 332.3KB/s","type":"vmess","server":"nb22.ntbq.dynu.net","port":12002,"cipher":"auto","uuid":"1d08abce-b0ad-4f5e-aa49-884d5f6690f8","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -25,12 +26,13 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇦UA乌克兰 67.9KB/s
-      - 🇵🇱PL波兰 12.2MB/s
-      - 🇹🇼TW台湾4 50.7KB/s
-      - 🇺🇸US美国8 18.8MB/s
-      - 🇹🇼TW台湾7 237.6KB/s
-      - 🇺🇸US美国21 18.0MB/s
+      - 🇺🇦UA乌克兰 46.8KB/s
+      - 🇸🇬SG新加坡2 50.8KB/s
+      - 🇬🇧GB英国2 134.8KB/s
+      - 🇺🇸US美国19 21.3MB/s
+      - 🇸🇬SG新加坡5 126.1KB/s
+      - 🇺🇸US美国24 17.7MB/s
+      - 🇹🇼TW台湾7 332.3KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -38,12 +40,13 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇦UA乌克兰 67.9KB/s
-      - 🇵🇱PL波兰 12.2MB/s
-      - 🇹🇼TW台湾4 50.7KB/s
-      - 🇺🇸US美国8 18.8MB/s
-      - 🇹🇼TW台湾7 237.6KB/s
-      - 🇺🇸US美国21 18.0MB/s
+      - 🇺🇦UA乌克兰 46.8KB/s
+      - 🇸🇬SG新加坡2 50.8KB/s
+      - 🇬🇧GB英国2 134.8KB/s
+      - 🇺🇸US美国19 21.3MB/s
+      - 🇸🇬SG新加坡5 126.1KB/s
+      - 🇺🇸US美国24 17.7MB/s
+      - 🇹🇼TW台湾7 332.3KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -51,48 +54,52 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇦UA乌克兰 67.9KB/s
-      - 🇵🇱PL波兰 12.2MB/s
-      - 🇹🇼TW台湾4 50.7KB/s
-      - 🇺🇸US美国8 18.8MB/s
-      - 🇹🇼TW台湾7 237.6KB/s
-      - 🇺🇸US美国21 18.0MB/s
+      - 🇺🇦UA乌克兰 46.8KB/s
+      - 🇸🇬SG新加坡2 50.8KB/s
+      - 🇬🇧GB英国2 134.8KB/s
+      - 🇺🇸US美国19 21.3MB/s
+      - 🇸🇬SG新加坡5 126.1KB/s
+      - 🇺🇸US美国24 17.7MB/s
+      - 🇹🇼TW台湾7 332.3KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇦UA乌克兰 67.9KB/s
-      - 🇵🇱PL波兰 12.2MB/s
-      - 🇹🇼TW台湾4 50.7KB/s
-      - 🇺🇸US美国8 18.8MB/s
-      - 🇹🇼TW台湾7 237.6KB/s
-      - 🇺🇸US美国21 18.0MB/s
+      - 🇺🇦UA乌克兰 46.8KB/s
+      - 🇸🇬SG新加坡2 50.8KB/s
+      - 🇬🇧GB英国2 134.8KB/s
+      - 🇺🇸US美国19 21.3MB/s
+      - 🇸🇬SG新加坡5 126.1KB/s
+      - 🇺🇸US美国24 17.7MB/s
+      - 🇹🇼TW台湾7 332.3KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇦UA乌克兰 67.9KB/s
-      - 🇵🇱PL波兰 12.2MB/s
-      - 🇹🇼TW台湾4 50.7KB/s
-      - 🇺🇸US美国8 18.8MB/s
-      - 🇹🇼TW台湾7 237.6KB/s
-      - 🇺🇸US美国21 18.0MB/s
+      - 🇺🇦UA乌克兰 46.8KB/s
+      - 🇸🇬SG新加坡2 50.8KB/s
+      - 🇬🇧GB英国2 134.8KB/s
+      - 🇺🇸US美国19 21.3MB/s
+      - 🇸🇬SG新加坡5 126.1KB/s
+      - 🇺🇸US美国24 17.7MB/s
+      - 🇹🇼TW台湾7 332.3KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇦UA乌克兰 67.9KB/s
-      - 🇵🇱PL波兰 12.2MB/s
-      - 🇹🇼TW台湾4 50.7KB/s
-      - 🇺🇸US美国8 18.8MB/s
-      - 🇹🇼TW台湾7 237.6KB/s
-      - 🇺🇸US美国21 18.0MB/s
+      - 🇺🇦UA乌克兰 46.8KB/s
+      - 🇸🇬SG新加坡2 50.8KB/s
+      - 🇬🇧GB英国2 134.8KB/s
+      - 🇺🇸US美国19 21.3MB/s
+      - 🇸🇬SG新加坡5 126.1KB/s
+      - 🇺🇸US美国24 17.7MB/s
+      - 🇹🇼TW台湾7 332.3KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -116,12 +123,13 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇦UA乌克兰 67.9KB/s
-      - 🇵🇱PL波兰 12.2MB/s
-      - 🇹🇼TW台湾4 50.7KB/s
-      - 🇺🇸US美国8 18.8MB/s
-      - 🇹🇼TW台湾7 237.6KB/s
-      - 🇺🇸US美国21 18.0MB/s
+      - 🇺🇦UA乌克兰 46.8KB/s
+      - 🇸🇬SG新加坡2 50.8KB/s
+      - 🇬🇧GB英国2 134.8KB/s
+      - 🇺🇸US美国19 21.3MB/s
+      - 🇸🇬SG新加坡5 126.1KB/s
+      - 🇺🇸US美国24 17.7MB/s
+      - 🇹🇼TW台湾7 332.3KB/s
 
 
 rules:
