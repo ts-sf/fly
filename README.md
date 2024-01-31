@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://bd23a31e-7a2c-4065-8ca4-cd2d5d2bf5ba@pqawsjp3.aiopen.cfd:443?security=tls&headerType=none&type=tcp&sni=18-140-66-207.nhost.00cdn.com&host=#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiI2NC4zMi40LjUzIiwicG9ydCI6IjQzNTU2IiwiaWQiOiI4NjUzMDA0Zi1kZTY3LTQ0YzItOWNjZS1lMDgzMDkzM2ZiMDMiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMiLCJhZGQiOiIxNDIuNC4xMTAuMTciLCJwb3J0IjoiNDQzIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Ind3dy40NDcxNjc2Ni54eXoiLCJwYXRoIjoiL3BhdGgvMTY5MTY2NDEzNjg1OCIsInRscyI6InRscyIsInNuaSI6Ind3dy40NDcxNjc2Ni54eXoiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTMifQ==
-trojan://2e724af9-64f0-353b-8a68-d5a9223b08b1@t-06.outrdp.xyz:14002?security=tls&headerType=none&type=tcp&sni=ip2648428075.mobgslb.tbcache.com&host=#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6xTR+aWsOWKoOWdoSIsImFkZCI6InNpNGNvLjA5dnBuLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiMDM0ZjdlODgtNTYxYS00ZmI5LWI5MTctNGFiMzM0M2I2NzU1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InNpNGNvLjA5dnBuLmNvbSIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoic2k0Y28uMDl2cG4uY29tIiwidGVzdF9uYW1lIjoiU0fmlrDliqDlnaEifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSIsImFkZCI6InR1cmttZW5pc3Rhbi5lZG5vdmFzLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6ImU0YzlkYzQ4LWY5ZGMtNGQ5Yi05MzE4LWEzOTMzZDExMzczNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70ifQ==
+trojan://bd23a31e-7a2c-4065-8ca4-cd2d5d2bf5ba@gsawsjp1.aiopen.cfd:443?security=tls&headerType=none&type=tcp&sni=18-140-66-207.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6xTR+aWsOWKoOWdoSIsImFkZCI6Ijg0c2cuZnI5OWt0LnRvcCIsInBvcnQiOiI4MCIsImlkIjoiYWQxM2Y1NzQtZjZiNy00MjdlLWJiMjktMjI0YTA3YzU2ZDEwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Ijg0c2cuZnI5OWt0LnRvcCIsInBhdGgiOiIvcmRnIiwidGxzIjoidGxzIiwic25pIjoiIiwidGVzdF9uYW1lIjoiU0fmlrDliqDlnaEifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh6ZVQeS5jOWFi+WFsCA0MS42S0IvcyIsImFkZCI6ImJlMS12bWVzcy5zc2htYXgueHl6IiwicG9ydCI6IjgwIiwiaWQiOiIzOGRmNTllYy0zMGUyLTQ1ZTktODZjNy01YTU4NjY3ZTY5OTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVB5LmM5YWL5YWwIn0=
+trojan://bd23a31e-7a2c-4065-8ca4-cd2d5d2bf5ba@pqawsjp3.aiopen.cfd:443?security=tls&headerType=none&type=tcp&sni=18-140-66-207.nhost.00cdn.com&host=#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
