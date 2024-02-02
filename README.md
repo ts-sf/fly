@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIgOTkuOU1CL3MiLCJhZGQiOiJzZXJ2ZXIyMS5iZWhlc2h0YmFuZWguY29tIiwicG9ydCI6Ijg4ODAiLCJpZCI6IjExY2QyYjkzLWExMDItNDlhMi05N2JlLTI3YzMzYzc0MzYxOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzZXJ2ZXIyMS5iZWhlc2h0YmFuZWguY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%2019.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD2%2020.7MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTcgMjg3LjlNQi9zIiwiYWRkIjoic2VydmVyMTIuYmVoZXNodGJhbmVoLmNvbSIsInBvcnQiOiI4ODgwIiwiaWQiOiIzOWMwM2U2ZC05ZWZkLTRlNWEtODg1MS1jZDRlZDBlYzMwM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoic2VydmVyMTIuYmVoZXNodGJhbmVoLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm703In0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCNUpvUHJpdFVsQ2J1Rm9QempwSHVS@77.246.106.242:10220#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%2064.6KB%2Fs
+trojan://telegram-id-privatevpns@18.156.123.121:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%20614.7KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMDBkYTdiNi0zNjZiLTRjZDctOWQ2NS02ZmQxNWEzMmMwOWU=@168.138.192.22:21853#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%208.4MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTUgMTIuME1CL3MiLCJhZGQiOiJ3d3cuY3Jpc3B5cmFpbmJvdy5iaXoiLCJwb3J0IjoiODA4MCIsImlkIjoiMjI4MjZiNDQtNWMxYS00YjRiLWRiYWEtODNhMmU4YmQ5NWYwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Ind3dy5jcmlzcHlyYWluYm93LmJpeiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm701In0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTYgMzUuMk1CL3MiLCJhZGQiOiJzZXJ2ZXIxMi5iZWhlc2h0YmFuZWguY29tIiwicG9ydCI6Ijg4ODAiLCJpZCI6IjM5YzAzZTZkLTllZmQtNGU1YS04ODUxLWNkNGVkMGVjMzAzYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzZXJ2ZXIxMi5iZWhlc2h0YmFuZWguY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTYifQ==
+trojan://telegram-id-directvpn@18.153.220.196:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%204.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
