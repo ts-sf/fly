@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://telegram-id-directvpn@18.134.216.106:22222?sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEaVBpZXR5b3J5@129.232.129.156:444#%F0%9F%87%BF%F0%9F%87%A6ZA%E5%8D%97%E9%9D%9E
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7PljJfkuqwiLCJhZGQiOiJnei5kYXh1bi5jeW91IiwicG9ydCI6IjI2MDQwIiwiaWQiOiJhYzU4NTJkZi04Y2FmLTRkODYtOGM3Ny05M2E3MDkyZjY2ZjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiLwn4eo8J+Hs+WMl+S6rCJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCNUpvUHJpdFVsQ2J1Rm9QempwSHVS@77.246.106.242:10220#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%2047.2KB%2Fs
-trojan://telegram-id-directvpn@13.42.90.205:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?security=tls&type=grpc&sni=hdfy7c1.foriran2.eu.org#%F0%9F%87%A7%F0%9F%87%B7BR%E5%B7%B4%E8%A5%BF
+trojan://telegram-id-privatevpns@13.42.93.180:22222?sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.175:5001#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8%20933.4KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMgMjcuMk1CL3MiLCJhZGQiOiJ3d3cuYmx1ZWJlcnJ5d2luZG93Lm9ubGluZSIsInBvcnQiOiI4MDgwIiwiaWQiOiIyMjgyNmI0NC01YzFhLTRiNGItZGJhYS04M2EyZThiZDk1ZjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoid3d3LmJsdWViZXJyeXdpbmRvdy5vbmxpbmUiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MyJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTQiLCJhZGQiOiIxMDQuMjAuMjMxLjMwIiwicG9ydCI6IjgwIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJteTEudG9vdGVycy5pciIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm700In0=
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
