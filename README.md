@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-trojan://telegram-id-privatevpns@35.176.160.224:22222?sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%2018.5MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTQgMjguNU1CL3MiLCJhZGQiOiJzZXJ2ZXIzMi5iZWhlc2h0YmFuZWguY29tIiwicG9ydCI6Ijg4ODAiLCJpZCI6IjA0NGJhOGVkLTcyODUtNDcyYS1iYzE0LWZiOTFkYzZiZTRjOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzZXJ2ZXIzMi5iZWhlc2h0YmFuZWguY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTQifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll.fast2rayy.eu.org:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6%2017.7MB%2Fs
-trojan://telegram-id-privatevpns@52.48.185.151:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0%2027.2MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9%2020.0MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTQgMjA4LjhNQi9zIiwiYWRkIjoic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsInBvcnQiOiI4ODgwIiwiaWQiOiI0MTU0MTQzYy1iYmJhLTQ3YTQtOWY3OS1jMmVkMDg3Y2JjYzkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTQifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%20730.6KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13%201.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14%20780.7KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.Org:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD16%20835.0KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
