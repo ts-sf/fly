@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiIxMDQuMTcuMjUuMSIsInBvcnQiOiI4MCIsImlkIjoiMTEzYTc0Y2MtZjEzYi00OGVjLWJiYjItMmJiYWI3N2EyZjM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImtyMS5sanl5ZHMudG9wIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.Org:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://telegram-id-privatevpns@13.48.90.61:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8%209.6MB%2Fs
-trojan://telegram-id-privatevpns@34.242.85.206:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0
-trojan://1cFrOAV2JraM@3.112.130.191:14394?sni=www.myethblog.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWG0xRW1LTzBBYWloMDlndHZyMllE@77.105.137.68:10409#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%20505.8KB%2Fs
+trojan://telegram-id-privatevpns@13.43.201.120:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://7b4066ae-accc-11eb-a8bf-f23c91cfbbc9@114.43.137.175:443?security=tls&type=tcp&sni=7833edd1-s8usg0-0-zzkl.tw3.p5pv.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
+trojan://telegram-id-privatevpns@35.177.238.121:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://83e91a7f-c8cb-450b-827d-eaaa1d7a380d@172.105.169.229:443?#%F0%9F%87%A6%F0%9F%87%BAAU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
