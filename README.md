@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWG0xRW1LTzBBYWloMDlndHZyMllE@77.105.137.68:10409#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%20505.8KB%2Fs
-trojan://telegram-id-privatevpns@13.43.201.120:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://7b4066ae-accc-11eb-a8bf-f23c91cfbbc9@114.43.137.175:443?security=tls&type=tcp&sni=7833edd1-s8usg0-0-zzkl.tw3.p5pv.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
-trojan://telegram-id-privatevpns@35.177.238.121:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://83e91a7f-c8cb-450b-827d-eaaa1d7a380d@172.105.169.229:443?#%F0%9F%87%A6%F0%9F%87%BAAU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5
+trojan://1d8c486933c3147@172.67.196.179:2053?security=tls&type=grpc&sni=moldavi.followerarzon.ir#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://2K77i4ks5t4K@43.202.5.246:15403?sni=www.myethblog.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://v2ray_best_iran@104.21.69.44:443?security=tls&type=grpc&sni=bestshop.melony.pics#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjM1YmM4Ni1kMjI2LTRkZDAtOGY0Yy03MDhmMjMwNzdkMjQ=@yd.qianggewangluo.buzz:10817#%F0%9F%87%A8%F0%9F%87%B3%E7%94%98%E8%82%83
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
