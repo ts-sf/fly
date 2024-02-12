@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@18.132.156.103:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%2018.7MB%2Fs
-trojan://telegram-id-directvpn@18.211.250.165:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%20169.9MB%2Fs
-trojan://telegram-id-directvpn@51.21.138.143:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%209.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ajllTFpmeXJpUUxaNnhSbEg0dnR5@64.176.68.44:28116#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7%20305.7KB%2Fs
-trojan://telegram-id-directvpn@52.50.199.116:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0%2024.4MB%2Fs
+trojan://telegram-id-privatevpns@3.79.224.76:22222?sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%20388.6KB%2Fs
+trojan://telegram-id-privatevpns@13.36.113.48:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%206.9MB%2Fs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%201.7MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTYgMy43TUIvcyIsImFkZCI6ImRlMDQuaGFqaW1paGFqaW1paGFqaW1pLm9ubGluZSIsInBvcnQiOiI4MCIsImlkIjoiMjJiNTAyYTQtMDg4Ni00Yzk3LTk1MzgtNDlmYWEyM2QyOTEyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImRlMDQuaGFqaW1paGFqaW1paGFqaW1pLm9ubGluZSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm702In0=
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.175:7307#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B82%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
