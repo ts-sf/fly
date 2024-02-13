@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll.fast2rayy.eu.org:443#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%2015.6MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7VKUOaXpeacrDMgNi40TUIvcyIsImFkZCI6ImZhc3RseS5hbGlwYXkub3ZoIiwicG9ydCI6IjgwIiwiaWQiOiI2NmNjYjExZi03NWE3LTQyODItOGE2MC0zMWZlZDQ0NzQwMWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoibm1zbC5rcCIsInBhdGgiOiIvYXJpZXM/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkpQ5pel5pysMyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRUWY5c1RuMHo3aVlSZDFTWk55dlFt@188.166.229.30:80#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%20763.1KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@Fast_2ray_Telchannelll.fast2rayy.eu.org:443#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD2%2019.6MB%2Fs
-ss://YWVzLTI1Ni1nY206elV4c1Iyb2JWMVVmdVlhYg==@213.109.192.213:45771#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%201.3MB%2Fs
+trojan://telegram-id-directvpn@99.79.90.187:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%2019.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD2%2011.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUkJSV3d6ZWtSSFNqaW9FWEZ4a292@52.142.190.10:59784#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6%2014.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@13.41.61.34:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%2014.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%209.5MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
