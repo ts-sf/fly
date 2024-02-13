@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://8d0de334-c1a0-44ab-9362-e7916c0d268d@104.19.155.92:443?security=tls&type=ws&sni=sshhiddifyc1.cpionline.cc&path=/u5ht27KSp8j3Z2QIPbkyFm3I&host=sshhiddifyc1.cpionline.cc#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@Fast_2ray_Telchannelll.fast2rayy.eu.org:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%2011.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20005#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
-trojan://Pnm1gD9E4WJF@52.56.69.180:13402?sni=www.myethblog.com#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#%F0%9F%87%B5%F0%9F%87%B1PL%E6%B3%A2%E5%85%B0%2019.5KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh7dCUuW3tOilvyIsImFkZCI6IjE4OC4xMTQuOTYuMTEiLCJwb3J0IjoiODAiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJhLnByYXB0NS5pciIsInBhdGgiOiIvP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJCUuW3tOilvyJ9
+trojan://telegram-id-privatevpns@99.81.49.218:22222?sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0%2023.3MB%2Fs
+trojan://telegram-id-directvpn@3.135.113.230:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://telegram-id-directvpn@3.98.63.128:22222?type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%20102.6MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
