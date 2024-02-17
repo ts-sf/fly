@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUdXJib29TZXJ2ZXI9@13.38.232.50:2095#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzcwYTY2Mi02MWRiLTQwZWQtYTE3Yy03ODNlNTIxMDg0Y2U=@service.ouluyun9803.com:26601#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C2
-trojan://mainssh-Gftgfvy@172.66.128.32:443?security=tls&type=ws&sni=catws.mainssh.xyz&path=/trojan&host=catws.mainssh.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMiLCJhZGQiOiIxMzEuMTg2LjYzLjEyNyIsInBvcnQiOiI4MCIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im15MS50b290ZXJzLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTMifQ==
-trojan://telegram-id-directvpn@3.68.130.62:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://telegram-id-directvpn@3.122.46.247:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD%20607.9KB%2Fs
+trojan://7b4066ae-accc-11eb-a8bf-f23c91cfbbc9@114.43.164.30:443?security=tls&type=tcp&sni=afe1c869-s99ls0-0-zzkl.tw3.p5pv.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE%20142.0KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSIsImFkZCI6IjEzMS4xODYuNjMuMTI3IiwicG9ydCI6IjgwIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibXkxLnRvb3RlcnMuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9In0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7VKUOaXpeacrCIsImFkZCI6IjE0MS4xNDcuMTgxLjE0OCIsInBvcnQiOiI4MCIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im15MS50b290ZXJzLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJKUOaXpeacrCJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzcwYTY2Mi02MWRiLTQwZWQtYTE3Yy03ODNlNTIxMDg0Y2U=@service.ouluyun9803.com:20009#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
