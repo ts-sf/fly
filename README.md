@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@104.21.14.95:443?security=tls&type=ws&sni=rsfndc1.cpionline.us&path=/3D8U0cLhe2MGwH9c1eh1994&host=rsfndc1.cpionline.us#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%207.3MB%2Fs
-trojan://telegram-id-directvpn@18.132.75.206:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%208.8MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMiLCJhZGQiOiJmYXN0bHkuY29tIiwicG9ydCI6IjgwIiwiaWQiOiI2NmNjYjExZi03NWE3LTQyODItOGE2MC0zMWZlZDQ0NzQwMWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoibm1zbC5rcCIsInBhdGgiOiIvYXJpZXM/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MyJ9
-trojan://8d0de334-c1a0-44ab-9362-e7916c0d268d@172.67.68.79:443?security=tls&type=grpc&sni=sshhiddifyc1.cpionline.cc#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%2016.0MB%2Fs
+trojan://telegram-id-directvpn@52.0.207.84:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+ss://YWVzLTI1Ni1nY206NjU1OWY1N2QtMWVhNS00ZWQxLTg4YzUtYzQ4ODVmOWFlZWM4@144.22.219.219:7703#%F0%9F%87%A8%F0%9F%87%B7CR%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0%206.2MB%2Fs
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@13.43.191.243:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
