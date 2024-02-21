@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%205.9MB%2Fs
-trojan://telegram-id-privatevpns@35.177.101.255:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%203.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSmdQaHBCRjN3RW95M0g1Q3hYeVVT@51.143.138.80:64507#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5%20663.7KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.Org:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6%205.7MB%2Fs
-trojan://telegram-id-directvpn@16.170.17.237:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7%201.9MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMgMTAuOU1CL3MiLCJhZGQiOiJ3d3cueXdub3V2YmFsZS5iaXoiLCJwb3J0IjoiODA4MCIsImlkIjoiMjI4MjZiNDQtNWMxYS00YjRiLWRiYWEtODNhMmU4YmQ5NWYwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Ind3dy55d25vdXZiYWxlLmJpeiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70zIn0=
+trojan://telegram-id-privatevpns@18.193.218.215:22222?sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%2010.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@wxwctxxx.arvancode.eu.org:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9%2012.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%201.3MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+WMl+e+jiA4LjRNQi9zIiwiYWRkIjoiMjMuMTM3LjI0OC40NyIsInBvcnQiOiI4MDgwIiwiaWQiOiJjNjVkZDIyNy04NmJiLTU4NTQtYmRmNy01NGM5YzE2YWNkYjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+WMl+e+jiJ9
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
