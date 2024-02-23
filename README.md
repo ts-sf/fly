@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://nHIU4VnyKYSV@18.181.166.69:15416?sni=www.myethblog.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSIsImFkZCI6IjE2Mi4xNTkuMTM2LjI1MyIsInBvcnQiOiI4MDgwIiwiaWQiOiJhZGU3M2U2Mi03NTU0LTQwYTgtOTMxNC0xOTVhMzcyYmFlMjgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoieGVudGFpbi5rbW9samtsai50b3AiLCJwYXRoIjoiLzdiRmNvUlpTP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZmExN2EwZC01ZTdkLTQ4NzEtOTc2ZS1mMTE2ZTA4MTgxMjM=@service.ouluyun9803.com:21004#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
+trojan://R9R1pnUXz7EG@35.177.43.8:16663?sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 trojan://8n2KOKmyfS@95.216.199.148:443?security=tls&type=ws&sni=dl.richmondvaaadom.org&path=/CDN?ed=2048&host=dl.richmondvaaadom.org#%F0%9F%87%AB%F0%9F%87%AEFI%E8%8A%AC%E5%85%B0
-trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.62.22:443?security=tls&type=tcp&sni=lienquan.garena.vn#%E6%9C%AA%E7%9F%A5
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIgOS4zTUIvcyIsImFkZCI6IjE1MS4xMDEuNjUuNTciLCJwb3J0IjoiODAiLCJpZCI6IjY2Y2NiMTFmLTc1YTctNDI4Mi04YTYwLTMxZmVkNDQ3NDAxZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJubXNsLmtwIiwicGF0aCI6Ii9hcmllcz9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70yIn0=
-trojan://ZaCvxGSYd6o9@52.221.223.41:16390?sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://telegram-id-privatevpns@13.37.209.91:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
