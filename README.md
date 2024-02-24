@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.10:8080#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%2014.7MB%2Fs
-trojan://telegram-id-privatevpns@3.10.121.127:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%2019.7MB%2Fs
-trojan://telegram-id-directvpn@15.157.171.188:22222?sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9%2099.0MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2%2017.9MB%2Fs
-trojan://nceaoxq5yKPi@18.143.101.108:12430?sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13%20547.4KB%2Fs
+trojan://YsvBebQ08Mzi@35.91.132.65:12909?sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%20200.3KB%2Fs
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6679#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD3%201.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@13.42.128.254:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12%201.3MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
