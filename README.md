@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206ODllMTk2YTktZDIwNC00MzY2LTkwZjItMDI3NmNkMTU4Yzdl@144.22.197.64:7702#%F0%9F%87%A8%F0%9F%87%B7CR%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0%201.6MB%2Fs
-trojan://kA0nteyLpkQr@13.212.25.226:16419?sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZmExN2EwZC01ZTdkLTQ4NzEtOTc2ZS1mMTE2ZTA4MTgxMjM=@service.ouluyun9803.com:26668#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
-trojan://f85e2ad7-3e26-4589-b478-b0b15b9b5907@172.67.193.36:2087?type=grpc&sni=us1.trojanvpn.de#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://3e8cIWRAiY96@3.88.47.243:16418?sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.Org:443#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%202.1MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSAxMDYuN0tCL3MiLCJhZGQiOiIxMDQuMTcuMTIzLjU1IiwicG9ydCI6IjgwODAiLCJpZCI6IjFkNDcyODhhLTY5OWQtNDVjYS1iNGYwLTRlNWIzNjk0MGU2ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJwcS5rbW9samtsai50b3AiLCJwYXRoIjoiL3FaVHRweWE/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9In0=
+trojan://180c7f40-c29e-445d-8056-ae92f3b451d7@95.164.114.43:443?security=tls&type=tcp&sni=kz-full.privateip.net#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0%20141.5KB%2Fs
+trojan://W7pN3J7FPpK1@3.226.241.106:16891?sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://telegram-id-privatevpns@54.155.110.154:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
