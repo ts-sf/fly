@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://c38059a9-02f4-436c-891e-3818cd601e5a@95.164.116.35:443?#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B02
-trojan://telegram-id-directvpn@54.195.100.55:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0
-trojan://HwaM5Ne4DreN@18.134.248.110:14645?sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://Fr2UYrUuSRG9@34.218.78.89:14905?sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%20724.6KB%2Fs
-trojan://180c7f40-c29e-445d-8056-ae92f3b451d7@95.164.114.43:443?security=tls&type=tcp&sni=kz-full.privateip.net#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B03
+trojan://telegram-id-directvpn@3.124.139.184:22222?sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiIxNzIuNjcuMjUzLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im15MS50b290ZXJzLmlyIiwicGF0aCI6Ii8/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.Org:443#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%2021.4MB%2Fs
+trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@172.67.81.238:443?security=tls&type=ws&sni=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL&host=hdfy4c6.freelines.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://e8105dfd24414268b6c7652c63731097@104.16.192.155:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=6b777a91&host=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
