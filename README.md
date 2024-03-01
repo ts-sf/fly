@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://telegram-id-directvpn@13.53.108.149:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZmExN2EwZC01ZTdkLTQ4NzEtOTc2ZS1mMTE2ZTA4MTgxMjM=@service.ouluyun9803.com:20009#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVUt5TzI5am9yOFFaa3FOSDRJR05s@51.143.138.158:30837#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh7dCUuW3tOilvyIsImFkZCI6IjE4OC4xMTQuOTYuMTEzIiwicG9ydCI6IjgwIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYS5wcmFwdDQuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkJS5be06KW/In0=
-trojan://e8105dfd24414268b6c7652c63731097@104.16.192.155:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=6b777a91&host=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%20786.0KB%2Fs
+trojan://telegram-id-privatevpns@54.75.39.6:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0%20627.9KB%2Fs
+trojan://6a7f8f96-d8cb-41b9-a39b-dcc9e6981412@172.67.132.6:2096?security=tls&type=grpc&sni=channel.v2bamdad.tech&path=lK1wclmJRbMxj4FxIzvwxUDoX&host=channel.v2bamdad.tech#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?sni=data.steamdownload.top#%F0%9F%87%A8%F0%9F%87%B3%E6%B1%9F%E8%8B%8F
+trojan://e2486b91-71a6-421b-9d53-3c080fb0edb8@es-full.privateip.net:443?#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0%20291.7KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
