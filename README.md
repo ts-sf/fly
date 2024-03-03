@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://telegram-id-directvpn@107.22.239.101:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5
-trojan://645f0af0-dec8-48db-862f-82b6346408b4@114.45.76.8:18912?security=tls&type=tcp&sni=ty12t.twty.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@35.177.59.105:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%205.2MB%2Fs
-trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@95.164.114.43:443?#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0
+trojan://telegram-id-privatevpns@54.74.172.115:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0%2016.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxOUd6QVRXM1RWQ2NTN29heE81cEFp@52.178.196.119:3214#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://7c252929-6ac0-4681-a835-e52af701f151@b12.ntbq.dynu.net:9755?security=tls&sni=b12.ntbq.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE%20623.2KB%2Fs
+trojan://3d926991-4815-4dd9-aabe-42e8a56b27c4@b24.ntbq.dynu.net:3271?security=tls&sni=b24.ntbq.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2%20147.4KB%2Fs
+trojan://telegram-id-privatevpns@51.44.30.166:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
