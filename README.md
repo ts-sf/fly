@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-trojan://telegram-id-privatevpns@13.48.39.210:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8%2061.0KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMgMjkuOEtCL3MiLCJhZGQiOiIxNjIuMTU5LjEzNi4yNTMiLCJwb3J0IjoiODA4MCIsImlkIjoiYWRlNzNlNjItNzU1NC00MGE4LTkzMTQtMTk1YTM3MmJhZTI4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InhlbnRhaW4ua21vbGprbGoudG9wIiwicGF0aCI6Ii83YkZjb1JaUz9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70zIn0=
-trojan://telegram-id-privatevpns@18.169.148.45:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7%204.5MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTggMTMuNE1CL3MiLCJhZGQiOiJ1czY1Lm5ldGZpbHgubGl2ZSIsInBvcnQiOiI4MCIsImlkIjoiNjBmMTI0MzUtYmI1NS00ZGEyLWNiN2QtNGZlYTM0ZWNmYTM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InVzNjUubmV0ZmlseC5saXZlIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTgifQ==
-trojan://645f0af0-dec8-48db-862f-82b6346408b4@ty11t.twty.dynu.net:13761?security=tls&sni=ty11t.twty.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE%203.9MB%2Fs
+trojan://645f0af0-dec8-48db-862f-82b6346408b4@ty11t.twty.dynu.net:13761?sni=ty11t.twty.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2%20229.4KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEaVBpZXR5b3J5@129.232.129.156:444#%F0%9F%87%BF%F0%9F%87%A6ZA%E5%8D%97%E9%9D%9E%20675.2KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%2020.7MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMgMzM2LjlLQi9zIiwiYWRkIjoiZGUtMDEuY2xvdWRsaW9uLm1lIiwicG9ydCI6IjgwODAiLCJpZCI6IjcwNjY2Nzc2LTRlOWYtNDM1MC1iM2YwLWFmYWZmNmE3MGRiMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MyJ9
+trojan://645f0af0-dec8-48db-862f-82b6346408b4@ty12t.twty.dynu.net:18912?security=tls&type=tcp&sni=ty12t.twty.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE3%20343.5KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
