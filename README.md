@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-trojan://351ec5ba-6dda-4716-aa52-1d6482071417@ty11t.twty.dynu.net:13761?sni=ty11t.twty.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE%20800.1KB%2Fs
-trojan://e2486b91-71a6-421b-9d53-3c080fb0edb8@es-full.privateip.net:443?#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0%201.2MB%2Fs
-trojan://31583130-de1f-44ce-a433-1dbb108e1846@it-full.privateip.net:443?#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B02%201.5MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7%202.9MB%2Fs
-trojan://351ec5ba-6dda-4716-aa52-1d6482071417@b22.ntbq.dynu.net:19489?security=tls&sni=b22.ntbq.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%201.8MB%2Fs
+trojan://telegram-id-privatevpns@18.198.193.55:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%2021.9KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7dGUuazleWbvTIgMTguMktCL3MiLCJhZGQiOiI5NC4xNDAuMC4xMTAiLCJwb3J0IjoiODg4MCIsImlkIjoiMGQxYmYyNmEtY2U5Ny00NzA3LWEyNzAtN2Y0ZDJhZTM3MzM0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImZvb2QuemhhYWwuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkZS5rOV5Zu9MiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTUgMjczLjhLQi9zIiwiYWRkIjoiMTUxLjEwMS4zLjEwIiwicG9ydCI6IjgwIiwiaWQiOiIwNDFmMGQ1Yi1jNjQ3LTRhOGQtOGU0ZS1mYTdmMzUyNmE0OTAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibWlob3lvLmdvdi5rcCIsInBhdGgiOiIvYXJpZXM/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9NSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGZ2x0YnBtNmNEOWVIU0ZoS0k2bWFD@45.89.52.197:32058#%E6%9C%AA%E7%9F%A52%202.2MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
