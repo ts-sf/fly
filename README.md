@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://351ec5ba-6dda-4716-aa52-1d6482071417@b22.ntbq.dynu.net:19489?security=tls&sni=b22.ntbq.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%201.8MB%2Fs
-trojan://telegram-id-privatevpns@52.29.182.16:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@104.25.255.254:443?security=tls&type=grpc&sni=hdfy8c1.foriran.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYjJnRkhrbXBkU2FSSEJxTjlGTWVF@vienna.telegavpn.com:61992#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%202.3MB%2Fs
+trojan://telegram-id-privatevpns@15.236.72.224:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%20603.5KB%2Fs
+trojan://telegram-id-directvpn@15.156.151.14:22222?sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%2020.7MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTQiLCJhZGQiOiJjZi5vcGVueGFpLmxpbmsiLCJwb3J0IjoiODA4MCIsImlkIjoiYzE4YmViODUtYzY3Yi00NmVkLWI4Y2MtNGNiZmVhZTVmMTk0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImV1MS5vcGVueGFpLmxpbmsiLCJwYXRoIjoiLz9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm700In0=
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
