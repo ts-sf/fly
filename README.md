@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-trojan://telegram-id-directvpn@35.157.144.160:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD%2014.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTAxYzgyYzcyZDc5MGI4@119.23.104.213:8474#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C2%2010.5KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIgMzUuMEtCL3MiLCJhZGQiOiIxMDQuMTcuMTIzLjU1IiwicG9ydCI6IjgwODAiLCJpZCI6IjFkNDcyODhhLTY5OWQtNDVjYS1iNGYwLTRlNWIzNjk0MGU2ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJwcS5rbW9samtsai50b3AiLCJwYXRoIjoiL3FaVHRweWE/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MiJ9
-trojan://e9391493-54bf-4fff-b6c5-945dc7442971@112.120.127.194:443?sni=glc-hkt2.windowsupdatea.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF%20281.3KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.171.109.69:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7%2016.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWRm9PNmtoc3hqUkFrUnZObGVCMXNJ@52.178.198.18:56702#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%2025.4MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIgMjIuNktCL3MiLCJhZGQiOiIxNjIuMTU5LjEzNi4yNTMiLCJwb3J0IjoiODA4MCIsImlkIjoiYWRlNzNlNjItNzU1NC00MGE4LTkzMTQtMTk1YTM3MmJhZTI4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InhlbnRhaW4ua21vbGprbGoudG9wIiwicGF0aCI6Ii83YkZjb1JaUz9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70yIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.Org:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5%2019.6MB%2Fs
+trojan://telegram-id-directvpn@13.37.48.11:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6%2018.0MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTggMjEuM01CL3MiLCJhZGQiOiIxNzIuNjcuMTQzLjE5MiIsInBvcnQiOiI4MDgwIiwiaWQiOiIyMjgyNmI0NC01YzFhLTRiNGItZGJhYS04M2EyZThiZDk1ZjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoid3d3LnZlbHZldG1vdW50YWluLnNob3AiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9OCJ9
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
