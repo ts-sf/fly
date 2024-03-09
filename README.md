@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiJvbmVhLmZsaGEucnUiLCJwb3J0IjoiMjA1MiIsImlkIjoiODlkOGVmMzEtYWRlOS00YWNhLThmYmMtMWVkYmJhNmNkYTE2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im9uZWEuZmxoYS5ydSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70yIn0=
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMiLCJhZGQiOiJzMWMudjIudjAwMXNzcy54eXoiLCJwb3J0IjoiMjA4MiIsImlkIjoiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70zIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%2017.3MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTUiLCJhZGQiOiIxNzIuNjcuMjE0LjMzIiwicG9ydCI6IjIwNTIiLCJpZCI6Ijg5ZDhlZjMxLWFkZTktNGFjYS04ZmJjLTFlZGJiYTZjZGExNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJvbmVhLmZsaGEucnUiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9NSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD%201.3MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7hFU+ilv+ePreeJmSAxODguNktCL3MiLCJhZGQiOiI3Ny43NS4yMzAuMTI1IiwicG9ydCI6IjgwIiwiaWQiOiJkNDY2ZGQzNi04Yjg2LTQ4YjctYjBmMC02N2U3ZDEyOGRlNmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkVT6KW/54+t54mZIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIgMTAuNE1CL3MiLCJhZGQiOiIxMDQuMTcuMTIzLjU1IiwicG9ydCI6IjgwODAiLCJpZCI6IjFkNDcyODhhLTY5OWQtNDVjYS1iNGYwLTRlNWIzNjk0MGU2ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJwcS5rbW9samtsai50b3AiLCJwYXRoIjoiL3FaVHRweWE/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MiJ9
+trojan://telegram-id-directvpn@34.243.1.59:22222?security=tls&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
