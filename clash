@@ -2,9 +2,9 @@
 ####################################
 # 创建者：https://github.com/ts-sf/fly
 # 客户端：Clash
-# 创建时间：2024-03-11 16:30:10
+# 创建时间：2024-03-12 16:29:17
 # 使用模版：V2RaySE 默认模版
-# 节点数量：6
+# 节点数量：7
 ####################################
 #
 mixed-port: 7890
@@ -12,12 +12,13 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇫🇷FR法国 1.7MB/s","type":"ss","server":"149.202.82.172","port":8118,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
-  - {"name":"🇬🇧GB英国 1.2MB/s","type":"ss","server":"java.ct.arvancode.eu.org","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"W74XFALLLuw6m5IA","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国4 2.7MB/s","type":"trojan","server":"3.72.55.224","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.miwan.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇬🇧GB英国2 2.9MB/s","type":"ss","server":"series-a2.samanehha.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"mps3FwmDjLrWaOVg","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国13 86.6KB/s","type":"vmess","server":"172.67.130.140","port":2082,"cipher":"auto","uuid":"112ac36f-3f53-4e26-8371-d25c028e1b9a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"s1c.v2.v001sss.xyz"}}}
-  - {"name":"🇺🇸US美国19 2.7MB/s","type":"ss","server":"series-a2-me.varzesh360.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Bog0ELmMM9DSxDdQ","skip-cert-verify":true}
+  - {"name":"🇬🇧GB英国2 18.9MB/s","type":"ss","server":"51.140.62.236","port":48908,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"fX5GUUfWPfUVB0iYxMcBMy","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国7 253.7KB/s","type":"vmess","server":"104.21.63.52","port":80,"cipher":"auto","uuid":"60f12435-bb55-4da2-cb7d-4fea34ecfa37","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"us65.netfilx.live"}}}
+  - {"name":"🇺🇸US美国13 234.1KB/s","type":"vmess","server":"us65.netfilx.live","port":80,"cipher":"auto","uuid":"60f12435-bb55-4da2-cb7d-4fea34ecfa37","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"us65.netfilx.live"}}}
+  - {"name":"🇺🇸US美国18 16.1MB/s","type":"ss","server":"series-a2-me.varzesh360.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Bog0ELmMM9DSxDdQ","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国30 16.0MB/s","type":"ss","server":"series-a2.samanehha.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"mps3FwmDjLrWaOVg","skip-cert-verify":true}
+  - {"name":"🇸🇪SE瑞典 7.8MB/s","type":"trojan","server":"13.49.211.6","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.miwan.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"🇺🇸US美国39 1.6MB/s","type":"ss","server":"154.47.20.240","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -25,12 +26,13 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇬🇧GB英国 1.2MB/s
-      - 🇺🇸US美国4 2.7MB/s
-      - 🇬🇧GB英国2 2.9MB/s
-      - 🇺🇸US美国13 86.6KB/s
-      - 🇺🇸US美国19 2.7MB/s
+      - 🇬🇧GB英国2 18.9MB/s
+      - 🇺🇸US美国7 253.7KB/s
+      - 🇺🇸US美国13 234.1KB/s
+      - 🇺🇸US美国18 16.1MB/s
+      - 🇺🇸US美国30 16.0MB/s
+      - 🇸🇪SE瑞典 7.8MB/s
+      - 🇺🇸US美国39 1.6MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -38,12 +40,13 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇬🇧GB英国 1.2MB/s
-      - 🇺🇸US美国4 2.7MB/s
-      - 🇬🇧GB英国2 2.9MB/s
-      - 🇺🇸US美国13 86.6KB/s
-      - 🇺🇸US美国19 2.7MB/s
+      - 🇬🇧GB英国2 18.9MB/s
+      - 🇺🇸US美国7 253.7KB/s
+      - 🇺🇸US美国13 234.1KB/s
+      - 🇺🇸US美国18 16.1MB/s
+      - 🇺🇸US美国30 16.0MB/s
+      - 🇸🇪SE瑞典 7.8MB/s
+      - 🇺🇸US美国39 1.6MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -51,48 +54,52 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇬🇧GB英国 1.2MB/s
-      - 🇺🇸US美国4 2.7MB/s
-      - 🇬🇧GB英国2 2.9MB/s
-      - 🇺🇸US美国13 86.6KB/s
-      - 🇺🇸US美国19 2.7MB/s
+      - 🇬🇧GB英国2 18.9MB/s
+      - 🇺🇸US美国7 253.7KB/s
+      - 🇺🇸US美国13 234.1KB/s
+      - 🇺🇸US美国18 16.1MB/s
+      - 🇺🇸US美国30 16.0MB/s
+      - 🇸🇪SE瑞典 7.8MB/s
+      - 🇺🇸US美国39 1.6MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇬🇧GB英国 1.2MB/s
-      - 🇺🇸US美国4 2.7MB/s
-      - 🇬🇧GB英国2 2.9MB/s
-      - 🇺🇸US美国13 86.6KB/s
-      - 🇺🇸US美国19 2.7MB/s
+      - 🇬🇧GB英国2 18.9MB/s
+      - 🇺🇸US美国7 253.7KB/s
+      - 🇺🇸US美国13 234.1KB/s
+      - 🇺🇸US美国18 16.1MB/s
+      - 🇺🇸US美国30 16.0MB/s
+      - 🇸🇪SE瑞典 7.8MB/s
+      - 🇺🇸US美国39 1.6MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇬🇧GB英国 1.2MB/s
-      - 🇺🇸US美国4 2.7MB/s
-      - 🇬🇧GB英国2 2.9MB/s
-      - 🇺🇸US美国13 86.6KB/s
-      - 🇺🇸US美国19 2.7MB/s
+      - 🇬🇧GB英国2 18.9MB/s
+      - 🇺🇸US美国7 253.7KB/s
+      - 🇺🇸US美国13 234.1KB/s
+      - 🇺🇸US美国18 16.1MB/s
+      - 🇺🇸US美国30 16.0MB/s
+      - 🇸🇪SE瑞典 7.8MB/s
+      - 🇺🇸US美国39 1.6MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇬🇧GB英国 1.2MB/s
-      - 🇺🇸US美国4 2.7MB/s
-      - 🇬🇧GB英国2 2.9MB/s
-      - 🇺🇸US美国13 86.6KB/s
-      - 🇺🇸US美国19 2.7MB/s
+      - 🇬🇧GB英国2 18.9MB/s
+      - 🇺🇸US美国7 253.7KB/s
+      - 🇺🇸US美国13 234.1KB/s
+      - 🇺🇸US美国18 16.1MB/s
+      - 🇺🇸US美国30 16.0MB/s
+      - 🇸🇪SE瑞典 7.8MB/s
+      - 🇺🇸US美国39 1.6MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -116,12 +123,13 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇫🇷FR法国 1.7MB/s
-      - 🇬🇧GB英国 1.2MB/s
-      - 🇺🇸US美国4 2.7MB/s
-      - 🇬🇧GB英国2 2.9MB/s
-      - 🇺🇸US美国13 86.6KB/s
-      - 🇺🇸US美国19 2.7MB/s
+      - 🇬🇧GB英国2 18.9MB/s
+      - 🇺🇸US美国7 253.7KB/s
+      - 🇺🇸US美国13 234.1KB/s
+      - 🇺🇸US美国18 16.1MB/s
+      - 🇺🇸US美国30 16.0MB/s
+      - 🇸🇪SE瑞典 7.8MB/s
+      - 🇺🇸US美国39 1.6MB/s
 
 
 rules:
