@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://telegram-id-directvpn@18.221.92.147:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%2031.9MB%2Fs
-trojan://telegram-id-privatevpns@13.39.57.76:22222?sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%20209.1KB%2Fs
-trojan://wkmY1R4EcP@78.141.221.194:443?type=tcp&sni=z-v2-002750.kailib.com&host=z-v2-002750.kailib.com#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%206.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@v1.arvancode.eu.org:443#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
-trojan://telegram-id-directvpn@3.75.28.99:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%206.4MB%2Fs
+trojan://wkmY1R4EcP@78.141.221.194:443?type=tcp&sni=z-v2-002750.kailib.com&host=z-v2-002750.kailib.com#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%2013.0MB%2Fs
+trojan://telegram-id-directvpn@18.221.92.147:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiIxMDQuMjYuNC41NyIsInBvcnQiOiIyMDk1IiwiaWQiOiI2NjU4YTNhNi0yMjVhLTRkMzMtYTVkMi04MmNmZGU1NjViNGUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoic3Nyc3ViLnYwMy5zc3JzdWIuY29tIiwicGF0aCI6Ii9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MiJ9
+trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?security=tls&type=grpc&sni=channel.v2bamdad.tech#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7VKUOaXpeacrCIsImFkZCI6ImZhc3RseS5hbGlwYXkub3ZoIiwicG9ydCI6IjgwIiwiaWQiOiI2NmNjYjExZi03NWE3LTQyODItOGE2MC0zMWZlZDQ0NzQwMWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoibm1zbC5rcCIsInBhdGgiOiIvYXJpZXM/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkpQ5pel5pysIn0=
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
