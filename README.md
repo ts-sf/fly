@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-trojan://telegram-id-directvpn@35.178.91.219:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%204.2MB%2Fs
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.63.61:9102#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8%201.9MB%2Fs
-trojan://a2673b60-aca1-48c2-a4ad-abeb518e18f9@183.236.51.56:16005?security=tls&type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C2%20188.6KB%2Fs
-trojan://a2673b60-aca1-48c2-a4ad-abeb518e18f9@183.236.51.54:16003?security=tls&type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C4%20115.8KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTExIDgyLjZNQi9zIiwiYWRkIjoiMTA0LjIxLjYzLjUyIiwicG9ydCI6IjgwIiwiaWQiOiI2MGYxMjQzNS1iYjU1LTRkYTItY2I3ZC00ZmVhMzRlY2ZhMzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ1czY1Lm5ldGZpbHgubGl2ZSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70xMSJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7dGUuazleWbvSAxMi41TUIvcyIsImFkZCI6Im1heC1pcC5oaXJvbWFuNTQ0NS5pciIsInBvcnQiOiIzNTg2IiwiaWQiOiI3NjNkMjk5OS02MzIxLTRlNGEtOWVlYS01NzQ4MjBkMGE1NDciLCJhaWQiOiIwIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwicGF0aCI6Ii9PVUlweHd3bXRwSkdJV3pyYVc3ZGw1IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiRlLms5Xlm70ifQ==
+trojan://telegram-id-privatevpns@52.17.85.93:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B02%2024.7MB%2Fs
+trojan://telegram-id-directvpn@16.170.9.33:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%2010.5MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTUgMjQyLjZLQi9zIiwiYWRkIjoiMTcyLjY3LjE3MC4yNSIsInBvcnQiOiI4MDgwIiwiaWQiOiJhYTFkYmI2OC1iZmI1LTQ0ODQtZjdlNy03MzM1ZWFjMzk4OGMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZXUyLm9wZW54YWkubGluayIsInBhdGgiOiIvP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTUifQ==
+trojan://telegram-id-privatevpns@13.49.210.10:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8%209.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
