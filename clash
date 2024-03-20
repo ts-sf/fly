@@ -2,9 +2,9 @@
 ####################################
 # 创建者：https://github.com/ts-sf/fly
 # 客户端：Clash
-# 创建时间：2024-03-20 00:34:18
+# 创建时间：2024-03-20 16:29:27
 # 使用模版：V2RaySE 默认模版
-# 节点数量：11
+# 节点数量：7
 ####################################
 #
 mixed-port: 7890
@@ -12,17 +12,13 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇺🇸US美国2 56.7KB/s","type":"ss","server":"65.109.14.78","port":39891,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"qDyYo4NCAVw1dVOyApoKV8","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国4 679.1KB/s","type":"ss","server":"51.143.178.209","port":8657,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1GvHt1qmWlEyH70qoDVbLT","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国5 2.0MB/s","type":"ss","server":"38.107.226.132","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
-  - {"name":"🇩🇪DE德国 9.4MB/s","type":"trojan","server":"35.157.203.208","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇫🇷FR法国 11.3MB/s","type":"trojan","server":"52.47.174.48","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇮🇳IN印度 146.1KB/s","type":"vmess","server":"139.59.24.215","port":3389,"cipher":"auto","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US美国9 1.9MB/s","type":"ss","server":"67.220.86.148","port":8000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国14 1.7MB/s","type":"ss","server":"38.107.226.132","port":3389,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国18 16.8MB/s","type":"ss","server":"51.143.191.99","port":50997,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"u32INfSGeu8NRtmKdc6HfF","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国19 369.8KB/s","type":"vmess","server":"onea.flha.ru","port":2052,"cipher":"auto","uuid":"89d8ef31-ade9-4aca-8fbc-1edbba6cda16","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"onea.flha.ru"}}}
-  - {"name":"🇺🇸US美国21 1.8MB/s","type":"ss","server":"38.107.226.132","port":8080,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国 14.7MB/s","type":"vmess","server":"index.zhaal.ir","port":2086,"cipher":"auto","uuid":"e690ff9e-1676-4be3-d136-dcae586cb1e7","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"🇺🇸US美国3 963.8KB/s","type":"ss","server":"51.143.184.72","port":35449,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"UMctXjFhXLFn5KyJ2761OU","skip-cert-verify":true}
+  - {"name":"🇮🇳IN印度 706.5KB/s","type":"vmess","server":"139.59.24.215","port":3389,"cipher":"auto","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US美国6 104.9MB/s","type":"trojan","server":"3.97.214.28","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"🇺🇸US美国8 11.6MB/s","type":"vmess","server":"165.22.21.210","port":8585,"cipher":"auto","uuid":"da63bae6-7c98-45e3-9151-d629fcc12ca7","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇫🇷FR法国 909.2KB/s","type":"vmess","server":"213.32.63.176","port":3586,"cipher":"chacha20-poly1305","uuid":"763d2999-6321-4e4a-9eea-574820d0a547","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇩🇪DE德国 198.7KB/s","type":"trojan","server":"35.157.175.132","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -30,17 +26,13 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇸US美国2 56.7KB/s
-      - 🇺🇸US美国4 679.1KB/s
-      - 🇺🇸US美国5 2.0MB/s
-      - 🇩🇪DE德国 9.4MB/s
-      - 🇫🇷FR法国 11.3MB/s
-      - 🇮🇳IN印度 146.1KB/s
-      - 🇺🇸US美国9 1.9MB/s
-      - 🇺🇸US美国14 1.7MB/s
-      - 🇺🇸US美国18 16.8MB/s
-      - 🇺🇸US美国19 369.8KB/s
-      - 🇺🇸US美国21 1.8MB/s
+      - 🇺🇸US美国 14.7MB/s
+      - 🇺🇸US美国3 963.8KB/s
+      - 🇮🇳IN印度 706.5KB/s
+      - 🇺🇸US美国6 104.9MB/s
+      - 🇺🇸US美国8 11.6MB/s
+      - 🇫🇷FR法国 909.2KB/s
+      - 🇩🇪DE德国 198.7KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -48,17 +40,13 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸US美国2 56.7KB/s
-      - 🇺🇸US美国4 679.1KB/s
-      - 🇺🇸US美国5 2.0MB/s
-      - 🇩🇪DE德国 9.4MB/s
-      - 🇫🇷FR法国 11.3MB/s
-      - 🇮🇳IN印度 146.1KB/s
-      - 🇺🇸US美国9 1.9MB/s
-      - 🇺🇸US美国14 1.7MB/s
-      - 🇺🇸US美国18 16.8MB/s
-      - 🇺🇸US美国19 369.8KB/s
-      - 🇺🇸US美国21 1.8MB/s
+      - 🇺🇸US美国 14.7MB/s
+      - 🇺🇸US美国3 963.8KB/s
+      - 🇮🇳IN印度 706.5KB/s
+      - 🇺🇸US美国6 104.9MB/s
+      - 🇺🇸US美国8 11.6MB/s
+      - 🇫🇷FR法国 909.2KB/s
+      - 🇩🇪DE德国 198.7KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -66,68 +54,52 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸US美国2 56.7KB/s
-      - 🇺🇸US美国4 679.1KB/s
-      - 🇺🇸US美国5 2.0MB/s
-      - 🇩🇪DE德国 9.4MB/s
-      - 🇫🇷FR法国 11.3MB/s
-      - 🇮🇳IN印度 146.1KB/s
-      - 🇺🇸US美国9 1.9MB/s
-      - 🇺🇸US美国14 1.7MB/s
-      - 🇺🇸US美国18 16.8MB/s
-      - 🇺🇸US美国19 369.8KB/s
-      - 🇺🇸US美国21 1.8MB/s
+      - 🇺🇸US美国 14.7MB/s
+      - 🇺🇸US美国3 963.8KB/s
+      - 🇮🇳IN印度 706.5KB/s
+      - 🇺🇸US美国6 104.9MB/s
+      - 🇺🇸US美国8 11.6MB/s
+      - 🇫🇷FR法国 909.2KB/s
+      - 🇩🇪DE德国 198.7KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国2 56.7KB/s
-      - 🇺🇸US美国4 679.1KB/s
-      - 🇺🇸US美国5 2.0MB/s
-      - 🇩🇪DE德国 9.4MB/s
-      - 🇫🇷FR法国 11.3MB/s
-      - 🇮🇳IN印度 146.1KB/s
-      - 🇺🇸US美国9 1.9MB/s
-      - 🇺🇸US美国14 1.7MB/s
-      - 🇺🇸US美国18 16.8MB/s
-      - 🇺🇸US美国19 369.8KB/s
-      - 🇺🇸US美国21 1.8MB/s
+      - 🇺🇸US美国 14.7MB/s
+      - 🇺🇸US美国3 963.8KB/s
+      - 🇮🇳IN印度 706.5KB/s
+      - 🇺🇸US美国6 104.9MB/s
+      - 🇺🇸US美国8 11.6MB/s
+      - 🇫🇷FR法国 909.2KB/s
+      - 🇩🇪DE德国 198.7KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇸US美国2 56.7KB/s
-      - 🇺🇸US美国4 679.1KB/s
-      - 🇺🇸US美国5 2.0MB/s
-      - 🇩🇪DE德国 9.4MB/s
-      - 🇫🇷FR法国 11.3MB/s
-      - 🇮🇳IN印度 146.1KB/s
-      - 🇺🇸US美国9 1.9MB/s
-      - 🇺🇸US美国14 1.7MB/s
-      - 🇺🇸US美国18 16.8MB/s
-      - 🇺🇸US美国19 369.8KB/s
-      - 🇺🇸US美国21 1.8MB/s
+      - 🇺🇸US美国 14.7MB/s
+      - 🇺🇸US美国3 963.8KB/s
+      - 🇮🇳IN印度 706.5KB/s
+      - 🇺🇸US美国6 104.9MB/s
+      - 🇺🇸US美国8 11.6MB/s
+      - 🇫🇷FR法国 909.2KB/s
+      - 🇩🇪DE德国 198.7KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国2 56.7KB/s
-      - 🇺🇸US美国4 679.1KB/s
-      - 🇺🇸US美国5 2.0MB/s
-      - 🇩🇪DE德国 9.4MB/s
-      - 🇫🇷FR法国 11.3MB/s
-      - 🇮🇳IN印度 146.1KB/s
-      - 🇺🇸US美国9 1.9MB/s
-      - 🇺🇸US美国14 1.7MB/s
-      - 🇺🇸US美国18 16.8MB/s
-      - 🇺🇸US美国19 369.8KB/s
-      - 🇺🇸US美国21 1.8MB/s
+      - 🇺🇸US美国 14.7MB/s
+      - 🇺🇸US美国3 963.8KB/s
+      - 🇮🇳IN印度 706.5KB/s
+      - 🇺🇸US美国6 104.9MB/s
+      - 🇺🇸US美国8 11.6MB/s
+      - 🇫🇷FR法国 909.2KB/s
+      - 🇩🇪DE德国 198.7KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -151,17 +123,13 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸US美国2 56.7KB/s
-      - 🇺🇸US美国4 679.1KB/s
-      - 🇺🇸US美国5 2.0MB/s
-      - 🇩🇪DE德国 9.4MB/s
-      - 🇫🇷FR法国 11.3MB/s
-      - 🇮🇳IN印度 146.1KB/s
-      - 🇺🇸US美国9 1.9MB/s
-      - 🇺🇸US美国14 1.7MB/s
-      - 🇺🇸US美国18 16.8MB/s
-      - 🇺🇸US美国19 369.8KB/s
-      - 🇺🇸US美国21 1.8MB/s
+      - 🇺🇸US美国 14.7MB/s
+      - 🇺🇸US美国3 963.8KB/s
+      - 🇮🇳IN印度 706.5KB/s
+      - 🇺🇸US美国6 104.9MB/s
+      - 🇺🇸US美国8 11.6MB/s
+      - 🇫🇷FR法国 909.2KB/s
+      - 🇩🇪DE德国 198.7KB/s
 
 
 rules:
