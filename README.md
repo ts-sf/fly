@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSAzOTUuNEtCL3MiLCJhZGQiOiIxMDQuMTguMzEuMTI5IiwicG9ydCI6IjIwODYiLCJpZCI6ImJhNGU4NmU3LWQ0ZjctNGM0ZS1hYThmLWE5MWI4Y2Q5ZGU4YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InVzNzdTbVNrODZqLmZ6YnFmcnNlLnh5eiIsInBhdGgiOiIvdmlkZW8vWjdxZGNyQUdSdyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9In0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjkzMjA1Ny1mZmQ5LTQ0MjYtOGNhNy1mMDY1NGJhYmY4NGY=@ddns.olucloud.subapi.cc:50001#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
-trojan://d0d67bba-a71d-4e3e-8469-1d214198ad34@tr-full.privateip.net:443?#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0%2080.9KB%2Fs
-trojan://telegram-id-directvpn@15.237.7.28:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMiLCJhZGQiOiIxMDQuMjEuMjI4LjQwIiwicG9ydCI6IjgwIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYS5wcmFwdDQuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MyJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Plub/kuJwiLCJhZGQiOiJkYXRhLWpwLXYxLnVzYWJvb2tzLmNvbS5jbiIsInBvcnQiOiIyMDMwMSIsImlkIjoiYjE0NzhlMjQtNDkxNi0zYWJlLThmMTctMTU5MzEwMTJlY2JlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImRhdGEtanAtdjEudXNhYm9va3MuY29tLmNuIiwicGF0aCI6Ii9kZWJpYW4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiLwn4eo8J+Hs+W5v+S4nCJ9
+ss://YWVzLTI1Ni1nY206bFNyZVlHeWFQZkNzSlFXZg==@146.59.102.109:35230#%F0%9F%87%B3%F0%9F%87%B4NO%E6%8C%AA%E5%A8%81%2044.9KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIDQ3Mi4zS0IvcyIsImFkZCI6Inp4ZWVkcy5zYW5udnBuLm15LmlkIiwicG9ydCI6IjQ0MyIsImlkIjoiNDE1ZGIxZTUtNjk1ZC00NGRhLThiMTctZmJmMmQ4ZGVmOTdkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoienhlZWRzLnNhbm52cG4ubXkuaWQiLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoidGxzIiwic25pIjoienhlZWRzLnNhbm52cG4ubXkuaWQiLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiIyMy4yMjcuMzguMjMiLCJwb3J0IjoiODA4MCIsImlkIjoiMzRjMGJiNWUtYzEyMC00MzJkLTljNTgtYmQ3ZDgyYzczOTdiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InVoLWxhd3llcnMtaW5zdHJ1bWVudHMta2VybmVsLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6IjM0YzBiYjVlLWMxMjAtNDMyZC05YzU4LWJkN2Q4MmM3Mzk3Yi12bSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MiJ9
+trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
