@@ -2,9 +2,9 @@
 ####################################
 # 创建者：https://github.com/ts-sf/fly
 # 客户端：Clash
-# 创建时间：2024-03-23 09:22:03
+# 创建时间：2024-03-23 16:29:20
 # 使用模版：V2RaySE 默认模版
-# 节点数量：15
+# 节点数量：40
 ####################################
 #
 mixed-port: 7890
@@ -12,21 +12,46 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇨🇷CR哥斯达黎加 4.2MB/s","type":"ss","server":"144.22.135.27","port":7702,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"ad02f67a-a86d-439e-bbb6-5f12ca38b307","skip-cert-verify":true}
-  - {"name":"🇪🇸ES西班牙 1.1MB/s","type":"vmess","server":"77.75.230.125","port":2086,"cipher":"auto","uuid":"d466dd36-8b86-48b7-b0f0-67e7d128de6c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess"}}
-  - {"name":"🇺🇦UA乌克兰","type":"trojan","server":"95.164.68.116","port":2053,"cipher":"auto","alterId":0,"tls":true,"password":"f37a931d-7092-48fe-b82f-a98da3040eb2","sni":"ftp.debian.org","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇦UA乌克兰2 9.8MB/s","type":"vmess","server":"94.131.99.8","port":47182,"cipher":"auto","uuid":"81b2b630-8b6a-404f-b996-b12f13db5786","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇧🇷BR巴西","type":"vmess","server":"188.114.96.113","port":80,"cipher":"auto","uuid":"7022982f-da4c-48c9-c660-b2315abdcf7e","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"a.prapt4.ir"}}}
-  - {"name":"🇺🇦UA乌克兰3 111.2KB/s","type":"ss","server":"94.131.111.32","port":8388,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"NGQzMzQz","skip-cert-verify":true}
-  - {"name":"🇮🇹IT意大利","type":"ss","server":"service.ouluyun9803.com","port":20003,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d6105bbd-be0d-45b2-82ad-31fd1071c1d2","skip-cert-verify":true}
-  - {"name":"🇸🇬SG新加坡 53.3KB/s","type":"ss","server":"139.162.50.27","port":80,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"w6f5kNwwvCZTkh0JZztIV3","skip-cert-verify":true}
+  - {"name":"🇨🇳CN中国","type":"vmess","server":"8.222.237.131","port":2082,"cipher":"auto","uuid":"112ac36f-3f53-4e26-8371-d25c028e1b9a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"s1c.v2.v001sss.xyz"}}}
+  - {"name":"🇨🇷CR哥斯达黎加","type":"ss","server":"144.22.135.27","port":7702,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"ad02f67a-a86d-439e-bbb6-5f12ca38b307","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国 2.0MB/s","type":"ss","server":"38.75.136.33","port":8118,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
+  - {"name":"🇬🇧GB英国","type":"ss","server":"java.ct.arvancode.eu.Org","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"W74XFALLLuw6m5IA","skip-cert-verify":true}
   - {"name":"未知","type":"ss","server":"127.0.0.1","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"6601fb90e9b3","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国2","type":"vmess","server":"23.227.38.22","port":8080,"cipher":"auto","uuid":"9258153a-dc97-4e39-9037-009abfc4fed0","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"9258153a-dc97-4e39-9037-009abfc4fed0-vm","headers":{"host":"per-essex-patterns-bowling.trycloudflare.com"}}}
+  - {"name":"🇺🇸US美国3 1.7MB/s","type":"ss","server":"38.75.136.33","port":8119,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国4 1.7MB/s","type":"ss","server":"38.75.137.42","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国5 1.1MB/s","type":"ss","server":"38.75.136.33","port":5600,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国6 10.3MB/s","type":"vmess","server":"cfcdn1.sanfencdn9.com","port":2086,"cipher":"auto","uuid":"a564b1ec-2d51-418a-ba01-e9ab22736afc","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/Z7qdcrAGRw","headers":{"host":"us77SmSk86j.fzbqfrse.xyz"}}}
+  - {"name":"🇺🇸US美国7 1.7MB/s","type":"ss","server":"38.75.137.42","port":8091,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
+  - {"name":"🇪🇸ES西班牙 608.1KB/s","type":"vmess","server":"77.75.230.125","port":2086,"cipher":"auto","uuid":"d466dd36-8b86-48b7-b0f0-67e7d128de6c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess"}}
+  - {"name":"🇺🇦UA乌克兰","type":"trojan","server":"95.164.68.116","port":2053,"cipher":"auto","alterId":0,"tls":true,"password":"f37a931d-7092-48fe-b82f-a98da3040eb2","sni":"ftp.debian.org","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国8 2.0MB/s","type":"ss","server":"38.75.136.33","port":2376,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国9","type":"vmess","server":"104.21.90.218","port":2086,"cipher":"auto","uuid":"e690ff9e-1676-4be3-d136-dcae586cb1e7","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"index.zhaal.ir"}}}
+  - {"name":"🇺🇸US美国10 1.7MB/s","type":"ss","server":"38.75.137.93","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国11 2.0MB/s","type":"ss","server":"38.75.136.33","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国12 1.9MB/s","type":"ss","server":"38.75.136.33","port":6679,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
+  - {"name":"🇺🇦UA乌克兰2 165.1KB/s","type":"ss","server":"95.164.19.233","port":17038,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"q06CbkhVXx7XVv0D","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国13","type":"vmess","server":"104.21.226.33","port":80,"cipher":"auto","uuid":"7022982f-da4c-48c9-c660-b2315abdcf7e","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"a.prapt1.ir"}}}
+  - {"name":"🇺🇸US美国14","type":"vmess","server":"172.67.116.48","port":80,"cipher":"auto","uuid":"22a13aa2-4854-44cb-e090-ec71ab84b1ff","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"wap.hostmjj.com"}}}
+  - {"name":"🇺🇸US美国15 1.7MB/s","type":"ss","server":"38.75.137.93","port":8009,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
   - {"name":"🇷🇺RU俄罗斯","type":"ss","server":"185.242.86.156","port":54170,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"36ZCHeabUSfKjfQEvJ4HDV","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国","type":"vmess","server":"23.227.38.22","port":8080,"cipher":"auto","uuid":"9258153a-dc97-4e39-9037-009abfc4fed0","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"9258153a-dc97-4e39-9037-009abfc4fed0-vm","headers":{"host":"per-essex-patterns-bowling.trycloudflare.com"}}}
-  - {"name":"🇺🇸US美国2","type":"ss","server":"series-a2-mec.samanehha.co","port":443,"cipher":"chacha20-poly1305","alterId":0,"tls":true,"password":"u17T3BvpYaaiuW2c","skip-cert-verify":true}
-  - {"name":"🇮🇪IE爱尔兰","type":"trojan","server":"54.216.33.7","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国3","type":"vmess","server":"172.67.116.48","port":80,"cipher":"auto","uuid":"22a13aa2-4854-44cb-e090-ec71ab84b1ff","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"wap.hostmjj.com"}}}
-  - {"name":"🇷🇺RU俄罗斯2 725.1KB/s","type":"ss","server":"88.210.6.98","port":60869,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"lPT3Mi25IXYP3iWzPJaryQ","skip-cert-verify":true}
+  - {"name":"🇮🇹IT意大利","type":"ss","server":"service.ouluyun9803.com","port":20003,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d6105bbd-be0d-45b2-82ad-31fd1071c1d2","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡 73.2KB/s","type":"ss","server":"139.162.50.27","port":80,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"w6f5kNwwvCZTkh0JZztIV3","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国16 1.6MB/s","type":"ss","server":"38.75.137.42","port":8882,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国17","type":"trojan","server":"104.16.192.157","port":443,"cipher":"auto","alterId":0,"tls":true,"password":"dba20dcb635e430fa4d3bfc303a149d2","sni":"jobscareerfortoday.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇷🇺RU俄罗斯2 6.1MB/s","type":"ss","server":"88.210.6.98","port":60869,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"lPT3Mi25IXYP3iWzPJaryQ","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国18","type":"ss","server":"series-a2-mec.samanehha.co","port":443,"cipher":"chacha20-poly1305","alterId":0,"tls":true,"password":"u17T3BvpYaaiuW2c","skip-cert-verify":true}
+  - {"name":"🇺🇦UA乌克兰3","type":"vmess","server":"94.131.99.8","port":47182,"cipher":"auto","uuid":"81b2b630-8b6a-404f-b996-b12f13db5786","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US美国19 1.7MB/s","type":"ss","server":"38.75.137.93","port":5500,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国20","type":"trojan","server":"3.76.251.208","port":16373,"cipher":"auto","alterId":0,"tls":true,"password":"EWiurNqzwRLK","sni":"appsvs.shop","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳CN中国2","type":"vmess","server":"8.222.159.252","port":2082,"cipher":"auto","uuid":"112ac36f-3f53-4e26-8371-d25c028e1b9a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"s1c.v2.v001sss.xyz"}}}
+  - {"name":"🇺🇸US美国21 1.6MB/s","type":"ss","server":"38.75.137.105","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国22 1.7MB/s","type":"ss","server":"38.75.137.93","port":8119,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
+  - {"name":"🇧🇷BR巴西","type":"vmess","server":"188.114.96.113","port":80,"cipher":"auto","uuid":"7022982f-da4c-48c9-c660-b2315abdcf7e","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"a.prapt4.ir"}}}
+  - {"name":"🇺🇸US美国23","type":"trojan","server":"104.21.47.176","port":443,"cipher":"auto","alterId":0,"tls":true,"password":"52701795-3c3b-46b4-b7cf-c5978b3a4cf2","sni":"hdfyc1.achaemenidempireofpersia.uk","skip-cert-verify":true,"network":"grpc","udp":true}
+  - {"name":"🇺🇸US美国24","type":"trojan","server":"104.16.192.1","port":443,"cipher":"auto","alterId":0,"tls":true,"password":"0ab6c98dae3b48e8b9c4a776b6c9c19a","sni":"sherasheba.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇮🇪IE爱尔兰 457.6KB/s","type":"trojan","server":"54.216.33.7","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇦UA乌克兰4 76.5KB/s","type":"ss","server":"94.131.111.32","port":8388,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"NGQzMzQz","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -34,21 +59,46 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇨🇷CR哥斯达黎加 4.2MB/s
-      - 🇪🇸ES西班牙 1.1MB/s
-      - 🇺🇦UA乌克兰
-      - 🇺🇦UA乌克兰2 9.8MB/s
-      - 🇧🇷BR巴西
-      - 🇺🇦UA乌克兰3 111.2KB/s
-      - 🇮🇹IT意大利
-      - 🇸🇬SG新加坡 53.3KB/s
+      - 🇨🇳CN中国
+      - 🇨🇷CR哥斯达黎加
+      - 🇺🇸US美国 2.0MB/s
+      - 🇬🇧GB英国
       - 未知
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国
       - 🇺🇸US美国2
-      - 🇮🇪IE爱尔兰
-      - 🇺🇸US美国3
-      - 🇷🇺RU俄罗斯2 725.1KB/s
+      - 🇺🇸US美国3 1.7MB/s
+      - 🇺🇸US美国4 1.7MB/s
+      - 🇺🇸US美国5 1.1MB/s
+      - 🇺🇸US美国6 10.3MB/s
+      - 🇺🇸US美国7 1.7MB/s
+      - 🇪🇸ES西班牙 608.1KB/s
+      - 🇺🇦UA乌克兰
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9
+      - 🇺🇸US美国10 1.7MB/s
+      - 🇺🇸US美国11 2.0MB/s
+      - 🇺🇸US美国12 1.9MB/s
+      - 🇺🇦UA乌克兰2 165.1KB/s
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
+      - 🇺🇸US美国15 1.7MB/s
+      - 🇷🇺RU俄罗斯
+      - 🇮🇹IT意大利
+      - 🇸🇬SG新加坡 73.2KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇺🇸US美国17
+      - 🇷🇺RU俄罗斯2 6.1MB/s
+      - 🇺🇸US美国18
+      - 🇺🇦UA乌克兰3
+      - 🇺🇸US美国19 1.7MB/s
+      - 🇺🇸US美国20
+      - 🇨🇳CN中国2
+      - 🇺🇸US美国21 1.6MB/s
+      - 🇺🇸US美国22 1.7MB/s
+      - 🇧🇷BR巴西
+      - 🇺🇸US美国23
+      - 🇺🇸US美国24
+      - 🇮🇪IE爱尔兰 457.6KB/s
+      - 🇺🇦UA乌克兰4 76.5KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -56,21 +106,46 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇨🇷CR哥斯达黎加 4.2MB/s
-      - 🇪🇸ES西班牙 1.1MB/s
-      - 🇺🇦UA乌克兰
-      - 🇺🇦UA乌克兰2 9.8MB/s
-      - 🇧🇷BR巴西
-      - 🇺🇦UA乌克兰3 111.2KB/s
-      - 🇮🇹IT意大利
-      - 🇸🇬SG新加坡 53.3KB/s
+      - 🇨🇳CN中国
+      - 🇨🇷CR哥斯达黎加
+      - 🇺🇸US美国 2.0MB/s
+      - 🇬🇧GB英国
       - 未知
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国
       - 🇺🇸US美国2
-      - 🇮🇪IE爱尔兰
-      - 🇺🇸US美国3
-      - 🇷🇺RU俄罗斯2 725.1KB/s
+      - 🇺🇸US美国3 1.7MB/s
+      - 🇺🇸US美国4 1.7MB/s
+      - 🇺🇸US美国5 1.1MB/s
+      - 🇺🇸US美国6 10.3MB/s
+      - 🇺🇸US美国7 1.7MB/s
+      - 🇪🇸ES西班牙 608.1KB/s
+      - 🇺🇦UA乌克兰
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9
+      - 🇺🇸US美国10 1.7MB/s
+      - 🇺🇸US美国11 2.0MB/s
+      - 🇺🇸US美国12 1.9MB/s
+      - 🇺🇦UA乌克兰2 165.1KB/s
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
+      - 🇺🇸US美国15 1.7MB/s
+      - 🇷🇺RU俄罗斯
+      - 🇮🇹IT意大利
+      - 🇸🇬SG新加坡 73.2KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇺🇸US美国17
+      - 🇷🇺RU俄罗斯2 6.1MB/s
+      - 🇺🇸US美国18
+      - 🇺🇦UA乌克兰3
+      - 🇺🇸US美国19 1.7MB/s
+      - 🇺🇸US美国20
+      - 🇨🇳CN中国2
+      - 🇺🇸US美国21 1.6MB/s
+      - 🇺🇸US美国22 1.7MB/s
+      - 🇧🇷BR巴西
+      - 🇺🇸US美国23
+      - 🇺🇸US美国24
+      - 🇮🇪IE爱尔兰 457.6KB/s
+      - 🇺🇦UA乌克兰4 76.5KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -78,84 +153,184 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇨🇷CR哥斯达黎加 4.2MB/s
-      - 🇪🇸ES西班牙 1.1MB/s
-      - 🇺🇦UA乌克兰
-      - 🇺🇦UA乌克兰2 9.8MB/s
-      - 🇧🇷BR巴西
-      - 🇺🇦UA乌克兰3 111.2KB/s
-      - 🇮🇹IT意大利
-      - 🇸🇬SG新加坡 53.3KB/s
+      - 🇨🇳CN中国
+      - 🇨🇷CR哥斯达黎加
+      - 🇺🇸US美国 2.0MB/s
+      - 🇬🇧GB英国
       - 未知
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国
       - 🇺🇸US美国2
-      - 🇮🇪IE爱尔兰
-      - 🇺🇸US美国3
-      - 🇷🇺RU俄罗斯2 725.1KB/s
+      - 🇺🇸US美国3 1.7MB/s
+      - 🇺🇸US美国4 1.7MB/s
+      - 🇺🇸US美国5 1.1MB/s
+      - 🇺🇸US美国6 10.3MB/s
+      - 🇺🇸US美国7 1.7MB/s
+      - 🇪🇸ES西班牙 608.1KB/s
+      - 🇺🇦UA乌克兰
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9
+      - 🇺🇸US美国10 1.7MB/s
+      - 🇺🇸US美国11 2.0MB/s
+      - 🇺🇸US美国12 1.9MB/s
+      - 🇺🇦UA乌克兰2 165.1KB/s
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
+      - 🇺🇸US美国15 1.7MB/s
+      - 🇷🇺RU俄罗斯
+      - 🇮🇹IT意大利
+      - 🇸🇬SG新加坡 73.2KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇺🇸US美国17
+      - 🇷🇺RU俄罗斯2 6.1MB/s
+      - 🇺🇸US美国18
+      - 🇺🇦UA乌克兰3
+      - 🇺🇸US美国19 1.7MB/s
+      - 🇺🇸US美国20
+      - 🇨🇳CN中国2
+      - 🇺🇸US美国21 1.6MB/s
+      - 🇺🇸US美国22 1.7MB/s
+      - 🇧🇷BR巴西
+      - 🇺🇸US美国23
+      - 🇺🇸US美国24
+      - 🇮🇪IE爱尔兰 457.6KB/s
+      - 🇺🇦UA乌克兰4 76.5KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇷CR哥斯达黎加 4.2MB/s
-      - 🇪🇸ES西班牙 1.1MB/s
-      - 🇺🇦UA乌克兰
-      - 🇺🇦UA乌克兰2 9.8MB/s
-      - 🇧🇷BR巴西
-      - 🇺🇦UA乌克兰3 111.2KB/s
-      - 🇮🇹IT意大利
-      - 🇸🇬SG新加坡 53.3KB/s
+      - 🇨🇳CN中国
+      - 🇨🇷CR哥斯达黎加
+      - 🇺🇸US美国 2.0MB/s
+      - 🇬🇧GB英国
       - 未知
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国
       - 🇺🇸US美国2
-      - 🇮🇪IE爱尔兰
-      - 🇺🇸US美国3
-      - 🇷🇺RU俄罗斯2 725.1KB/s
+      - 🇺🇸US美国3 1.7MB/s
+      - 🇺🇸US美国4 1.7MB/s
+      - 🇺🇸US美国5 1.1MB/s
+      - 🇺🇸US美国6 10.3MB/s
+      - 🇺🇸US美国7 1.7MB/s
+      - 🇪🇸ES西班牙 608.1KB/s
+      - 🇺🇦UA乌克兰
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9
+      - 🇺🇸US美国10 1.7MB/s
+      - 🇺🇸US美国11 2.0MB/s
+      - 🇺🇸US美国12 1.9MB/s
+      - 🇺🇦UA乌克兰2 165.1KB/s
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
+      - 🇺🇸US美国15 1.7MB/s
+      - 🇷🇺RU俄罗斯
+      - 🇮🇹IT意大利
+      - 🇸🇬SG新加坡 73.2KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇺🇸US美国17
+      - 🇷🇺RU俄罗斯2 6.1MB/s
+      - 🇺🇸US美国18
+      - 🇺🇦UA乌克兰3
+      - 🇺🇸US美国19 1.7MB/s
+      - 🇺🇸US美国20
+      - 🇨🇳CN中国2
+      - 🇺🇸US美国21 1.6MB/s
+      - 🇺🇸US美国22 1.7MB/s
+      - 🇧🇷BR巴西
+      - 🇺🇸US美国23
+      - 🇺🇸US美国24
+      - 🇮🇪IE爱尔兰 457.6KB/s
+      - 🇺🇦UA乌克兰4 76.5KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇨🇷CR哥斯达黎加 4.2MB/s
-      - 🇪🇸ES西班牙 1.1MB/s
-      - 🇺🇦UA乌克兰
-      - 🇺🇦UA乌克兰2 9.8MB/s
-      - 🇧🇷BR巴西
-      - 🇺🇦UA乌克兰3 111.2KB/s
-      - 🇮🇹IT意大利
-      - 🇸🇬SG新加坡 53.3KB/s
+      - 🇨🇳CN中国
+      - 🇨🇷CR哥斯达黎加
+      - 🇺🇸US美国 2.0MB/s
+      - 🇬🇧GB英国
       - 未知
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国
       - 🇺🇸US美国2
-      - 🇮🇪IE爱尔兰
-      - 🇺🇸US美国3
-      - 🇷🇺RU俄罗斯2 725.1KB/s
+      - 🇺🇸US美国3 1.7MB/s
+      - 🇺🇸US美国4 1.7MB/s
+      - 🇺🇸US美国5 1.1MB/s
+      - 🇺🇸US美国6 10.3MB/s
+      - 🇺🇸US美国7 1.7MB/s
+      - 🇪🇸ES西班牙 608.1KB/s
+      - 🇺🇦UA乌克兰
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9
+      - 🇺🇸US美国10 1.7MB/s
+      - 🇺🇸US美国11 2.0MB/s
+      - 🇺🇸US美国12 1.9MB/s
+      - 🇺🇦UA乌克兰2 165.1KB/s
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
+      - 🇺🇸US美国15 1.7MB/s
+      - 🇷🇺RU俄罗斯
+      - 🇮🇹IT意大利
+      - 🇸🇬SG新加坡 73.2KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇺🇸US美国17
+      - 🇷🇺RU俄罗斯2 6.1MB/s
+      - 🇺🇸US美国18
+      - 🇺🇦UA乌克兰3
+      - 🇺🇸US美国19 1.7MB/s
+      - 🇺🇸US美国20
+      - 🇨🇳CN中国2
+      - 🇺🇸US美国21 1.6MB/s
+      - 🇺🇸US美国22 1.7MB/s
+      - 🇧🇷BR巴西
+      - 🇺🇸US美国23
+      - 🇺🇸US美国24
+      - 🇮🇪IE爱尔兰 457.6KB/s
+      - 🇺🇦UA乌克兰4 76.5KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇷CR哥斯达黎加 4.2MB/s
-      - 🇪🇸ES西班牙 1.1MB/s
-      - 🇺🇦UA乌克兰
-      - 🇺🇦UA乌克兰2 9.8MB/s
-      - 🇧🇷BR巴西
-      - 🇺🇦UA乌克兰3 111.2KB/s
-      - 🇮🇹IT意大利
-      - 🇸🇬SG新加坡 53.3KB/s
+      - 🇨🇳CN中国
+      - 🇨🇷CR哥斯达黎加
+      - 🇺🇸US美国 2.0MB/s
+      - 🇬🇧GB英国
       - 未知
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国
       - 🇺🇸US美国2
-      - 🇮🇪IE爱尔兰
-      - 🇺🇸US美国3
-      - 🇷🇺RU俄罗斯2 725.1KB/s
+      - 🇺🇸US美国3 1.7MB/s
+      - 🇺🇸US美国4 1.7MB/s
+      - 🇺🇸US美国5 1.1MB/s
+      - 🇺🇸US美国6 10.3MB/s
+      - 🇺🇸US美国7 1.7MB/s
+      - 🇪🇸ES西班牙 608.1KB/s
+      - 🇺🇦UA乌克兰
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9
+      - 🇺🇸US美国10 1.7MB/s
+      - 🇺🇸US美国11 2.0MB/s
+      - 🇺🇸US美国12 1.9MB/s
+      - 🇺🇦UA乌克兰2 165.1KB/s
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
+      - 🇺🇸US美国15 1.7MB/s
+      - 🇷🇺RU俄罗斯
+      - 🇮🇹IT意大利
+      - 🇸🇬SG新加坡 73.2KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇺🇸US美国17
+      - 🇷🇺RU俄罗斯2 6.1MB/s
+      - 🇺🇸US美国18
+      - 🇺🇦UA乌克兰3
+      - 🇺🇸US美国19 1.7MB/s
+      - 🇺🇸US美国20
+      - 🇨🇳CN中国2
+      - 🇺🇸US美国21 1.6MB/s
+      - 🇺🇸US美国22 1.7MB/s
+      - 🇧🇷BR巴西
+      - 🇺🇸US美国23
+      - 🇺🇸US美国24
+      - 🇮🇪IE爱尔兰 457.6KB/s
+      - 🇺🇦UA乌克兰4 76.5KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -179,21 +354,46 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇨🇷CR哥斯达黎加 4.2MB/s
-      - 🇪🇸ES西班牙 1.1MB/s
-      - 🇺🇦UA乌克兰
-      - 🇺🇦UA乌克兰2 9.8MB/s
-      - 🇧🇷BR巴西
-      - 🇺🇦UA乌克兰3 111.2KB/s
-      - 🇮🇹IT意大利
-      - 🇸🇬SG新加坡 53.3KB/s
+      - 🇨🇳CN中国
+      - 🇨🇷CR哥斯达黎加
+      - 🇺🇸US美国 2.0MB/s
+      - 🇬🇧GB英国
       - 未知
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国
       - 🇺🇸US美国2
-      - 🇮🇪IE爱尔兰
-      - 🇺🇸US美国3
-      - 🇷🇺RU俄罗斯2 725.1KB/s
+      - 🇺🇸US美国3 1.7MB/s
+      - 🇺🇸US美国4 1.7MB/s
+      - 🇺🇸US美国5 1.1MB/s
+      - 🇺🇸US美国6 10.3MB/s
+      - 🇺🇸US美国7 1.7MB/s
+      - 🇪🇸ES西班牙 608.1KB/s
+      - 🇺🇦UA乌克兰
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9
+      - 🇺🇸US美国10 1.7MB/s
+      - 🇺🇸US美国11 2.0MB/s
+      - 🇺🇸US美国12 1.9MB/s
+      - 🇺🇦UA乌克兰2 165.1KB/s
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
+      - 🇺🇸US美国15 1.7MB/s
+      - 🇷🇺RU俄罗斯
+      - 🇮🇹IT意大利
+      - 🇸🇬SG新加坡 73.2KB/s
+      - 🇺🇸US美国16 1.6MB/s
+      - 🇺🇸US美国17
+      - 🇷🇺RU俄罗斯2 6.1MB/s
+      - 🇺🇸US美国18
+      - 🇺🇦UA乌克兰3
+      - 🇺🇸US美国19 1.7MB/s
+      - 🇺🇸US美国20
+      - 🇨🇳CN中国2
+      - 🇺🇸US美国21 1.6MB/s
+      - 🇺🇸US美国22 1.7MB/s
+      - 🇧🇷BR巴西
+      - 🇺🇸US美国23
+      - 🇺🇸US美国24
+      - 🇮🇪IE爱尔兰 457.6KB/s
+      - 🇺🇦UA乌克兰4 76.5KB/s
 
 
 rules:
