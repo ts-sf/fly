@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU0RkNXJUZnJlWWpHUlRPY2k3bTlB@157.245.15.16:1012#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%206.3MB%2Fs
-trojan://e63d3dd2-1fdc-45d7-857a-ab32e26c4f73@ty12t.twty.dynu.net:18912?sni=ty12t.twty.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE%20252.1KB%2Fs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:443#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.33:6379#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%201.9MB%2Fs
-trojan://telegram-id-directvpn@13.37.13.250:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9%2020.1MB%2Fs
+trojan://telegram-id-privatevpns@54.75.203.155:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0%20538.6KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTcgMi42TUIvcyIsImFkZCI6IjE3Mi42Ny4yMDcuMjYiLCJwb3J0IjoiNDQzIiwiaWQiOiI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiZ2x3ZWlkZi5zYnMiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTcifQ==
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%201.7MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTkgMjAuOU1CL3MiLCJhZGQiOiJ5aDMuZnJlZWgxLnh5eiIsInBvcnQiOiI4MDgwIiwiaWQiOiI4MmNiOTNhMy02NWE5LTRkYWMtYTJhNy1kOTk3YjZjMjZkNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibGFyZ2VyLW1hcmtldGluZy1hbW91bnRzLXNraW4udHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiODJjYjkzYTMtNjVhOS00ZGFjLWEyYTctZDk5N2I2YzI2ZDZhLXZtIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm705In0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTExIDgxMC40S0IvcyIsImFkZCI6IjE2Mi4xNTkuNy4yMjYiLCJwb3J0IjoiODA4MCIsImlkIjoiOWIxOTZiNTAtMzdmMi00ZjRiLWIxNzUtMDYyNzNhZGM2MjA3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InRlY2hub2xvZ2ljYWwtbWVsLWZpbGwtZGVjaWRlLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6IjliMTk2YjUwLTM3ZjItNGY0Yi1iMTc1LTA2MjczYWRjNjIwNy12bSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MTEifQ==
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
