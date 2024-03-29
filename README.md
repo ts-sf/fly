@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSA0LjNNQi9zIiwiYWRkIjoiMTYyLjE1OS4xMzAuMjA4IiwicG9ydCI6IjgwODAiLCJpZCI6IjU1MDIxYTdjLWJkNmMtNDE4ZS1iZTk1LWNlYWM4YmEyN2I0NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3aWRlc2NyZWVuLWluc3RydWN0aW9uLWJyZWFrZG93bi1wb3N0YWdlLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6IjU1MDIxYTdjLWJkNmMtNDE4ZS1iZTk1LWNlYWM4YmEyN2I0NS12bSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9In0=
-trojan://i43MaExgud@146.190.104.17:443?security=tls&type=ws&sni=aka.ms&path=/#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2%20202.9KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMiLCJhZGQiOiIxMDQuMjEuMjMxLjM4IiwicG9ydCI6IjgwIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYS5wcmFwdDEuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MyJ9
+trojan://fb246637-c891-44e1-ab31-d146727daef6@220.141.145.136:13761?security=tls&type=tcp&sni=ty11t.twty.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE%203.4MB%2Fs
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5
+trojan://telegram-id-privatevpns@35.181.83.144:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%202.1MB%2Fs
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.146:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NWEwMjFlNi0zMGY2LTQ2YzUtODI5Ny1hMmI3NGQwYjMwMzE=@ddns.olucloud.subapi.cc:50001#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
