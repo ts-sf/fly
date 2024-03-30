@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://fb246637-c891-44e1-ab31-d146727daef6@220.141.145.136:13761?security=tls&type=tcp&sni=ty11t.twty.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE%203.4MB%2Fs
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5
-trojan://telegram-id-privatevpns@35.181.83.144:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%202.1MB%2Fs
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.146:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NWEwMjFlNi0zMGY2LTQ2YzUtODI5Ny1hMmI3NGQwYjMwMzE=@ddns.olucloud.subapi.cc:50001#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
+trojan://telegram-id-privatevpns@18.170.172.72:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%20503.5KB%2Fs
+trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?type=ws&sni=sourceforge.net&path=/websocket&host=se1.trojanvpn.de#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMgNzcuOU1CL3MiLCJhZGQiOiIxNzMuMTk5LjExNC4yMTUiLCJwb3J0IjoiNTE2NzEiLCJpZCI6IjMzOGFlODRhLTc3ZDMtNDQzOC1iYmRkLTE0NDQxMDVkYWQyMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MyJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7dGUuazleWbvSAxLjlNQi9zIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6Ijg4ODAiLCJpZCI6IjBkMWJmMjZhLWNlOTctNDcwNy1hMjcwLTdmNGQyYWUzNzMzNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJmb29kLnpoYWFsLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJGUuazleWbvSJ9
+trojan://yu7AvNL9rW@212.33.206.111:80?security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
