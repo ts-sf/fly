@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://38C17B5E02864C48855DC27A3DB80EF0@216.83.41.85:443?security=tls&sni=node.kgvsogr.xyz#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7dGUuazleWbvSIsImFkZCI6IjIxMy4zMi42My4xNzYiLCJwb3J0IjoiMzU4NiIsImlkIjoiYWNiYTg0NjAtNmM4NS00ZDY3LThmNzQtNWE1MWRhNWU4MzkzIiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoienVsYS5pciIsInBhdGgiOiIvT1VJcHh3d210cEpHSVd6cmFXN2RsNSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkZS5rOV5Zu9In0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20003#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIgMjgyLjVLQi9zIiwiYWRkIjoibWFoaWx1LnNpdGUiLCJwb3J0IjoiMjA1MiIsImlkIjoiN2E3MzdmNDEtYjc5Mi00MjYwLTk0ZmYtM2Q4NjRkYTY3YjgwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im1haGlsdS5zaXRlIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTIifQ==
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@107.172.32.168:16899#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E%2026.3MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiJjZG4udmRzLXNlcnZlci5pciIsInBvcnQiOiI4ODgwIiwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiY2RuLnZkcy1zZXJ2ZXIuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMgNTkuNktCL3MiLCJhZGQiOiJtYWhpbHUuc2l0ZSIsInBvcnQiOiIyMDUyIiwiaWQiOiI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibWFoaWx1LnNpdGUiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MyJ9
+trojan://telegram-id-directvpn@51.21.124.252:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
+trojan://telegram-id-privatevpns@15.237.154.170:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
