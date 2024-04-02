@@ -2,9 +2,9 @@
 ####################################
 # 创建者：https://github.com/ts-sf/fly
 # 客户端：Clash
-# 创建时间：2024-04-02 16:29:50
+# 创建时间：2024-04-03 00:33:21
 # 使用模版：V2RaySE 默认模版
-# 节点数量：8
+# 节点数量：9
 ####################################
 #
 mixed-port: 7890
@@ -12,14 +12,15 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇧🇷BR巴西 42.6KB/s","type":"vmess","server":"188.114.99.150","port":443,"cipher":"auto","uuid":"e4c7e0ce-ed93-40d9-8f38-90497cb83864","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"fi1.xv2ray.net"}}}
-  - {"name":"🇺🇸US美国7 1.1MB/s","type":"trojan","server":"3.67.57.153","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇺🇸US美国8 3.8MB/s","type":"vmess","server":"m07.tk4433.com","port":2053,"cipher":"auto","uuid":"5e2b3a4d-bd24-4a58-f55d-ed7bdcd421d3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/m07.tk4433.com"}}
-  - {"name":"🇺🇸US美国9 551.7KB/s","type":"vmess","server":"admin.arzonhost.ir","port":2086,"uuid":"7d93e992-48cf-42d4-84f8-75768e815a4c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"admin.arzonhost.ir"}}}
-  - {"name":"🇺🇸US美国11 1.1MB/s","type":"trojan","server":"18.135.54.78","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇺🇸US美国12 1.2MB/s","type":"ss","server":"38.114.114.225","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国13 115.6MB/s","type":"vmess","server":"hms04.xmivideo.cfd","port":443,"cipher":"auto","uuid":"93ea486a-bada-42a4-ac38-d088b320fa1e","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"xmivideo.cfd"}}}
-  - {"name":"🇷🇺RU俄罗斯2 194.6KB/s","type":"trojan","server":"176.32.35.167","port":1007,"cipher":"auto","alterId":0,"tls":true,"password":"85bce006-4885-11ee-8792-f23c9164ca5d","sni":"004282c1-sbdj40-sdlngq-1n7jq.ru.z7zi.com","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"🇺🇸US美国5 1.9MB/s","type":"ss","server":"38.75.136.33","port":5600,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"🇷🇺RU俄罗斯 2.4MB/s","type":"ss","server":"146.185.198.44","port":51348,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Zu5sVdhPITkII1Rf9bUTjt0ws1nks4vgBoHhe7QxwEk0j3Ai","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国6 809.5KB/s","type":"ss","server":"38.114.114.225","port":2375,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
+  - {"name":"🇷🇺RU俄罗斯2 791.6KB/s","type":"trojan","server":"004282c1-sbdj40-sdlngq-1n7jq.ru.z7zi.com","port":1007,"cipher":"auto","alterId":0,"tls":true,"password":"85bce006-4885-11ee-8792-f23c9164ca5d","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"🇺🇸US美国8 2.0MB/s","type":"ss","server":"38.68.134.125","port":6379,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"zDNVedRFPQexG9v","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国9 432.1KB/s","type":"vmess","server":"admin.arzonhost.ir","port":2086,"cipher":"auto","uuid":"7d93e992-48cf-42d4-84f8-75768e815a4c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"admin.arzonhost.ir"}}}
+  - {"name":"🇺🇸US美国10 2.0MB/s","type":"ss","server":"38.75.136.21","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
+  - {"name":"🇬🇧GB英国 12.1MB/s","type":"trojan","server":"35.179.33.22","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"🇷🇺RU俄罗斯4 6.3MB/s","type":"vmess","server":"5.101.219.5","port":80,"cipher":"auto","uuid":"a9c33d66-e66f-4a53-9ef0-3f6c52c8d091","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/@forwardv2ray","headers":{"host":"tasnim.servecounterstrike.com"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -27,14 +28,15 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇧🇷BR巴西 42.6KB/s
-      - 🇺🇸US美国7 1.1MB/s
-      - 🇺🇸US美国8 3.8MB/s
-      - 🇺🇸US美国9 551.7KB/s
-      - 🇺🇸US美国11 1.1MB/s
-      - 🇺🇸US美国12 1.2MB/s
-      - 🇺🇸US美国13 115.6MB/s
-      - 🇷🇺RU俄罗斯2 194.6KB/s
+      - 🇺🇸US美国5 1.9MB/s
+      - 🇷🇺RU俄罗斯 2.4MB/s
+      - 🇺🇸US美国6 809.5KB/s
+      - 🇷🇺RU俄罗斯2 791.6KB/s
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9 432.1KB/s
+      - 🇺🇸US美国10 2.0MB/s
+      - 🇬🇧GB英国 12.1MB/s
+      - 🇷🇺RU俄罗斯4 6.3MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -42,14 +44,15 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇧🇷BR巴西 42.6KB/s
-      - 🇺🇸US美国7 1.1MB/s
-      - 🇺🇸US美国8 3.8MB/s
-      - 🇺🇸US美国9 551.7KB/s
-      - 🇺🇸US美国11 1.1MB/s
-      - 🇺🇸US美国12 1.2MB/s
-      - 🇺🇸US美国13 115.6MB/s
-      - 🇷🇺RU俄罗斯2 194.6KB/s
+      - 🇺🇸US美国5 1.9MB/s
+      - 🇷🇺RU俄罗斯 2.4MB/s
+      - 🇺🇸US美国6 809.5KB/s
+      - 🇷🇺RU俄罗斯2 791.6KB/s
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9 432.1KB/s
+      - 🇺🇸US美国10 2.0MB/s
+      - 🇬🇧GB英国 12.1MB/s
+      - 🇷🇺RU俄罗斯4 6.3MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -57,56 +60,60 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇧🇷BR巴西 42.6KB/s
-      - 🇺🇸US美国7 1.1MB/s
-      - 🇺🇸US美国8 3.8MB/s
-      - 🇺🇸US美国9 551.7KB/s
-      - 🇺🇸US美国11 1.1MB/s
-      - 🇺🇸US美国12 1.2MB/s
-      - 🇺🇸US美国13 115.6MB/s
-      - 🇷🇺RU俄罗斯2 194.6KB/s
+      - 🇺🇸US美国5 1.9MB/s
+      - 🇷🇺RU俄罗斯 2.4MB/s
+      - 🇺🇸US美国6 809.5KB/s
+      - 🇷🇺RU俄罗斯2 791.6KB/s
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9 432.1KB/s
+      - 🇺🇸US美国10 2.0MB/s
+      - 🇬🇧GB英国 12.1MB/s
+      - 🇷🇺RU俄罗斯4 6.3MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇧🇷BR巴西 42.6KB/s
-      - 🇺🇸US美国7 1.1MB/s
-      - 🇺🇸US美国8 3.8MB/s
-      - 🇺🇸US美国9 551.7KB/s
-      - 🇺🇸US美国11 1.1MB/s
-      - 🇺🇸US美国12 1.2MB/s
-      - 🇺🇸US美国13 115.6MB/s
-      - 🇷🇺RU俄罗斯2 194.6KB/s
+      - 🇺🇸US美国5 1.9MB/s
+      - 🇷🇺RU俄罗斯 2.4MB/s
+      - 🇺🇸US美国6 809.5KB/s
+      - 🇷🇺RU俄罗斯2 791.6KB/s
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9 432.1KB/s
+      - 🇺🇸US美国10 2.0MB/s
+      - 🇬🇧GB英国 12.1MB/s
+      - 🇷🇺RU俄罗斯4 6.3MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇧🇷BR巴西 42.6KB/s
-      - 🇺🇸US美国7 1.1MB/s
-      - 🇺🇸US美国8 3.8MB/s
-      - 🇺🇸US美国9 551.7KB/s
-      - 🇺🇸US美国11 1.1MB/s
-      - 🇺🇸US美国12 1.2MB/s
-      - 🇺🇸US美国13 115.6MB/s
-      - 🇷🇺RU俄罗斯2 194.6KB/s
+      - 🇺🇸US美国5 1.9MB/s
+      - 🇷🇺RU俄罗斯 2.4MB/s
+      - 🇺🇸US美国6 809.5KB/s
+      - 🇷🇺RU俄罗斯2 791.6KB/s
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9 432.1KB/s
+      - 🇺🇸US美国10 2.0MB/s
+      - 🇬🇧GB英国 12.1MB/s
+      - 🇷🇺RU俄罗斯4 6.3MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇧🇷BR巴西 42.6KB/s
-      - 🇺🇸US美国7 1.1MB/s
-      - 🇺🇸US美国8 3.8MB/s
-      - 🇺🇸US美国9 551.7KB/s
-      - 🇺🇸US美国11 1.1MB/s
-      - 🇺🇸US美国12 1.2MB/s
-      - 🇺🇸US美国13 115.6MB/s
-      - 🇷🇺RU俄罗斯2 194.6KB/s
+      - 🇺🇸US美国5 1.9MB/s
+      - 🇷🇺RU俄罗斯 2.4MB/s
+      - 🇺🇸US美国6 809.5KB/s
+      - 🇷🇺RU俄罗斯2 791.6KB/s
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9 432.1KB/s
+      - 🇺🇸US美国10 2.0MB/s
+      - 🇬🇧GB英国 12.1MB/s
+      - 🇷🇺RU俄罗斯4 6.3MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -130,14 +137,15 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇧🇷BR巴西 42.6KB/s
-      - 🇺🇸US美国7 1.1MB/s
-      - 🇺🇸US美国8 3.8MB/s
-      - 🇺🇸US美国9 551.7KB/s
-      - 🇺🇸US美国11 1.1MB/s
-      - 🇺🇸US美国12 1.2MB/s
-      - 🇺🇸US美国13 115.6MB/s
-      - 🇷🇺RU俄罗斯2 194.6KB/s
+      - 🇺🇸US美国5 1.9MB/s
+      - 🇷🇺RU俄罗斯 2.4MB/s
+      - 🇺🇸US美国6 809.5KB/s
+      - 🇷🇺RU俄罗斯2 791.6KB/s
+      - 🇺🇸US美国8 2.0MB/s
+      - 🇺🇸US美国9 432.1KB/s
+      - 🇺🇸US美国10 2.0MB/s
+      - 🇬🇧GB英国 12.1MB/s
+      - 🇷🇺RU俄罗斯4 6.3MB/s
 
 
 rules:
