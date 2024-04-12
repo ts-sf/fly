@@ -13,10 +13,10 @@
 #### 部分节点  
 ``` 
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSIsImFkZCI6IjE3Mi42Ny4xMzAuMTQwIiwicG9ydCI6IjIwODIiLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzMWMudjIudjAwMXNzcy54eXoiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9In0=
-trojan://85bce006-4885-11ee-8792-f23c9164ca5d@176.32.35.167:1007?security=tls&sni=004282c1-sbdj40-sdlngq-1n7jq.ru.z7zi.com#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSIsImFkZCI6InR1Lm1haGlsdS5zaXRlIiwicG9ydCI6IjIwOTUiLCJpZCI6IjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiJzMWMudjIudjAwMXNzcy54eXoiLCJwb3J0IjoiMjA4MiIsImlkIjoiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InMxYy52Mi52MDAxc3NzLnh5eiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70yIn0=
-trojan://telegram-id-directvpn@34.215.143.114:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.175:5001#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8%20731.1KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
