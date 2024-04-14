@@ -13,10 +13,10 @@
 #### 部分节点  
 ``` 
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5
-trojan://JNT7G9S5rMoz@3.129.26.187:15402?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://telegram-id-privatevpns@18.171.213.165:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%2020.7MB%2Fs
-trojan://pSBjqDUniZsE@3.231.149.218:15403?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTQgMTEuMU1CL3MiLCJhZGQiOiIxMDQuMjAuNzIuNzUiLCJwb3J0IjoiODAiLCJpZCI6Ijg1MmJhNGFjLTQ5YmMtNGM3ZS1iNzU3LTZkNDU2YTYxNTU0NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IumdouadoXRoZWhhdW50ZWRob3RlbOmHjumkkOaQj+WHu+S/seS5kOmDqC5zdW9ueWNhcnMuYnV6ei4iLCJwYXRoIjoiL3QubWUtRGFya1ZQTnByby10Lm1lLURhcmtWUE5wcm8tdC5tZS1EYXJrVlBOcHJvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm700In0=
+trojan://telegram-id-privatevpns@34.253.219.230:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0
+trojan://IeHGFJdwgaxE@18.199.93.46:15419?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://telegram-id-privatevpns@13.39.165.66:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://e8105dfd24414268b6c7652c63731097@198.41.202.5:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
