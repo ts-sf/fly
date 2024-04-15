@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://qj1Dz1CJmFQRhWr1SP80aA@104.21.69.44:443?security=tls&type=grpc&sni=cdn-21.gsmxreality.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@15.184.233.173:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptS3gxaXhRVm5pTTlObVNPd3lqTWRK@52.151.90.80:34782#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%20178.6KB%2Fs
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%202.0MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Plub/kuJwiLCJhZGQiOiJkYXRhLXVzLXYxLnNod2pma3cuY24iLCJwb3J0IjoiMjA0MDEiLCJpZCI6ImIxNDc4ZTI0LTQ5MTYtM2FiZS04ZjE3LTE1OTMxMDEyZWNiZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkYXRhLXVzLXYxLnNod2pma3cuY24iLCJwYXRoIjoiL2RlYmlhbiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IvCfh6jwn4ez5bm/5LicIn0=
+trojan://telegram-id-privatevpns@54.76.200.35:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20005#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+trojan://2dbd2a10-9512-4b60-84e6-5d9926a9fe5b@188.114.96.3:2083?security=tls&type=grpc&sni=majidrezarahnavard.pardazesh.tech#%F0%9F%87%A7%F0%9F%87%B7BR%E5%B7%B4%E8%A5%BF
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  

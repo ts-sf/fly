@@ -2,9 +2,9 @@
 ####################################
 # 创建者：https://github.com/ts-sf/fly
 # 客户端：Clash
-# 创建时间：2024-04-15 06:39:36
+# 创建时间：2024-04-15 11:40:33
 # 使用模版：V2RaySE 默认模版
-# 节点数量：15
+# 节点数量：13
 ####################################
 #
 mixed-port: 7890
@@ -12,21 +12,19 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇬🇧GB英国","type":"trojan","server":"51.20.38.197","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇺🇸US美国","type":"trojan","server":"104.21.69.44","port":443,"cipher":"auto","alterId":0,"tls":true,"password":"qj1Dz1CJmFQRhWr1SP80aA","sni":"cdn-21.gsmxreality.com","skip-cert-verify":true,"network":"grpc","udp":true}
-  - {"name":"🇷🇺RU俄罗斯","type":"ss","server":"185.242.86.156","port":54170,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"36ZCHeabUSfKjfQEvJ4HDV","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国2","type":"ss","server":"15.184.233.173","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"2LVVFxxHJSBMdGdl","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国3 178.6KB/s","type":"ss","server":"52.151.90.80","port":34782,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"mKx1ixQVniM9NmSOwyjMdJ","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国","type":"trojan","server":"172.67.204.84","port":443,"cipher":"auto","alterId":0,"tls":true,"password":"qj1Dz1CJmFQRhWr1SP80aA","sni":"cdn-21.gsmxreality.com","skip-cert-verify":true,"network":"grpc","udp":true}
+  - {"name":"🇺🇸US美国2 2.0MB/s","type":"ss","server":"38.121.43.71","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
+  - {"name":"🇨🇳广东","type":"vmess","server":"data-us-v1.shwjfkw.cn","port":20401,"cipher":"auto","uuid":"b1478e24-4916-3abe-8f17-15931012ecbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/debian","headers":{"host":"data-us-v1.shwjfkw.cn"}}}
+  - {"name":"🇮🇪IE爱尔兰","type":"trojan","server":"54.76.200.35","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"🇩🇪DE德国","type":"ss","server":"service.ouluyun9803.com","port":20005,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d6105bbd-be0d-45b2-82ad-31fd1071c1d2","skip-cert-verify":true}
+  - {"name":"🇧🇷BR巴西","type":"trojan","server":"188.114.96.3","port":2083,"cipher":"auto","alterId":0,"tls":true,"password":"2dbd2a10-9512-4b60-84e6-5d9926a9fe5b","sni":"majidrezarahnavard.pardazesh.tech","skip-cert-verify":true,"network":"grpc","udp":true}
+  - {"name":"🇩🇪DE德国2","type":"trojan","server":"52.28.130.157","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"🇺🇸US美国3 348.1KB/s","type":"vmess","server":"104.18.113.56","port":2052,"cipher":"auto","uuid":"e7bd848c-c1c9-40a4-b1d9-eba048a340c5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/9TfVEyku","headers":{"host":"wtywwcrzjp5.yofnhkfc.xyz"}}}
+  - {"name":"🇺🇸US美国4","type":"trojan","server":"198.41.220.5","port":443,"cipher":"auto","alterId":0,"tls":true,"password":"cb1f26aa437d4bfa9b841d28503ce8cc","sni":"jobscareertoday.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇩🇪DE德国3","type":"ss","server":"service.ouluyun9803.com","port":20003,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d6105bbd-be0d-45b2-82ad-31fd1071c1d2","skip-cert-verify":true}
   - {"name":"未知","type":"ss","server":"127.0.0.1","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"6601fb90e9b3","skip-cert-verify":true}
-  - {"name":"🇰🇷KR韩国 18.9MB/s","type":"trojan","server":"103.214.68.57","port":10003,"cipher":"auto","alterId":0,"tls":true,"password":"6x8HcghsjS","sni":"yes998.chickenkiller.com","skip-cert-verify":true,"udp":true}
-  - {"name":"🇩🇪DE德国","type":"trojan","server":"3.126.76.182","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇬🇧GB英国2","type":"ss","server":"series-a2.samanehha.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"mps3FwmDjLrWaOVg","skip-cert-verify":true}
-  - {"name":"🇷🇺RU俄罗斯2 353.9KB/s","type":"ss","server":"94.228.169.114","port":25663,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1ef9jGvAyzXLLnjssRFr8M","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国4","type":"trojan","server":"13.36.146.222","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇺🇸US美国5","type":"trojan","server":"13.36.81.72","port":22222,"cipher":"auto","alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇮🇷IR伊朗 21.0MB/s","type":"ss","server":"91.186.210.150","port":30129,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"Yc2CtrIz8L","skip-cert-verify":true}
   - {"name":"🇨🇳北京","type":"vmess","server":"zf.lalayun.cyou","port":10163,"cipher":"auto","uuid":"b1553abe-6f1f-3288-bfc2-908b2f9fc4fc","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/v2ray","headers":{"host":"hk.lalayunssl.xyz"}}}
-  - {"name":"🇺🇸US美国6 10.3MB/s","type":"ss","server":"75.102.51.45","port":16899,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"Yc2CtrIz8L","skip-cert-verify":true}
+  - {"name":"🇷🇺RU俄罗斯","type":"ss","server":"185.242.86.156","port":54170,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"36ZCHeabUSfKjfQEvJ4HDV","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -34,21 +32,19 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇬🇧GB英国
       - 🇺🇸US美国
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国2
-      - 🇺🇸US美国3 178.6KB/s
-      - 未知
-      - 🇰🇷KR韩国 18.9MB/s
+      - 🇺🇸US美国2 2.0MB/s
+      - 🇨🇳广东
+      - 🇮🇪IE爱尔兰
       - 🇩🇪DE德国
-      - 🇬🇧GB英国2
-      - 🇷🇺RU俄罗斯2 353.9KB/s
+      - 🇧🇷BR巴西
+      - 🇩🇪DE德国2
+      - 🇺🇸US美国3 348.1KB/s
       - 🇺🇸US美国4
-      - 🇺🇸US美国5
-      - 🇮🇷IR伊朗 21.0MB/s
+      - 🇩🇪DE德国3
+      - 未知
       - 🇨🇳北京
-      - 🇺🇸US美国6 10.3MB/s
+      - 🇷🇺RU俄罗斯
 
   - name: ♻️ 自动选择
     type: url-test
@@ -56,21 +52,19 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇬🇧GB英国
       - 🇺🇸US美国
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国2
-      - 🇺🇸US美国3 178.6KB/s
-      - 未知
-      - 🇰🇷KR韩国 18.9MB/s
+      - 🇺🇸US美国2 2.0MB/s
+      - 🇨🇳广东
+      - 🇮🇪IE爱尔兰
       - 🇩🇪DE德国
-      - 🇬🇧GB英国2
-      - 🇷🇺RU俄罗斯2 353.9KB/s
+      - 🇧🇷BR巴西
+      - 🇩🇪DE德国2
+      - 🇺🇸US美国3 348.1KB/s
       - 🇺🇸US美国4
-      - 🇺🇸US美国5
-      - 🇮🇷IR伊朗 21.0MB/s
+      - 🇩🇪DE德国3
+      - 未知
       - 🇨🇳北京
-      - 🇺🇸US美国6 10.3MB/s
+      - 🇷🇺RU俄罗斯
 
   - name: 🌍 国外媒体
     type: select
@@ -78,84 +72,76 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧GB英国
       - 🇺🇸US美国
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国2
-      - 🇺🇸US美国3 178.6KB/s
-      - 未知
-      - 🇰🇷KR韩国 18.9MB/s
+      - 🇺🇸US美国2 2.0MB/s
+      - 🇨🇳广东
+      - 🇮🇪IE爱尔兰
       - 🇩🇪DE德国
-      - 🇬🇧GB英国2
-      - 🇷🇺RU俄罗斯2 353.9KB/s
+      - 🇧🇷BR巴西
+      - 🇩🇪DE德国2
+      - 🇺🇸US美国3 348.1KB/s
       - 🇺🇸US美国4
-      - 🇺🇸US美国5
-      - 🇮🇷IR伊朗 21.0MB/s
+      - 🇩🇪DE德国3
+      - 未知
       - 🇨🇳北京
-      - 🇺🇸US美国6 10.3MB/s
+      - 🇷🇺RU俄罗斯
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧GB英国
       - 🇺🇸US美国
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国2
-      - 🇺🇸US美国3 178.6KB/s
-      - 未知
-      - 🇰🇷KR韩国 18.9MB/s
+      - 🇺🇸US美国2 2.0MB/s
+      - 🇨🇳广东
+      - 🇮🇪IE爱尔兰
       - 🇩🇪DE德国
-      - 🇬🇧GB英国2
-      - 🇷🇺RU俄罗斯2 353.9KB/s
+      - 🇧🇷BR巴西
+      - 🇩🇪DE德国2
+      - 🇺🇸US美国3 348.1KB/s
       - 🇺🇸US美国4
-      - 🇺🇸US美国5
-      - 🇮🇷IR伊朗 21.0MB/s
+      - 🇩🇪DE德国3
+      - 未知
       - 🇨🇳北京
-      - 🇺🇸US美国6 10.3MB/s
+      - 🇷🇺RU俄罗斯
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇬🇧GB英国
       - 🇺🇸US美国
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国2
-      - 🇺🇸US美国3 178.6KB/s
-      - 未知
-      - 🇰🇷KR韩国 18.9MB/s
+      - 🇺🇸US美国2 2.0MB/s
+      - 🇨🇳广东
+      - 🇮🇪IE爱尔兰
       - 🇩🇪DE德国
-      - 🇬🇧GB英国2
-      - 🇷🇺RU俄罗斯2 353.9KB/s
+      - 🇧🇷BR巴西
+      - 🇩🇪DE德国2
+      - 🇺🇸US美国3 348.1KB/s
       - 🇺🇸US美国4
-      - 🇺🇸US美国5
-      - 🇮🇷IR伊朗 21.0MB/s
+      - 🇩🇪DE德国3
+      - 未知
       - 🇨🇳北京
-      - 🇺🇸US美国6 10.3MB/s
+      - 🇷🇺RU俄罗斯
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧GB英国
       - 🇺🇸US美国
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国2
-      - 🇺🇸US美国3 178.6KB/s
-      - 未知
-      - 🇰🇷KR韩国 18.9MB/s
+      - 🇺🇸US美国2 2.0MB/s
+      - 🇨🇳广东
+      - 🇮🇪IE爱尔兰
       - 🇩🇪DE德国
-      - 🇬🇧GB英国2
-      - 🇷🇺RU俄罗斯2 353.9KB/s
+      - 🇧🇷BR巴西
+      - 🇩🇪DE德国2
+      - 🇺🇸US美国3 348.1KB/s
       - 🇺🇸US美国4
-      - 🇺🇸US美国5
-      - 🇮🇷IR伊朗 21.0MB/s
+      - 🇩🇪DE德国3
+      - 未知
       - 🇨🇳北京
-      - 🇺🇸US美国6 10.3MB/s
+      - 🇷🇺RU俄罗斯
 
   - name: 🎯 全球直连
     type: select
@@ -179,21 +165,19 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧GB英国
       - 🇺🇸US美国
-      - 🇷🇺RU俄罗斯
-      - 🇺🇸US美国2
-      - 🇺🇸US美国3 178.6KB/s
-      - 未知
-      - 🇰🇷KR韩国 18.9MB/s
+      - 🇺🇸US美国2 2.0MB/s
+      - 🇨🇳广东
+      - 🇮🇪IE爱尔兰
       - 🇩🇪DE德国
-      - 🇬🇧GB英国2
-      - 🇷🇺RU俄罗斯2 353.9KB/s
+      - 🇧🇷BR巴西
+      - 🇩🇪DE德国2
+      - 🇺🇸US美国3 348.1KB/s
       - 🇺🇸US美国4
-      - 🇺🇸US美国5
-      - 🇮🇷IR伊朗 21.0MB/s
+      - 🇩🇪DE德国3
+      - 未知
       - 🇨🇳北京
-      - 🇺🇸US美国6 10.3MB/s
+      - 🇷🇺RU俄罗斯
 
 
 rules:
