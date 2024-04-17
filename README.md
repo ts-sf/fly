@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://QagrXxIO9XjS@3.112.127.227:15398?sni=appsvs.shop#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://telegram-id-directvpn@3.132.116.81:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%2027.1MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh7dCUuW3tOilvyA2MDcuM0tCL3MiLCJhZGQiOiIxODguMTE0Ljk4LjAiLCJwb3J0IjoiMjA4NiIsImlkIjoiN2Q5M2U5OTItNDhjZi00MmQ0LTg0ZjgtNzU3NjhlODE1YTRjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYWRtaW4uYXJ6b25ob3N0LmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJCUuW3tOilvyJ9
-trojan://47239cba-d16f-4d9c-93d5-c500d71d4eb0@89.168.22.19:48102?security=tls&type=tcp&sni=it01.freeflyingcloud.xyz#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
-trojan://b07ec484-8bc6-4005-9c0e-c209bbd4bc7b@144.24.201.237:30502?security=tls&type=tcp&sni=fr01.freeflyingcloud.xyz#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A
+trojan://F4azX7tG29ca@54.191.106.104:16617?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://qGfd9Q6zezuU@3.96.189.69:16622?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMiLCJhZGQiOiIxNzIuNjcuMTcyLjY1IiwicG9ydCI6IjgwODAiLCJpZCI6ImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Im9paWN0dy55eWRzaWkuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTMifQ==
+trojan://5c31e368-f6de-44c2-9ed6-f4d6aab381fc@kr01.freeflyingcloud.xyz:24852?sni=kr01.freeflyingcloud.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%203.9MB%2Fs
+trojan://6d257b63-0632-4dd6-b021-3085f8dc28b2@it01.freeflyingcloud.xyz:48102?sni=it01.freeflyingcloud.xyz#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%202.2MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
