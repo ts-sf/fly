@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7pSVeS/hOe9l+aWryA4NjguMktCL3MiLCJhZGQiOiI0NS4xNDcuMjAwLjIwMyIsInBvcnQiOiIxODIzNCIsImlkIjoiYTViZDVkNjItNWQzMi00OTM5LWEwYzUtMmUyYzIyZjkwNDYxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiUlXkv4TnvZfmlq8ifQ==
-trojan://telegram-id-privatevpns@13.36.81.251:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6%203.2MB%2Fs
-trojan://68dc22fb-e7f3-4806-acd7-b4182d80981e@kr02.freeflyingcloud.xyz:21702?sni=kr02.freeflyingcloud.xyz#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%204.5MB%2Fs
-trojan://telegram-id-directvpn@18.218.42.143:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12%203.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOV05pTQ==@94.131.101.69:8388#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B02%2016.8MB%2Fs
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.122:7306#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%202.0MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTUgMjgxLjhLQi9zIiwiYWRkIjoiMTcyLjY3LjE4NS42NCIsInBvcnQiOiI4MDgwIiwiaWQiOiJiNTUxYWEyMi0yMmFmLTExZWUtYjhkOC1mMjNjOTMyZWI2OGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJvaWljdHcueXlkc2lpLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm701In0=
+trojan://904dd222-2514-4a68-9185-32f89113afd9@kr01.freeflyingcloud.xyz:24852?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD%201.3MB%2Fs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6%201.9MB%2Fs
+trojan://0f823acc-0136-4203-8151-7fd99677f5aa@it01.freeflyingcloud.xyz:48102?sni=it01.freeflyingcloud.xyz#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD2%207.2MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
