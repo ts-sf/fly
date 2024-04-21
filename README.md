@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/speed/v2`  
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMgMjUuNEtCL3MiLCJhZGQiOiIxMDQuMTkuNDAuMjIyIiwicG9ydCI6Ijg4ODAiLCJpZCI6IjU3ZTBjYjRkLWVhZTUtNDhlYy04MDkxLTE0OWRjMmIzMDllMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ1ay5tb3NzLm5ldHdvcmsiLCJwYXRoIjoiL2QvNjVkZDUwMy5URy5XYW5nQ2FpMi5XYW5nQ2FpXzg6MTA3NjkwIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm70zIn0=
-trojan://telegram-id-directvpn@99.79.30.204:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%2029.5MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTQgMy41TUIvcyIsImFkZCI6Im1pemJhbi5hcnpvbmhvc3QuaXIiLCJwb3J0IjoiMjA4NiIsImlkIjoiZTY5MGZmOWUtMTY3Ni00YmUzLWQxMzYtZGNhZTU4NmNiMWU3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im1pemJhbi5hcnpvbmhvc3QuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9NCJ9
-trojan://telegram-id-privatevpns@34.255.39.135:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0%2027.4MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@154.47.20.240:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6%203.4MB%2Fs
+trojan://0f823acc-0136-4203-8151-7fd99677f5aa@kr02.freeflyingcloud.xyz:21702?security=tls&sni=kr02.freeflyingcloud.xyz#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2%201.5MB%2Fs
+trojan://0d5b3d65-e71e-4235-bf68-ea753ad87cc2@uk01.freeflyingcloud.xyz:22252?sni=uk01.freeflyingcloud.xyz#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%2017.8MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.215:8080#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5%2018.1MB%2Fs
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.108:9101#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:8888#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
