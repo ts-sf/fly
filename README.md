@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.108:7306#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%201.9MB%2Fs
-trojan://0f823acc-0136-4203-8151-7fd99677f5aa@kr02.freeflyingcloud.xyz:21702?security=tls&sni=kr02.freeflyingcloud.xyz#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2%201.5MB%2Fs
-trojan://5olSIR5kKPAq@18.195.60.27:17415?sni=appsvs.shop#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-trojan://telegram-id-privatevpns@18.199.209.48:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://BzWBsdG35CzW@15.156.204.76:17411?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh7dCUuW3tOilvyIsImFkZCI6IjE4OC4xMTQuOTYuNiIsInBvcnQiOiI0NDMiLCJpZCI6IjViMGE0ODllLWU5ZWItNDFiMS05MDJlLWQ0YWNhZDY2N2JhNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJob3N0IjoiIiwicGF0aCI6ImFyZ28iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhY2Nlc3NvcmllczguZnJlZWFpcmxhaW5lcy5jb20iLCJ0ZXN0X25hbWUiOiJCUuW3tOilvyJ9
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Plub/kuJwiLCJhZGQiOiIxMjAuMjMyLjI0Mi4xMTciLCJwb3J0IjoiNDE0OTIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoi8J+HqPCfh7Plub/kuJwifQ==
+trojan://ecc532e2-3f8b-4a30-b176-78951fda6542@it01.freeflyingcloud.xyz:48102?sni=it01.freeflyingcloud.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%207.3MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Plub/kuJwyIiwiYWRkIjoiZGF0YS1qcC12MS51c2Fib29rcy5jb20uY24iLCJwb3J0IjoiMjAzMDEiLCJpZCI6ImIxNDc4ZTI0LTQ5MTYtM2FiZS04ZjE3LTE1OTMxMDEyZWNiZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkYXRhLWpwLXYxLnVzYWJvb2tzLmNvbS5jbiIsInBhdGgiOiIvZGViaWFuIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoi8J+HqPCfh7Plub/kuJwyIn0=
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
