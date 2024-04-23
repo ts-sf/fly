@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://rlScSwN1Weuo@35.180.158.101:14640?sni=appsvs.shop#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2WVJYSlA=@u2k3f8l6w4-fbnode-my05.6pzfwf.com:56070#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
-trojan://f37a931d-7092-48fe-b82f-a98da3040eb2@de2.trojanvpn.de:2053?sni=de2.trojanvpn.de#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:26667#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6pTReeRnuWFuCA0NTguOEtCL3MiLCJhZGQiOiJmYXN0bHkuYWxpcGF5Lm92aCIsInBvcnQiOiI4MCIsImlkIjoiZDM5YTM0N2EtMDBjOS00ZjkxLTkyNTUtN2Y1MzZjMDdjNWE4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im5tc2wua3AiLCJwYXRoIjoiL2FyaWVzP2VkPTI1NjAiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJTReeRnuWFuCJ9
+trojan://telegram-id-directvpn@18.188.216.75:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://c2xKXYIw9lCG@3.67.197.170:15414?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSnNySmV5Z1N3WDQ=@45.95.233.21:443#%E6%9C%AA%E7%9F%A5%201.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
