@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://telegram-id-privatevpns@18.171.36.63:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%203.2MB%2Fs
-trojan://KZRNRgPCFPPV@13.212.233.105:13419?sni=appsvs.shop#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh7dCUuW3tOilvyIsImFkZCI6IjE4OC4xMTQuOTYuNiIsInBvcnQiOiI0NDMiLCJpZCI6IjViMGE0ODllLWU5ZWItNDFiMS05MDJlLWQ0YWNhZDY2N2JhNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJob3N0IjoiIiwicGF0aCI6ImFyZ28iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhY2Nlc3NvcmllczguZnJlZWFpcmxhaW5lcy5jb20iLCJ0ZXN0X25hbWUiOiJCUuW3tOilvyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://rfBSjA4iqrWb@34.220.172.40:13410?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeElVdUJsWngySVR1UFVUSDVTY2lC@51.140.77.109:61735#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%20117.3KB%2Fs
+trojan://telegram-id-privatevpns@13.53.98.71:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8%209.3MB%2Fs
+trojan://KZRNRgPCFPPV@13.212.233.105:13419?sni=appsvs.shop#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://BZjkHMao@112.29.94.24:51000?#%F0%9F%87%A8%F0%9F%87%B3%E5%AE%89%E5%BE%BD
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Plub/kuJwyIiwiYWRkIjoiZGF0YS11cy12MS5zaHdqZmt3LmNuIiwicG9ydCI6IjIwNDAxIiwiaWQiOiJiMTQ3OGUyNC00OTE2LTNhYmUtOGYxNy0xNTkzMTAxMmVjYmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZGF0YS11cy12MS5zaHdqZmt3LmNuIiwicGF0aCI6Ii9kZWJpYW4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiLwn4eo8J+Hs+W5v+S4nDIifQ==
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
