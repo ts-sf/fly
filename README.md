@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
+trojan://CMLiu@aliyun.classelivre.eu.org:2096?type=ws&sni=trojan.classelivre.eu.org&path=/?ed=2048&host=trojan.classelivre.eu.org#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://eb7e85c8-d699-4d84-9a69-d44a1b5e2de9@206.189.136.156:443?type=tcp&sni=in-a.speedyweb.xyz&host=in-a.speedyweb.xyz#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6
+trojan://CMLiu@47.236.144.196:2053?type=ws&sni=trojan.classelivre.eu.org&path=/?ed=2048&host=trojan.classelivre.eu.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20005#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIgMjM3LjdLQi9zIiwiYWRkIjoiMTcyLjY3LjE5OS4xODUiLCJwb3J0IjoiODA4MCIsImlkIjoiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im9paWN0dy55eWRzaWkuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTIifQ==
-trojan://MyYoZhfX@36.138.99.56:40316?type=tcp#%F0%9F%87%A8%F0%9F%87%B3%E7%94%98%E8%82%83
-trojan://hy23oVoG3ChY@34.219.207.250:17429?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20003#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
