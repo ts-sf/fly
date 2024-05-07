@@ -12,11 +12,11 @@
 - `https://raw.fgit.ml/ts-sf/fly/main/v2`  
 #### 部分节点  
 ``` 
-trojan://CMLiu@aliyun.classelivre.eu.org:2096?type=ws&sni=trojan.classelivre.eu.org&path=/?ed=2048&host=trojan.classelivre.eu.org#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://eb7e85c8-d699-4d84-9a69-d44a1b5e2de9@206.189.136.156:443?type=tcp&sni=in-a.speedyweb.xyz&host=in-a.speedyweb.xyz#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6
-trojan://CMLiu@47.236.144.196:2053?type=ws&sni=trojan.classelivre.eu.org&path=/?ed=2048&host=trojan.classelivre.eu.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20003#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:26667#%F0%9F%87%AE%F0%9F%87%B9IT%E6%84%8F%E5%A4%A7%E5%88%A9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7PmuZbljJciLCJhZGQiOiJkYXRhLWpwLXYxLnVzYWJvb2tzLmNvbS5jbiIsInBvcnQiOiIyMDMwMSIsImlkIjoiYjE0NzhlMjQtNDkxNi0zYWJlLThmMTctMTU5MzEwMTJlY2JlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImRhdGEtanAtdjEudXNhYm9va3MuY29tLmNuIiwicGF0aCI6Ii9kZWJpYW4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiLwn4eo8J+Hs+a5luWMlyJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIgMTA4LjlLQi9zIiwiYWRkIjoiMTcyLjY3LjE3Mi42NyIsInBvcnQiOiI4MDgwIiwiaWQiOiJiNTUxYWEyMi0yMmFmLTExZWUtYjhkOC1mMjNjOTMyZWI2OGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoib2lpY3R3Lnl5ZHNpaS5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVT576O5Zu9MiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZDNGUnE0Yk1Rd293SFJDWjN2Mnht@46.226.164.2:16006#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://telegram-id-directvpn@18.158.31.112:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
