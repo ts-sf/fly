@@ -1,8 +1,8 @@
 name: subscribe update
 
 on:
-  push:
-      branches: [ "main" ]
+  # push:
+      # branches: [ "main" ]
   schedule:
     - cron: '20 */8 * * *'
   workflow_dispatch:
@@ -12,22 +12,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      #- name: setup rust and go
-      #  run:  |
-      #    sudo curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+      - name: setup rust and go
       - uses: dtolnay/rust-toolchain@stable
-      - uses: actions/setup-go@v4
+      - uses: actions/setup-go@v5
         with:
           go-version: '>=1.19.0'
       - run:  |
-          cargo --version
           rustc --version
           go version
-
-
-      
+          
       - name: make env
         run: |
           git --version
@@ -35,13 +30,13 @@ jobs:
           mkdir orepo
           cd orepo
         
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: 'ts-sf/v2tool'
           path: '${{ github.workspace }}/orepo/v2tool'
           ref:  'dev'
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: '${{ secrets.ROMOTE_REPO }}'
           token: '${{ secrets.PERSONAL_TOKEN }}'
