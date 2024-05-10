@@ -4,7 +4,7 @@ on:
   # push:
       # branches: [ "main" ]
   schedule:
-    - cron: '20 */8 * * *'
+    - cron: '07 */8 * * *'
   workflow_dispatch:
 
 jobs:
@@ -82,7 +82,7 @@ jobs:
           github_token: ${{ secrets.PERSONAL_TOKEN }}
 
       - name: checkout speed
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref:  speed
           path: 'orepo/speed'
