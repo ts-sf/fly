@@ -8,20 +8,19 @@
   
 ### 节点更新订阅  v2ray
 - `https://raw.githubusercontent.com/ts-sf/fly/main/v2`  
-- `https://raw.fastgit.org/ts-sf/fly/main/v2`  
-- `https://raw.fgit.ml/ts-sf/fly/main/v2`  
+- `https://mirror.v2gh.com/https://raw.githubusercontent.com/ts-sf/fly/main/v2`  
+
 #### 部分节点  
 ``` 
-trojan://telegram-id-privatevpns@16.16.151.254:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@15.184.169.9:443#%E6%9C%AA%E7%9F%A53
-trojan://wkmY1R4EcP@45.63.110.20:443?security=tls&type=tcp&sni=z-v2-003281.kailib.com#US%2030.8MB%2Fs
-trojan://caaabbc-caba-caab-cabd-abcacbacbcab@127.0.0.1:1080?security=tls&type=tcp#%E6%9C%AA%E7%9F%A54
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSIsImFkZCI6InpmLmxhbGF5dW4uY3lvdSIsInBvcnQiOiIxMDE2MyIsImlkIjoiYjE1NTNhYmUtNmYxZi0zMjg4LWJmYzItOTA4YjJmOWZjNGZjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImhrLmxhbGF5dW5zc2wueHl6IiwicGF0aCI6Ii92MnJheSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjUifQ==
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.154.136.149:7001#US%201.9MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6InN2dDIwMy50b3BuZXR2aXAuY29tIiwicG9ydCI6IjExOTQiLCJpZCI6IjM0NTA1MTBiLTYzOTgtNDdhOS1iMDAzLTJhZDkxN2JkYWE0MyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjUuNzUuMjAyLjc2IiwicG9ydCI6IjM5NTIzIiwiaWQiOiJlN2U3NTc0OS05YTU3LTQ0NzEtYTlhNy01NDcyYmUwYTBjZGEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTkRxMXF0aTNKTmlPWE5IQ0U4RExr@162.221.207.62:443#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.225:5499#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
-- `https://raw.fastgit.org/ts-sf/fly/main/clash`  
-- `https://raw.fgit.ml/ts-sf/fly/main/clash`  
+- `https://mirror.v2gh.com/https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
 
 ### 节点测速结果
 ![image](traffic.png)
