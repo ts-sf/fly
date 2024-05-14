@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://telegram-id-directvpn@52.48.16.148:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%2020.3MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3389#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCekVjaWlQVjhhbk1BS0NaNU5Nbzc1@146.19.233.101:29682#%E6%9C%AA%E7%9F%A53
-trojan://telegram-id-directvpn@35.182.109.91:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A54
-trojan://qjIPNzdyWS@104.21.69.44:8080?security=none&type=ws&path=/new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel/new_proxy_channel?ed=2560&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#%E6%9C%AA%E7%9F%A55
+trojan://3c91d857-2d40-39b9-81c0-f6adde8037ff@cc2.doubledou.win:4584?sni=cc2.doubledou.win#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.19:2376#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.139.225.183:443#%E6%9C%AA%E7%9F%A52%20251.4KB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.143.93.163:443#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206TjBrNnRTV2JsSQ==@129.146.102.22:34017#US2%2019.4MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
