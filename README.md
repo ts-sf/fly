@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://08591c34-9a79-403f-8699-ab42fcbd452f@178.79.176.97:443?#%E6%9C%AA%E7%9F%A52
-trojan://Ck0nkbbsur@104.26.5.32:2096?security=tls&type=ws&sni=tls.redbullplus.xyz&path=/wsss&host=tls.redbullplus.xyz#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#US%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5601#US2%201.7MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjE4My4yMzcuMjAuMTU4IiwicG9ydCI6IjQxMjQyIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQifQ==
+trojan://telegram-id-privatevpns@3.77.167.172:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.43:6679#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%201.9MB%2Fs
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.225.246.221:16899#US%2036.6MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjEwNy4xODIuMTg5LjIwMSIsInBvcnQiOiI1NTE4NyIsImlkIjoiMjY2NzBhNzYtNWZlMi00NzM4LWE4NGItMTIyOTkwNWUwMzU0IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMyJ9
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.225:8000#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
