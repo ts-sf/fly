@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.19:2376#US%201.9MB%2Fs
-trojan://88496c26-3356-47fc-b786-fb8e41a3ff55@152.67.217.187:443?security=tls&type=tcp&sni=59amd2.1365365.xyz#%E6%9C%AA%E7%9F%A52
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjQ1LjE0LjI0NC4xMzMiLCJwb3J0IjoiMjAyNCIsImlkIjoiYmYxZGQzMjgtYTYwNS00OGZkLTkxOGYtNDRjY2ExY2ZlMDdmIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#%E6%9C%AA%E7%9F%A54%201.7MB%2Fs
-trojan://97fdf760-7bbf-11eb-8e14-1239d0255272@103.253.24.216:443?sni=sg3-trojan.bonds.id#%E6%9C%AA%E7%9F%A55
+trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.62:4003?security=tls&type=tcp&sni=nl1.chuqiangtou.net#%E6%9C%AA%E7%9F%A52
+trojan://auto@104.18.15.166:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A53
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.159.2:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A54
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSIsImFkZCI6IjIzLjIyNy4zOS40NyIsInBvcnQiOiIyMDgzIiwiaWQiOiJjMjRmODIyZi04MjMzLTQ5OTYtOTE4My04Y2FhZDVhM2QxOWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiZ3VuIiwiaG9zdCI6IiIsInBhdGgiOiIyMy4yMjcuMzkuNDciLCJ0bHMiOiJ0bHMiLCJzbmkiOiJiZWh0YXJpbmZyLnR1cmthbHBoYXByby5pciIsInRlc3RfbmFtZSI6IjUifQ==
+trojan://44cae3ca-8710-49a0-9567-490fb5e8aaf3@95.164.116.35:443?#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
