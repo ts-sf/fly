@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://telegram-id-privatevpns@99.80.96.12:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%2023.7MB%2Fs
-trojan://auto@162.159.136.232:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://82a94230-1af7-11ef-955f-1239d0255272@51.210.182.170:443?security=tls&type=tcp&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%E6%9C%AA%E7%9F%A53
-trojan://a9d4426f1c76c6b@104.21.69.44:2053?security=tls&type=grpc&sni=bestfollower.fandlaandpro.ir#%E6%9C%AA%E7%9F%A54
-trojan://telegram-id-directvpn@18.130.129.33:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:3389#%E6%9C%AA%E7%9F%A52%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.225:8000#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.18.235:443#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptR1VDeEpVUkQ4eUhmWGV4dml2UWhK@51.145.101.254:19054#%E6%9C%AA%E7%9F%A54%20168.9KB%2Fs
+trojan://a5da0a9c-97e2-4179-a51a-66566b677740@136.243.85.167:443?security=tls&type=tcp&sni=speedtestc.dastresan.net.prod.hosts.ooklaserver.net#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
