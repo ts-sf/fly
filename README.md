@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.42:8080#US%201.7MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.59.21.129:443#%E6%9C%AA%E7%9F%A52
-ss://MWVhNDBkMjMtZTIyMy00YmU5LWE4MzAtMDM2Yzk3NDBiODMwOg==@172.67.209.158:443#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@198.244.228.191:443#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5000#US2%201.9MB%2Fs
+trojan://j0GM8nFJVq@167.71.209.134:443?security=tls&type=tcp&sni=aka.ms#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%201.8MB%2Fs
+trojan://auto@172.67.203.182:443?security=tls&type=ws&sni=esetsecuritylicense.bwnsmv.workers.dev&path=/?ed=2560&host=esetsecuritylicense.bwnsmv.workers.dev#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.190.198:2375#%E6%9C%AA%E7%9F%A53%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8881#US2%202.0MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
