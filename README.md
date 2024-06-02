@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://moist@146.56.38.95:57770?sni=trojan.freenods.sbs#%E6%9C%AA%E7%9F%A52
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.16.252.167:80#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.114.114.183:5498#US%201.9MB%2Fs
-trojan://NISHIKUITAN222@47.236.202.91:2053?security=tls&type=ws&sni=t306.ylks.link&path=/&host=t306.ylks.link#%E6%9C%AA%E7%9F%A54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakE1WW1NeA==@185.231.205.80:8388#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.87:4444#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E%201.8MB%2Fs
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12005?sni=cn1.one.edu.kg#HK
+ss://ZWNkNDA0YTItNzBiMi00ZTg5LTgzMzktODk1MzZjZGZhZTUyOg==@141.101.121.7:8080#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.79:9041#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.89:7306#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
