@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.87:4444#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E%201.8MB%2Fs
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12005?sni=cn1.one.edu.kg#HK
-ss://ZWNkNDA0YTItNzBiMi00ZTg5LTgzMzktODk1MzZjZGZhZTUyOg==@141.101.121.7:8080#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.79:9041#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.89:7306#US2%201.9MB%2Fs
+trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.3:7002#US%202.0MB%2Fs
+ss://MzljOTRlODYtMDViZS00MjkxLTkwNWQtYjhjYTFlMzg3YzExOg==@104.16.4.103:8880#%E6%9C%AA%E7%9F%A53
+trojan://auto@104.21.90.210:2053?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@104.167.197.23:57456#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
