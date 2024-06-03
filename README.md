@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.3:7002#US%202.0MB%2Fs
-ss://MzljOTRlODYtMDViZS00MjkxLTkwNWQtYjhjYTFlMzg3YzExOg==@104.16.4.103:8880#%E6%9C%AA%E7%9F%A53
-trojan://auto@104.21.90.210:2053?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@104.167.197.23:57456#US2
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.20:3306#US%201.9MB%2Fs
+trojan://NISHIKUITAN222@104.19.51.59:443?security=tls&type=ws&sni=t116.ylks.link&path=/&host=t116.ylks.link#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.19:5004#US2%20205.5KB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#US3%201.6MB%2Fs
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.87:8881#US4%201.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
