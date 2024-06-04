@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYeU01eDZwNENKOGRsYjB5OW1WSEJL@188.94.155.82:35152#%E6%9C%AA%E7%9F%A52
-trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@20.2.28.114:443?#HK
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#US%2036.5KB%2Fs
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.195.96:443#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3389#US2%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3306#US%202.0MB%2Fs
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.37.47:80#%E6%9C%AA%E7%9F%A52
+trojan://c8742e83-c325-4332-a427-9cdc997a4775@185.143.234.225:443?security=tls&type=ws&sni=dl.allavatar.top&path=/tr/t/tNtL/gfdr&host=dl.allavatar.top#%E6%9C%AA%E7%9F%A53
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A54
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&type=ws&sni=avianrecruit.com&path=6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
