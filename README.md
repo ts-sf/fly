@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZE9PdlRhWTAyd2RSNzdGb0k1cEI2@146.19.233.101:29682#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%20122.2KB%2Fs
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%E6%9C%AA%E7%9F%A52%2045.3KB%2Fs
-trojan://84f8a120-1fd0-11ef-add0-1239d0255272@51.210.182.170:443?security=tls&type=tcp&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.29:5499#US%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8118#US2%201.9MB%2Fs
+trojan://1e269a95-135c-4710-b3a5-dd59a0a07d06@95.164.116.35:443?#%E6%9C%AA%E7%9F%A52
+trojan://e8105dfd24414268b6c7652c63731097@104.16.192.155:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A53
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjQ2LjI0NS43Mi4xOCIsInBvcnQiOiI1NDI1IiwiaWQiOiJiZjQzOWUyMi1iYTgwLTQ2ZTgtOGQ5NS1kZDNmNGFkOTI2YjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQifQ==
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.65:8080#US%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDlTc1NyTUEwcDY5ZjE1V2dTNWdn@165.22.238.239:44386#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
