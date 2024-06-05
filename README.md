@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.9:5003#US2%202.0MB%2Fs
-ss://NTFiYWVkYTgtMTI4OC00NThhLWI1YWUtYjhiMDgwYjkzN2I2Og==@104.27.0.241:8880#%E6%9C%AA%E7%9F%A5
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.157:2087?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&Telegram🇨🇳 @WangCai2&host=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A52
-ss://ODZlMDA4MjktN2IyYy00ZmFjLWE1OTQtMmRmYWE3NTU2ZDY4Og==@172.67.209.118:443#%E6%9C%AA%E7%9F%A53
-ss://ZjBmNjdiODQtMjc3MC00NDEzLThiMjYtY2ZiMzAyZmFjMjQ3Og==@104.21.66.93:443#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.162.200.181:5499#%E6%9C%AA%E7%9F%A52%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.181:4444#%E6%9C%AA%E7%9F%A53%202.0MB%2Fs
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.159.2:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A54
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%E6%9C%AA%E7%9F%A56%2011.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
