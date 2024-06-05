@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.162.200.181:5499#%E6%9C%AA%E7%9F%A52%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.181:4444#%E6%9C%AA%E7%9F%A53%202.0MB%2Fs
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.159.2:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A54
-trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A55
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%E6%9C%AA%E7%9F%A56%2011.8MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZE9PdlRhWTAyd2RSNzdGb0k1cEI2@146.19.233.101:29682#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%20122.2KB%2Fs
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%E6%9C%AA%E7%9F%A52%2045.3KB%2Fs
+trojan://84f8a120-1fd0-11ef-add0-1239d0255272@51.210.182.170:443?security=tls&type=tcp&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.29:5499#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8118#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
