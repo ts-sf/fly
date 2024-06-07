@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://MWQxYTcxOTMtNjFhOS00ZmMxLTk3NzgtZGQ1MTdjZjlmOTE5Og==@172.67.136.208:8443#%E6%9C%AA%E7%9F%A5
-ss://NzBmNWQzYjgtN2QzMS00ZDdkLTk0NjctZTQzNzUyZDY2ZmNhOg==@172.67.134.202:2096#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.103:9084#%E6%9C%AA%E7%9F%A53%20370.9KB%2Fs
-ss://ODViOTRmMjAtZTU2My00OThiLTlkNGItYTc1NDM4YTUxMTAxOg==@104.18.4.2:2096#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.162.200.181:5498#%E6%9C%AA%E7%9F%A55%202.0MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSGg3bDBxVXREUG5VUG9VbU9Mblk0@45.159.249.42:7843#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%20446.9KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%E6%9C%AA%E7%9F%A52%2015.5MB%2Fs
+trojan://telegram-id-privatevpns@18.130.120.158:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
+ss://ZTZhMDQ3ZjAtNzM0Yi00YmQ3LTgyYWEtMzY3ZjJkODhmNGE0Og==@172.67.223.175:443#%E6%9C%AA%E7%9F%A54
+trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
