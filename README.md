@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@198.41.223.29:8080#%E6%9C%AA%E7%9F%A52
-trojan://f910b595-d86d-42c8-92e1-f72f6b435664@176.126.113.161:443?#%E6%9C%AA%E7%9F%A53
-trojan://1ZTbMoSRnm@172.67.10.53:2083?security=tls&type=ws&sni=mikasa.megafair.store&host=mikasa.megafair.store#%E6%9C%AA%E7%9F%A54
-trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.14:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A55
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.91.100.122:5601#US%201.7MB%2Fs
+trojan://dff13728-ee03-475b-b6e3-b7c3fa5fa772@194.195.125.6:443?#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.208:7002#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.26:7001#US2%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.71:8090#US3%201.8MB%2Fs
+ss://NjM2YjE2ODQtYjI2Yy00YTljLWJjNmUtOGUxMTk3YTM2ZDc0Og==@104.16.60.79:2052#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
