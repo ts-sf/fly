@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2Y0Mjg5NTUtODZjMi00NmIxLThjZDctZjExMTY2NmZmOWZjOg==@104.16.60.8:2053#%E6%9C%AA%E7%9F%A52
-ss://OWYwOWRjN2ItYWI5MC00NjY5LTgwYjctYWNlYmZjNGIzN2U5Og==@104.21.23.185:80#%E6%9C%AA%E7%9F%A53
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6Ijc3LjEwNS4xNjYuMjM5IiwicG9ydCI6IjExMTMzIiwiaWQiOiIzZWRhMGFlMy0xYTM2LTQyYWEtODkzNS1mMDYxMWQwN2MwNWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0In0=
-ss://NDY1ZmM0M2MtOTg3Mi00MGY5LWJiOTQtZWJlZTkzNGU0MGI0Og==@23.227.38.135:443#%E6%9C%AA%E7%9F%A55
-ss://MzU3NWJkYWQtOTlkMi00NzQyLWEzZWQtYzdmYzdiZGFhNjBkOg==@172.67.223.232:443#%E6%9C%AA%E7%9F%A56
+trojan://asFKWCs2Jtay@54.64.215.174:13352?sni=appsvs.shop#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+ss://YzQzY2YzMGMtMThmMS00ZTIwLWJkODgtNzNiMTI4OGM1MjAyOg==@104.27.62.243:443#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#%E6%9C%AA%E7%9F%A53%201.8MB%2Fs
+trojan://ExPreSEToo582b993d16e522@172.67.197.65:8443?security=tls&type=ws&sni=random.expreset479927393.workers.dev&host=random.expreset479927393.workers.dev#%E6%9C%AA%E7%9F%A54
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
