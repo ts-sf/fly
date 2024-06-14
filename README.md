@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://telegram-id-directvpn@13.38.224.245:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:5601#US%201.8MB%2Fs
-trojan://b2503e10-11d8-11ef-b00e-1239d0255272@172.67.204.84:443?security=tls&type=ws&sni=fr1.test3.net&path=/howdy&host=fr1.test3.net#%E6%9C%AA%E7%9F%A53
-trojan://saMgiangGt@172.67.180.110:443?security=tls&type=grpc&sni=teo.history-paint.art#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.83:7307#US2%201.9MB%2Fs
+ss://MTAxMDUwMWEtY2E5YS00NzljLTg0ZDAtMTMwOGQ5Nzc4OWI1Og==@172.67.134.218:443#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.49:7306#US%201.9MB%2Fs
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@13.75.91.209:443?#HK
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyA1MC42S0IvcyIsImFkZCI6IjEyOC4xNDAuMTI3LjIwNCIsInBvcnQiOiIyMDk1IiwiaWQiOiJhN2VkY2VkNC1kMDA2LTQ2MGUtOWY3OS00YWU4YjY0YWUxNzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1hcmsubWlyYWNsZXRheGJpdHMudG9wLiIsInBhdGgiOiIvVjJyYXl5bmd2cG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YzBkZjA5Zi1lMDE1LTQ0MWMtYTYwMi0xYjlkM2EwZmRkZWQ=@89.213.164.10:58691#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
