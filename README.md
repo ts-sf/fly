@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:3389#US%201.8MB%2Fs
-trojan://qj1Dz1CJmFQRhWr1SP80aA@104.16.1.10:443?sni=cdn-21.gsmxreality.com#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://1ZTbMoSRnm@172.67.10.53:2083?security=tls&type=ws&sni=mikasa.megafair.store&host=mikasa.megafair.store#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzE1MzRmZi04M2EzLTQxMzctOTFiNy03OWUxNDQ0ODk2NDM=@46.232.123.37:50207#HK
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.31:8118#US2%202.0MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.219.236:443#%E6%9C%AA%E7%9F%A52%20176.4KB%2Fs
+trojan://DyF9KXR8gx5EclDF6pT2lS3BejSRDazY7C0aYwaOApn33ZquZyIOex4CS83NAC@154.31.114.174:28333?security=tls&type=tcp&sni=nagoya.meijireform.com#%E6%9C%AA%E7%9F%A53
+trojan://telegram-VPNHTTPIinjectorfree@104.18.4.250:443?security=tls&type=ws&sni=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&host=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.42.155.81:443#US
+ss://MjMzYTdhNDMtMzM0MC00NGI3LWFiNzktMTRjMjlmYzAyZTQ3Og==@172.67.2.238:8880#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
