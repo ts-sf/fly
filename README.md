@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://3F98apiP9b@104.21.69.44:2083?security=tls&type=ws&sni=deheueu3gev77uknbcxst6.jerifun.ir&host=de.jerifun.ir#%E6%9C%AA%E7%9F%A52
-trojan://d2698cf9-c47e-455c-8384-12e642cbba15@167.68.5.183:443?type=ws&sni=6us3.pqjc.buzz&path=/pq/us3#US
-trojan://NISHIKUITAN222@47.236.93.176:8443?security=tls&type=ws&sni=t222.ylks.link&path=/&host=t222.ylks.link#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVGd3WmpGaQ==@94.131.111.32:1443#%E6%9C%AA%E7%9F%A54
-ss://ZDY5YjY2Y2ItNWZlMi00MGI5LTg0MmItMTk1MTk4MmY4MGFlOg==@104.21.13.159:2086#%E6%9C%AA%E7%9F%A55
+trojan://Ayujaolw07@18.142.43.207:58235?security=none&type=ws&path=/#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.117:6379#US%201.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplSHBxNGNnWHptV1RrSTJ4S04zdzU0@51.13.182.130:48562#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%2091.0KB%2Fs
+ss://MWQxYTcxOTMtNjFhOS00ZmMxLTk3NzgtZGQ1MTdjZjlmOTE5Og==@172.67.136.208:2082#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.217:5500#US2%20685.8KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
