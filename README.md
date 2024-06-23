@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://NDA0NWM2YjctMWQ1My00NTc0LTk4Y2QtZGYyMWRiNDBiMGRjOg==@172.67.106.126:2053#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:20002#HK
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#US2%201.7MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6Im1jaS5tb3NpLm1vc2lwcm8ubWwiLCJwb3J0IjoiNDQzIiwiaWQiOiJkMmIxOTFjZS01OGI0LTQ5NTAtYjg0Ny0zZWRhOWExZjY0ZjciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJEdXNzZWxkb3JmLmtvdGljay5zaXRlIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJEdXNzZWxkb3JmLmtvdGljay5zaXRlIiwidGVzdF9uYW1lIjoiMiJ9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.219.236:443#%E6%9C%AA%E7%9F%A53%20458.7KB%2Fs
+trojan://3F98apiP9b@104.21.69.44:2083?security=tls&type=ws&sni=deheueu3gev77uknbcxst6.jerifun.ir&host=de.jerifun.ir#%E6%9C%AA%E7%9F%A52
+trojan://d2698cf9-c47e-455c-8384-12e642cbba15@167.68.5.183:443?type=ws&sni=6us3.pqjc.buzz&path=/pq/us3#US
+trojan://NISHIKUITAN222@47.236.93.176:8443?security=tls&type=ws&sni=t222.ylks.link&path=/&host=t222.ylks.link#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVGd3WmpGaQ==@94.131.111.32:1443#%E6%9C%AA%E7%9F%A54
+ss://ZDY5YjY2Y2ItNWZlMi00MGI5LTg0MmItMTk1MTk4MmY4MGFlOg==@104.21.13.159:2086#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
