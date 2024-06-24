@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@188.114.96.2:443#%E6%9C%AA%E7%9F%A52
-trojan://675821fd-e6d1-4e8e-b56e-efc84bc819a0@74.226.136.204:443?#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN222@47.236.180.51:8443?security=tls&type=ws&sni=t222.ylks.link&path=/&host=t222.ylks.link#%E6%9C%AA%E7%9F%A54
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSIsImFkZCI6IjE4My4xODEuMzYuMTk0IiwicG9ydCI6IjQxNTk3IiwiaWQiOiI0YTZlYWEyZC01NjAzLTRjMDUtZDk2Ny1mYjZmNDIyNTBhNWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjUifQ==
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.134.9:6379#US%201.9MB%2Fs
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.20.49.64:80#%E6%9C%AA%E7%9F%A52
+ss://NDNlMDBlNGMtMjMxNi00ZGM5LTgyNjItY2VmMzE4ODZkYzU2Og==@104.16.67.38:8443#%E6%9C%AA%E7%9F%A53
+trojan://e8105dfd24414268b6c7652c63731097@104.16.192.155:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiejdhVjcxb1c1MFpUMVE1@172.214.233.180:443#US
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@172.167.34.127:443#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
