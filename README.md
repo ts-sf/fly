@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://NzBlYTdhMTAtZGUzZS00OTIyLWJjN2MtNGRkN2MyY2VmODgyOg==@172.66.45.10:443#%E6%9C%AA%E7%9F%A52
-ss://ZGZiYmM4ZGUtOGE0Zi00MDdkLTgwNjktNmRlMzhkODNjNGUxOg==@104.26.14.85:443#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.31:5601#US%201.9MB%2Fs
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#%E6%9C%AA%E7%9F%A54
-trojan://UtO9m5wsDz@18.136.195.155:49465?security=none&type=ws&path=/&host=m.instagram.com#%E6%9C%AA%E7%9F%A55
+trojan://NISHIKUITAN222@104.26.13.31:443?security=tls&type=ws&sni=t600.ylks.link&path=/&host=t600.ylks.link#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#%E6%9C%AA%E7%9F%A52%203.7MB%2Fs
+trojan://telegram-id-privatevpns@13.50.127.85:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:30016#HK
+ss://MTBhZWNmMDAtYWQ1NC00OWQ1LTk2NDMtZTM1NmI1YTE2YmFiOg==@172.67.194.102:443#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
