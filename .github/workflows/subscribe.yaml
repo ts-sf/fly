@@ -6,9 +6,14 @@ on:
   schedule:
     - cron: '07 */8 * * *'
   workflow_dispatch:
+    inputs:
+      bin_flag:
+        type: string
+        required: true
 
 env:
   TMP_BUILD_DIR: ${{ github.workspace }}/orepo/v2speed/target/release
+  RUN_FLAG: "${{ github.event.inputs.bin_flag || '' }}"
   
 jobs:
   build:
@@ -63,7 +68,7 @@ jobs:
       - name: run
         run: |
           cd ${{ env.TMP_BUILD_DIR }}
-          ./run.sh
+          ./run.sh ${{ env.RUN_FLAG }}
 
           [ -f ${{ env.TMP_BUILD_DIR }}/out.png ] && mv ${{ env.TMP_BUILD_DIR }}/out.png ${{ github.workspace }}/traffic.png
           
@@ -71,6 +76,11 @@ jobs:
           [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_main ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_main ${{ github.workspace }}/clash
           [ -f ${{ env.TMP_BUILD_DIR }}/data/README.md_main ] && mv ${{ env.TMP_BUILD_DIR }}/data/README.md_main ${{ github.workspace }}/README.md
 
+          for n in {1..32};
+          do
+            [ -f ${{ env.TMP_BUILD_DIR }}/data/v2_main$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/v2_main ${{ github.workspace }}/v2$n
+            [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_main$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_main ${{ github.workspace }}/clash$n
+          done
       
       - name: commit changes
         run:  |
@@ -100,6 +110,12 @@ jobs:
           [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_speed ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_speed ${{ github.workspace }}/orepo/speed/clash
           [ -f ${{ env.TMP_BUILD_DIR }}/data/README.md_speed ] && mv ${{ env.TMP_BUILD_DIR }}/data/README.md_speed ${{ github.workspace }}/orepo/speed/README.md
           
+          for n in {1..32};
+          do
+            [ -f ${{ env.TMP_BUILD_DIR }}/data/v2_speed$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/v2_speed ${{ github.workspace }}/v2$n
+            [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_speed$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_speed ${{ github.workspace }}/clash$n
+          done
+
           git config user.email "actions@github.com"
           git config user.name "Github Actions"
           git add .
