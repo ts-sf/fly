@@ -72,16 +72,9 @@ jobs:
 
           [ -f ${{ env.TMP_BUILD_DIR }}/out.png ] && mv ${{ env.TMP_BUILD_DIR }}/out.png ${{ github.workspace }}/traffic.png
           
-          [ -f ${{ env.TMP_BUILD_DIR }}/data/v2_main ] && mv ${{ env.TMP_BUILD_DIR }}/data/v2_main ${{ github.workspace }}/v2
-          [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_main ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_main ${{ github.workspace }}/clash
-          [ -f ${{ env.TMP_BUILD_DIR }}/data/README.md_main ] && mv ${{ env.TMP_BUILD_DIR }}/data/README.md_main ${{ github.workspace }}/README.md
-
-          for n in {1..32};
-          do
-            [ -f ${{ env.TMP_BUILD_DIR }}/data/v2_main$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/v2_main$n ${{ github.workspace }}/v2$n;
-            [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_main$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_main$n ${{ github.workspace }}/clash$n;
-          done
-      
+          mv ${{ env.TMP_BUILD_DIR }}/data/main/* ${{ github.workspace }}/
+          
+          
       - name: commit changes
         run:  |
           cd ${{ github.workspace }}
@@ -105,16 +98,8 @@ jobs:
           [ -f v2 ] && rm v2
           [ -f clash ] && rm clash
           [ -f README.md ] && rm README.md
-
-          [ -f ${{ env.TMP_BUILD_DIR }}/data/v2_speed ] && mv ${{ env.TMP_BUILD_DIR }}/data/v2_speed ${{ github.workspace }}/orepo/speed/v2
-          [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_speed ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_speed ${{ github.workspace }}/orepo/speed/clash
-          [ -f ${{ env.TMP_BUILD_DIR }}/data/README.md_speed ] && mv ${{ env.TMP_BUILD_DIR }}/data/README.md_speed ${{ github.workspace }}/orepo/speed/README.md
           
-          for n in {1..32};
-          do
-            [ -f ${{ env.TMP_BUILD_DIR }}/data/v2_speed$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/v2_speed$n ${{ github.workspace }}/v2$n;
-            [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_speed$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_speed$n ${{ github.workspace }}/clash$n;
-          done
+          mv ${{ env.TMP_BUILD_DIR }}/data/speed/* ${{ github.workspace }}/orepo/speed/
 
           git config user.email "actions@github.com"
           git config user.name "Github Actions"
