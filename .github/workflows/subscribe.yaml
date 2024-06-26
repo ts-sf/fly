@@ -72,6 +72,9 @@ jobs:
 
           [ -f ${{ env.TMP_BUILD_DIR }}/out.png ] && mv ${{ env.TMP_BUILD_DIR }}/out.png ${{ github.workspace }}/traffic.png
           
+          [ -e ${{ github.workspace }}/addition ] && rm -rf addition/*
+          [ -f ${{ github.workspace }}/v2 ] && rm ${{ github.workspace }}/v2*
+          [ -f ${{ github.workspace }}/clash ] && rm ${{ github.workspace }}/clash*
           mv ${{ env.TMP_BUILD_DIR }}/data/main/* ${{ github.workspace }}/
           
           
@@ -95,9 +98,11 @@ jobs:
       - name: commit and push speed
         run:  |
           cd ${{ github.workspace }}/orepo/speed
-          [ -f v2 ] && rm v2
-          [ -f clash ] && rm clash
+          [ -f v2 ] && rm v2*
+          [ -f clash ] && rm clash*
           [ -f README.md ] && rm README.md
+          
+          [ -e addition ] && rm -rf addition/*
           
           mv ${{ env.TMP_BUILD_DIR }}/data/speed/* ${{ github.workspace }}/orepo/speed/
 
