@@ -78,8 +78,8 @@ jobs:
 
           for n in {1..32};
           do
-            [ -f ${{ env.TMP_BUILD_DIR }}/data/v2_main$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/v2_main ${{ github.workspace }}/v2$n;
-            [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_main$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_main ${{ github.workspace }}/clash$n;
+            [ -f ${{ env.TMP_BUILD_DIR }}/data/v2_main$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/v2_main$n ${{ github.workspace }}/v2$n;
+            [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_main$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_main$n ${{ github.workspace }}/clash$n;
           done
       
       - name: commit changes
@@ -112,8 +112,8 @@ jobs:
           
           for n in {1..32};
           do
-            [ -f ${{ env.TMP_BUILD_DIR }}/data/v2_speed$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/v2_speed ${{ github.workspace }}/v2$n;
-            [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_speed$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_speed ${{ github.workspace }}/clash$n;
+            [ -f ${{ env.TMP_BUILD_DIR }}/data/v2_speed$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/v2_speed$n ${{ github.workspace }}/v2$n;
+            [ -f ${{ env.TMP_BUILD_DIR }}/data/clash_speed$n ] && mv ${{ env.TMP_BUILD_DIR }}/data/clash_speed$n ${{ github.workspace }}/clash$n;
           done
 
           git config user.email "actions@github.com"
