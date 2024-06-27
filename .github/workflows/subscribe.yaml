@@ -72,7 +72,7 @@ jobs:
 
           [ -f ${{ env.TMP_BUILD_DIR }}/out.png ] && mv ${{ env.TMP_BUILD_DIR }}/out.png ${{ github.workspace }}/traffic.png
           
-          [ -e ${{ github.workspace }}/addition ] && rm -rf addition
+          [ -e ${{ github.workspace }}/addition ] && rm -rf ${{ github.workspace }}/addition
           [ -f ${{ github.workspace }}/v2 ] && rm ${{ github.workspace }}/v2*
           [ -f ${{ github.workspace }}/clash ] && rm ${{ github.workspace }}/clash*
           mv ${{ env.TMP_BUILD_DIR }}/data/main/* ${{ github.workspace }}/
