@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://77891e6750@27.0.232.204:443?security=tls&type=tcp&sni=hk1.connecton.surf#HK
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@69.162.95.5:443?#US
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.6:5500#US2%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:5500#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:5601#US3%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.87:7307#US2%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGRiZWIyMS0xNWZiLTRhYTUtOGNjMy0zNGRmNjAxYzFmMDI=@46.232.123.37:50213#HK
+trojan://4aec4e7f8cf8454ea4613659822e1a61@104.17.147.9:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:30013#HK2
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.181:443#%E6%9C%AA%E7%9F%A52%202.0MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
