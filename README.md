@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://36360cc3-957a-4597-9abf-f73f29641ee3@104.18.203.232:443?security=tls&type=grpc&sni=rand.gcorecloud.info#%E6%9C%AA%E7%9F%A5
-trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@183.232.167.124:30067?security=tls&type=tcp&sni=v1jp03.fuqiangren.com#%E6%9C%AA%E7%9F%A52
-trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.29.253.95:45852?security=tls&type=tcp&sni=id01.ckcloud.info#%E6%9C%AA%E7%9F%A53
-trojan://cacbaab-aacb-abca-bacd-abccbbcaaabc@127.0.0.1:8080?security=tls&type=tcp#US2
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8119#US3%201.9MB%2Fs
+trojan://NISHIKUITAN222@8.219.142.191:8443?security=tls&type=ws&sni=t010.ylks.link&path=/&host=t010.ylks.link#%E6%9C%AA%E7%9F%A52
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.132:8443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.89:9102#US%201.7MB%2Fs
+trojan://ab602e02-624b-44f0-a51b-25ed53f70048@144.126.145.43:443?security=tls&type=ws&sni=us.eaxeg.be&path=/q7ugFVneYzh1SQ9N70H4Y2aW&host=us.eaxeg.be#US2%2015.9MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.42:5600#US3%201.7MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
