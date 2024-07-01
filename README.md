@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.87:5004#US%201.9MB%2Fs
-trojan://NISHIKUITAN222@172.93.188.140:443?sni=t000.ylks.link#HK
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2376#US2%201.9MB%2Fs
-trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&type=tcp&sni=upload.soft98.download#%E6%9C%AA%E7%9F%A5
-trojan://NISHIKUITAN222@47.237.83.20:8443?security=tls&type=ws&sni=t009.ylks.link&path=/&host=t009.ylks.link#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:809#%E6%9C%AA%E7%9F%A52%206.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSlRaRkhnSXh4cDZYcGFRNkNtYXpY@91.190.155.55:34994#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiejdhVjcxb1c1MFpUMVE1@172.214.232.63:443#US
+trojan://ZJU29smXwp@188.114.96.3:2053?security=tls&type=ws&sni=omid1.teama.tk&path=/&host=k.teama.tk#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#US2%201.7MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
