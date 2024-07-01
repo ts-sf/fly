@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.207:5004#US%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206K2hoUFJ5QktRWkdnUWpnS3RydUJudEo3RndUakhQbC9qb2NrOWpjVWVOdz0=@172.105.41.68:8443#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqWWFwaDM3c3FXTXg=@5.188.36.93:51348#%E6%9C%AA%E7%9F%A53
-trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A54
-trojan://Zepul6MgpW@178.128.52.135:56135?security=tls&type=tcp&sni=m.instagram.com#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.87:5004#US%201.9MB%2Fs
+trojan://NISHIKUITAN222@172.93.188.140:443?sni=t000.ylks.link#HK
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2376#US2%201.9MB%2Fs
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&type=tcp&sni=upload.soft98.download#%E6%9C%AA%E7%9F%A5
+trojan://NISHIKUITAN222@47.237.83.20:8443?security=tls&type=ws&sni=t009.ylks.link&path=/&host=t009.ylks.link#%E6%9C%AA%E7%9F%A52
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
