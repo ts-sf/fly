@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2024-07-05 02:42:41
+# 创建时间: 2024-07-05 11:52:39
 # 使用模版: V2RaySE 默认模版
-# 节点数量：2
+# 节点数量：7
 ####################################
 #
 mixed-port: 7890
@@ -12,8 +12,13 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"US730 1.8MB/s","type":"ss","server":"38.75.137.105","port":6697,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
-  - {"name":"US731 2.0MB/s","type":"ss","server":"38.68.134.9","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知1120 1.6MB/s","type":"ss","server":"217.182.198.219","port":6697,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
+  - {"name":"US715 1.9MB/s","type":"ss","server":"167.88.62.62","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知1122 1.1MB/s","type":"ss","server":"51.77.53.200","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知1123 233.0KB/s","type":"vmess","server":"183.181.36.194","port":41597,"cipher":"auto","uuid":"4a6eaa2d-5603-4c05-d967-fb6f42250a5a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"US716 1.9MB/s","type":"ss","server":"38.86.135.225","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
+  - {"name":"US717 1.9MB/s","type":"ss","server":"38.86.135.225","port":8008,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
+  - {"name":"未知1126 5.2MB/s","type":"trojan","server":"188.119.112.242","port":443,"alterId":0,"tls":true,"password":"a906625d-446c-468f-9e26-1d15981fa0e9","sni":"nl-full.privateip.net","skip-cert-verify":true,"udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -21,8 +26,13 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - US730 1.8MB/s
-      - US731 2.0MB/s
+      - 未知1120 1.6MB/s
+      - US715 1.9MB/s
+      - 未知1122 1.1MB/s
+      - 未知1123 233.0KB/s
+      - US716 1.9MB/s
+      - US717 1.9MB/s
+      - 未知1126 5.2MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -30,8 +40,13 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - US730 1.8MB/s
-      - US731 2.0MB/s
+      - 未知1120 1.6MB/s
+      - US715 1.9MB/s
+      - 未知1122 1.1MB/s
+      - 未知1123 233.0KB/s
+      - US716 1.9MB/s
+      - US717 1.9MB/s
+      - 未知1126 5.2MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -39,32 +54,52 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - US730 1.8MB/s
-      - US731 2.0MB/s
+      - 未知1120 1.6MB/s
+      - US715 1.9MB/s
+      - 未知1122 1.1MB/s
+      - 未知1123 233.0KB/s
+      - US716 1.9MB/s
+      - US717 1.9MB/s
+      - 未知1126 5.2MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US730 1.8MB/s
-      - US731 2.0MB/s
+      - 未知1120 1.6MB/s
+      - US715 1.9MB/s
+      - 未知1122 1.1MB/s
+      - 未知1123 233.0KB/s
+      - US716 1.9MB/s
+      - US717 1.9MB/s
+      - 未知1126 5.2MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - US730 1.8MB/s
-      - US731 2.0MB/s
+      - 未知1120 1.6MB/s
+      - US715 1.9MB/s
+      - 未知1122 1.1MB/s
+      - 未知1123 233.0KB/s
+      - US716 1.9MB/s
+      - US717 1.9MB/s
+      - 未知1126 5.2MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US730 1.8MB/s
-      - US731 2.0MB/s
+      - 未知1120 1.6MB/s
+      - US715 1.9MB/s
+      - 未知1122 1.1MB/s
+      - 未知1123 233.0KB/s
+      - US716 1.9MB/s
+      - US717 1.9MB/s
+      - 未知1126 5.2MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -88,8 +123,13 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - US730 1.8MB/s
-      - US731 2.0MB/s
+      - 未知1120 1.6MB/s
+      - US715 1.9MB/s
+      - 未知1122 1.1MB/s
+      - 未知1123 233.0KB/s
+      - US716 1.9MB/s
+      - US717 1.9MB/s
+      - 未知1126 5.2MB/s
 
 
 rules:
