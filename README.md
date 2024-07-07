@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://ypDt8RkT7J@51.158.217.161:43118?security=tls&type=tcp&sni=tewmk.phooeyunfold.com#%E6%9C%AA%E7%9F%A52%2014.7MB%2Fs
-trojan://auto@104.21.35.43:443?security=tls&type=ws&sni=esetsecuritylicense3.wawafec355.workers.dev&host=esetsecuritylicense3.wawafec355.workers.dev#%E6%9C%AA%E7%9F%A53
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.219:443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A54
-trojan://Libertas*One*E*@172.67.180.35:443?security=tls&type=ws&sni=ironone.libertasiran.cloud&path=/n890#%E6%9C%AA%E7%9F%A55
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.137.93:9101#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%20458.8KB%2Fs
+ss://YWVzLTI1Ni1nY206MDVjYWQ5ZGUtNzBmZS00ZDk0LTkxN2QtOTY0ODg4NTc4OGIy@95.164.117.128:8443#%E6%9C%AA%E7%9F%A52
+trojan://7688df6f-bf65-3368-b55e-d78efea6a582@pp1.zhengzhongfeizhu.xyz:32002?sni=ip3884414509.mobgslb.tbcache.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%E6%9C%AA%E7%9F%A53%20201.4KB%2Fs
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.87:7306#US%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7001#US2%20977.8KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
