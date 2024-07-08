@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2024-07-08 18:42:36
+# 创建时间: 2024-07-09 02:44:38
 # 使用模版: V2RaySE 默认模版
-# 节点数量：1
+# 节点数量：5
 ####################################
 #
 mixed-port: 7890
@@ -12,7 +12,11 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"US721 1.9MB/s","type":"ss","server":"23.157.40.87","port":9102,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
+  - {"name":"US740 1.7MB/s","type":"ss","server":"38.86.135.31","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US741 1.7MB/s","type":"ss","server":"69.50.93.118","port":8080,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
+  - {"name":"未知1151 1.8MB/s","type":"ss","server":"54.36.174.181","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US743 1.9MB/s","type":"ss","server":"38.114.114.183","port":7306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
+  - {"name":"US744 1.8MB/s","type":"ss","server":"23.157.40.19","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -20,7 +24,11 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - US721 1.9MB/s
+      - US740 1.7MB/s
+      - US741 1.7MB/s
+      - 未知1151 1.8MB/s
+      - US743 1.9MB/s
+      - US744 1.8MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -28,7 +36,11 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - US721 1.9MB/s
+      - US740 1.7MB/s
+      - US741 1.7MB/s
+      - 未知1151 1.8MB/s
+      - US743 1.9MB/s
+      - US744 1.8MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -36,28 +48,44 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - US721 1.9MB/s
+      - US740 1.7MB/s
+      - US741 1.7MB/s
+      - 未知1151 1.8MB/s
+      - US743 1.9MB/s
+      - US744 1.8MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US721 1.9MB/s
+      - US740 1.7MB/s
+      - US741 1.7MB/s
+      - 未知1151 1.8MB/s
+      - US743 1.9MB/s
+      - US744 1.8MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - US721 1.9MB/s
+      - US740 1.7MB/s
+      - US741 1.7MB/s
+      - 未知1151 1.8MB/s
+      - US743 1.9MB/s
+      - US744 1.8MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US721 1.9MB/s
+      - US740 1.7MB/s
+      - US741 1.7MB/s
+      - 未知1151 1.8MB/s
+      - US743 1.9MB/s
+      - US744 1.8MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -81,7 +109,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - US721 1.9MB/s
+      - US740 1.7MB/s
+      - US741 1.7MB/s
+      - 未知1151 1.8MB/s
+      - US743 1.9MB/s
+      - US744 1.8MB/s
 
 
 rules:
