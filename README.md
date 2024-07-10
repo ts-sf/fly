@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://RmdXQRXg@223.113.54.154:23621?security=tls&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%E6%B1%9F%E8%8B%8F
-trojan://TeleGram-VPNCTVIP@164.38.155.61:443?sni=trojan-ws.vpnctvip.dns-dynamic.NeT#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZVF4QjdzTUdwdGZGY3QycWsyRVNMZUNOTExoUlJ3WHJrTlpYQ2RMRll2WXdQUUQ=@5.188.36.54:51348#%E6%9C%AA%E7%9F%A52%201.1MB%2Fs
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@145.239.6.202:9101#%E6%9C%AA%E7%9F%A53%201.7MB%2Fs
-trojan://2e3562a819634de686ade78e434c0963@104.16.192.148:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A54
+trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@172.67.2.238:443?security=tls&type=ws&sni=golinkwuxian.top&path=/apple&host=555.golinkwuxian.top#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%E6%9C%AA%E7%9F%A53%2014.3MB%2Fs
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#%E6%9C%AA%E7%9F%A54%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.117:9101#US%202.0MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
