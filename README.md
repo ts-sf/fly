@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://auto@104.26.13.54:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A5
-trojan://4732adfa16c6450bbef87264e41332db@104.17.215.18:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#US2%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7306#US3%201.0MB%2Fs
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.26:8090#US4%201.9MB%2Fs
+ss://YWVzLTEyOC1nY206MTgyNjk2NzYtNzFhZS00NzZkLWI2ZDMtMjZjYTM5MTQyNGI5@120.233.151.171:8050#%E6%9C%AA%E7%9F%A5
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.217:443?sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.222:7002#US2%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.83:5003#US3%201.9MB%2Fs
+trojan://bbccaaa-caab-caba-bcda-babaacccbacb@127.0.0.1:1080?security=tls&type=tcp#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
