@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&type=tcp&sni=wuxgk.phooeyunfold.com#%E6%9C%AA%E7%9F%A52%2011.2MB%2Fs
-trojan://NISHIKUITAN222@8.219.198.139:443?security=tls&type=ws&sni=t667.ylks.link&path=/&host=t667.ylks.link#%E6%9C%AA%E7%9F%A53
-trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=/6b777a91&host=jobscareerforlawyers.com#%E6%9C%AA%E7%9F%A54
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSIsImFkZCI6IjcwLjM0LjIyMS4yMjUiLCJwb3J0IjoiMTg2NjciLCJpZCI6ImNhYzI5ZjE2LTczNDAtNGY4OS1hM2M0LTA3ODNiMDU4Y2YyMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjUifQ==
-trojan://ZJU29smXwp@188.114.96.3:2053?security=tls&type=ws&sni=omid1.teama.tk&path=/&host=k.teama.tk#%E6%9C%AA%E7%9F%A56
+trojan://NISHIKUITAN222@8.219.174.142:443?security=tls&type=ws&sni=t667.ylks.link&path=/&host=t667.ylks.link#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.93.10:8091#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#US2%201.9MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoiVVMzIiwiYWRkIjoid3d3LnNwZWVkdGVzdC5uZXQiLCJwb3J0IjoiMjA1MyIsImlkIjoiMDBmYjc4NjctOTVhZC00ZWFmLTk5ZjEtMjIyNTViZWI2MjUxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoiMVMwdGJwY3lzVFZ6S25uZmtiYXhLOG15a2FpWVloRHJIMmpZR3J2MnE1emJDekFqbC5wcm90b25peC5pci4iLCJ0ZXN0X25hbWUiOiJVUzMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqWWFwaDM3c3FXTXg=@5.188.36.93:51348#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
