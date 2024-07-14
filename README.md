@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://TGov79VWt3KT_ZPL4bbvoA@104.17.148.22:2087?security=tls&type=ws&sni=trx.freedomundead.space&path=/&host=trx.freedomundead.space#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:10008#HK
-trojan://05003b7a-8f03-41d5-b696-0119e8376a20@217.182.76.235:443?security=tls&type=tcp&sni=t6.teslacdn2.live&host=t6.teslacdn2.live#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:10014#HK2
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#US%201.9MB%2Fs
+trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&type=tcp&sni=wuxgk.phooeyunfold.com#%E6%9C%AA%E7%9F%A52%2011.2MB%2Fs
+trojan://NISHIKUITAN222@8.219.198.139:443?security=tls&type=ws&sni=t667.ylks.link&path=/&host=t667.ylks.link#%E6%9C%AA%E7%9F%A53
+trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=/6b777a91&host=jobscareerforlawyers.com#%E6%9C%AA%E7%9F%A54
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSIsImFkZCI6IjcwLjM0LjIyMS4yMjUiLCJwb3J0IjoiMTg2NjciLCJpZCI6ImNhYzI5ZjE2LTczNDAtNGY4OS1hM2M0LTA3ODNiMDU4Y2YyMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjUifQ==
+trojan://ZJU29smXwp@188.114.96.3:2053?security=tls&type=ws&sni=omid1.teama.tk&path=/&host=k.teama.tk#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
