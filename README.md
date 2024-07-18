@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiemxMclJDUkhkWHA0U1NMMHZvSEJT@37.252.10.45:47580#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@172.67.198.153:443#%E6%9C%AA%E7%9F%A53
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.219:443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A54
-trojan://auto@172.67.205.219:443?security=tls&type=ws&sni=esetsecuritylicense.nzuwcx.workers.dev&host=esetsecuritylicense.nzuwcx.workers.dev#%E6%9C%AA%E7%9F%A55
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8009#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.111.114.133:7001#%E6%9C%AA%E7%9F%A53%201.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzE1MzRmZi04M2EzLTQxMzctOTFiNy03OWUxNDQ0ODk2NDM=@46.232.123.37:50243#HK
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#%E6%9C%AA%E7%9F%A54%201.8MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:20005#HK2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
