@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2024-07-18 11:47:08
+# 创建时间: 2024-07-18 18:38:48
 # 使用模版: V2RaySE 默认模版
-# 节点数量：32
+# 节点数量：43
 ####################################
 #
 mixed-port: 7890
@@ -12,38 +12,49 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知1177","type":"trojan","server":"172.67.2.238","port":443,"alterId":0,"tls":true,"password":"50e10abd-3920-42a6-ad0c-6ec731d8c826","sni":"golinkwuxian.top","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"HK100","type":"ss","server":"38.150.12.187","port":56026,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"AHyDyR","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国12 1.9MB/s","type":"ss","server":"38.114.114.207","port":7001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
-  - {"name":"未知1178","type":"vmess","server":"104.17.147.22","port":2053,"cipher":"auto","uuid":"00fb7867-95ad-4eaf-99f1-22255beb6251","alterId":0,"tls":true,"skip-cert-verify":true,"network":"grpc"}
-  - {"name":"未知1179 17.7MB/s","type":"trojan","server":"3.248.49.145","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"HK101","type":"ss","server":"46.232.123.37","port":10017,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"853a4d4c-153f-4897-9a9b-8528b2bfafb2","skip-cert-verify":true}
-  - {"name":"US705 1.9MB/s","type":"ss","server":"23.157.40.83","port":3306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US706 9.1MB/s","type":"vmess","server":"pandor.boats","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkvws","headers":{"host":"aveiror.com"}}}
-  - {"name":"未知1180","type":"trojan","server":"104.24.197.20","port":443,"alterId":0,"tls":true,"password":"dfbbc8de-8a4f-407d-8069-6de38d83c4e1","sni":"hdfy4c6.freelines.net","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1181","type":"trojan","server":"147.78.140.39","port":8443,"alterId":0,"tls":true,"password":"KfHraA7j5h","sni":"Wsd5yct6uv-Mvd57fc7yvjFy-Po9iU6vBy87y7hcUf5rcy.danesh-bonyan.Store","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1182 646.2KB/s","type":"trojan","server":"129.150.36.189","port":443,"alterId":0,"tls":true,"password":"c50c6b8d-03b3-4b07-8106-fdf2d4a59e9d","sni":"xjp11.150517.xyz","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US707 1.2MB/s","type":"ss","server":"38.75.136.21","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US708 1.9MB/s","type":"ss","server":"23.157.40.115","port":5000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1183","type":"trojan","server":"172.67.180.35","port":443,"alterId":0,"tls":true,"password":"Libertas*One*E*","sni":"ironone.libertasiran.cloud","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1184","type":"ss","server":"139.59.119.251","port":20181,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"df30da54-317f-4726-98bd-8bc8ec8140c9","skip-cert-verify":true}
-  - {"name":"未知1185","type":"trojan","server":"47.236.253.41","port":8443,"alterId":0,"tls":true,"password":"NISHIKUITAN222","sni":"t221.ylks.link","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US709 1.9MB/s","type":"ss","server":"69.50.95.245","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
-  - {"name":"US710","type":"trojan","server":"66.235.200.64","port":8443,"alterId":0,"tls":true,"password":"kh06dw8cR3","sni":"YeRt5yct6uv-VI57fc7yvjFy-Njdyy7hcUf5rcy.danesh-bonyan.Store","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US711 1.9MB/s","type":"ss","server":"23.157.40.26","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1186","type":"trojan","server":"104.19.52.245","port":8443,"alterId":0,"tls":true,"password":"8557692d-c228-48f0-b6f9-50d44d4a2096","sni":"tjjd.yzyx1.v6.army","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1187","type":"trojan","server":"104.17.176.171","port":2083,"alterId":0,"tls":true,"password":"compassvpn-794T1C3EDa","sni":"147457129.19kala.co","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1188","type":"trojan","server":"198.41.202.5","port":443,"alterId":0,"tls":true,"password":"e8105dfd24414268b6c7652c63731097","sni":"avianrecruit.com","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1189","type":"ss","server":"77.221.137.197","port":25067,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"MoxMpgM3MLhBw0DBDvPAnB","skip-cert-verify":true}
-  - {"name":"US712 1.9MB/s","type":"ss","server":"23.157.40.89","port":5499,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"lGqs95QkFHo2NV","skip-cert-verify":true}
-  - {"name":"HK102","type":"ss","server":"46.232.123.37","port":50001,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"853a4d4c-153f-4897-9a9b-8528b2bfafb2","skip-cert-verify":true}
-  - {"name":"未知1190 4.6MB/s","type":"ss","server":"45.144.48.63","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d3837224ed465f00","skip-cert-verify":true}
-  - {"name":"HK103","type":"ss","server":"46.232.123.37","port":50207,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d31534ff-83a3-4137-91b7-79e144489643","skip-cert-verify":true}
-  - {"name":"未知1191","type":"trojan","server":"104.19.52.22","port":2096,"alterId":0,"tls":true,"password":"8557692d-c228-48f0-b6f9-50d44d4a2096","sni":"tjjd.yzyx1.v6.army","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1192 4.7MB/s","type":"trojan","server":"138.199.23.100","port":43118,"alterId":0,"tls":true,"password":"ypDt8RkT7J","sni":"radtz.phooeyunfold.com","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1193 14.7MB/s","type":"ss","server":"51.195.149.115","port":45816,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KkDzY101Oe","skip-cert-verify":true}
-  - {"name":"未知1194","type":"trojan","server":"172.66.40.117","port":443,"alterId":0,"tls":true,"password":"e16e9768-240f-4ff2-8c29-36d220ed2aa4","sni":"msnghdfy4c1.iraniancpi.uk","skip-cert-verify":true,"network":"grpc","udp":true}
-  - {"name":"未知1195","type":"trojan","server":"104.21.68.185","port":443,"alterId":0,"tls":true,"password":"lrdxw","sni":"trojan-lrdxw.ala1-f11.workers.dev","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US701 1.9MB/s","type":"ss","server":"23.157.40.115","port":3306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知1163","type":"trojan","server":"104.21.67.195","port":443,"alterId":0,"tls":true,"password":"Libertas*One*E*","sni":"ironone.libertasiran.cloud","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1164","type":"ss","server":"179.43.155.39","port":1080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"3pURuTUf-lFgg5qWg8euFA","skip-cert-verify":true}
+  - {"name":"未知1165","type":"trojan","server":"172.66.47.85","port":443,"alterId":0,"tls":true,"password":"REvil","sni":"trauma.pages.dev","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US702 1.9MB/s","type":"ss","server":"23.157.40.113","port":3306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US703 2.0MB/s","type":"ss","server":"38.110.1.105","port":7307,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
+  - {"name":"🇷🇺RU俄罗斯","type":"ss","server":"185.242.86.156","port":54170,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"36ZCHeabUSfKjfQEvJ4HDV","skip-cert-verify":true}
+  - {"name":"未知1166","type":"trojan","server":"104.21.51.242","port":2087,"alterId":0,"tls":true,"password":"241f01b9-8dfc-474f-8342-3fbd5c46417e","sni":"grpcfr.arminhadadi.site","skip-cert-verify":true,"network":"grpc","udp":true}
+  - {"name":"未知1167","type":"trojan","server":"54.36.173.159","port":443,"alterId":0,"tls":true,"password":"e4f288433b","sni":"pol1.connecton.surf","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1168","type":"trojan","server":"8.219.67.133","port":8443,"alterId":0,"tls":true,"password":"NISHIKUITAN222","sni":"t111.ylks.link","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1169","type":"ss","server":"178.236.247.255","port":24110,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"KdL1LqnAAl8SLpc1KDkUvS","skip-cert-verify":true}
+  - {"name":"未知1170","type":"trojan","server":"104.18.22.19","port":443,"alterId":0,"tls":true,"password":"e16e9768-240f-4ff2-8c29-36d220ed2aa4","sni":"msnghdfy4c2.cpiforpersia.uk","skip-cert-verify":true,"network":"grpc","udp":true}
+  - {"name":"US704 59.1MB/s","type":"ss","server":"172.245.180.193","port":16899,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"Yc2CtrIz8L","skip-cert-verify":true}
+  - {"name":"未知1171","type":"trojan","server":"91.195.240.12","port":443,"alterId":0,"tls":true,"password":"q8uTrVmj95aTrFAa","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1172","type":"ss","server":"178.215.228.106","port":20803,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"SRG2yW7vBauoSsFpa8Rmtt","skip-cert-verify":true}
+  - {"name":"US705 1.7MB/s","type":"ss","server":"38.121.43.248","port":8882,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
+  - {"name":"未知1173","type":"trojan","server":"104.18.11.39","port":443,"alterId":0,"tls":true,"password":"123456","sni":"trojan-amp-id01.globalssh.xyz","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1174","type":"trojan","server":"172.207.169.187","port":443,"alterId":0,"tls":true,"password":"8d1e94cd-23cf-4267-b630-c6894e6e1b4d","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国18 8.6MB/s","type":"vmess","server":"104.19.46.33","port":2086,"cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"github.com/Alvin9999","headers":{"host":"ip2.1457230.xyz"}}}
+  - {"name":"未知1175 1.7MB/s","type":"ss","server":"51.77.53.200","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知1176","type":"trojan","server":"52.195.181.240","port":39137,"alterId":0,"tls":true,"password":"2baa2d43-b564-3b1f-92c7-c6fa1ff7e0a2","sni":"jp-awsxj.zodlinks.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1177","type":"trojan","server":"104.19.171.9","port":443,"alterId":0,"tls":true,"password":"984e400bf5d541b7b0815913fe0c432a","sni":"jobscareerfortoday.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1178","type":"trojan","server":"47.236.164.215","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN222","sni":"t222.ylks.link","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1179 14.5MB/s","type":"trojan","server":"51.158.217.130","port":43118,"alterId":0,"tls":true,"password":"ypDt8RkT7J","sni":"toflf.phooeyunfold.com","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"HK103","type":"trojan","server":"8.217.123.243","port":2087,"alterId":0,"tls":true,"password":"0fd9b883-0551-4ed1-b978-528183b459a2","sni":"mfjd.591haoka.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1180 13.3MB/s","type":"ss","server":"134.195.196.178","port":807,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"G!yBwPWH3Vao","skip-cert-verify":true}
+  - {"name":"未知1181","type":"trojan","server":"188.114.99.143","port":8443,"alterId":0,"tls":true,"password":"c21f4cd1-7219-5039-8a8c-0f6bcf731760","sni":"nexus.novaria.woRKERS.deV","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1182 24.5MB/s","type":"ss","server":"13.74.171.103","port":46541,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"lZJqAB32wR97hbobEBmWV0","skip-cert-verify":true}
+  - {"name":"US706 1.9MB/s","type":"ss","server":"38.114.114.69","port":5001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡","type":"trojan","server":"sg-02.licom.ml","port":8443,"alterId":0,"tls":true,"password":"ce433528-39fa-4711-bc0d-25a5b1579574","skip-cert-verify":true,"udp":true}
+  - {"name":"US707 1.9MB/s","type":"ss","server":"15.204.87.222","port":5600,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US708 23.6MB/s","type":"vmess","server":"89.116.247.84","port":10106,"cipher":"auto","uuid":"992107e7-7238-45cb-9a67-cacf4d7719f5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知1183","type":"trojan","server":"89.221.224.94","port":80,"alterId":0,"tls":true,"password":"28c79056-ccfd-4cc1-93d4-c337cc782e65","sni":"is2-t.sshmax.xyz","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1184","type":"trojan","server":"104.21.76.195","port":8443,"alterId":0,"tls":true,"password":"NISHIKUITAN222","sni":"t111.ylks.link","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1185 1.9MB/s","type":"ss","server":"23.162.200.181","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知1186","type":"ss","server":"139.59.119.251","port":20182,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"df30da54-317f-4726-98bd-8bc8ec8140c9","skip-cert-verify":true}
+  - {"name":"US709 1.9MB/s","type":"ss","server":"23.157.40.87","port":7307,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
+  - {"name":"未知1187","type":"trojan","server":"8.222.181.117","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN222","sni":"t667.ylks.link","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1188 1.8MB/s","type":"ss","server":"54.36.174.181","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
+  - {"name":"US710 1.9MB/s","type":"ss","server":"23.157.40.83","port":3389,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US711","type":"ss","server":"205.134.180.147","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"9Bvkw5aupNy8","skip-cert-verify":true}
+  - {"name":"未知1189","type":"trojan","server":"172.67.73.233","port":443,"alterId":0,"tls":true,"password":"e16e9768-240f-4ff2-8c29-36d220ed2aa4","sni":"msnghdfy4c1.iraniancpi.uk","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US712 1.7MB/s","type":"ss","server":"38.86.135.225","port":9102,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -51,38 +62,49 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - US701 1.9MB/s
+      - 未知1163
+      - 未知1164
+      - 未知1165
+      - US702 1.9MB/s
+      - US703 2.0MB/s
+      - 🇷🇺RU俄罗斯
+      - 未知1166
+      - 未知1167
+      - 未知1168
+      - 未知1169
+      - 未知1170
+      - US704 59.1MB/s
+      - 未知1171
+      - 未知1172
+      - US705 1.7MB/s
+      - 未知1173
+      - 未知1174
+      - 🇺🇸US美国18 8.6MB/s
+      - 未知1175 1.7MB/s
+      - 未知1176
       - 未知1177
-      - HK100
-      - 🇺🇸US美国12 1.9MB/s
       - 未知1178
-      - 未知1179 17.7MB/s
-      - HK101
-      - US705 1.9MB/s
-      - US706 9.1MB/s
-      - 未知1180
+      - 未知1179 14.5MB/s
+      - HK103
+      - 未知1180 13.3MB/s
       - 未知1181
-      - 未知1182 646.2KB/s
-      - US707 1.2MB/s
-      - US708 1.9MB/s
+      - 未知1182 24.5MB/s
+      - US706 1.9MB/s
+      - 🇸🇬SG新加坡
+      - US707 1.9MB/s
+      - US708 23.6MB/s
       - 未知1183
       - 未知1184
-      - 未知1185
-      - US709 1.9MB/s
-      - US710
-      - US711 1.9MB/s
+      - 未知1185 1.9MB/s
       - 未知1186
+      - US709 1.9MB/s
       - 未知1187
-      - 未知1188
+      - 未知1188 1.8MB/s
+      - US710 1.9MB/s
+      - US711
       - 未知1189
-      - US712 1.9MB/s
-      - HK102
-      - 未知1190 4.6MB/s
-      - HK103
-      - 未知1191
-      - 未知1192 4.7MB/s
-      - 未知1193 14.7MB/s
-      - 未知1194
-      - 未知1195
+      - US712 1.7MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -90,38 +112,49 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - US701 1.9MB/s
+      - 未知1163
+      - 未知1164
+      - 未知1165
+      - US702 1.9MB/s
+      - US703 2.0MB/s
+      - 🇷🇺RU俄罗斯
+      - 未知1166
+      - 未知1167
+      - 未知1168
+      - 未知1169
+      - 未知1170
+      - US704 59.1MB/s
+      - 未知1171
+      - 未知1172
+      - US705 1.7MB/s
+      - 未知1173
+      - 未知1174
+      - 🇺🇸US美国18 8.6MB/s
+      - 未知1175 1.7MB/s
+      - 未知1176
       - 未知1177
-      - HK100
-      - 🇺🇸US美国12 1.9MB/s
       - 未知1178
-      - 未知1179 17.7MB/s
-      - HK101
-      - US705 1.9MB/s
-      - US706 9.1MB/s
-      - 未知1180
+      - 未知1179 14.5MB/s
+      - HK103
+      - 未知1180 13.3MB/s
       - 未知1181
-      - 未知1182 646.2KB/s
-      - US707 1.2MB/s
-      - US708 1.9MB/s
+      - 未知1182 24.5MB/s
+      - US706 1.9MB/s
+      - 🇸🇬SG新加坡
+      - US707 1.9MB/s
+      - US708 23.6MB/s
       - 未知1183
       - 未知1184
-      - 未知1185
-      - US709 1.9MB/s
-      - US710
-      - US711 1.9MB/s
+      - 未知1185 1.9MB/s
       - 未知1186
+      - US709 1.9MB/s
       - 未知1187
-      - 未知1188
+      - 未知1188 1.8MB/s
+      - US710 1.9MB/s
+      - US711
       - 未知1189
-      - US712 1.9MB/s
-      - HK102
-      - 未知1190 4.6MB/s
-      - HK103
-      - 未知1191
-      - 未知1192 4.7MB/s
-      - 未知1193 14.7MB/s
-      - 未知1194
-      - 未知1195
+      - US712 1.7MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -129,152 +162,196 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - US701 1.9MB/s
+      - 未知1163
+      - 未知1164
+      - 未知1165
+      - US702 1.9MB/s
+      - US703 2.0MB/s
+      - 🇷🇺RU俄罗斯
+      - 未知1166
+      - 未知1167
+      - 未知1168
+      - 未知1169
+      - 未知1170
+      - US704 59.1MB/s
+      - 未知1171
+      - 未知1172
+      - US705 1.7MB/s
+      - 未知1173
+      - 未知1174
+      - 🇺🇸US美国18 8.6MB/s
+      - 未知1175 1.7MB/s
+      - 未知1176
       - 未知1177
-      - HK100
-      - 🇺🇸US美国12 1.9MB/s
       - 未知1178
-      - 未知1179 17.7MB/s
-      - HK101
-      - US705 1.9MB/s
-      - US706 9.1MB/s
-      - 未知1180
+      - 未知1179 14.5MB/s
+      - HK103
+      - 未知1180 13.3MB/s
       - 未知1181
-      - 未知1182 646.2KB/s
-      - US707 1.2MB/s
-      - US708 1.9MB/s
+      - 未知1182 24.5MB/s
+      - US706 1.9MB/s
+      - 🇸🇬SG新加坡
+      - US707 1.9MB/s
+      - US708 23.6MB/s
       - 未知1183
       - 未知1184
-      - 未知1185
-      - US709 1.9MB/s
-      - US710
-      - US711 1.9MB/s
+      - 未知1185 1.9MB/s
       - 未知1186
+      - US709 1.9MB/s
       - 未知1187
-      - 未知1188
+      - 未知1188 1.8MB/s
+      - US710 1.9MB/s
+      - US711
       - 未知1189
-      - US712 1.9MB/s
-      - HK102
-      - 未知1190 4.6MB/s
-      - HK103
-      - 未知1191
-      - 未知1192 4.7MB/s
-      - 未知1193 14.7MB/s
-      - 未知1194
-      - 未知1195
+      - US712 1.7MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - US701 1.9MB/s
+      - 未知1163
+      - 未知1164
+      - 未知1165
+      - US702 1.9MB/s
+      - US703 2.0MB/s
+      - 🇷🇺RU俄罗斯
+      - 未知1166
+      - 未知1167
+      - 未知1168
+      - 未知1169
+      - 未知1170
+      - US704 59.1MB/s
+      - 未知1171
+      - 未知1172
+      - US705 1.7MB/s
+      - 未知1173
+      - 未知1174
+      - 🇺🇸US美国18 8.6MB/s
+      - 未知1175 1.7MB/s
+      - 未知1176
       - 未知1177
-      - HK100
-      - 🇺🇸US美国12 1.9MB/s
       - 未知1178
-      - 未知1179 17.7MB/s
-      - HK101
-      - US705 1.9MB/s
-      - US706 9.1MB/s
-      - 未知1180
+      - 未知1179 14.5MB/s
+      - HK103
+      - 未知1180 13.3MB/s
       - 未知1181
-      - 未知1182 646.2KB/s
-      - US707 1.2MB/s
-      - US708 1.9MB/s
+      - 未知1182 24.5MB/s
+      - US706 1.9MB/s
+      - 🇸🇬SG新加坡
+      - US707 1.9MB/s
+      - US708 23.6MB/s
       - 未知1183
       - 未知1184
-      - 未知1185
-      - US709 1.9MB/s
-      - US710
-      - US711 1.9MB/s
+      - 未知1185 1.9MB/s
       - 未知1186
+      - US709 1.9MB/s
       - 未知1187
-      - 未知1188
+      - 未知1188 1.8MB/s
+      - US710 1.9MB/s
+      - US711
       - 未知1189
-      - US712 1.9MB/s
-      - HK102
-      - 未知1190 4.6MB/s
-      - HK103
-      - 未知1191
-      - 未知1192 4.7MB/s
-      - 未知1193 14.7MB/s
-      - 未知1194
-      - 未知1195
+      - US712 1.7MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - US701 1.9MB/s
+      - 未知1163
+      - 未知1164
+      - 未知1165
+      - US702 1.9MB/s
+      - US703 2.0MB/s
+      - 🇷🇺RU俄罗斯
+      - 未知1166
+      - 未知1167
+      - 未知1168
+      - 未知1169
+      - 未知1170
+      - US704 59.1MB/s
+      - 未知1171
+      - 未知1172
+      - US705 1.7MB/s
+      - 未知1173
+      - 未知1174
+      - 🇺🇸US美国18 8.6MB/s
+      - 未知1175 1.7MB/s
+      - 未知1176
       - 未知1177
-      - HK100
-      - 🇺🇸US美国12 1.9MB/s
       - 未知1178
-      - 未知1179 17.7MB/s
-      - HK101
-      - US705 1.9MB/s
-      - US706 9.1MB/s
-      - 未知1180
+      - 未知1179 14.5MB/s
+      - HK103
+      - 未知1180 13.3MB/s
       - 未知1181
-      - 未知1182 646.2KB/s
-      - US707 1.2MB/s
-      - US708 1.9MB/s
+      - 未知1182 24.5MB/s
+      - US706 1.9MB/s
+      - 🇸🇬SG新加坡
+      - US707 1.9MB/s
+      - US708 23.6MB/s
       - 未知1183
       - 未知1184
-      - 未知1185
-      - US709 1.9MB/s
-      - US710
-      - US711 1.9MB/s
+      - 未知1185 1.9MB/s
       - 未知1186
+      - US709 1.9MB/s
       - 未知1187
-      - 未知1188
+      - 未知1188 1.8MB/s
+      - US710 1.9MB/s
+      - US711
       - 未知1189
-      - US712 1.9MB/s
-      - HK102
-      - 未知1190 4.6MB/s
-      - HK103
-      - 未知1191
-      - 未知1192 4.7MB/s
-      - 未知1193 14.7MB/s
-      - 未知1194
-      - 未知1195
+      - US712 1.7MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - US701 1.9MB/s
+      - 未知1163
+      - 未知1164
+      - 未知1165
+      - US702 1.9MB/s
+      - US703 2.0MB/s
+      - 🇷🇺RU俄罗斯
+      - 未知1166
+      - 未知1167
+      - 未知1168
+      - 未知1169
+      - 未知1170
+      - US704 59.1MB/s
+      - 未知1171
+      - 未知1172
+      - US705 1.7MB/s
+      - 未知1173
+      - 未知1174
+      - 🇺🇸US美国18 8.6MB/s
+      - 未知1175 1.7MB/s
+      - 未知1176
       - 未知1177
-      - HK100
-      - 🇺🇸US美国12 1.9MB/s
       - 未知1178
-      - 未知1179 17.7MB/s
-      - HK101
-      - US705 1.9MB/s
-      - US706 9.1MB/s
-      - 未知1180
+      - 未知1179 14.5MB/s
+      - HK103
+      - 未知1180 13.3MB/s
       - 未知1181
-      - 未知1182 646.2KB/s
-      - US707 1.2MB/s
-      - US708 1.9MB/s
+      - 未知1182 24.5MB/s
+      - US706 1.9MB/s
+      - 🇸🇬SG新加坡
+      - US707 1.9MB/s
+      - US708 23.6MB/s
       - 未知1183
       - 未知1184
-      - 未知1185
-      - US709 1.9MB/s
-      - US710
-      - US711 1.9MB/s
+      - 未知1185 1.9MB/s
       - 未知1186
+      - US709 1.9MB/s
       - 未知1187
-      - 未知1188
+      - 未知1188 1.8MB/s
+      - US710 1.9MB/s
+      - US711
       - 未知1189
-      - US712 1.9MB/s
-      - HK102
-      - 未知1190 4.6MB/s
-      - HK103
-      - 未知1191
-      - 未知1192 4.7MB/s
-      - 未知1193 14.7MB/s
-      - 未知1194
-      - 未知1195
+      - US712 1.7MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -298,38 +375,49 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - US701 1.9MB/s
+      - 未知1163
+      - 未知1164
+      - 未知1165
+      - US702 1.9MB/s
+      - US703 2.0MB/s
+      - 🇷🇺RU俄罗斯
+      - 未知1166
+      - 未知1167
+      - 未知1168
+      - 未知1169
+      - 未知1170
+      - US704 59.1MB/s
+      - 未知1171
+      - 未知1172
+      - US705 1.7MB/s
+      - 未知1173
+      - 未知1174
+      - 🇺🇸US美国18 8.6MB/s
+      - 未知1175 1.7MB/s
+      - 未知1176
       - 未知1177
-      - HK100
-      - 🇺🇸US美国12 1.9MB/s
       - 未知1178
-      - 未知1179 17.7MB/s
-      - HK101
-      - US705 1.9MB/s
-      - US706 9.1MB/s
-      - 未知1180
+      - 未知1179 14.5MB/s
+      - HK103
+      - 未知1180 13.3MB/s
       - 未知1181
-      - 未知1182 646.2KB/s
-      - US707 1.2MB/s
-      - US708 1.9MB/s
+      - 未知1182 24.5MB/s
+      - US706 1.9MB/s
+      - 🇸🇬SG新加坡
+      - US707 1.9MB/s
+      - US708 23.6MB/s
       - 未知1183
       - 未知1184
-      - 未知1185
-      - US709 1.9MB/s
-      - US710
-      - US711 1.9MB/s
+      - 未知1185 1.9MB/s
       - 未知1186
+      - US709 1.9MB/s
       - 未知1187
-      - 未知1188
+      - 未知1188 1.8MB/s
+      - US710 1.9MB/s
+      - US711
       - 未知1189
-      - US712 1.9MB/s
-      - HK102
-      - 未知1190 4.6MB/s
-      - HK103
-      - 未知1191
-      - 未知1192 4.7MB/s
-      - 未知1193 14.7MB/s
-      - 未知1194
-      - 未知1195
+      - US712 1.7MB/s
 
 
 rules:
