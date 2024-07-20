@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.113:5500#US%201.8MB%2Fs
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8881#US2%20515.5KB%2Fs
-trojan://59d2d083-2b47-4758-8d40-f05c4af165e8@hk01.135235.xyz:443?sni=hk01.135235.xyz#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.51.171:2053?security=tls&type=ws&sni=mfjd.591haoka.com&host=mfjd.591haoka.com#HK
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8119#US3%201.9MB%2Fs
+trojan://NISHIKUITAN222@8.219.248.47:8443?security=tls&type=ws&sni=t010.ylks.link&path=/&host=t010.ylks.link#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySFZVUG5vcVhHcFlaQXRyMlVybGtQ@206.189.159.120:3127#%E6%9C%AA%E7%9F%A53
+trojan://TSUptGjeQ49a@54.91.171.74:14508?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#US%201.9MB%2Fs
+trojan://9Mdw86d7Cz@132.145.208.20:443?type=tcp&sni=no.09.ijg.cc#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
