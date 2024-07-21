@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.162.200.133:5500#%E6%9C%AA%E7%9F%A52%201.7MB%2Fs
-trojan://ypDt8RkT7J@138.199.41.25:43118?security=tls&sni=dngn.phooeyunfold.com#US%2075.0MB%2Fs
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.109:8443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A53
-trojan://Jncm1NRGbZ@172.67.175.243:8443?security=tls&type=grpc&sni=frankfoortvip.followprovider.ir#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#US2%202.0MB%2Fs
+trojan://zIfXL5Sw1a@5.42.103.237:12886?security=none&type=tcp#%E6%9C%AA%E7%9F%A5
+trojan://auto@172.66.44.249:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&path=/worker-polished-glade-fe47.tahajadidi2022.workers.dev/?ed=2560&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A52
+trojan://NISHIKUITAN222@8.219.113.232:8443?security=tls&type=ws&sni=t009.ylks.link&path=/&host=t009.ylks.link#%E6%9C%AA%E7%9F%A53
+trojan://mJ3WWiVb0kGNio7fQNAjnA@104.21.69.44:80?security=tls&type=ws&sni=zula.ir&path=/shop&host=shop.fa-behsazan.ir#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.65:443#US2%201.7MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
