@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://zIfXL5Sw1a@5.42.103.237:12886?security=none&type=tcp#%E6%9C%AA%E7%9F%A5
-trojan://auto@172.66.44.249:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&path=/worker-polished-glade-fe47.tahajadidi2022.workers.dev/?ed=2560&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN222@8.219.113.232:8443?security=tls&type=ws&sni=t009.ylks.link&path=/&host=t009.ylks.link#%E6%9C%AA%E7%9F%A53
-trojan://mJ3WWiVb0kGNio7fQNAjnA@104.21.69.44:80?security=tls&type=ws&sni=zula.ir&path=/shop&host=shop.fa-behsazan.ir#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.65:443#US2%201.7MB%2Fs
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.246:2096?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A52
+trojan://NISHIKUITAN222@47.236.118.216:8443?security=tls&type=ws&sni=t009.ylks.link&path=/&host=t009.ylks.link#%E6%9C%AA%E7%9F%A53
+trojan://a3bce210-eacc-11ee-be58-1239d0255272@188.114.96.1:443?type=ws&sni=de2.test3.net&path=/howdy&host=de2.test3.net#%E6%9C%AA%E7%9F%A54
+trojan://10f87a8e-a6f6-319d-a895-8310d326ecce@8.217.193.174:20897?security=tls&type=tcp&sni=hkhe02.bcloudv.cyou#HK
+trojan://NISHIKUITAN222@172.67.75.172:443?security=tls&type=ws&sni=t111.ylks.link&path=/&host=t111.ylks.link#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
