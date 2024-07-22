@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.246:2096?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN222@47.236.118.216:8443?security=tls&type=ws&sni=t009.ylks.link&path=/&host=t009.ylks.link#%E6%9C%AA%E7%9F%A53
-trojan://a3bce210-eacc-11ee-be58-1239d0255272@188.114.96.1:443?type=ws&sni=de2.test3.net&path=/howdy&host=de2.test3.net#%E6%9C%AA%E7%9F%A54
-trojan://10f87a8e-a6f6-319d-a895-8310d326ecce@8.217.193.174:20897?security=tls&type=tcp&sni=hkhe02.bcloudv.cyou#HK
-trojan://NISHIKUITAN222@172.67.75.172:443?security=tls&type=ws&sni=t111.ylks.link&path=/&host=t111.ylks.link#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.181:3306#%E6%9C%AA%E7%9F%A53%201.9MB%2Fs
+trojan://Watashi_VPN@141.101.113.89:443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#%E6%9C%AA%E7%9F%A54
+trojan://95af4fd9-3b0a-3af6-8836-982739fed565@202.78.166.226:16217?security=tls&type=tcp&sni=eplcgame.com#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.33:5001#US%201.0MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
