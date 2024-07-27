@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.89:5003#US%201.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzNjOGZkNC1lZjBjLTQ3OWMtYTRmZi1jYmQwZjRiZDNlZjE=@46.232.123.37:50233#HK
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.80:3306#US2%201.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTjVxOG1ZMVNidEFaNXFmNFlLMUdE@212.47.237.254:443#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYV2o1RjVNYmxxRThWTFRzVk9xbTY0@65.20.78.250:37262#%E6%9C%AA%E7%9F%A53
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.219:8443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.222:5001#US%201.9MB%2Fs
+trojan://b0b861c2c85346a389b9e95769c3cba4@104.19.159.8:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A53
+trojan://-YZ7Suz3ZpIJjXIJobWrqw@104.21.50.131:80?security=none&type=ws&path=/shop&host=shop.fa-behsazan.ir#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
