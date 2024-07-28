@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.219:8443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.222:5001#US%201.9MB%2Fs
-trojan://b0b861c2c85346a389b9e95769c3cba4@104.19.159.8:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A53
-trojan://-YZ7Suz3ZpIJjXIJobWrqw@104.21.50.131:80?security=none&type=ws&path=/shop&host=shop.fa-behsazan.ir#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#US2%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5001#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
+trojan://Watashi_VPN@104.27.7.142:2053?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/?TM@AZARBAYJAB1 TM@AZARBAYJAB1 @AZARBAYJAB1&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.113:7307#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.21:8080#US2%20650.8KB%2Fs
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.87:6379#US3%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
