@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#US%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.9:9101#US2%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.26:5001#US3%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.83:8118#US4%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.93:8090#US5%20436.6KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGa2NxNWZrT0xEQUg0YnJmbnl1eHd4@167.99.216.236:50250#%E6%9C%AA%E7%9F%A52
+trojan://fb89083a4ba1df5@172.67.145.123:443?security=tls&type=grpc&sni=turk-net-shop.internetir.biz.tr#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.89:9101#US%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20175#%E6%9C%AA%E7%9F%A54
+trojan://19c80ce9-0935-41b9-b077-277621316a87@136.244.110.189:443?security=tls&type=ws&sni=hidd2.parthianempire.org&path=/VOkcnRNFk1Gfjd07ui73LZgwx8s&host=hidd2.parthianempire.org#%E6%9C%AA%E7%9F%A55%2019.3MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
