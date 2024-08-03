@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206Q0gxVU5URFlwbi9pQUg4TzFkTW12L0hzOGM0NlBVOUdYbkhyR3l0NFNXMD0=@188.245.87.175:80#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.188.71:8882#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://9jjgrhIuksxW@13.38.80.47:12223?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzE1MzRmZi04M2EzLTQxMzctOTFiNy03OWUxNDQ0ODk2NDM=@46.232.123.37:50239#HK
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#%E6%9C%AA%E7%9F%A53%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.83:6679#US%201.6MB%2Fs
+trojan://ypDt8RkT7J@138.199.23.100:43118?security=tls&sni=radtz.phooeyunfold.com#%E6%9C%AA%E7%9F%A52%2011.7MB%2Fs
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.1:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A53
+trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&type=tcp&sni=is2-t.sshmax.xyz#%E6%9C%AA%E7%9F%A54
+trojan://yEnxJlVC@183.232.139.24:54367?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
