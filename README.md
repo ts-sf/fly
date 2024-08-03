@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#US2%202.0MB%2Fs
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.220.84.76:46002?#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.180:5498#US3%201.9MB%2Fs
-trojan://ypDt8RkT7J@138.199.23.100:43118?security=tls&sni=radtz.phooeyunfold.com#%E6%9C%AA%E7%9F%A52%204.2MB%2Fs
-trojan://telegram-id-privatevpns@3.69.157.106:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.225:8888#%E6%9C%AA%E7%9F%A53%202.0MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzYmtGSDNQc2xVeUoxeHVweEZScjlW@166.0.162.84:8080#%E6%9C%AA%E7%9F%A54%203.7MB%2Fs
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.111.114.133:9101#%E6%9C%AA%E7%9F%A55%201.6MB%2Fs
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.111.114.161:8882#%E6%9C%AA%E7%9F%A56%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
