@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.3:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A52
-trojan://f2191442-1436-3d79-801e-80d8de896c73@us3-july.88888802.xyz:443?type=ws&sni=us3-july.88888802.xyz&path=/91838f3b905c42c7aa5b664b27d8193b&host=us3-july.88888802.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://ExPreSEToo582b993d16e522@104.21.68.174:8443?security=tls&type=ws&sni=random.expreset479927393.workers.dev&host=random.expreset479927393.workers.dev#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYVdNNmFGVURZVllkSktQWTZqSjlX@62.133.63.16:33188#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#US%201.7MB%2Fs
+trojan://auto@172.67.161.104:443?security=tls&type=ws&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&path=/abbas.ab841vpn.workers.dev/?ed=2560.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY&host=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7001#%E6%9C%AA%E7%9F%A53%201.0MB%2Fs
+trojan://telegram-id-privatevpns@35.180.20.141:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A54%202.8MB%2Fs
+trojan://auto@172.67.2.238:2083?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A55
+trojan://telegram-id-privatevpns@51.20.236.168:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
