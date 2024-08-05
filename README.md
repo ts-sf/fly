@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Z3FSA9weaaRYpN89weaaRYpN89weaaRYpN80CDYFOxS5TSBqlCyAaXzaXzc7ZpngISBqlCyAaXzc7Zp@154.17.10.185:443?security=tls&type=tcp&sni=tubular.wireshop.net#US%2039.3MB%2Fs
-trojan://maradona_vpn@185.174.138.209:443?security=tls&type=ws&sni=teo.history-paint.art&host=teo.history-paint.art#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.31:5498#US2%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:5500#US3%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.83:6679#US4%201.9MB%2Fs
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A52
+trojan://telegram-id-directvpn@35.157.99.233:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@44.208.124.139:443#US
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#%E6%9C%AA%E7%9F%A54%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.162.200.133:9102#%E6%9C%AA%E7%9F%A55%201.2MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
