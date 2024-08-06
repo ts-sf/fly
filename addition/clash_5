@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2024-08-06 10:43:35
+# 创建时间: 2024-08-06 17:29:28
 # 使用模版: V2RaySE 默认模版
-# 节点数量：5
+# 节点数量：7
 ####################################
 #
 mixed-port: 7890
@@ -12,11 +12,13 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"HK55","type":"ss","server":"46.232.123.37","port":50219,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"5ddbeb21-15fb-4aa5-8cc3-34df601c1f02","skip-cert-verify":true}
-  - {"name":"未知604 1.2MB/s","type":"ss","server":"51.77.53.200","port":4444,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
-  - {"name":"US280 1.9MB/s","type":"ss","server":"69.50.95.174","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
-  - {"name":"未知605","type":"ss","server":"45.153.48.114","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"ICTOtROjrAqIotsEYTG8Nc","skip-cert-verify":true}
-  - {"name":"未知606","type":"ss","server":"45.158.59.74","port":39192,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"43c1589b-3e05-4bbd-aeec-16fe1f0f5da5","skip-cert-verify":true}
+  - {"name":"未知610 489.7KB/s","type":"trojan","server":"13.48.172.93","port":22222,"alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知611","type":"vmess","server":"183.240.235.166","port":31778,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"US283 1.9MB/s","type":"ss","server":"38.75.137.66","port":6379,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"zDNVedRFPQexG9v","skip-cert-verify":true}
+  - {"name":"未知612","type":"trojan","server":"172.66.47.7","port":443,"alterId":0,"tls":true,"password":"auto","sni":"fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知613 7.5MB/s","type":"ss","server":"168.119.57.171","port":51348,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"I53uJsZc6dzTBYDEqg1a30Bh1hAd4HQzgpwCVdpzKwfF2ZUh","skip-cert-verify":true}
+  - {"name":"未知614","type":"trojan","server":"176.31.71.16","port":443,"alterId":0,"tls":true,"password":"a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671","sni":"upload.soft98.download","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US284 1.9MB/s","type":"ss","server":"23.157.40.89","port":5001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -24,11 +26,13 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - HK55
-      - 未知604 1.2MB/s
-      - US280 1.9MB/s
-      - 未知605
-      - 未知606
+      - 未知610 489.7KB/s
+      - 未知611
+      - US283 1.9MB/s
+      - 未知612
+      - 未知613 7.5MB/s
+      - 未知614
+      - US284 1.9MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -36,11 +40,13 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - HK55
-      - 未知604 1.2MB/s
-      - US280 1.9MB/s
-      - 未知605
-      - 未知606
+      - 未知610 489.7KB/s
+      - 未知611
+      - US283 1.9MB/s
+      - 未知612
+      - 未知613 7.5MB/s
+      - 未知614
+      - US284 1.9MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -48,44 +54,52 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - HK55
-      - 未知604 1.2MB/s
-      - US280 1.9MB/s
-      - 未知605
-      - 未知606
+      - 未知610 489.7KB/s
+      - 未知611
+      - US283 1.9MB/s
+      - 未知612
+      - 未知613 7.5MB/s
+      - 未知614
+      - US284 1.9MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - HK55
-      - 未知604 1.2MB/s
-      - US280 1.9MB/s
-      - 未知605
-      - 未知606
+      - 未知610 489.7KB/s
+      - 未知611
+      - US283 1.9MB/s
+      - 未知612
+      - 未知613 7.5MB/s
+      - 未知614
+      - US284 1.9MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - HK55
-      - 未知604 1.2MB/s
-      - US280 1.9MB/s
-      - 未知605
-      - 未知606
+      - 未知610 489.7KB/s
+      - 未知611
+      - US283 1.9MB/s
+      - 未知612
+      - 未知613 7.5MB/s
+      - 未知614
+      - US284 1.9MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - HK55
-      - 未知604 1.2MB/s
-      - US280 1.9MB/s
-      - 未知605
-      - 未知606
+      - 未知610 489.7KB/s
+      - 未知611
+      - US283 1.9MB/s
+      - 未知612
+      - 未知613 7.5MB/s
+      - 未知614
+      - US284 1.9MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -109,11 +123,13 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - HK55
-      - 未知604 1.2MB/s
-      - US280 1.9MB/s
-      - 未知605
-      - 未知606
+      - 未知610 489.7KB/s
+      - 未知611
+      - US283 1.9MB/s
+      - 未知612
+      - 未知613 7.5MB/s
+      - 未知614
+      - US284 1.9MB/s
 
 
 rules:
