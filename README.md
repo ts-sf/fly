@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN222@47.236.146.249:443?security=tls&type=ws&sni=t555.ylks.link&path=/&host=t555.ylks.link#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNTN1SnNaYzZkelRCWURFcWcxYTMwQmgxaEFkNEhRemdwd0NWZHB6S3dmRjJaVWg=@168.119.57.171:51348#%E6%9C%AA%E7%9F%A52%2014.8MB%2Fs
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@44.208.124.139:443#US2
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.117:7002#US3%201.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2MxNTg5Yi0zZTA1LTRiYmQtYWVlYy0xNmZlMWYwZjVkYTU=@139.162.80.75:39192#%E6%9C%AA%E7%9F%A53
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@74.226.136.204:443?#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqOW9jNmR0QW1uT2lhbG9CYTBVZm9U@138.68.182.23:2248#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%201.6MB%2Fs
+trojan://telegram-id-directvpn@52.15.117.136:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#US
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6679#US2%201.5MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
