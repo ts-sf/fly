@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:9090#%E6%9C%AA%E7%9F%A57%202.0MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVMyIDYyLjVNQi9zIiwiYWRkIjoiMTA0LjE2OC41MC4yMSIsInBvcnQiOiI0NTk3OSIsImlkIjoiMjNiZGY2ZGYtYzQ4Mi00NmQwLWMwZjQtNWE5OGQ1MzRlYTExIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii90ZXN0IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMyIn0=
-trojan://telegram-id-privatevpns@52.49.60.21:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A58%2020.2MB%2Fs
-trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com#US3%2085.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.237:8080#%E6%9C%AA%E7%9F%A59%2013.9MB%2Fs
+trojan://ypDt8RkT7J@51.158.217.197:43118?security=tls&type=tcp&sni=riyyy.phooeyunfold.com#%E6%9C%AA%E7%9F%A55%202.9MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%E6%9C%AA%E7%9F%A56%2015.4MB%2Fs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.152.16:8091#US2%201.5MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#US4%201.6MB%2Fs
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#US5%202.0MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
