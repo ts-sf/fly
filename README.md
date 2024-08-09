@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:804#%E6%9C%AA%E7%9F%A5%201.3MB%2Fs
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9102#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzE1MzRmZi04M2EzLTQxMzctOTFiNy03OWUxNDQ0ODk2NDM=@46.232.123.37:50242#HK
-trojan://ypDt8RkT7J@151.115.88.59:43118?security=tls&type=tcp&sni=vkvd127.mycdn.me#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.102:2375#US2%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&type=ws&sni=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&host=missyousir.segaro.tech#%E6%9C%AA%E7%9F%A52
+trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20300?sni=z300.hongkongnode.top#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.63.59:6697#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaalZtWW1KbA==@95.164.44.21:8388#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
