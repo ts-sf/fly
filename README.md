@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.147.22:80?security=none&type=ws#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8008#US2%201.7MB%2Fs
-trojan://ZJU29smXwp@216.24.57.1:2053?security=tls&type=ws&sni=omid2.teama.tk&path=/&host=k.teama.tk#US3
-trojan://qj1Dz1CJmFQRhWr1SP80aA@104.16.1.10:443?type=grpc&sni=cdn-21.gsmxreality.com#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.28:3306#US4%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.222:5499#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.103:7307#US2%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@38.180.44.28:1080#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#%E6%9C%AA%E7%9F%A53%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#US3%202.0MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
