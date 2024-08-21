@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&type=ws&sni=jobsapplyworld.com&path=6b777a91&host=jobsapplyworld.com#%E6%9C%AA%E7%9F%A52
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjEwNC4xNy4xNDguMjIiLCJwb3J0IjoiMjA1MiIsImlkIjoiMjJiZTBkZjctZmUxZC00Y2U2LTllOTgtMjA5MzE4ODY1YmZlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.95:8443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A54
-trojan://auto@172.67.203.182:443?security=tls&type=ws&sni=esetsecuritylicense.bwnsmv.workers.dev&path=/?ed=2560&host=esetsecuritylicense.bwnsmv.workers.dev#%E6%9C%AA%E7%9F%A55
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#%E6%9C%AA%E7%9F%A56%201.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNHlHMHNPV1NSVlNsaWQ5bWZLVW1tajhVNFhnVmxvZHU0b1NSVTkwZXkyZTBDUTI=@89.44.193.112:51348#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7001#%E6%9C%AA%E7%9F%A53%201.0MB%2Fs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%E6%9C%AA%E7%9F%A54%201.7MB%2Fs
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.6:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#%E6%9C%AA%E7%9F%A56%201.1MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
