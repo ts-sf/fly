@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNHlHMHNPV1NSVlNsaWQ5bWZLVW1tajhVNFhnVmxvZHU0b1NSVTkwZXkyZTBDUTI=@89.44.193.112:51348#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7001#%E6%9C%AA%E7%9F%A53%201.0MB%2Fs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%E6%9C%AA%E7%9F%A54%201.7MB%2Fs
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.6:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A55
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#%E6%9C%AA%E7%9F%A56%201.1MB%2Fs
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.46:8118#US%201.9MB%2Fs
+trojan://telegram-id-privatevpns@52.214.9.12:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52
+trojan://telegram-id-privatevpns@51.44.66.162:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@8.210.172.202:80#HK
+vmess://eyJ2IjoiMiIsInBzIjoiVVMyIDYxLjdNQi9zIiwiYWRkIjoiaGV4by40Y2UuY24iLCJwb3J0IjoiODAiLCJpZCI6IjdiNTgzNzk3LWNhN2ItNDViOS05YTY0LWE1MTFjYzEyNmU3NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Imp1emkuemR6ZHpkLnh5eiIsInBhdGgiOiIvY2MiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzIifQ==
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
