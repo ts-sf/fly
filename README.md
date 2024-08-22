@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.46:443?security=tls&type=ws&sni=lmtsg3.cfyun01.sbs&path=/CFYUN&host=lmtsg3.cfyun01.sbs#%E6%9C%AA%E7%9F%A52
-trojan://RXJBaMNA6o@3.65.13.195:42651?security=tls&type=tcp&sni=zac23.ir#%E6%9C%AA%E7%9F%A53
-trojan://telegram-id-directvpn@3.22.29.222:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNTN1SnNaYzZkelRCWURFcWcxYTMwQmgxaEFkNEhRemdwd0NWZHB6S3dmRjJaVWg=@168.119.57.171:51348#%E6%9C%AA%E7%9F%A54%2016.8MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVMyIiwiYWRkIjoiNDUuODYuNzMuMTk0IiwicG9ydCI6IjE3MzI3IiwiaWQiOiI4OTA0YmFhZi1jNWNiLTQ4NmMtZmZhYi1jYWE3NDYzNDY3ZDgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVa1MxblN6UVI1OE9iMEpDRjVQeVIz@146.19.75.41:9350#%E6%9C%AA%E7%9F%A5
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12025?sni=cdn.alibaba.com#%E6%9C%AA%E7%9F%A52
+trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA==@117.143.14.208:12010#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCRTE2MldPQjdkNk1BR0RtRUFvbEZL@176.126.113.98:15193#%E6%9C%AA%E7%9F%A55%203.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
