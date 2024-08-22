@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://FtEizCoS0v0MUqSQBgMm2A@172.66.213.38:2083?security=tls&type=grpc&sni=gerMnV2ray.naziitness.coM#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.143:7002#US%201.9MB%2Fs
-trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@217.142.249.49:37578?security=tls&type=grpc&sni=freejp01.jd0001.top#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8000#%E6%9C%AA%E7%9F%A54%201.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#US2%2066.3MB%2Fs
+trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.46:443?security=tls&type=ws&sni=lmtsg3.cfyun01.sbs&path=/CFYUN&host=lmtsg3.cfyun01.sbs#%E6%9C%AA%E7%9F%A52
+trojan://RXJBaMNA6o@3.65.13.195:42651?security=tls&type=tcp&sni=zac23.ir#%E6%9C%AA%E7%9F%A53
+trojan://telegram-id-directvpn@3.22.29.222:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNTN1SnNaYzZkelRCWURFcWcxYTMwQmgxaEFkNEhRemdwd0NWZHB6S3dmRjJaVWg=@168.119.57.171:51348#%E6%9C%AA%E7%9F%A54%2016.8MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoiVVMyIiwiYWRkIjoiNDUuODYuNzMuMTk0IiwicG9ydCI6IjE3MzI3IiwiaWQiOiI4OTA0YmFhZi1jNWNiLTQ4NmMtZmZhYi1jYWE3NDYzNDY3ZDgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzIifQ==
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
