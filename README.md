@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NUeBvQHox0BmnHpu@42.3.168.196:443?security=tls&type=tcp&sni=ggghhhk51.xyz#HK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeUZqemhOMkpXYXFVSEJnQWhLZHR0@45.133.216.157:9758#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdkdvNUdlZ2ZJNHBha0RXRUlGbzY2@147.45.125.172:64296#US%208.1MB%2Fs
-trojan://auto@162.159.152.55:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA==@117.143.14.213:13253#%E6%9C%AA%E7%9F%A54
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.7:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A52
+trojan://ZJU29smXwp@188.114.96.3:2053?security=tls&type=ws&sni=omid1.teama.tk&path=/&host=k.teama.tk#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMjZhSDdYZmdkNWYweFhLQQ==@92.53.86.220:51348#%E6%9C%AA%E7%9F%A54
+trojan://auto@162.159.152.101:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50220#HK
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
