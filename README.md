@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://71409d3e488548e8bb076d229778f008@104.17.147.7:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A52
-trojan://ZJU29smXwp@188.114.96.3:2053?security=tls&type=ws&sni=omid1.teama.tk&path=/&host=k.teama.tk#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMjZhSDdYZmdkNWYweFhLQQ==@92.53.86.220:51348#%E6%9C%AA%E7%9F%A54
-trojan://auto@162.159.152.101:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A55
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50220#HK
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjE4NS4yNDkuMTM1LjIwNiIsInBvcnQiOiIyMDU4IiwiaWQiOiI0NGZlZDg4Zi1hNzZjLTQyYzYtOTFmYS0xNzQ5MDUzMzlmMzEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.158.205.16:46002?#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#US%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4UHJLVUJRUHdDRmVYRVE1dVhsUk5Y@13.94.117.31:10238#%E6%9C%AA%E7%9F%A54
+trojan://auto@194.53.53.4:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
