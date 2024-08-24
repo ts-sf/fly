@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.31:445#US%201.6MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#%E6%9C%AA%E7%9F%A5%201.8MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#US2%201.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SE9ZdjlkYUN4b1RNQWg5WU1YN1Zn@178.20.40.126:443#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.97:9102#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#US%201.9MB%2Fs
+trojan://bpg9SJpHui@104.17.147.22:2052?security=none&type=ws&path=TelegramChanel:t.me/HTTP_injector99&host=free.prochanel99.online#%E6%9C%AA%E7%9F%A52
+trojan://NISHIKUITAN222@8.219.199.220:8443?security=tls&type=ws&sni=t010.ylks.link&path=/&host=t010.ylks.link#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:9090#US2%201.9MB%2Fs
+trojan://NUeBvQHox0BmnHpu@112.120.7.88:443?security=tls&type=tcp&sni=gnmktnwq58.xyz#HK
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
