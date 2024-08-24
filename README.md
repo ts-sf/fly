@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjE4NS4yNDkuMTM1LjIwNiIsInBvcnQiOiIyMDU4IiwiaWQiOiI0NGZlZDg4Zi1hNzZjLTQyYzYtOTFmYS0xNzQ5MDUzMzlmMzEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.158.205.16:46002?#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#US%201.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4UHJLVUJRUHdDRmVYRVE1dVhsUk5Y@13.94.117.31:10238#%E6%9C%AA%E7%9F%A54
-trojan://auto@194.53.53.4:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJQ1RPdFJPanJBcUlvdHNFWVRHOE5j@45.153.48.114:443#%E6%9C%AA%E7%9F%A52
+trojan://auto@162.159.152.6:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.49.68:2376#US%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206d0RadHhmSWszVWhhY0tIcmhvN2x4dw==@5.182.87.210:35961#%E6%9C%AA%E7%9F%A54
+trojan://telegram-id-privatevpns@13.51.145.1:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A55%208.7MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
