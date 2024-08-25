@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#US%202.0MB%2Fs
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@23.224.33.72:28443?sni=www.download.windowsupdate1.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.195.236.24:28443?sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN%E8%B6%8A%E5%8D%97
-trojan://ZJU29smXwp@172.67.68.87:2053?security=tls&type=ws&sni=Web2.teama.tk&path=/&host=k.teama.tk#%E6%9C%AA%E7%9F%A52
-trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12023?sni=cdn.alibaba.com#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.42:5600#US%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.19:5004#US2%202.0MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50207#HK
+trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@108.162.193.100:443?security=tls&type=ws&sni=cfsg2.trojanwss.xyz&path=/CFJICHANG&host=cfsg2.trojanwss.xyz#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6MDhqTGw1NDZIR2ZzMDlKbE5ubGJOVA==@81.176.239.56:51348#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
