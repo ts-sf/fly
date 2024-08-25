@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#US%201.9MB%2Fs
-trojan://bpg9SJpHui@104.17.147.22:2052?security=none&type=ws&path=TelegramChanel:t.me/HTTP_injector99&host=free.prochanel99.online#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN222@8.219.199.220:8443?security=tls&type=ws&sni=t010.ylks.link&path=/&host=t010.ylks.link#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:9090#US2%201.9MB%2Fs
-trojan://NUeBvQHox0BmnHpu@112.120.7.88:443?security=tls&type=tcp&sni=gnmktnwq58.xyz#HK
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12069?sni=cdn.alibaba.com#%E6%9C%AA%E7%9F%A52
+trojan://auto@162.159.153.102:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#%E6%9C%AA%E7%9F%A54%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.97:8008#US%202.0MB%2Fs
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.158.205.18:46002?#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
