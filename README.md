@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083?security=tls&type=grpc&sni=taqboostan.zagros.top#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.135.19:8008#US%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.152.16:8091#US2%201.7MB%2Fs
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.65:2375#US3%201.9MB%2Fs
-trojan://IU5j1R3chk@43.153.41.7:12398?security=tls&type=tcp&sni=gg.makezhan.xyz#US4
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:3389#US%201.6MB%2Fs
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#US2%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#%E6%9C%AA%E7%9F%A52%201.7MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAxLjlNQi9zIiwiYWRkIjoiNDUuODkuNTIuMTE0IiwicG9ydCI6IjEzNzAxIiwiaWQiOiI4NmEwYzE3ZC0xODcxLTQwZTMtZGI2NS0yYjliZjFhNzY1MGUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6InZrdmQxMjcubXljZG4ubWUiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@142.202.49.68:8881#US3%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
