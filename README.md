@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.135.18:6697#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.6.6:443?security=tls&type=ws&sni=cfsg2.trojanwss.xyz&path=/CFJICHANG&host=cfsg2.trojanwss.xyz#%E6%9C%AA%E7%9F%A52
-trojan://telegram-id-privatevpns@52.47.81.157:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
-trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@13.67.114.67:443?#%E6%9C%AA%E7%9F%A54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%E6%9C%AA%E7%9F%A55%2028.7MB%2Fs
+trojan://a3bce210-eacc-11ee-be58-1239d0255272@172.67.204.84:443?type=ws&sni=de2.test3.net&path=/howdy&host=de2.test3.net#%E6%9C%AA%E7%9F%A5
+trojan://auto@172.66.44.128:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN05Eb1Z6M01lcGtXZVp6NGVzNlQxWHN1SEJ5akIybTRDVUJZZVdpZzZ3anhxejVBeVpaVUF0SDd4UEtEY2I4QVllSzNnYzlBUzRCTjRwTWJQRTZGTGVISDdTaWRCVjE=@185.5.38.111:55988#%E6%9C%AA%E7%9F%A53%2046.9KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoiVVMiLCJhZGQiOiIzOC4xMjcuMjM3LjEwOCIsInBvcnQiOiIyNjg0MSIsImlkIjoiMjU0NGJjOTgtNzcyZC00YmUyLWEzN2ItYmUyOGYxN2Q3NGM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMifQ==
+trojan://auto@162.159.152.215:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
