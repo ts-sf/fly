@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://a3bce210-eacc-11ee-be58-1239d0255272@172.67.204.84:443?type=ws&sni=de2.test3.net&path=/howdy&host=de2.test3.net#%E6%9C%AA%E7%9F%A5
-trojan://auto@172.66.44.128:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN05Eb1Z6M01lcGtXZVp6NGVzNlQxWHN1SEJ5akIybTRDVUJZZVdpZzZ3anhxejVBeVpaVUF0SDd4UEtEY2I4QVllSzNnYzlBUzRCTjRwTWJQRTZGTGVISDdTaWRCVjE=@185.5.38.111:55988#%E6%9C%AA%E7%9F%A53%2046.9KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVMiLCJhZGQiOiIzOC4xMjcuMjM3LjEwOCIsInBvcnQiOiIyNjg0MSIsImlkIjoiMjU0NGJjOTgtNzcyZC00YmUyLWEzN2ItYmUyOGYxN2Q3NGM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMifQ==
-trojan://auto@162.159.152.215:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206clB5K1ZYRkhtZGhNUFBHM0pqbFllL0lHRGtVWnVoU2JiVm9GeW80TERpWT0=@128.140.81.110:80#%E6%9C%AA%E7%9F%A52
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BTElJTEFQUk8vdjJyYXlORy1Db25maWciLCJwb3J0IjoiNDMzIiwiaWQiOiJGcmVlIiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
+trojan://ExPreSEToo582b993d16e522@104.21.68.174:8443?security=tls&type=ws&sni=random.expreset479927393.workers.dev&host=random.expreset479927393.workers.dev#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA==@117.143.14.208:13108#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.42:2376#US%201.7MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
