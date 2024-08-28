@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&type=tcp&sni=egcmi.phooeyunfold.com#US
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#US2%201.9MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%E6%9C%AA%E7%9F%A52%202.7MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjE4NS4yMTkuMTMyLjE4NiIsInBvcnQiOiI4MDg1IiwiaWQiOiJjMWFmMGU0Ni0xNzM2LTQwM2EtYTM2Mi1lOTllODY0NDIzMWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6InRlbGV3ZWJpb24uY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCA2ODMuN0tCL3MiLCJhZGQiOiI0Ni4yOS4xNjYuMjM3IiwicG9ydCI6IjQ3NTU1IiwiaWQiOiIwYzQ5Y2QxOS0yNzU4LTRkMzgtZTZhOC0xMWYyZDY2MzU4NjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:3389#US2%201.7MB%2Fs
+trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@108.162.192.100:443?security=tls&type=ws&sni=cfsg2.trojanwss.xyz&path=/CFJICHANG&host=cfsg2.trojanwss.xyz#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.9:9101#US3%201.9MB%2Fs
+trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@52.237.106.238:443?#%E6%9C%AA%E7%9F%A52
+trojan://auto@162.159.152.10:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
