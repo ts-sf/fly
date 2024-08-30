@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://auto@162.159.152.117:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGRiZWIyMS0xNWZiLTRhYTUtOGNjMy0zNGRmNjAxYzFmMDI=@46.232.123.37:50211#HK
-trojan://CMLiu@43.153.80.208:443?type=ws&sni=aliorg.filegear-sg.me&path=/?ed=2048&host=aliorg.filegear-sg.me#US
-trojan://tg-dns68@162.159.153.155:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
-trojan://Watashi_VPN@104.21.80.254:443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.86:6697#US%201.9MB%2Fs
+trojan://93e0e3cc-f71a-441e-94d0-806d0c4f1152@152.42.250.198:443?security=tls&type=tcp&sni=m.instagram.com#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#US2%202.0MB%2Fs
+trojan://tg-dns68@156.251.180.181:21698?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#HK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cHRRSUcxVFg0RXR3QkRuYWxvR0I3@193.233.80.34:36981#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
