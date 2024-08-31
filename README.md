@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#%E6%9C%AA%E7%9F%A52%2018.0MB%2Fs
-trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.9.55:443?security=tls&type=ws&sni=cfsg2.trojanwss.xyz&path=/CFJICHANG&host=cfsg2.trojanwss.xyz#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#US%201.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50245#HK
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%E6%9C%AA%E7%9F%A54%2019.1MB%2Fs
+trojan://9yu6m5okr@172.67.198.177:443?security=tls&type=ws&sni=production.tj.ojan.workers.dev&path=/&host=production.tj.ojan.workers.dev#%E6%9C%AA%E7%9F%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSHlEeVI=@38.150.12.188:56032#HK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxT2l2R2dpS0ZTbW5uUFJGRkdlUUJl@51.15.127.125:443#%E6%9C%AA%E7%9F%A52
+trojan://auto@172.66.44.249:443?sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://tg-dns68@162.159.152.55:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
