@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WTlJWDRsdUN0Q0J4b2lWTElGT3k5@209.97.169.217:6412#%E6%9C%AA%E7%9F%A5
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.95:8443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6697#US2%201.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bVpBeVB2Nzc4M3AzYjhRa1M1Vk14@66.151.34.98:57261#%E6%9C%AA%E7%9F%A53%201.9MB%2Fs
-trojan://telegram-id-privatevpns@35.176.100.75:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A54
+trojan://telegram-id-directvpn@13.53.249.38:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52
+trojan://tg-dns68@162.159.152.220:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.135.19:6379#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3389#US2%20518.5KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSXc1WVV0SGhJOHVUQ1hBald5dUFm@18.133.155.154:10901#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
