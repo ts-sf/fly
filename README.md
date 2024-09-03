@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://2a8bf51b-ed85-3cec-baa5-74e908f84341@tw1.elknode.top:10030?sni=tw1.elknode.top#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%E6%9C%AA%E7%9F%A52%2075.2KB%2Fs
-trojan://85bce006-4885-11ee-8792-f23c9164ca5d@6e7da396-sb9ts0-sdlngq-1n7jq.s5.p5pv.com:8443?#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C%2077.6KB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.111.114.133:8080#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppVnFyV0xmQWxDaFVHZjhIQzlEd3dR@209.97.142.145:7330#%E6%9C%AA%E7%9F%A54
+trojan://tg-dns68@162.159.152.177:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A52
+trojan://telegram-id-privatevpns@3.77.141.108:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53%2012.4MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#US%2021.2MB%2Fs
+trojan://2a8bf51b-ed85-3cec-baa5-74e908f84341@sg1.elknode.top:10000?sni=sg1.elknode.top#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#US2%201.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
