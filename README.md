@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://telegram-id-privatevpns@51.44.63.245:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.154:5004#US%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#US2%201.9MB%2Fs
-trojan://telegram-id-privatevpns@34.255.58.152:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaUhvM2hCR0Y4aDFjTmc4eXF0Y080@45.153.231.33:46980#%E6%9C%AA%E7%9F%A54%20447.2KB%2Fs
+trojan://tg-dns68@162.159.152.93:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A5
+trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.7.226:443?security=tls&type=ws&sni=cfsg2.trojanwss.xyz&path=/CFJICHANG&host=cfsg2.trojanwss.xyz#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.86:6697#US2%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#US3%2049.7MB%2Fs
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#US4%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
