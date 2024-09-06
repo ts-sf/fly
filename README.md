@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Watashi_VPN@104.27.7.142:2053?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/?TM@AZARBAYJAB1+TM@AZARBAYJAB1+@AZARBAYJAB1&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#%E6%9C%AA%E7%9F%A52
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAxOS4xTUIvcyIsImFkZCI6IjE3Mi42Ny4yNDQuMTkxIiwicG9ydCI6IjQ0MyIsImlkIjoiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZ3dkZWYuc2JzIiwicGF0aCI6Ii9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnd2RlZi5zYnMiLCJ0ZXN0X25hbWUiOiIzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQ2h0c3o5bXFua0dRV1hUWnlwcE9n@62.133.61.120:35187#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.162:6697#US%201.7MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Plub/kuJwiLCJhZGQiOiIxODMuMjM2LjUxLjIzIiwicG9ydCI6IjU0MTA0IiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IvCfh6jwn4ez5bm/5LicIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZVNmYUtscUJmdkR6bktreUVLeHZy@95.164.114.76:31013#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.191:5600#US2%201.9MB%2Fs
+trojan://tg-dns68@172.66.47.128:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A52
+trojan://telegram-id-directvpn@13.42.185.241:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCA3LjBNQi9zIiwiYWRkIjoiMTM2LjI0NC4xMDEuMTYiLCJwb3J0IjoiNTk0MDAiLCJpZCI6ImU5NzU4ZTBjLTEzMGYtNDE0ZS04ZGY4LWM3NzllNjVlMzFiNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0In0=
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
