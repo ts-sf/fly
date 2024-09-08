@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptam5adlBTMGtwMHdUZWZSYWhOdjky@62.210.88.22:443#%E6%9C%AA%E7%9F%A52%203.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRUNndk82MWJsVmc3aHk4bVBrMEZY@212.113.106.76:61992#%E6%9C%AA%E7%9F%A53
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCAyLjBNQi9zIiwiYWRkIjoiMTgzLjE4MS4zNi4xOTQiLCJwb3J0IjoiNDE1OTciLCJpZCI6IjRhNmVhYTJkLTU2MDMtNGMwNS1kOTY3LWZiNmY0MjI1MGE1YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNCJ9
-trojan://Watashi_VPN@104.18.26.94:8443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#%E6%9C%AA%E7%9F%A55
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VWhaRG1TTHpRZXNqbFhWNTk0QkFV@52.138.172.26:32753#%E6%9C%AA%E7%9F%A56%206.0MB%2Fs
+trojan://telegram-id-directvpn@13.36.220.207:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://auto@172.67.68.157:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A5
+trojan://telegram-id-privatevpns@13.43.171.172:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52
+trojan://telegram-id-privatevpns@13.38.144.48:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.112:3306#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
