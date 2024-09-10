@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://WUv2xVTPkfrrtc_NGwuGoQ@152.42.250.151:443?security=tls&type=tcp&sni=viber.com#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.168.23.126:443#%E6%9C%AA%E7%9F%A53
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@36.138.100.57:21003?sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://tg-dns68@162.159.152.39:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A54
-trojan://tg-dns68@162.159.152.177:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.113:7307#US%201.9MB%2Fs
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.135.234:443?security=tls&type=ws&sni=de1.trojanvpn.de&path=/path/Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config&host=de1.trojanvpn.dE#%E6%9C%AA%E7%9F%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#%E6%9C%AA%E7%9F%A52%20183.4KB%2Fs
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@183.245.146.20:41001?sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
