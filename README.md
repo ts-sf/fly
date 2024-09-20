@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?sni=cdn.qchwnd.moe#%E6%9C%AA%E7%9F%A52
-trojan://tg-dns68@162.159.153.208:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29220#HK
-trojan://tg-dns68@162.159.152.77:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A54
-trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443?sni=jp2-july.88888802.xyz#%E6%9C%AA%E7%9F%A55
+trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@104.19.142.99:443?security=tls&type=ws&sni=cfus2.trojanwss.xyz&path=/CFJICHANG&host=cfus2.trojanwss.xyz#%E6%9C%AA%E7%9F%A52
+trojan://95b@146.59.155.205:8443?type=ws&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&path=/trojan-6qo.pages.dev/?ed=2560?ed=2560&host=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com#%E6%9C%AA%E7%9F%A53
+trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.196.20:443?security=tls&type=ws&sni=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL&host=hdfy4c6.freelines.net#%E6%9C%AA%E7%9F%A54
+trojan://95b@23.169.184.119:32925?type=ws&sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&path=/trojan-6qo.pages.dev/?ed=2560?ed=2560&host=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com#%E6%9C%AA%E7%9F%A55
+trojan://telegram-id-privatevpns@51.21.70.184:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
