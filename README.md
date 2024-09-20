@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@104.19.142.99:443?security=tls&type=ws&sni=cfus2.trojanwss.xyz&path=/CFJICHANG&host=cfus2.trojanwss.xyz#%E6%9C%AA%E7%9F%A52
-trojan://95b@146.59.155.205:8443?type=ws&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&path=/trojan-6qo.pages.dev/?ed=2560?ed=2560&host=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com#%E6%9C%AA%E7%9F%A53
-trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.196.20:443?security=tls&type=ws&sni=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL&host=hdfy4c6.freelines.net#%E6%9C%AA%E7%9F%A54
-trojan://95b@23.169.184.119:32925?type=ws&sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&path=/trojan-6qo.pages.dev/?ed=2560?ed=2560&host=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com#%E6%9C%AA%E7%9F%A55
-trojan://telegram-id-privatevpns@51.21.70.184:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A56
+trojan://95b@149.62.44.224:31005?type=ws&sni=8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com&path=/trojan-6qo.pages.dev/?ed=2560?ed=2560&host=8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:24213#HK
+ss://YWVzLTI1Ni1nY206YkJFWElx@183.240.209.15:31905#%E6%9C%AA%E7%9F%A52
+trojan://telegram-id-privatevpns@54.217.237.34:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53%205.8MB%2Fs
+trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.69.44:2096?security=tls&type=ws&sni=trojan.trojan0.woRkeRS.deV&path=/trojan-ws/?ed=2048&host=trojan.trojan0.woRkeRS.deV#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
