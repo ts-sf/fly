@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://tg-dns68@162.159.152.111:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:8888#US%201.9MB%2Fs
-trojan://auto@104.20.6.134:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A53
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5003#US2%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#%E6%9C%AA%E7%9F%A5%201.7MB%2Fs
+trojan://telegram-id-privatevpns@52.211.1.131:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.95:7306#US%201.9MB%2Fs
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:24211#HK2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#%E6%9C%AA%E7%9F%A53%204.5MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
