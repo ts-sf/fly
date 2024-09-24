@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://tg-dns68@162.159.153.15:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29230#HK
-trojan://wwTIozXY@36.151.192.201:27131?#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:25204#HK2
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5601#US2%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.112:9101#US%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVFY0ZlEySmtUblhEOEdvWXp3T1Nn@147.45.50.104:22195#%E6%9C%AA%E7%9F%A52
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAzOC4wTUIvcyIsImFkZCI6IjEwNC4yMS43NC4yMzkiLCJwb3J0IjoiNDQzIiwiaWQiOiJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6ImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsInRlc3RfbmFtZSI6IjMifQ==
+trojan://A98XMiF6NA@38.59.241.39:10000?type=ws&sni=dy.fxu.asia&host=dy.fxu.asia#US2
+trojan://95b@174.136.206.95:57757?type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#US3
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
