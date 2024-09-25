@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#US%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#US2%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#US3%201.9MB%2Fs
-trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.9:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%E6%9C%AA%E7%9F%A52%2030.3MB%2Fs
+trojan://tg-dns68@162.159.153.224:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A5
+trojan://a6bda0b5-0a8e-4201-838f-903bcedff882@172.66.213.38:443?security=tls&type=ws&sni=mC.NAftI.GgFF.Net&path=/yythUmd0eC6sRLwwKBLBl6&host=mc.nafti.ggff.net#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.85.74:6697#US2%201.6MB%2Fs
+trojan://tg-dns68@162.159.152.228:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
