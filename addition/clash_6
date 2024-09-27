@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2024-09-27 17:46:37
+# 创建时间: 2024-09-28 01:48:05
 # 使用模版: V2RaySE 默认模版
-# 节点数量：14
+# 节点数量：17
 ####################################
 #
 mixed-port: 7890
@@ -12,20 +12,23 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"HK83","type":"ss","server":"91.199.84.195","port":29215,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"69037302-0050-43ae-abf3-f8e62740aff1","skip-cert-verify":true}
-  - {"name":"HK84","type":"ss","server":"91.199.84.195","port":25204,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"69037302-0050-43ae-abf3-f8e62740aff1","skip-cert-verify":true}
-  - {"name":"TW6","type":"ss","server":"60.249.28.136","port":2377,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv","skip-cert-verify":true}
-  - {"name":"未知603","type":"trojan","server":"162.159.153.222","port":443,"alterId":0,"tls":true,"password":"tg-dns68","sni":"vip.putata.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知604","type":"trojan","server":"198.41.220.5","port":443,"alterId":0,"tls":true,"password":"cb1f26aa437d4bfa9b841d28503ce8cc","sni":"jobscareertoday.com","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US432 1.9MB/s","type":"ss","server":"38.75.136.33","port":8119,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
-  - {"name":"未知605","type":"trojan","server":"162.159.153.122","port":443,"alterId":0,"tls":true,"password":"tg-dns68","sni":"vip.putata.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"HK85","type":"trojan","server":"149.104.18.225","port":19998,"alterId":0,"tls":true,"password":"95b","sni":"547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"HK86","type":"ss","server":"46.232.123.37","port":50219,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"5ddbeb21-15fb-4aa5-8cc3-34df601c1f02","skip-cert-verify":true}
-  - {"name":"未知606","type":"trojan","server":"162.159.153.149","port":443,"alterId":0,"tls":true,"password":"tg-dns68","sni":"vip.putata.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US433 1.9MB/s","type":"ss","server":"15.204.87.225","port":8000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"🇬🇧GB英国4 11.3MB/s","type":"trojan","server":"51.21.87.207","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"udp":true}
-  - {"name":"未知607","type":"trojan","server":"104.21.46.33","port":80,"alterId":0,"tls":true,"password":"Fvv4Bz926a","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知608","type":"trojan","server":"162.159.153.197","port":443,"alterId":0,"tls":true,"password":"tg-dns68","sni":"vip.putata.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"HK84","type":"trojan","server":"149.104.18.225","port":19998,"alterId":0,"tls":true,"password":"95b","sni":"547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US419 1.9MB/s","type":"ss","server":"69.50.92.99","port":6379,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"zDNVedRFPQexG9v","skip-cert-verify":true}
+  - {"name":"US420 1.7MB/s","type":"ss","server":"142.202.49.68","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知601","type":"trojan","server":"162.159.152.177","port":443,"alterId":0,"tls":true,"password":"tg-dns68","sni":"vip.putata.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知602","type":"trojan","server":"162.159.152.162","port":443,"alterId":0,"tls":true,"password":"tg-dns68","sni":"vip.putata.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇺🇸US美国58 2.0MB/s","type":"ss","server":"38.110.1.46","port":5000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US421","type":"vmess","server":"blang.kcapsys.com","port":80,"cipher":"auto","uuid":"f0273043-d637-4fdf-971c-eb486efa9c4b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"US422 1.9MB/s","type":"ss","server":"23.157.40.5","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知603","type":"ss","server":"176.120.73.67","port":47960,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"rO9gW8YAhqcISgNpmQCaDp","skip-cert-verify":true}
+  - {"name":"HK85","type":"ss","server":"91.199.84.195","port":29209,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"69037302-0050-43ae-abf3-f8e62740aff1","skip-cert-verify":true}
+  - {"name":"未知604","type":"trojan","server":"104.16.192.145","port":443,"alterId":0,"tls":true,"password":"669d0ac7b5b64ebbb1abb75d5d540a5c","sni":"jobscareerforlawyers.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US423 1.9MB/s","type":"ss","server":"38.121.43.71","port":3306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知605 118.3KB/s","type":"ss","server":"3.29.76.120","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"u17T3BvpYaaiuW2c","skip-cert-verify":true}
+  - {"name":"US424 17.8MB/s","type":"ss","server":"207.246.101.50","port":1633,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"o_A7inN1yqeWtOTL","skip-cert-verify":true}
+  - {"name":"未知606","type":"trojan","server":"162.159.152.145","port":443,"alterId":0,"tls":true,"password":"tg-dns68","sni":"vip.putata.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知607","type":"trojan","server":"108.162.193.110","port":443,"alterId":0,"tls":true,"password":"Trevely","sni":"trojan.trevely.us.kg","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知608","type":"ss","server":"89.110.70.175","port":13402,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"XjH2LzAxysZbegnfgMbtAc","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -33,18 +36,21 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - HK83
       - HK84
-      - TW6
+      - US419 1.9MB/s
+      - US420 1.7MB/s
+      - 未知601
+      - 未知602
+      - 🇺🇸US美国58 2.0MB/s
+      - US421
+      - US422 1.9MB/s
       - 未知603
-      - 未知604
-      - US432 1.9MB/s
-      - 未知605
       - HK85
-      - HK86
+      - 未知604
+      - US423 1.9MB/s
+      - 未知605 118.3KB/s
+      - US424 17.8MB/s
       - 未知606
-      - US433 1.9MB/s
-      - 🇬🇧GB英国4 11.3MB/s
       - 未知607
       - 未知608
 
@@ -54,18 +60,21 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - HK83
       - HK84
-      - TW6
+      - US419 1.9MB/s
+      - US420 1.7MB/s
+      - 未知601
+      - 未知602
+      - 🇺🇸US美国58 2.0MB/s
+      - US421
+      - US422 1.9MB/s
       - 未知603
-      - 未知604
-      - US432 1.9MB/s
-      - 未知605
       - HK85
-      - HK86
+      - 未知604
+      - US423 1.9MB/s
+      - 未知605 118.3KB/s
+      - US424 17.8MB/s
       - 未知606
-      - US433 1.9MB/s
-      - 🇬🇧GB英国4 11.3MB/s
       - 未知607
       - 未知608
 
@@ -75,18 +84,21 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - HK83
       - HK84
-      - TW6
+      - US419 1.9MB/s
+      - US420 1.7MB/s
+      - 未知601
+      - 未知602
+      - 🇺🇸US美国58 2.0MB/s
+      - US421
+      - US422 1.9MB/s
       - 未知603
-      - 未知604
-      - US432 1.9MB/s
-      - 未知605
       - HK85
-      - HK86
+      - 未知604
+      - US423 1.9MB/s
+      - 未知605 118.3KB/s
+      - US424 17.8MB/s
       - 未知606
-      - US433 1.9MB/s
-      - 🇬🇧GB英国4 11.3MB/s
       - 未知607
       - 未知608
 
@@ -95,18 +107,21 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - HK83
       - HK84
-      - TW6
+      - US419 1.9MB/s
+      - US420 1.7MB/s
+      - 未知601
+      - 未知602
+      - 🇺🇸US美国58 2.0MB/s
+      - US421
+      - US422 1.9MB/s
       - 未知603
-      - 未知604
-      - US432 1.9MB/s
-      - 未知605
       - HK85
-      - HK86
+      - 未知604
+      - US423 1.9MB/s
+      - 未知605 118.3KB/s
+      - US424 17.8MB/s
       - 未知606
-      - US433 1.9MB/s
-      - 🇬🇧GB英国4 11.3MB/s
       - 未知607
       - 未知608
 
@@ -115,18 +130,21 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - HK83
       - HK84
-      - TW6
+      - US419 1.9MB/s
+      - US420 1.7MB/s
+      - 未知601
+      - 未知602
+      - 🇺🇸US美国58 2.0MB/s
+      - US421
+      - US422 1.9MB/s
       - 未知603
-      - 未知604
-      - US432 1.9MB/s
-      - 未知605
       - HK85
-      - HK86
+      - 未知604
+      - US423 1.9MB/s
+      - 未知605 118.3KB/s
+      - US424 17.8MB/s
       - 未知606
-      - US433 1.9MB/s
-      - 🇬🇧GB英国4 11.3MB/s
       - 未知607
       - 未知608
 
@@ -135,18 +153,21 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - HK83
       - HK84
-      - TW6
+      - US419 1.9MB/s
+      - US420 1.7MB/s
+      - 未知601
+      - 未知602
+      - 🇺🇸US美国58 2.0MB/s
+      - US421
+      - US422 1.9MB/s
       - 未知603
-      - 未知604
-      - US432 1.9MB/s
-      - 未知605
       - HK85
-      - HK86
+      - 未知604
+      - US423 1.9MB/s
+      - 未知605 118.3KB/s
+      - US424 17.8MB/s
       - 未知606
-      - US433 1.9MB/s
-      - 🇬🇧GB英国4 11.3MB/s
       - 未知607
       - 未知608
 
@@ -172,18 +193,21 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - HK83
       - HK84
-      - TW6
+      - US419 1.9MB/s
+      - US420 1.7MB/s
+      - 未知601
+      - 未知602
+      - 🇺🇸US美国58 2.0MB/s
+      - US421
+      - US422 1.9MB/s
       - 未知603
-      - 未知604
-      - US432 1.9MB/s
-      - 未知605
       - HK85
-      - HK86
+      - 未知604
+      - US423 1.9MB/s
+      - 未知605 118.3KB/s
+      - US424 17.8MB/s
       - 未知606
-      - US433 1.9MB/s
-      - 🇬🇧GB英国4 11.3MB/s
       - 未知607
       - 未知608
 
