@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://telegram-id-privatevpns@13.48.247.240:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5
-vmess://eyJ2IjoiMiIsInBzIjoiVVMyIiwiYWRkIjoiMTA3LjE0OC4xOTIuMTUyIiwicG9ydCI6IjQxOTExIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzIifQ==
-trojan://kxuBkBG8GK@95.216.8.162:110?security=tls&type=tcp&sni=flt2.ftpcomand.com#%E6%9C%AA%E7%9F%A52%203.1MB%2Fs
-trojan://tg-dns68@162.159.153.198:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
-trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@172.67.73.163:443?security=tls&headerType=http&type=splithttp&sni=meta.maliva.space&path=/mma8pvU8i7t6qjYdga&host=meta.maliva.space#%E6%9C%AA%E7%9F%A54
+trojan://tg-dns68@162.159.152.136:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A5
+trojan://2b106b5a-723a-472d-b97c-697086c06051@103.231.248.2:443?#%E6%9C%AA%E7%9F%A52
+trojan://tg-dns68@162.159.152.4:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqTzZ4RWl5VUcwc2tJUThGYjdPWk1V@45.33.30.8:18789#US2
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#%E6%9C%AA%E7%9F%A54%201.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
