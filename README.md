@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.119:9090#US%202.0MB%2Fs
-trojan://tg-dns68@162.159.153.97:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A52
-trojan://A98XMiF6NA@38.59.241.39:10000?type=ws&sni=dy.fxu.asia&host=dy.fxu.asia#US2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%E6%9C%AA%E7%9F%A53%2011.6MB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.95.179:8080#US3%201.9MB%2Fs
+trojan://telegram-id-privatevpns@13.48.247.240:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5
+vmess://eyJ2IjoiMiIsInBzIjoiVVMyIiwiYWRkIjoiMTA3LjE0OC4xOTIuMTUyIiwicG9ydCI6IjQxOTExIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzIifQ==
+trojan://kxuBkBG8GK@95.216.8.162:110?security=tls&type=tcp&sni=flt2.ftpcomand.com#%E6%9C%AA%E7%9F%A52%203.1MB%2Fs
+trojan://tg-dns68@162.159.153.198:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
+trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@172.67.73.163:443?security=tls&headerType=http&type=splithttp&sni=meta.maliva.space&path=/mma8pvU8i7t6qjYdga&host=meta.maliva.space#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
