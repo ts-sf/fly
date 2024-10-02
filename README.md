@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.41:5000#US%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#US2%201.7MB%2Fs
-trojan://tg-dns68@162.159.152.52:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A52
-trojan://tg-dns68@162.159.153.194:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
-trojan://telegram-id-privatevpns@3.124.53.117:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A54
+trojan://8ecdaae7-1334-59a0-91e3-cdb9f315626f@162.159.137.232:443?security=tls&type=ws&sni=www.ocean12.WorkERs.dEv&path=trojan-ws/?ed=2048&host=www.ocean12.WorkERs.dEv#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.119:8008#US%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#%E6%9C%AA%E7%9F%A53%201.8MB%2Fs
+trojan://telegram-id-directvpn@35.157.47.228:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@134.195.196.231:7001#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
