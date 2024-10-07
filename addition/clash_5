@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2024-10-07 11:08:02
+# 创建时间: 2024-10-07 17:45:28
 # 使用模版: V2RaySE 默认模版
-# 节点数量：39
+# 节点数量：25
 ####################################
 #
 mixed-port: 7890
@@ -12,45 +12,31 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇮🇹IT意大利 521.6KB/s","type":"ss","server":"212.102.53.80","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"US394 1.9MB/s","type":"ss","server":"38.121.43.65","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
-  - {"name":"US395 179.9MB/s","type":"ss","server":"207.246.101.50","port":1633,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"o_A7inN1yqeWtOTL","skip-cert-verify":true}
-  - {"name":"未知459","type":"trojan","server":"15.188.32.231","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知460 2.0MB/s","type":"vmess","server":"162.19.25.207","port":44513,"cipher":"auto","uuid":"4552bdb6-e008-43ac-926d-c6c6c5a6fc76","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"US396 1.9MB/s","type":"ss","server":"38.68.134.9","port":7001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
-  - {"name":"未知461 495.2KB/s","type":"ss","server":"212.102.53.79","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"🇭🇰HK香港26","type":"trojan","server":"120.241.126.83","port":65207,"alterId":0,"tls":true,"password":"7243c2bd-5576-3c2d-aea0-594ff03522a0","sni":"dl.gdcmhkbgp.cc.tjcct.xyz","skip-cert-verify":true,"udp":true}
-  - {"name":"未知462","type":"trojan","server":"162.159.152.8","port":443,"alterId":0,"tls":true,"password":"tg-dns68","sni":"vip.putata.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US397 1.9MB/s","type":"ss","server":"69.50.95.218","port":8090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国40","type":"trojan","server":"120.241.126.83","port":65213,"alterId":0,"tls":true,"password":"7243c2bd-5576-3c2d-aea0-594ff03522a0","sni":"dl.gdusan2.cc.tjcct.xyz","skip-cert-verify":true,"udp":true}
-  - {"name":"US398","type":"ss","server":"92.118.112.254","port":1080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"MmxC40g6AVYGUfGimBuV5g","skip-cert-verify":true}
-  - {"name":"US399 1.6MB/s","type":"ss","server":"38.75.136.21","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
-  - {"name":"未知463","type":"trojan","server":"16.170.72.71","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US400 1.7MB/s","type":"ss","server":"38.75.136.33","port":9102,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
-  - {"name":"未知464","type":"vmess","server":"104.17.148.22","port":80,"cipher":"auto","uuid":"6149b865-0d3c-4472-bf9c-3c61bfafa61a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/V2LINE-TELEGRAM-CHANNEL-VMESS-WS","headers":{"host":"99806388192980142300309475767578.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou"}}}
-  - {"name":"US401 1.6MB/s","type":"ss","server":"38.114.114.69","port":6679,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
-  - {"name":"US402 1.9MB/s","type":"ss","server":"69.50.95.180","port":5498,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"lGqs95QkFHo2NV","skip-cert-verify":true}
-  - {"name":"未知465","type":"ss","server":"172.99.190.186","port":8090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
-  - {"name":"未知466","type":"trojan","server":"162.159.135.232","port":8443,"alterId":0,"tls":true,"password":"auto","sni":"e9464f45.trauma-2r4.pages.dev","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知467 114.6KB/s","type":"ss","server":"46.29.238.83","port":44908,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"DkK3bmkKh2rdK9k6EXSOQv","skip-cert-verify":true}
-  - {"name":"US403","type":"vmess","server":"deji.kcapsys.com","port":80,"cipher":"auto","uuid":"f0273043-d637-4fdf-971c-eb486efa9c4b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸US美国41 2.0MB/s","type":"ss","server":"38.114.114.158","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
-  - {"name":"未知468","type":"vmess","server":"212.80.18.72","port":8026,"cipher":"auto","uuid":"486cbdac-582f-42f8-ad81-f02d6b0e0bb2","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知469 557.9KB/s","type":"ss","server":"212.102.53.198","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"未知470","type":"trojan","server":"51.21.117.174","port":22222,"alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US404 1.7MB/s","type":"ss","server":"23.157.40.89","port":8881,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
-  - {"name":"US405 1.2MB/s","type":"ss","server":"15.204.87.225","port":7306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
-  - {"name":"US406 1.9MB/s","type":"ss","server":"38.121.43.97","port":8080,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"🇮🇪IE爱尔兰5 7.4MB/s","type":"trojan","server":"52.18.134.55","port":22222,"alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"udp":true}
-  - {"name":"未知471","type":"trojan","server":"13.49.122.233","port":22222,"alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇭🇰HK香港27","type":"trojan","server":"211.99.96.117","port":65301,"alterId":0,"tls":true,"password":"7243c2bd-5576-3c2d-aea0-594ff03522a0","sni":"dl.bgp3.cc.tjcct.xyz","skip-cert-verify":true,"udp":true}
-  - {"name":"未知472 3.8MB/s","type":"trojan","server":"13.36.151.228","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US407 1.7MB/s","type":"ss","server":"23.150.152.41","port":5498,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"lGqs95QkFHo2NV","skip-cert-verify":true}
-  - {"name":"未知473","type":"trojan","server":"172.66.44.109","port":443,"alterId":0,"tls":true,"password":"1187ba87-8ebc-4a07-aa89-b331ed2cb356","sni":"meti-u9d.pages.dev","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知474","type":"trojan","server":"176.9.30.43","port":110,"alterId":0,"tls":true,"password":"KbSAM9jgvo","sni":"dk1.ftpcomand.com","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知475","type":"trojan","server":"162.159.152.29","port":443,"alterId":0,"tls":true,"password":"tg-dns68","sni":"vip.putata.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知476","type":"trojan","server":"172.66.47.130","port":443,"alterId":0,"tls":true,"password":"e8b87dd9-cc8f-407c-a1f3-a564009fe6ee","sni":"dc1bf227.vf-8co.pages.dev","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US408 1.7MB/s","type":"ss","server":"38.75.136.21","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知459","type":"trojan","server":"162.159.137.232","port":443,"alterId":0,"tls":true,"password":"8ecdaae7-1334-59a0-91e3-cdb9f315626f","sni":"www.ocean12.WorkERs.dEv","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知460","type":"ss","server":"5.180.45.142","port":18429,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"jDI4wBHVEnh4kNgTCFmXkY","skip-cert-verify":true}
+  - {"name":"未知461","type":"trojan","server":"43.156.56.22","port":7676,"alterId":0,"tls":true,"password":"tg-dns68","sni":"vip.putata.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US408 1.8MB/s","type":"ss","server":"38.110.1.12","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US409 1.7MB/s","type":"ss","server":"23.157.40.113","port":5001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US410 1.9MB/s","type":"ss","server":"142.202.49.68","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知462","type":"trojan","server":"104.18.32.47","port":2096,"alterId":0,"tls":true,"password":"754a7027-4bd3-5177-81a6-728ac05148b8","sni":"www.uploadbots.WoRkerS.Dev","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US411 1.6MB/s","type":"ss","server":"38.75.136.21","port":5600,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国37 1.7MB/s","type":"ss","server":"38.75.137.42","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知463","type":"ss","server":"91.194.161.7","port":8388,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"MDg3Njll","skip-cert-verify":true}
+  - {"name":"US412 1.9MB/s","type":"ss","server":"142.202.49.68","port":8008,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
+  - {"name":"🇸🇪SE瑞典 8.9MB/s","type":"ss","server":"167.88.62.50","port":1723,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Gru.a-XgKzY+=Nl_","skip-cert-verify":true}
+  - {"name":"🇭🇰HK香港27","type":"trojan","server":"211.99.96.117","port":65022,"alterId":0,"tls":true,"password":"7243c2bd-5576-3c2d-aea0-594ff03522a0","sni":"dl.sg6.cc.tjcct.xyz","skip-cert-verify":true,"udp":true}
+  - {"name":"US413 1.7MB/s","type":"ss","server":"23.157.40.103","port":5499,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"lGqs95QkFHo2NV","skip-cert-verify":true}
+  - {"name":"未知464","type":"trojan","server":"172.66.44.109","port":443,"alterId":0,"tls":true,"password":"1187ba87-8ebc-4a07-aa89-b331ed2cb356","sni":"meti-u9d.pages.dev","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知465","type":"trojan","server":"162.159.152.226","port":443,"alterId":0,"tls":true,"password":"tg-dns68","sni":"vip.putata.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US414","type":"trojan","server":"43.153.80.208","port":443,"alterId":0,"tls":true,"password":"CMLiu","sni":"aliorg.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"未知466 221.4KB/s","type":"ss","server":"16.24.112.131","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Bog0ELmMM9DSxDdQ","skip-cert-verify":true}
+  - {"name":"US415 1.6MB/s","type":"ss","server":"15.204.87.225","port":7307,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
+  - {"name":"HK28","type":"ss","server":"91.199.84.195","port":29101,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"69037302-0050-43ae-abf3-f8e62740aff1","skip-cert-verify":true}
+  - {"name":"未知467","type":"trojan","server":"104.24.196.20","port":443,"alterId":0,"tls":true,"password":"dfbbc8de-8a4f-407d-8069-6de38d83c4e1","sni":"hdfy4c6.freelines.net","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知468","type":"vmess","server":"172.67.220.83","port":443,"cipher":"auto","uuid":"39cec18f-a439-427c-9a4e-aeb6fcdf6f53","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"linja05.hwcar.sbs"}}}
+  - {"name":"US416 1.9MB/s","type":"ss","server":"38.86.135.117","port":8118,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
+  - {"name":"未知469","type":"trojan","server":"35.182.7.210","port":22222,"alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US417 1.7MB/s","type":"ss","server":"38.114.114.46","port":8118,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -58,45 +44,31 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇮🇹IT意大利 521.6KB/s
-      - US394 1.9MB/s
-      - US395 179.9MB/s
       - 未知459
-      - 未知460 2.0MB/s
-      - US396 1.9MB/s
-      - 未知461 495.2KB/s
-      - 🇭🇰HK香港26
+      - 未知460
+      - 未知461
+      - US408 1.8MB/s
+      - US409 1.7MB/s
+      - US410 1.9MB/s
       - 未知462
-      - US397 1.9MB/s
-      - 🇺🇸US美国40
-      - US398
-      - US399 1.6MB/s
+      - US411 1.6MB/s
+      - 🇺🇸US美国37 1.7MB/s
       - 未知463
-      - US400 1.7MB/s
-      - 未知464
-      - US401 1.6MB/s
-      - US402 1.9MB/s
-      - 未知465
-      - 未知466
-      - 未知467 114.6KB/s
-      - US403
-      - 🇺🇸US美国41 2.0MB/s
-      - 未知468
-      - 未知469 557.9KB/s
-      - 未知470
-      - US404 1.7MB/s
-      - US405 1.2MB/s
-      - US406 1.9MB/s
-      - 🇮🇪IE爱尔兰5 7.4MB/s
-      - 未知471
+      - US412 1.9MB/s
+      - 🇸🇪SE瑞典 8.9MB/s
       - 🇭🇰HK香港27
-      - 未知472 3.8MB/s
-      - US407 1.7MB/s
-      - 未知473
-      - 未知474
-      - 未知475
-      - 未知476
-      - US408 1.7MB/s
+      - US413 1.7MB/s
+      - 未知464
+      - 未知465
+      - US414
+      - 未知466 221.4KB/s
+      - US415 1.6MB/s
+      - HK28
+      - 未知467
+      - 未知468
+      - US416 1.9MB/s
+      - 未知469
+      - US417 1.7MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -104,45 +76,31 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇮🇹IT意大利 521.6KB/s
-      - US394 1.9MB/s
-      - US395 179.9MB/s
       - 未知459
-      - 未知460 2.0MB/s
-      - US396 1.9MB/s
-      - 未知461 495.2KB/s
-      - 🇭🇰HK香港26
+      - 未知460
+      - 未知461
+      - US408 1.8MB/s
+      - US409 1.7MB/s
+      - US410 1.9MB/s
       - 未知462
-      - US397 1.9MB/s
-      - 🇺🇸US美国40
-      - US398
-      - US399 1.6MB/s
+      - US411 1.6MB/s
+      - 🇺🇸US美国37 1.7MB/s
       - 未知463
-      - US400 1.7MB/s
-      - 未知464
-      - US401 1.6MB/s
-      - US402 1.9MB/s
-      - 未知465
-      - 未知466
-      - 未知467 114.6KB/s
-      - US403
-      - 🇺🇸US美国41 2.0MB/s
-      - 未知468
-      - 未知469 557.9KB/s
-      - 未知470
-      - US404 1.7MB/s
-      - US405 1.2MB/s
-      - US406 1.9MB/s
-      - 🇮🇪IE爱尔兰5 7.4MB/s
-      - 未知471
+      - US412 1.9MB/s
+      - 🇸🇪SE瑞典 8.9MB/s
       - 🇭🇰HK香港27
-      - 未知472 3.8MB/s
-      - US407 1.7MB/s
-      - 未知473
-      - 未知474
-      - 未知475
-      - 未知476
-      - US408 1.7MB/s
+      - US413 1.7MB/s
+      - 未知464
+      - 未知465
+      - US414
+      - 未知466 221.4KB/s
+      - US415 1.6MB/s
+      - HK28
+      - 未知467
+      - 未知468
+      - US416 1.9MB/s
+      - 未知469
+      - US417 1.7MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -150,180 +108,124 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇮🇹IT意大利 521.6KB/s
-      - US394 1.9MB/s
-      - US395 179.9MB/s
       - 未知459
-      - 未知460 2.0MB/s
-      - US396 1.9MB/s
-      - 未知461 495.2KB/s
-      - 🇭🇰HK香港26
+      - 未知460
+      - 未知461
+      - US408 1.8MB/s
+      - US409 1.7MB/s
+      - US410 1.9MB/s
       - 未知462
-      - US397 1.9MB/s
-      - 🇺🇸US美国40
-      - US398
-      - US399 1.6MB/s
+      - US411 1.6MB/s
+      - 🇺🇸US美国37 1.7MB/s
       - 未知463
-      - US400 1.7MB/s
-      - 未知464
-      - US401 1.6MB/s
-      - US402 1.9MB/s
-      - 未知465
-      - 未知466
-      - 未知467 114.6KB/s
-      - US403
-      - 🇺🇸US美国41 2.0MB/s
-      - 未知468
-      - 未知469 557.9KB/s
-      - 未知470
-      - US404 1.7MB/s
-      - US405 1.2MB/s
-      - US406 1.9MB/s
-      - 🇮🇪IE爱尔兰5 7.4MB/s
-      - 未知471
+      - US412 1.9MB/s
+      - 🇸🇪SE瑞典 8.9MB/s
       - 🇭🇰HK香港27
-      - 未知472 3.8MB/s
-      - US407 1.7MB/s
-      - 未知473
-      - 未知474
-      - 未知475
-      - 未知476
-      - US408 1.7MB/s
+      - US413 1.7MB/s
+      - 未知464
+      - 未知465
+      - US414
+      - 未知466 221.4KB/s
+      - US415 1.6MB/s
+      - HK28
+      - 未知467
+      - 未知468
+      - US416 1.9MB/s
+      - 未知469
+      - US417 1.7MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇮🇹IT意大利 521.6KB/s
-      - US394 1.9MB/s
-      - US395 179.9MB/s
       - 未知459
-      - 未知460 2.0MB/s
-      - US396 1.9MB/s
-      - 未知461 495.2KB/s
-      - 🇭🇰HK香港26
+      - 未知460
+      - 未知461
+      - US408 1.8MB/s
+      - US409 1.7MB/s
+      - US410 1.9MB/s
       - 未知462
-      - US397 1.9MB/s
-      - 🇺🇸US美国40
-      - US398
-      - US399 1.6MB/s
+      - US411 1.6MB/s
+      - 🇺🇸US美国37 1.7MB/s
       - 未知463
-      - US400 1.7MB/s
-      - 未知464
-      - US401 1.6MB/s
-      - US402 1.9MB/s
-      - 未知465
-      - 未知466
-      - 未知467 114.6KB/s
-      - US403
-      - 🇺🇸US美国41 2.0MB/s
-      - 未知468
-      - 未知469 557.9KB/s
-      - 未知470
-      - US404 1.7MB/s
-      - US405 1.2MB/s
-      - US406 1.9MB/s
-      - 🇮🇪IE爱尔兰5 7.4MB/s
-      - 未知471
+      - US412 1.9MB/s
+      - 🇸🇪SE瑞典 8.9MB/s
       - 🇭🇰HK香港27
-      - 未知472 3.8MB/s
-      - US407 1.7MB/s
-      - 未知473
-      - 未知474
-      - 未知475
-      - 未知476
-      - US408 1.7MB/s
+      - US413 1.7MB/s
+      - 未知464
+      - 未知465
+      - US414
+      - 未知466 221.4KB/s
+      - US415 1.6MB/s
+      - HK28
+      - 未知467
+      - 未知468
+      - US416 1.9MB/s
+      - 未知469
+      - US417 1.7MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇮🇹IT意大利 521.6KB/s
-      - US394 1.9MB/s
-      - US395 179.9MB/s
       - 未知459
-      - 未知460 2.0MB/s
-      - US396 1.9MB/s
-      - 未知461 495.2KB/s
-      - 🇭🇰HK香港26
+      - 未知460
+      - 未知461
+      - US408 1.8MB/s
+      - US409 1.7MB/s
+      - US410 1.9MB/s
       - 未知462
-      - US397 1.9MB/s
-      - 🇺🇸US美国40
-      - US398
-      - US399 1.6MB/s
+      - US411 1.6MB/s
+      - 🇺🇸US美国37 1.7MB/s
       - 未知463
-      - US400 1.7MB/s
-      - 未知464
-      - US401 1.6MB/s
-      - US402 1.9MB/s
-      - 未知465
-      - 未知466
-      - 未知467 114.6KB/s
-      - US403
-      - 🇺🇸US美国41 2.0MB/s
-      - 未知468
-      - 未知469 557.9KB/s
-      - 未知470
-      - US404 1.7MB/s
-      - US405 1.2MB/s
-      - US406 1.9MB/s
-      - 🇮🇪IE爱尔兰5 7.4MB/s
-      - 未知471
+      - US412 1.9MB/s
+      - 🇸🇪SE瑞典 8.9MB/s
       - 🇭🇰HK香港27
-      - 未知472 3.8MB/s
-      - US407 1.7MB/s
-      - 未知473
-      - 未知474
-      - 未知475
-      - 未知476
-      - US408 1.7MB/s
+      - US413 1.7MB/s
+      - 未知464
+      - 未知465
+      - US414
+      - 未知466 221.4KB/s
+      - US415 1.6MB/s
+      - HK28
+      - 未知467
+      - 未知468
+      - US416 1.9MB/s
+      - 未知469
+      - US417 1.7MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇮🇹IT意大利 521.6KB/s
-      - US394 1.9MB/s
-      - US395 179.9MB/s
       - 未知459
-      - 未知460 2.0MB/s
-      - US396 1.9MB/s
-      - 未知461 495.2KB/s
-      - 🇭🇰HK香港26
+      - 未知460
+      - 未知461
+      - US408 1.8MB/s
+      - US409 1.7MB/s
+      - US410 1.9MB/s
       - 未知462
-      - US397 1.9MB/s
-      - 🇺🇸US美国40
-      - US398
-      - US399 1.6MB/s
+      - US411 1.6MB/s
+      - 🇺🇸US美国37 1.7MB/s
       - 未知463
-      - US400 1.7MB/s
-      - 未知464
-      - US401 1.6MB/s
-      - US402 1.9MB/s
-      - 未知465
-      - 未知466
-      - 未知467 114.6KB/s
-      - US403
-      - 🇺🇸US美国41 2.0MB/s
-      - 未知468
-      - 未知469 557.9KB/s
-      - 未知470
-      - US404 1.7MB/s
-      - US405 1.2MB/s
-      - US406 1.9MB/s
-      - 🇮🇪IE爱尔兰5 7.4MB/s
-      - 未知471
+      - US412 1.9MB/s
+      - 🇸🇪SE瑞典 8.9MB/s
       - 🇭🇰HK香港27
-      - 未知472 3.8MB/s
-      - US407 1.7MB/s
-      - 未知473
-      - 未知474
-      - 未知475
-      - 未知476
-      - US408 1.7MB/s
+      - US413 1.7MB/s
+      - 未知464
+      - 未知465
+      - US414
+      - 未知466 221.4KB/s
+      - US415 1.6MB/s
+      - HK28
+      - 未知467
+      - 未知468
+      - US416 1.9MB/s
+      - 未知469
+      - US417 1.7MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -347,45 +249,31 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇮🇹IT意大利 521.6KB/s
-      - US394 1.9MB/s
-      - US395 179.9MB/s
       - 未知459
-      - 未知460 2.0MB/s
-      - US396 1.9MB/s
-      - 未知461 495.2KB/s
-      - 🇭🇰HK香港26
+      - 未知460
+      - 未知461
+      - US408 1.8MB/s
+      - US409 1.7MB/s
+      - US410 1.9MB/s
       - 未知462
-      - US397 1.9MB/s
-      - 🇺🇸US美国40
-      - US398
-      - US399 1.6MB/s
+      - US411 1.6MB/s
+      - 🇺🇸US美国37 1.7MB/s
       - 未知463
-      - US400 1.7MB/s
-      - 未知464
-      - US401 1.6MB/s
-      - US402 1.9MB/s
-      - 未知465
-      - 未知466
-      - 未知467 114.6KB/s
-      - US403
-      - 🇺🇸US美国41 2.0MB/s
-      - 未知468
-      - 未知469 557.9KB/s
-      - 未知470
-      - US404 1.7MB/s
-      - US405 1.2MB/s
-      - US406 1.9MB/s
-      - 🇮🇪IE爱尔兰5 7.4MB/s
-      - 未知471
+      - US412 1.9MB/s
+      - 🇸🇪SE瑞典 8.9MB/s
       - 🇭🇰HK香港27
-      - 未知472 3.8MB/s
-      - US407 1.7MB/s
-      - 未知473
-      - 未知474
-      - 未知475
-      - 未知476
-      - US408 1.7MB/s
+      - US413 1.7MB/s
+      - 未知464
+      - 未知465
+      - US414
+      - 未知466 221.4KB/s
+      - US415 1.6MB/s
+      - HK28
+      - 未知467
+      - 未知468
+      - US416 1.9MB/s
+      - 未知469
+      - US417 1.7MB/s
 
 
 rules:
