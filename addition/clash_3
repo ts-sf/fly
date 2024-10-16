@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2024-10-16 11:13:16
+# 创建时间: 2024-10-16 17:53:44
 # 使用模版: V2RaySE 默认模版
-# 节点数量：14
+# 节点数量：6
 ####################################
 #
 mixed-port: 7890
@@ -12,20 +12,12 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"US441 1.9MB/s","type":"ss","server":"23.150.152.41","port":5000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US442 1.9MB/s","type":"ss","server":"23.157.40.119","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知627 1.8MB/s","type":"ss","server":"54.36.174.181","port":2375,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
-  - {"name":"US443 1.8MB/s","type":"ss","server":"23.157.40.47","port":5500,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"未知628 1.8MB/s","type":"ss","server":"51.77.53.200","port":7306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
-  - {"name":"US444 1.7MB/s","type":"ss","server":"142.202.49.68","port":8080,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"US445 1.9MB/s","type":"ss","server":"23.157.40.85","port":6697,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
-  - {"name":"未知629 15.5MB/s","type":"ss","server":"162.19.25.207","port":34232,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"3b9ktZGztC","skip-cert-verify":true}
-  - {"name":"US446 2.0MB/s","type":"ss","server":"38.110.1.17","port":8009,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
-  - {"name":"未知631 2.7MB/s","type":"vmess","server":"46.29.166.237","port":47555,"cipher":"auto","uuid":"0c49cd19-2758-4d38-e6a8-11f2d6635860","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知633 18.7MB/s","type":"ss","server":"209.97.142.145","port":7330,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"iVqrWLfAlChUGf8HC9DwwQ","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国58 1.9MB/s","type":"ss","server":"38.110.1.105","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国59 1.9MB/s","type":"ss","server":"38.114.114.69","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
-  - {"name":"US447 1.9MB/s","type":"ss","server":"38.114.114.69","port":7306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
+  - {"name":"US464 1.9MB/s","type":"ss","server":"38.86.135.117","port":8118,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国63 262.7KB/s","type":"ss","server":"45.158.171.19","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"a8bt9fY0QsLS6eLnXUe0Ym","skip-cert-verify":true}
+  - {"name":"US466 1.9MB/s","type":"ss","server":"139.64.165.63","port":7001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国64 1.9MB/s","type":"ss","server":"38.75.137.42","port":8000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
+  - {"name":"US467 34.2MB/s","type":"ss","server":"205.134.180.147","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"9Bvkw5aupNy8","skip-cert-verify":true}
+  - {"name":"未知582 41.9MB/s","type":"vmess","server":"172.67.220.83","port":443,"cipher":"auto","uuid":"39cec18f-a439-427c-9a4e-aeb6fcdf6f53","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"linja05.hwcar.sbs"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -33,20 +25,12 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - US441 1.9MB/s
-      - US442 1.9MB/s
-      - 未知627 1.8MB/s
-      - US443 1.8MB/s
-      - 未知628 1.8MB/s
-      - US444 1.7MB/s
-      - US445 1.9MB/s
-      - 未知629 15.5MB/s
-      - US446 2.0MB/s
-      - 未知631 2.7MB/s
-      - 未知633 18.7MB/s
-      - 🇺🇸US美国58 1.9MB/s
-      - 🇺🇸US美国59 1.9MB/s
-      - US447 1.9MB/s
+      - US464 1.9MB/s
+      - 🇺🇸US美国63 262.7KB/s
+      - US466 1.9MB/s
+      - 🇺🇸US美国64 1.9MB/s
+      - US467 34.2MB/s
+      - 未知582 41.9MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -54,20 +38,12 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - US441 1.9MB/s
-      - US442 1.9MB/s
-      - 未知627 1.8MB/s
-      - US443 1.8MB/s
-      - 未知628 1.8MB/s
-      - US444 1.7MB/s
-      - US445 1.9MB/s
-      - 未知629 15.5MB/s
-      - US446 2.0MB/s
-      - 未知631 2.7MB/s
-      - 未知633 18.7MB/s
-      - 🇺🇸US美国58 1.9MB/s
-      - 🇺🇸US美国59 1.9MB/s
-      - US447 1.9MB/s
+      - US464 1.9MB/s
+      - 🇺🇸US美国63 262.7KB/s
+      - US466 1.9MB/s
+      - 🇺🇸US美国64 1.9MB/s
+      - US467 34.2MB/s
+      - 未知582 41.9MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -75,80 +51,48 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - US441 1.9MB/s
-      - US442 1.9MB/s
-      - 未知627 1.8MB/s
-      - US443 1.8MB/s
-      - 未知628 1.8MB/s
-      - US444 1.7MB/s
-      - US445 1.9MB/s
-      - 未知629 15.5MB/s
-      - US446 2.0MB/s
-      - 未知631 2.7MB/s
-      - 未知633 18.7MB/s
-      - 🇺🇸US美国58 1.9MB/s
-      - 🇺🇸US美国59 1.9MB/s
-      - US447 1.9MB/s
+      - US464 1.9MB/s
+      - 🇺🇸US美国63 262.7KB/s
+      - US466 1.9MB/s
+      - 🇺🇸US美国64 1.9MB/s
+      - US467 34.2MB/s
+      - 未知582 41.9MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US441 1.9MB/s
-      - US442 1.9MB/s
-      - 未知627 1.8MB/s
-      - US443 1.8MB/s
-      - 未知628 1.8MB/s
-      - US444 1.7MB/s
-      - US445 1.9MB/s
-      - 未知629 15.5MB/s
-      - US446 2.0MB/s
-      - 未知631 2.7MB/s
-      - 未知633 18.7MB/s
-      - 🇺🇸US美国58 1.9MB/s
-      - 🇺🇸US美国59 1.9MB/s
-      - US447 1.9MB/s
+      - US464 1.9MB/s
+      - 🇺🇸US美国63 262.7KB/s
+      - US466 1.9MB/s
+      - 🇺🇸US美国64 1.9MB/s
+      - US467 34.2MB/s
+      - 未知582 41.9MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - US441 1.9MB/s
-      - US442 1.9MB/s
-      - 未知627 1.8MB/s
-      - US443 1.8MB/s
-      - 未知628 1.8MB/s
-      - US444 1.7MB/s
-      - US445 1.9MB/s
-      - 未知629 15.5MB/s
-      - US446 2.0MB/s
-      - 未知631 2.7MB/s
-      - 未知633 18.7MB/s
-      - 🇺🇸US美国58 1.9MB/s
-      - 🇺🇸US美国59 1.9MB/s
-      - US447 1.9MB/s
+      - US464 1.9MB/s
+      - 🇺🇸US美国63 262.7KB/s
+      - US466 1.9MB/s
+      - 🇺🇸US美国64 1.9MB/s
+      - US467 34.2MB/s
+      - 未知582 41.9MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US441 1.9MB/s
-      - US442 1.9MB/s
-      - 未知627 1.8MB/s
-      - US443 1.8MB/s
-      - 未知628 1.8MB/s
-      - US444 1.7MB/s
-      - US445 1.9MB/s
-      - 未知629 15.5MB/s
-      - US446 2.0MB/s
-      - 未知631 2.7MB/s
-      - 未知633 18.7MB/s
-      - 🇺🇸US美国58 1.9MB/s
-      - 🇺🇸US美国59 1.9MB/s
-      - US447 1.9MB/s
+      - US464 1.9MB/s
+      - 🇺🇸US美国63 262.7KB/s
+      - US466 1.9MB/s
+      - 🇺🇸US美国64 1.9MB/s
+      - US467 34.2MB/s
+      - 未知582 41.9MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -172,20 +116,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - US441 1.9MB/s
-      - US442 1.9MB/s
-      - 未知627 1.8MB/s
-      - US443 1.8MB/s
-      - 未知628 1.8MB/s
-      - US444 1.7MB/s
-      - US445 1.9MB/s
-      - 未知629 15.5MB/s
-      - US446 2.0MB/s
-      - 未知631 2.7MB/s
-      - 未知633 18.7MB/s
-      - 🇺🇸US美国58 1.9MB/s
-      - 🇺🇸US美国59 1.9MB/s
-      - US447 1.9MB/s
+      - US464 1.9MB/s
+      - 🇺🇸US美国63 262.7KB/s
+      - US466 1.9MB/s
+      - 🇺🇸US美国64 1.9MB/s
+      - US467 34.2MB/s
+      - 未知582 41.9MB/s
 
 
 rules:
