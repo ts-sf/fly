@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://tg-dns68@162.159.153.86:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#US%201.6MB%2Fs
-trojan://SF8D9jAzN0ScwCB5llEAFIpxxneaOZyCTa3qa23D8ypKSgORRXu76Y3YeDZ4C3@154.31.112.215:28346?security=tls&type=tcp&sni=okelvv.superpokemon.com#%E6%9C%AA%E7%9F%A53%2011.8MB%2Fs
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29208#HK
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.26.13.54:8443?security=tls&type=ws&sni=vfarid.xcdi.wORKERS.DEv&path=trojan-ws/?ed=2048&host=vfarid.xcdi.wORKERS.DEv#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5000#US2%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.47:6379#US3%201.8MB%2Fs
+trojan://trojan@104.18.13.229:8880?security=tls&type=ws&sni=www.visa.com.sg&path=/?ed=2560&host=config-proxy-tr.telegram-config-proxy.workers.dev#%E6%9C%AA%E7%9F%A5
+trojan://tg-dns68@162.159.153.123:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A52
+trojan://tg-dns68@162.159.152.29:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
