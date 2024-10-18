@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://273df0aa-4151-4764-a654-67adc99b6027@104.18.1.125:8080?security=none&type=ws&path=/?ed=8080&host=a.1.www.speedtest.net.snapp.ir.parsdood.ir.#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.235:5000#US%201.9MB%2Fs
-trojan://tg-dns68@162.159.153.194:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:8000#US2%201.9MB%2Fs
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.16.149.244:2083?security=tls&type=ws&sni=vfarid.xcdi.WOrKErs.dEV&path=trojan-ws/?ed=2048&host=vfarid.xcdi.WOrKErs.dEV#%E6%9C%AA%E7%9F%A54
+trojan://Tel-DailyConfigs@104.18.6.21:2053?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8000#US%201.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOdE5rUEZ6MWRyQ0ZuOXdPT2Z6MjEw@178.208.91.118:16942#%E6%9C%AA%E7%9F%A53
+trojan://bpb-trojan@172.66.47.100:443?security=tls&type=ws&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV&path=/trbo9SGocZQNTqq3Cd/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==#%E6%9C%AA%E7%9F%A54
+trojan://VPNCSTOMIZE@104.18.218.118:8443?security=tls&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE?ed=8443&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
