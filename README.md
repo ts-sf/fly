@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://sharevpn@149.28.224.85:443?security=tls&type=http&sni=tlsh2ss.mynode.work.gd&path=/trojan_user&host=babybaby.canyou.see#US
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.19.80.215:2083?security=tls&type=ws&sni=vfarid.xcdi.WorKeRs.DEv&path=trojan-ws/?ed=2048&host=vfarid.xcdi.WorKeRs.DEv#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.56:5500#US2%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7001#US3%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.63:8080#US4%201.9MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvSAyMC41TUIvcyIsImFkZCI6ImMua2FuZGFwLmhvbWVzIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImMua2FuZGFwLmhvbWVzIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjLmthbmRhcC5ob21lcyIsInRlc3RfbmFtZSI6IlVT576O5Zu9In0=
+trojan://Cassiusvpn@104.19.32.24:443?security=tls&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=/telegram-cassiusvpn.pages.dev/?ed=2560&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.119:5601#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.203:6679#US2%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.152:2375#US3%201.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
