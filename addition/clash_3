@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2024-10-19 01:54:19
+# 创建时间: 2024-10-19 11:12:48
 # 使用模版: V2RaySE 默认模版
-# 节点数量：8
+# 节点数量：13
 ####################################
 #
 mixed-port: 7890
@@ -12,14 +12,19 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"US512 1.9MB/s","type":"ss","server":"38.114.114.69","port":6697,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
-  - {"name":"US513 1.9MB/s","type":"ss","server":"69.50.95.115","port":8091,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
-  - {"name":"US514 1.9MB/s","type":"ss","server":"23.150.152.16","port":8091,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
-  - {"name":"未知599 8.6MB/s","type":"ss","server":"156.146.62.161","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"US515 2.0MB/s","type":"ss","server":"23.150.248.122","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
-  - {"name":"US516 18.1MB/s","type":"vmess","server":"gt021.bestforxray.buzz","port":443,"cipher":"auto","uuid":"c1fd780a-3408-4f48-a932-5832a28ce9f6","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"ausgt02.bestforxray.buzz"}}}
-  - {"name":"US517 1.9MB/s","type":"ss","server":"23.150.152.53","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
-  - {"name":"US518 1.9MB/s","type":"ss","server":"38.110.1.35","port":6679,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
+  - {"name":"US475 1.7MB/s","type":"ss","server":"142.202.49.79","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"US476 1.9MB/s","type":"ss","server":"23.157.40.89","port":2376,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国48 1.9MB/s","type":"ss","server":"15.204.87.217","port":6379,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"zDNVedRFPQexG9v","skip-cert-verify":true}
+  - {"name":"US477 1.9MB/s","type":"ss","server":"38.75.136.21","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"US478 1.9MB/s","type":"ss","server":"23.157.40.103","port":8090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
+  - {"name":"US479 1.9MB/s","type":"ss","server":"38.68.134.9","port":7001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
+  - {"name":"US480 2.0MB/s","type":"ss","server":"38.110.1.53","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
+  - {"name":"US481 1.9MB/s","type":"ss","server":"38.68.134.9","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
+  - {"name":"未知643 109.6KB/s","type":"ss","server":"38.165.233.18","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
+  - {"name":"US482 26.6MB/s","type":"ss","server":"38.107.226.146","port":1230,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"H5S0hvcxRi#YLmgU","skip-cert-verify":true}
+  - {"name":"US483 1.9MB/s","type":"ss","server":"23.157.40.103","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知648 14.5MB/s","type":"ss","server":"46.29.238.186","port":17708,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"fxxn5cJIe42ivUvnStDnaE","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国51 1.8MB/s","type":"ss","server":"38.143.66.87","port":6379,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"zDNVedRFPQexG9v","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -27,14 +32,19 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - US512 1.9MB/s
-      - US513 1.9MB/s
-      - US514 1.9MB/s
-      - 未知599 8.6MB/s
-      - US515 2.0MB/s
-      - US516 18.1MB/s
-      - US517 1.9MB/s
-      - US518 1.9MB/s
+      - US475 1.7MB/s
+      - US476 1.9MB/s
+      - 🇺🇸US美国48 1.9MB/s
+      - US477 1.9MB/s
+      - US478 1.9MB/s
+      - US479 1.9MB/s
+      - US480 2.0MB/s
+      - US481 1.9MB/s
+      - 未知643 109.6KB/s
+      - US482 26.6MB/s
+      - US483 1.9MB/s
+      - 未知648 14.5MB/s
+      - 🇺🇸US美国51 1.8MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -42,14 +52,19 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - US512 1.9MB/s
-      - US513 1.9MB/s
-      - US514 1.9MB/s
-      - 未知599 8.6MB/s
-      - US515 2.0MB/s
-      - US516 18.1MB/s
-      - US517 1.9MB/s
-      - US518 1.9MB/s
+      - US475 1.7MB/s
+      - US476 1.9MB/s
+      - 🇺🇸US美国48 1.9MB/s
+      - US477 1.9MB/s
+      - US478 1.9MB/s
+      - US479 1.9MB/s
+      - US480 2.0MB/s
+      - US481 1.9MB/s
+      - 未知643 109.6KB/s
+      - US482 26.6MB/s
+      - US483 1.9MB/s
+      - 未知648 14.5MB/s
+      - 🇺🇸US美国51 1.8MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -57,56 +72,76 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - US512 1.9MB/s
-      - US513 1.9MB/s
-      - US514 1.9MB/s
-      - 未知599 8.6MB/s
-      - US515 2.0MB/s
-      - US516 18.1MB/s
-      - US517 1.9MB/s
-      - US518 1.9MB/s
+      - US475 1.7MB/s
+      - US476 1.9MB/s
+      - 🇺🇸US美国48 1.9MB/s
+      - US477 1.9MB/s
+      - US478 1.9MB/s
+      - US479 1.9MB/s
+      - US480 2.0MB/s
+      - US481 1.9MB/s
+      - 未知643 109.6KB/s
+      - US482 26.6MB/s
+      - US483 1.9MB/s
+      - 未知648 14.5MB/s
+      - 🇺🇸US美国51 1.8MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US512 1.9MB/s
-      - US513 1.9MB/s
-      - US514 1.9MB/s
-      - 未知599 8.6MB/s
-      - US515 2.0MB/s
-      - US516 18.1MB/s
-      - US517 1.9MB/s
-      - US518 1.9MB/s
+      - US475 1.7MB/s
+      - US476 1.9MB/s
+      - 🇺🇸US美国48 1.9MB/s
+      - US477 1.9MB/s
+      - US478 1.9MB/s
+      - US479 1.9MB/s
+      - US480 2.0MB/s
+      - US481 1.9MB/s
+      - 未知643 109.6KB/s
+      - US482 26.6MB/s
+      - US483 1.9MB/s
+      - 未知648 14.5MB/s
+      - 🇺🇸US美国51 1.8MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - US512 1.9MB/s
-      - US513 1.9MB/s
-      - US514 1.9MB/s
-      - 未知599 8.6MB/s
-      - US515 2.0MB/s
-      - US516 18.1MB/s
-      - US517 1.9MB/s
-      - US518 1.9MB/s
+      - US475 1.7MB/s
+      - US476 1.9MB/s
+      - 🇺🇸US美国48 1.9MB/s
+      - US477 1.9MB/s
+      - US478 1.9MB/s
+      - US479 1.9MB/s
+      - US480 2.0MB/s
+      - US481 1.9MB/s
+      - 未知643 109.6KB/s
+      - US482 26.6MB/s
+      - US483 1.9MB/s
+      - 未知648 14.5MB/s
+      - 🇺🇸US美国51 1.8MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US512 1.9MB/s
-      - US513 1.9MB/s
-      - US514 1.9MB/s
-      - 未知599 8.6MB/s
-      - US515 2.0MB/s
-      - US516 18.1MB/s
-      - US517 1.9MB/s
-      - US518 1.9MB/s
+      - US475 1.7MB/s
+      - US476 1.9MB/s
+      - 🇺🇸US美国48 1.9MB/s
+      - US477 1.9MB/s
+      - US478 1.9MB/s
+      - US479 1.9MB/s
+      - US480 2.0MB/s
+      - US481 1.9MB/s
+      - 未知643 109.6KB/s
+      - US482 26.6MB/s
+      - US483 1.9MB/s
+      - 未知648 14.5MB/s
+      - 🇺🇸US美国51 1.8MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -130,14 +165,19 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - US512 1.9MB/s
-      - US513 1.9MB/s
-      - US514 1.9MB/s
-      - 未知599 8.6MB/s
-      - US515 2.0MB/s
-      - US516 18.1MB/s
-      - US517 1.9MB/s
-      - US518 1.9MB/s
+      - US475 1.7MB/s
+      - US476 1.9MB/s
+      - 🇺🇸US美国48 1.9MB/s
+      - US477 1.9MB/s
+      - US478 1.9MB/s
+      - US479 1.9MB/s
+      - US480 2.0MB/s
+      - US481 1.9MB/s
+      - 未知643 109.6KB/s
+      - US482 26.6MB/s
+      - US483 1.9MB/s
+      - 未知648 14.5MB/s
+      - 🇺🇸US美国51 1.8MB/s
 
 
 rules:
