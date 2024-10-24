@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.64.165.154:8881#US%201.9MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjEwMy44NS4yNS4xMzQiLCJwb3J0IjoiNTUyMTgiLCJpZCI6IjM4MjdhNWM4LWMwMzEtNDZjZi04NDhkLWU4OTBkMGVhZDgwMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjEwNC4yMS43MS44OCIsInBvcnQiOiI4MCIsImlkIjoiMmE4YTEwZmItOWNhMy0zNjdlLWEyMzQtY2YwOWY4NDFiZTRmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXMyZS0yMDI0MDExNi52MmZyZWV2cG4uY29tIiwicGF0aCI6Ii91czJla2pkczNuYXkiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.89:2375#US2%201.7MB%2Fs
-trojan://blue2024@104.17.64.70:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.92.55:7307#%E6%9C%AA%E7%9F%A52%202.0MB%2Fs
+trojan://telegram-id-directvpn@34.196.240.76:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#US
+trojan://blue2024@104.18.160.63:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A53
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjM3LjI3LjIyMS4xOTgiLCJwb3J0IjoiODI4MiIsImlkIjoiYzE2MDY0YzktYjY1MC00MTUyLWJhYWMtZWM2OTBjZmU3OTZkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNCJ9
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8881#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
