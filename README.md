@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.26.6.112:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8119#US%201.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFWXozWWtmMXdTMlBubUtPb3I5RXNa@91.103.253.151:19057#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9101#US2%202.0MB%2Fs
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&type=ws&sni=vfarid.xcdi.wOrKERS.DEV&path=trojan-ws/?ed=2048&host=vfarid.xcdi.wOrKERS.DEV#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.64.165.154:8881#US%201.9MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjEwMy44NS4yNS4xMzQiLCJwb3J0IjoiNTUyMTgiLCJpZCI6IjM4MjdhNWM4LWMwMzEtNDZjZi04NDhkLWU4OTBkMGVhZDgwMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjEwNC4yMS43MS44OCIsInBvcnQiOiI4MCIsImlkIjoiMmE4YTEwZmItOWNhMy0zNjdlLWEyMzQtY2YwOWY4NDFiZTRmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXMyZS0yMDI0MDExNi52MmZyZWV2cG4uY29tIiwicGF0aCI6Ii91czJla2pkczNuYXkiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.89:2375#US2%201.7MB%2Fs
+trojan://blue2024@104.17.64.70:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
