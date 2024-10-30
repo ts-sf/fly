@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A5
-trojan://auto@194.53.53.4:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#%E6%9C%AA%E7%9F%A53%201.7MB%2Fs
-trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?security=tls&type=ws&sni=iSaA1.paGes.DEv&path=/Telegram@Linkvws?ed=2560&host=IsaA1.pAGEs.DEV#%E6%9C%AA%E7%9F%A54
-trojan://CMLiu@43.153.80.208:443?sni=aliorg.filegear-sg.me#US2
+trojan://aa81d044-0e0a-5b01-a6d7-3981ed218497@104.17.147.22:2095?security=none&type=ws&path=/&host=at1.vless.Sitespeedtest.net.#%E6%9C%AA%E7%9F%A52
+trojan://auto@162.159.136.232:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.164.15:7306#US%201.9MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#US2%20140.5MB%2Fs
+trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
