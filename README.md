@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://tg-dns68@172.66.44.128:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A52
-trojan://tg-dns68@162.159.152.85:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.117:8118#US%201.9MB%2Fs
-trojan://4b0915d7-8544-5d48-946a-a708d7288447@104.17.148.22:2052?security=none&type=httpupgrade&path=/httpupgrade?ed=Telegram@Linkvws?ed=2560&host=www-domain.ua1.vless.sitespeedtest.net#%E6%9C%AA%E7%9F%A54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#%E6%9C%AA%E7%9F%A55%20980.2KB%2Fs
+trojan://tg-dns68@162.159.153.84:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.65:5500#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#US2%201.7MB%2Fs
+trojan://Join-Daily-Configs@104.18.5.46:2083?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#%E6%9C%AA%E7%9F%A53
+trojan://3690911436885991424@54.150.8.182:443?sni=central-minnow.opossum872.cfd#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
