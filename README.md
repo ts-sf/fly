@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.113:5499#US%202.0MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US2%2028.5MB%2Fs
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7001#US3%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.21:9102#US4%201.7MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiA0My45S0IvcyIsImFkZCI6ImIuaHVuZ3NoaW5nLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImIuaHVuZ3NoaW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoiYi5odW5nc2hpbmcub3JnIiwidGVzdF9uYW1lIjoiMiJ9
+trojan://telegram-id-privatevpns@51.21.141.231:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%2012.4MB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.113:5003#US2%201.9MB%2Fs
+trojan://blue2024@172.67.95.24:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.113:445#US3%201.9MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoiVFciLCJhZGQiOiIxMDMuMTc3LjMzLjE5IiwicG9ydCI6IjMwMDEzIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Ind3dy4zNTcwOTYyMC54eXoiLCJwYXRoIjoiL3BhdGgvMzUxMjEyMDgxNTE3IiwidGxzIjoidGxzIiwic25pIjoid3d3LjM1NzA5NjIwLnh5eiIsInRlc3RfbmFtZSI6IlRXIn0=
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
