@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiMTY4LjEzOC4yNDAuMCIsInBvcnQiOiI0ODY3OSIsImlkIjoiMGVjMjI5OGItYjhiMy00MzdhLTgwNTMtMDViZmYxOWJlMjQ4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsInBhdGgiOiIvd2FkYTEyMjIyIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoi5pyq55+lIn0=
-trojan://auto@104.20.19.30:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://auto@104.20.17.204:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A53
-trojan://DailyConfigs@104.18.32.47:2087?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/@Daily_Configs,@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#%E6%9C%AA%E7%9F%A54
-trojan://NISHIKUITAN222@104.16.200.98:443?#%E6%9C%AA%E7%9F%A55
+trojan://NISHIKUITAN222@104.24.4.125:443?#%E6%9C%AA%E7%9F%A5
+trojan://NISHIKUITAN222@104.25.242.174:443?#%E6%9C%AA%E7%9F%A52
+trojan://NISHIKUITAN222@198.41.208.75:443?#%E6%9C%AA%E7%9F%A53
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A54
+trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?security=tls&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=poORiaReD--PErsePOlIs.PagES.DEv#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
