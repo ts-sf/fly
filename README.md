@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://auto@108.162.195.202:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://de45945e-65ea-4d13-b29d-1835a4281023@103.100.177.32:35005?sni=updates.sub-nthu.com#HK
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjEwNC4xNi42OC4zOCIsInBvcnQiOiIyMDgzIiwiaWQiOiJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiI3aHNzLWJ1dHRlcmZseS1kNGMzLmZpamV0ZW00MzIud29ya2Vycy5kZXYiLCJwYXRoIjoiL2FmcmhtczA3LnhmaXhlZGZsb2F0LmNmZC9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI3aHNzLWJ1dHRlcmZseS1kNGMzLmZpamV0ZW00MzIud29ya2Vycy5kZXYiLCJ0ZXN0X25hbWUiOiIzIn0=
-trojan://auto@104.20.21.43:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A54
-trojan://NISHIKUITAN222@188.114.98.221:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://bpb-trojan@188.114.96.16:443?security=tls&type=ws&sni=403B3611-99bC-43b7-88D7-26Ed5d0825A9-3.pAgeS.DeV&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#%E6%9C%AA%E7%9F%A52
+trojan://NISHIKUITAN222@198.41.206.92:443?#%E6%9C%AA%E7%9F%A53
+trojan://sharevpn@67.220.72.41:443?security=tls&type=http&sni=tlsh2ss.mynode.work.gdh2,http/1.1&path=/#US
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCAxOS44TUIvcyIsImFkZCI6IjEwNC4xNi42Ny4zOCIsInBvcnQiOiIyMDk2IiwiaWQiOiIxMDUyZjI0ZS03YjA5LTQ1ZWItYjBjNS1kODU4ZWIxMjQxOTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ3b3JrZXItZmxhdC1oYXQtMDBmMi5yYXZhcGltNDI2LndvcmtlcnMuZGV2IiwicGF0aCI6Ii9nbHdlaWRmLmNmZC9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3b3JrZXItZmxhdC1oYXQtMDBmMi5yYXZhcGltNDI2LndvcmtlcnMuZGV2IiwidGVzdF9uYW1lIjoiNCJ9
+trojan://telegram-id-directvpn@15.157.44.120:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
