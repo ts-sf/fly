@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#%E6%9C%AA%E7%9F%A5%203.1MB%2Fs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#US2%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.103:6379#US3%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.119:8090#US5%201.9MB%2Fs
-trojan://xjN4xcuPGg@155.248.205.39:45601?security=tls&type=tcp&sni=f.522226.xyz#US7%2056.4MB%2Fs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.115:8091#US2%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.101:8090#US3%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.218:7002#US4%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.55:8000#US5%202.0MB%2Fs
+trojan://telegram-id-directvpn@13.39.118.167:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A514%2012.3MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
