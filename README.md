@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN222@188.114.97.215:443?#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.103:5003#US%201.9MB%2Fs
-trojan://auto@104.20.20.163:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A53
-trojan://tg-dns68@162.159.152.88:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A54
-trojan://telegram-id-directvpn@15.157.113.146:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A55%2023.5MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSVWR2T2dRdkhEY2Z3RWs4eTFkMTN6@80.92.205.32:8985#US
+trojan://NISHIKUITAN222@173.245.59.253:443?security=tls&type=ws&sni=in.ylks.xyz&path=/&host=in.ylks.xyz#%E6%9C%AA%E7%9F%A5
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?security=tls&type=ws&sni=23sPT.pAGEs.dEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=23spt.pages.dev#%E6%9C%AA%E7%9F%A52
+trojan://auto@104.22.37.243:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
