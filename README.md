@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?security=tls&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=poORiaReD--PErsePOlIs.PagES.DEv#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%201.8MB%2Fs
-trojan://NISHIKUITAN222@104.17.150.252:443?#%E6%9C%AA%E7%9F%A53
-trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@18.236.153.57:20230?security=tls&sni=421421.xyz#US
-trojan://e8105dfd24414268b6c7652c63731097@104.18.24.92:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A54
+trojan://NISHIKUITAN222@104.25.166.217:443?#%E6%9C%AA%E7%9F%A52
+trojan://NISHIKUITAN222@162.159.252.9:443?#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN222@104.20.16.49:443?#%E6%9C%AA%E7%9F%A54
+trojan://auto@172.64.35.176:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#%E6%9C%AA%E7%9F%A56%201.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
