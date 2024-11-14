@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN222@104.25.166.217:443?#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN222@162.159.252.9:443?#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN222@104.20.16.49:443?#%E6%9C%AA%E7%9F%A54
-trojan://auto@172.64.35.176:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#%E6%9C%AA%E7%9F%A55
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#%E6%9C%AA%E7%9F%A56%201.8MB%2Fs
+trojan://auto@104.20.19.171:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@108.162.195.135:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A53
+trojan://auto@104.20.22.170:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#%E6%9C%AA%E7%9F%A55%20270.0KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZFdaOVF2RmxiT09HcmVNb0UzQnE4@159.65.129.128:18814#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
