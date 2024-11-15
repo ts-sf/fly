@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://auto@162.159.44.176:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://Watashi_VPN@104.18.27.94:8443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN222@104.22.17.58:443?#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.217:8000#US%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5600#US2%2060.3KB%2Fs
+trojan://NISHIKUITAN222@104.16.91.200:443?#%E6%9C%AA%E7%9F%A52
+trojan://auto@188.114.99.222:443?security=tls&type=ws&sni=migekehcode27.kiwaja6458.workers.dev&path=/&host=migekehcode27.kiwaja6458.workers.dev#%E6%9C%AA%E7%9F%A53
+trojan://auto@162.159.136.232:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A54
+trojan://tg-dns68@162.159.153.219:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A55
+trojan://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?security=tls&type=ws&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV&path=/Telegram@Linkvws?ed=2560&host=bpb-worker-panel1-e4p.pages.dev#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
