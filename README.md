@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN222@172.66.139.184:443?#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN222@104.18.149.10:443?#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN222@104.25.194.188:443?#%E6%9C%AA%E7%9F%A54
-trojan://NISHIKUITAN222@172.67.180.8:443?#%E6%9C%AA%E7%9F%A55
-trojan://NISHIKUITAN222@104.24.22.118:443?#%E6%9C%AA%E7%9F%A56
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2UDhzbkRhdGcwOTdjMTlBM2VZUGpV@51.120.10.54:4567#%E6%9C%AA%E7%9F%A52
+trojan://auto@104.20.22.92:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN222@104.25.203.49:443?#%E6%9C%AA%E7%9F%A54
+trojan://NISHIKUITAN222@104.16.40.237:443?#%E6%9C%AA%E7%9F%A55
+trojan://auto@104.20.19.125:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
