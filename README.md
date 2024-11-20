@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSnlpMGUycjRlbTFwWFRHMjc0anpS@207.154.193.100:23831#%E6%9C%AA%E7%9F%A56%2012.3MB%2Fs
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-45-67-229-222.stark-industries.solutions:443?#%E6%9C%AA%E7%9F%A57%2071.4KB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%E6%9C%AA%E7%9F%A59%2011.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprZzNwb1ZZNEs3cWVRNjRvb1MzYzdwU3ZxNVFyYlJIRjV3RHczNlZ4V2Zucmd6d0VKQ2pYWFRxNHFVMmZSamlrN2pZTG9Od2dGbkdrbnRNMm5wcFNBbnBXdG9TV3pFaUg=@5.231.63.26:41544#%E6%9C%AA%E7%9F%A516%202.4MB%2Fs
-trojan://xjN4xcuPGg55@152.70.115.209:45800?security=tls&sni=h.522226.xyz#US%2025.1MB%2Fs
+trojan://telegram-id-privatevpns@52.19.210.254:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53%206.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.112:3306#US%201.9MB%2Fs
+trojan://8zlR8O7E3S8uqex4xYnpp8O6C3lZejBCZO53eYD7XIAaaTBRC3Cj9SCFxlAwKAwD2yyN3@54.249.161.173:443?sni=sniffle.meijireform.com#%E6%9C%AA%E7%9F%A56%2065.5KB%2Fs
+trojan://telegram-id-privatevpns@16.171.204.191:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A57%202.1MB%2Fs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.143.66.87:443#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
