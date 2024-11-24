@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://ComYEI7fQv@51.68.215.55:443?security=tls&type=ws&sni=uk-04.allhubb.info&path=/TBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg#%E6%9C%AA%E7%9F%A58%20587.1KB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#US%2043.8MB%2Fs
-trojan://telegram-id-privatevpns@18.133.127.198:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A510%2056.4KB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.33:8080#US2%201.9MB%2Fs
-trojan://telegram-id-privatevpns@13.61.102.151:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%201003.4KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%E6%9C%AA%E7%9F%A521%205.0MB%2Fs
+trojan://xjN4xcuPGg@155.248.205.39:45601?security=tls&type=tcp&sni=f.522226.xyz#US5%2019.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%E6%9C%AA%E7%9F%A524%2014.6MB%2Fs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.150.152.16:443#%E6%9C%AA%E7%9F%A527%201.9MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%E6%9C%AA%E7%9F%A531%2017.7MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
