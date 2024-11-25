@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#US2%202.0MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%E6%9C%AA%E7%9F%A57%203.9MB%2Fs
-trojan://telegram-id-privatevpns@51.20.160.239:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%20982.5KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#%E6%9C%AA%E7%9F%A511%20167.9KB%2Fs
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#US4%201.9MB%2Fs
+trojan://telegram-id-privatevpns@176.34.189.35:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A59%205.4MB%2Fs
+ss://YWVzLTI1Ni1nY206M2I5a3RaR3p0Qw==@162.19.25.207:34232#%E6%9C%AA%E7%9F%A512%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#US%201.6MB%2Fs
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.47:8882#US2%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#%E6%9C%AA%E7%9F%A516%20309.5KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
