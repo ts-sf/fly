@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2024-11-27 17:30:02
+# 创建时间: 2024-11-28 01:32:14
 # 使用模版: V2RaySE 默认模版
-# 节点数量：8
+# 节点数量：6
 ####################################
 #
 mixed-port: 7890
@@ -12,14 +12,12 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"US315 1.9MB/s","type":"ss","server":"38.75.137.71","port":6679,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
-  - {"name":"US316 1.9MB/s","type":"ss","server":"38.110.1.105","port":9090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US317 1.9MB/s","type":"ss","server":"23.157.40.101","port":8009,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
-  - {"name":"US318 1.9MB/s","type":"ss","server":"38.75.136.21","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
-  - {"name":"未知796 16.5MB/s","type":"ss","server":"212.102.53.80","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"US319 1.9MB/s","type":"ss","server":"38.75.136.21","port":5000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US320 1.9MB/s","type":"ss","server":"23.157.40.120","port":3306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知801 666.0KB/s","type":"trojan","server":"3.74.251.200","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US306 1.9MB/s","type":"ss","server":"38.75.136.21","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
+  - {"name":"US308 18.1MB/s","type":"ss","server":"207.246.101.50","port":1633,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"o_A7inN1yqeWtOTL","skip-cert-verify":true}
+  - {"name":"US309 1.7MB/s","type":"ss","server":"142.202.49.119","port":5001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知824 467.1KB/s","type":"ss","server":"51.77.53.200","port":2375,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
+  - {"name":"US311 1.9MB/s","type":"ss","server":"38.75.136.21","port":8882,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
+  - {"name":"US312 1.9MB/s","type":"ss","server":"38.75.136.33","port":8118,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -27,14 +25,12 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - US315 1.9MB/s
-      - US316 1.9MB/s
-      - US317 1.9MB/s
-      - US318 1.9MB/s
-      - 未知796 16.5MB/s
-      - US319 1.9MB/s
-      - US320 1.9MB/s
-      - 未知801 666.0KB/s
+      - US306 1.9MB/s
+      - US308 18.1MB/s
+      - US309 1.7MB/s
+      - 未知824 467.1KB/s
+      - US311 1.9MB/s
+      - US312 1.9MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -42,14 +38,12 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - US315 1.9MB/s
-      - US316 1.9MB/s
-      - US317 1.9MB/s
-      - US318 1.9MB/s
-      - 未知796 16.5MB/s
-      - US319 1.9MB/s
-      - US320 1.9MB/s
-      - 未知801 666.0KB/s
+      - US306 1.9MB/s
+      - US308 18.1MB/s
+      - US309 1.7MB/s
+      - 未知824 467.1KB/s
+      - US311 1.9MB/s
+      - US312 1.9MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -57,56 +51,48 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - US315 1.9MB/s
-      - US316 1.9MB/s
-      - US317 1.9MB/s
-      - US318 1.9MB/s
-      - 未知796 16.5MB/s
-      - US319 1.9MB/s
-      - US320 1.9MB/s
-      - 未知801 666.0KB/s
+      - US306 1.9MB/s
+      - US308 18.1MB/s
+      - US309 1.7MB/s
+      - 未知824 467.1KB/s
+      - US311 1.9MB/s
+      - US312 1.9MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US315 1.9MB/s
-      - US316 1.9MB/s
-      - US317 1.9MB/s
-      - US318 1.9MB/s
-      - 未知796 16.5MB/s
-      - US319 1.9MB/s
-      - US320 1.9MB/s
-      - 未知801 666.0KB/s
+      - US306 1.9MB/s
+      - US308 18.1MB/s
+      - US309 1.7MB/s
+      - 未知824 467.1KB/s
+      - US311 1.9MB/s
+      - US312 1.9MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - US315 1.9MB/s
-      - US316 1.9MB/s
-      - US317 1.9MB/s
-      - US318 1.9MB/s
-      - 未知796 16.5MB/s
-      - US319 1.9MB/s
-      - US320 1.9MB/s
-      - 未知801 666.0KB/s
+      - US306 1.9MB/s
+      - US308 18.1MB/s
+      - US309 1.7MB/s
+      - 未知824 467.1KB/s
+      - US311 1.9MB/s
+      - US312 1.9MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US315 1.9MB/s
-      - US316 1.9MB/s
-      - US317 1.9MB/s
-      - US318 1.9MB/s
-      - 未知796 16.5MB/s
-      - US319 1.9MB/s
-      - US320 1.9MB/s
-      - 未知801 666.0KB/s
+      - US306 1.9MB/s
+      - US308 18.1MB/s
+      - US309 1.7MB/s
+      - 未知824 467.1KB/s
+      - US311 1.9MB/s
+      - US312 1.9MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -130,14 +116,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - US315 1.9MB/s
-      - US316 1.9MB/s
-      - US317 1.9MB/s
-      - US318 1.9MB/s
-      - 未知796 16.5MB/s
-      - US319 1.9MB/s
-      - US320 1.9MB/s
-      - 未知801 666.0KB/s
+      - US306 1.9MB/s
+      - US308 18.1MB/s
+      - US309 1.7MB/s
+      - 未知824 467.1KB/s
+      - US311 1.9MB/s
+      - US312 1.9MB/s
 
 
 rules:
