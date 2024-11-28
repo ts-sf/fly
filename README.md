@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://WOeXShhJpL@104.21.19.243:443?security=tls&type=ws&sni=06jzus.zdzdzd.xyz&path=/juzigongyi&host=06jzus.zdzdzd.xyz#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN111@104.16.147.45:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://auto@172.67.75.208:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.105:5498#US%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.37.18.75:5004#%E6%9C%AA%E7%9F%A54%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.105:3389#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.137.71:6679#US2%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#%E6%9C%AA%E7%9F%A52%201.7MB%2Fs
+trojan://NISHIKUITAN111@104.17.218.123:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://NISHIKUITAN111@104.19.182.150:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
