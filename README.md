@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://bpb-trojan@162.159.153.2:443?security=tls&type=tcp&sni=visa.cn#%E6%9C%AA%E7%9F%A5
-trojan://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?security=tls&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&path=/Telegram-@V2ray_Alpha/?ed=2560&host=internet4everieone7.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?security=tls&type=ws&sni=1223-9ux.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=1223-9ux.pages.dev#%E6%9C%AA%E7%9F%A53
-trojan://Julius@104.219.41.229:443?security=tls&type=tcp&sni=miami.juliusnet.com#US
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#%E6%9C%AA%E7%9F%A54%201.8MB%2Fs
+trojan://NISHIKUITAN111@89.117.112.181:443?#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B
+trojan://blue2024@104.18.211.40:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed&host=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A5
+trojan://blue2024@172.67.138.10:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed#%E6%9C%AA%E7%9F%A52
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?security=tls&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV&path=/Telegram@V2ray_Alpha/?ed=2560&host=jOINV2ngfast-7nr.PAges.Dev#%E6%9C%AA%E7%9F%A53
+trojan://blue2024@104.26.6.112:443?sni=tb.promote.icu#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
