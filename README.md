@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@198.41.198.25:443?#%E6%9C%AA%E7%9F%A5
-trojan://bpb-trojan@162.159.153.2:443?security=tls&type=tcp&sni=visa.cn#%E6%9C%AA%E7%9F%A52
-trojan://bpb-trojan@190.93.244.202:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#%E6%9C%AA%E7%9F%A54%20125.1KB%2Fs
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.204:8119#US%201.9MB%2Fs
+trojan://NISHIKUITAN111@198.41.207.166:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://NISHIKUITAN111@173.245.59.91:443?#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.105:8090#US%201.7MB%2Fs
+trojan://NISHIKUITAN111@104.24.236.157:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://blue2024@195.85.59.161:443?security=tls&type=ws&sni=hb.lii2010.us.kg&path=/?ed=2560&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
