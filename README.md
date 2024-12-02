@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@198.41.201.193:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443?security=tls&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev&host=poORiaReD--PErsePOlIs.PagES.DEv#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.113:6697#US2%201.6MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.154:3306#US3%201.9MB%2Fs
-trojan://NISHIKUITAN111@104.21.33.65:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://NISHIKUITAN111@185.148.106.44:443?type=ws&sni=za.ylks.xyz&path=//&host=za.ylks.xyz#US2
+ss://YWVzLTI1Ni1nY206MzQyNjM2MnNFRDkyWXR5MTRkODZh@45.12.207.208:8448#%E6%9C%AA%E7%9F%A5%201.7MB%2Fs
+trojan://95d5f98e-9303-4f75-8468-129c3f7bd318@172.66.47.169:443?security=tls&type=ws&sni=MoSiv2.PaGES.DeV&path=/Telegram@V2ray_Alpha?ed=2048&host=channel-mosiv2.pages.dev#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXhCMXFkem1lRnJnPQ==@150.241.68.171:24064#%E6%9C%AA%E7%9F%A53%2011.8MB%2Fs
+trojan://NISHIKUITAN111@104.21.73.209:443?#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
