@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.60:2377#TW
-trojan://NISHIKUITAN111@104.19.188.107:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://NISHIKUITAN111@104.17.255.213:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:3306#US%201.9MB%2Fs
-trojan://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.163.79:1623?security=reality&headerType=none&type=tcp&sni=wwww.refersion.com#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6679#US%201.9MB%2Fs
+trojan://NISHIKUITAN111@45.131.7.206:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://blue2024@104.25.226.234:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%E6%9C%AA%E7%9F%A53%2011.9MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.16:5001#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
