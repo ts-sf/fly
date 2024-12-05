@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.21.56.71:443?sni=tb.promote.icu#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#%E6%9C%AA%E7%9F%A53%20102.8KB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.21:5500#US%201.9MB%2Fs
-trojan://NISHIKUITAN111@104.20.203.93:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.12.70:8000#%E6%9C%AA%E7%9F%A54%2016.8KB%2Fs
+trojan://auto@104.21.21.129:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#%E6%9C%AA%E7%9F%A5
+trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&type=grpc&sni=Crunch.floorshoping22.com#US2
+trojan://NISHIKUITAN111@104.24.70.239:443?#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.5:9101#US3%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.117:8118#US4%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
