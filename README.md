@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@162.159.58.108:443?#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.89:5499#US%201.7MB%2Fs
-trojan://bpb-trojan@188.114.97.88:2053?security=tls&type=ws&sni=G1-21N.paGEs.dev&host=g1-21n.pages.dev#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN111@104.25.99.96:443?#%E6%9C%AA%E7%9F%A54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMGU3ZmQxZS0wNDY5LTQxNWYtOTVkYS03NzQwMjFmMTZmMzY=@103.115.108.83:40020#TW%2087.9KB%2Fs
+trojan://NISHIKUITAN111@104.20.243.154:443?#%E6%9C%AA%E7%9F%A5
+trojan://blue2024@104.26.7.89:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@104.16.254.101:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.164.15:5500#US2%201.9MB%2Fs
+trojan://NISHIKUITAN111@190.93.245.109:443?#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
