@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@104.20.243.154:443?#%E6%9C%AA%E7%9F%A5
-trojan://blue2024@104.26.7.89:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
-trojan://blue2024@104.16.254.101:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.164.15:5500#US2%201.9MB%2Fs
-trojan://NISHIKUITAN111@190.93.245.109:443?#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.113:445#US2%201.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%E6%9C%AA%E7%9F%A5%20298.1KB%2Fs
+trojan://auto@104.21.50.114:443?security=tls&type=ws&sni=esetsecuritylicense.nzuwcx.workers.dev&path=/&host=esetsecuritylicense.nzuwcx.workers.dev#%E6%9C%AA%E7%9F%A52
+trojan://6aa14e75-7d01-472b-8983-00ce703963c0@188.245.114.237:1001?security=reality&type=tcp&sni=The-Ashegh.org#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRXRQcW42SFlqVU5jSG9oTGZVcEZRd25makNDUTVtaDFtSmRFTUNCdWN1V1o5UDF1ZGtSS0huVnh1bzU1azFLWHoyRm82anJndDE4VzY2b3B0eTFlNGJtMWp6ZkNmQmI=@84.19.31.63:50841#%E6%9C%AA%E7%9F%A54%2038.8KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
