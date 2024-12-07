@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.27.55.88:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
-trojan://e0eddd4c-7a08-41e9-82dc-53228a9348cf@188.132.232.4:8080?security=none&headerType=http&type=tcp&host=uptvs.com#%E6%9C%AA%E7%9F%A53
-trojan://blue2024@104.16.238.107:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A54
-trojan://auto@104.20.19.218:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A55
-trojan://NISHIKUITAN111@69.48.218.190:443?type=ws&sni=za.ylks.xyz&path=//&host=za.ylks.xyz#US
+trojan://NISHIKUITAN111@173.245.59.30:443?#%E6%9C%AA%E7%9F%A52
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&type=ws&sni=vfarid.xcdi.wOrKERS.DEV&host=vfarid.xcdi.wOrKERS.DEV#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#US%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8881#%E6%9C%AA%E7%9F%A54%201.9MB%2Fs
+trojan://blue2024@104.17.31.182:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
