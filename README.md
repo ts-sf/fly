@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://dns68@66.179.48.88:443?security=tls&type=ws&sni=trojan.putata.us.kg&path=/?ed=2560&host=trojan.putata.us.kg#%E6%9C%AA%E7%9F%A5
-trojan://NISHIKUITAN111@172.66.207.49:443?#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN111@141.101.121.134:443?#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#%E6%9C%AA%E7%9F%A54%209.8MB%2Fs
-trojan://auto@104.20.19.168:2083?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A55
+trojan://NISHIKUITAN111@94.242.229.89:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A52
+trojan://NISHIKUITAN111@104.16.143.66:443?#%E6%9C%AA%E7%9F%A53
+trojan://auto@104.20.19.3:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A54
+trojan://blue2024@198.41.215.83:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#US%2029.4MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
