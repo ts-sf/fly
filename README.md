@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@172.67.122.48:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
-trojan://6aa14e75-7d01-472b-8983-00ce703963c0@tu.hideabr.ir:1001?security=reality&headerType=none&type=tcp&sni=The-Ashegh.org#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZGVlUXp6UVA5SFRHdnkzTktDOUZS@89.185.84.185:12575#%E6%9C%AA%E7%9F%A54%206.6MB%2Fs
-trojan://d17bc275-a17b-4d41-9f52-879f6619ac2b@188.245.90.214:1633?security=reality&headerType=none&type=tcp&sni=stackoverflow.com#%E6%9C%AA%E7%9F%A55
-trojan://bpb-trojan@190.93.247.232:443?type=ws&sni=zeming13.us.kg&host=zeming13.us.kg#%E6%9C%AA%E7%9F%A56
+trojan://NISHIKUITAN111@154.92.9.71:443?#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#US2%202.0MB%2Fs
+trojan://blue2024@188.164.158.69:443?sni=ta.promote.icu#%F0%9F%87%A6%F0%9F%87%B2AM%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.105:9090#US3%201.8MB%2Fs
+trojan://bpb-trojan@195.85.23.232:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A52
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
