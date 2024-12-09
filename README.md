@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZDd1UGtOZHQxbkdPTUlXUFVraGdX@158.255.214.213:443#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.27:8119#US%201.7MB%2Fs
-trojan://blue2024@173.245.58.80:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A54
-trojan://blue2024@104.19.185.248:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A55
+trojan://blue2024@172.67.122.48:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
+trojan://6aa14e75-7d01-472b-8983-00ce703963c0@tu.hideabr.ir:1001?security=reality&headerType=none&type=tcp&sni=The-Ashegh.org#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZGVlUXp6UVA5SFRHdnkzTktDOUZS@89.185.84.185:12575#%E6%9C%AA%E7%9F%A54%206.6MB%2Fs
+trojan://d17bc275-a17b-4d41-9f52-879f6619ac2b@188.245.90.214:1633?security=reality&headerType=none&type=tcp&sni=stackoverflow.com#%E6%9C%AA%E7%9F%A55
+trojan://bpb-trojan@190.93.247.232:443?type=ws&sni=zeming13.us.kg&host=zeming13.us.kg#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
