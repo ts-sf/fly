@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.18.46.185:443?sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://blue2024@104.16.76.240:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A5
-trojan://NISHIKUITAN111@45.131.211.23:443?#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.117:7002#US2%201.6MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#%E6%9C%AA%E7%9F%A53
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZDd1UGtOZHQxbkdPTUlXUFVraGdX@158.255.214.213:443#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.27:8119#US%201.7MB%2Fs
+trojan://blue2024@173.245.58.80:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A54
+trojan://blue2024@104.19.185.248:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
