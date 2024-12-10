@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.84:5001#US%202.0MB%2Fs
-trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com#US2
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.103:8882#US3%201.9MB%2Fs
-trojan://blue2024@190.93.247.128:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#%E6%9C%AA%E7%9F%A53%20409.0KB%2Fs
+trojan://NISHIKUITAN111@185.135.9.41:443?#%E6%9C%AA%E7%9F%A52
+trojan://NISHIKUITAN111@104.24.184.159:443?#%E6%9C%AA%E7%9F%A53
+trojan://blue2024@188.244.122.205:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A54
+trojan://blue2024@104.19.142.99:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A55
+trojan://WOeXShhJpL@104.21.19.243:443?security=tls&type=ws&sni=06jzus.zdzdzd.xyz&path=/juzigongyi&host=06jzus.zdzdzd.xyz#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
