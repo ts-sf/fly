@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://bpb-trojan@162.159.153.172:443?security=tls&type=tcp&sni=cf.090227.xyz#%E6%9C%AA%E7%9F%A52
-trojan://blue2024@iplocation.io:443?sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://blue2024@uriah.ns.cloudflare.com:443?sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://blue2024@159.246.55.142:443?sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://NISHIKUITAN111@104.24.221.101:443?#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%E6%9C%AA%E7%9F%A52%2014.8MB%2Fs
+trojan://blue2024@198.41.209.124:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.103:8882#US%201.9MB%2Fs
+trojan://FjR12inxosbyoWpb_MJ8Ew@147.45.179.104:2058?security=tls&type=ws&sni=outlinekeysrobotgb.outlinekeys.net&path=/#%E6%9C%AA%E7%9F%A54
+trojan://telegram-id-directvpn@13.61.130.116:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
