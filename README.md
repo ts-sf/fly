@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@185.135.9.41:443?#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN111@104.24.184.159:443?#%E6%9C%AA%E7%9F%A53
-trojan://blue2024@188.244.122.205:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A54
-trojan://blue2024@104.19.142.99:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A55
-trojan://WOeXShhJpL@104.21.19.243:443?security=tls&type=ws&sni=06jzus.zdzdzd.xyz&path=/juzigongyi&host=06jzus.zdzdzd.xyz#%E6%9C%AA%E7%9F%A56
+trojan://bpb-trojan@162.159.153.172:443?security=tls&type=tcp&sni=cf.090227.xyz#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@iplocation.io:443?sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://blue2024@uriah.ns.cloudflare.com:443?sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://blue2024@159.246.55.142:443?sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://NISHIKUITAN111@104.24.221.101:443?#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
