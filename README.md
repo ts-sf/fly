@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@204.93.210.216:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#US
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8008#US2%201.9MB%2Fs
-trojan://NISHIKUITAN111@185.18.250.112:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN111@104.24.236.157:443?#%E6%9C%AA%E7%9F%A53
-trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@108.162.196.69:443?security=tls&type=tcp&sni=ssp2.100896.xyz#%E6%9C%AA%E7%9F%A54
+trojan://NISHIKUITAN111@104.20.65.198:443?#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%E6%9C%AA%E7%9F%A53%2013.2MB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5003#%E6%9C%AA%E7%9F%A54%201.8MB%2Fs
+trojan://NISHIKUITAN111@94.242.228.50:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A55
+trojan://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&type=ws&sni=VIrgiNiavPn-nL.pagEs.dEv&path=/Telegram@V2ray_Alpha/?ed=2048&host=VIrgiNiavPn-nL.pagEs.dEv#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
