@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@188.164.248.160:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#US2%201.9MB%2Fs
-trojan://blue2024@172.67.179.208:443?sni=tb.promote.icu#%E6%9C%AA%E7%9F%A52
-trojan://blue2024@104.16.104.65:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A53
-trojan://blue2024@104.16.20.118:443?sni=tb.promote.icu#%E6%9C%AA%E7%9F%A54
+trojan://auto@104.20.17.255:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A52
+trojan://NISHIKUITAN111@104.22.50.122:443?#%E6%9C%AA%E7%9F%A53
+trojan://blue2024@104.17.31.182:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A54
+trojan://NISHIKUITAN111@104.25.235.46:443?#%E6%9C%AA%E7%9F%A55
+trojan://NISHIKUITAN111@172.64.94.244:443?#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
