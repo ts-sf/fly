@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://auto@104.20.17.255:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN111@104.22.50.122:443?#%E6%9C%AA%E7%9F%A53
-trojan://blue2024@104.17.31.182:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A54
-trojan://NISHIKUITAN111@104.25.235.46:443?#%E6%9C%AA%E7%9F%A55
-trojan://NISHIKUITAN111@172.64.94.244:443?#%E6%9C%AA%E7%9F%A56
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiMTgzLjIzNi41MS4zNiIsInBvcnQiOiI1OTAwMyIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
+trojan://bpb-trojan@172.67.24.134:443?sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.21:5500#US2%201.9MB%2Fs
+trojan://blue2024@162.159.44.83:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A53
+trojan://blue2024@31.12.75.68:443?sni=b.promote.icu#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
