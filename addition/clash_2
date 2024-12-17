@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2024-12-17 11:03:51
+# 创建时间: 2024-12-17 17:39:06
 # 使用模版: V2RaySE 默认模版
-# 节点数量：81
+# 节点数量：64
 ####################################
 #
 mixed-port: 7890
@@ -12,87 +12,70 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"US354 68.3MB/s","type":"trojan","server":"104.219.41.229","port":443,"alterId":0,"tls":true,"password":"Julius","sni":"miami.juliusnet.com","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US355 1.9MB/s","type":"ss","server":"23.157.40.5","port":2375,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
-  - {"name":"US357 1.9MB/s","type":"ss","server":"69.50.95.103","port":8882,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
-  - {"name":"US358 1.9MB/s","type":"ss","server":"69.50.95.39","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
-  - {"name":"未知1071 18.5MB/s","type":"ss","server":"212.102.53.197","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"未知1073 16.1MB/s","type":"ss","server":"45.87.175.181","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"cvII85TrW6n0OGyfpHVS1u","skip-cert-verify":true}
-  - {"name":"未知1074 1.9MB/s","type":"ss","server":"149.202.82.172","port":5001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US359 1.9MB/s","type":"ss","server":"38.75.136.21","port":3306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1078 19.1MB/s","type":"ss","server":"212.102.53.196","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"US360 1.9MB/s","type":"ss","server":"23.157.40.89","port":5499,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"lGqs95QkFHo2NV","skip-cert-verify":true}
-  - {"name":"US362 1.8MB/s","type":"ss","server":"15.204.87.225","port":8090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
-  - {"name":"US363 1.7MB/s","type":"ss","server":"142.202.49.84","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
-  - {"name":"US364 1.9MB/s","type":"ss","server":"38.114.114.69","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
-  - {"name":"US365 1.7MB/s","type":"ss","server":"67.220.95.102","port":5600,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1093 11.7MB/s","type":"ss","server":"147.45.60.33","port":16356,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"LqlPI19oqnunGNSLMvdXyB","skip-cert-verify":true}
-  - {"name":"US366 1.7MB/s","type":"ss","server":"67.220.95.102","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国10 21.4MB/s","type":"trojan","server":"138.2.237.121","port":443,"alterId":0,"tls":true,"password":"9d0a75d2-f747-4afa-b43f-d208af9e8f9a","sni":"us01.ssr.ee","skip-cert-verify":true,"udp":true}
-  - {"name":"US367 1.9MB/s","type":"ss","server":"69.50.95.218","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
-  - {"name":"未知1103 387.1KB/s","type":"ss","server":"193.29.139.202","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
-  - {"name":"US368 1.9MB/s","type":"ss","server":"69.50.95.203","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US370 1.9MB/s","type":"ss","server":"69.50.95.180","port":5498,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"lGqs95QkFHo2NV","skip-cert-verify":true}
-  - {"name":"US371 1.9MB/s","type":"ss","server":"38.110.1.252","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US372 98.2MB/s","type":"trojan","server":"142.202.48.220","port":443,"alterId":0,"tls":true,"password":"f0eb8c92ce8946aaba856569cff1a16b","sni":"sherasheba.com","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1128 7.1MB/s","type":"ss","server":"92.118.112.111","port":18622,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"gmYDzSG6K35s8b19oY4fGz","skip-cert-verify":true}
-  - {"name":"US373 64.0MB/s","type":"trojan","server":"23.150.248.50","port":443,"alterId":0,"tls":true,"password":"cb1f26aa437d4bfa9b841d28503ce8cc","sni":"jobscareerfortoday.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1140 1.9MB/s","type":"ss","server":"149.202.82.172","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US376 1.9MB/s","type":"ss","server":"69.50.95.53","port":8881,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
-  - {"name":"US377 1.7MB/s","type":"ss","server":"67.220.95.102","port":6379,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"zDNVedRFPQexG9v","skip-cert-verify":true}
-  - {"name":"US378 16.8MB/s","type":"ss","server":"38.75.136.49","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
-  - {"name":"未知1152 661.5KB/s","type":"vmess","server":"45.145.167.103","port":443,"cipher":"auto","uuid":"425c5e6e-30a0-4984-8a13-ee6f72053162","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"indiavideo.sbs"}}}
-  - {"name":"US379 1.9MB/s","type":"ss","server":"38.110.1.252","port":2375,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
-  - {"name":"US380 1.9MB/s","type":"ss","server":"23.157.40.113","port":5000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US381 1.9MB/s","type":"ss","server":"23.157.40.5","port":5001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US366 1.9MB/s","type":"ss","server":"23.157.40.89","port":5499,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"lGqs95QkFHo2NV","skip-cert-verify":true}
+  - {"name":"TW6 894.2KB/s","type":"ss","server":"103.115.108.83","port":40020,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f0e7fd1e-0469-415f-95da-774021f16f36","skip-cert-verify":true}
+  - {"name":"US367 1.9MB/s","type":"ss","server":"23.134.94.168","port":3389,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US368 1.8MB/s","type":"ss","server":"38.114.114.69","port":8119,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
+  - {"name":"US369 58.0KB/s","type":"trojan","server":"13.58.213.147","port":22222,"alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1160 268.2KB/s","type":"ss","server":"103.174.86.113","port":51348,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"vZr8MlUXUihNEndqIpjDxQdSeqi37FbgoHBmQ1syy6ZjkbBn","skip-cert-verify":true}
+  - {"name":"US370 1.8MB/s","type":"ss","server":"23.157.40.113","port":6697,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
+  - {"name":"未知1164 31.6KB/s","type":"ss","server":"107.181.155.244","port":55330,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"rtR4YX74vwqRJu9MGH3e1N3CQdGMWCUFkyLisijiFuvhkU9McV5TpygfkernJ4UQe63JtcDQkrQ9HfchzqQz1kLCnTRor8jg","skip-cert-verify":true}
+  - {"name":"US371 1.9MB/s","type":"ss","server":"23.157.40.87","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知1165 14.5MB/s","type":"ss","server":"46.101.103.208","port":80,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"D8TWmJaVi3CWdwqOatzGlw","skip-cert-verify":true}
+  - {"name":"US372 58.8MB/s","type":"trojan","server":"23.150.248.107","port":443,"alterId":0,"tls":true,"password":"dba20dcb635e430fa4d3bfc303a149d2","sni":"jobscareertoday.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1173 9.9MB/s","type":"ss","server":"91.219.237.102","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
+  - {"name":"未知1176 1.7MB/s","type":"ss","server":"23.157.88.61","port":2376,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
+  - {"name":"US374 2.0MB/s","type":"ss","server":"38.110.1.46","port":8091,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
+  - {"name":"US375 1.7MB/s","type":"ss","server":"142.202.49.75","port":8000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
+  - {"name":"US376 1.9MB/s","type":"ss","server":"38.121.43.27","port":2375,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
+  - {"name":"US377 1.9MB/s","type":"ss","server":"38.114.114.69","port":7306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
+  - {"name":"US378 1.9MB/s","type":"ss","server":"38.114.114.69","port":8881,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
+  - {"name":"US379 1.8MB/s","type":"ss","server":"23.157.40.26","port":8009,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
+  - {"name":"US380 1.9MB/s","type":"ss","server":"15.204.87.225","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
+  - {"name":"US381 1.9MB/s","type":"ss","server":"69.50.95.218","port":6697,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
   - {"name":"US382 1.9MB/s","type":"ss","server":"139.64.165.144","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
-  - {"name":"🇬🇷GR希腊 134.8KB/s","type":"ss","server":"92.118.205.228","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
-  - {"name":"US383 1.8MB/s","type":"ss","server":"38.121.43.51","port":2376,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
-  - {"name":"US385 1.9MB/s","type":"ss","server":"23.157.40.120","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US387 1.8MB/s","type":"ss","server":"23.157.40.113","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
-  - {"name":"US388 1.9MB/s","type":"ss","server":"15.204.87.225","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
-  - {"name":"未知1178 1.7MB/s","type":"trojan","server":"13.36.74.252","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1183 16.2MB/s","type":"ss","server":"51.195.119.47","port":1080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"qXvO7zYU7KeaB0Md7DQLow","skip-cert-verify":true}
-  - {"name":"US389 1.8MB/s","type":"ss","server":"23.157.40.113","port":2376,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
-  - {"name":"未知1189 1.8MB/s","type":"ss","server":"217.182.198.219","port":2375,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
-  - {"name":"未知1193 41.7MB/s","type":"vmess","server":"79.127.229.54","port":18000,"cipher":"auto","uuid":"fa1897db-1925-4c86-a495-939a959af900","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"US390 1.8MB/s","type":"ss","server":"23.157.40.120","port":8119,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
-  - {"name":"未知1194 7.9MB/s","type":"ss","server":"5.182.38.211","port":42658,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"6W3KNlsw77BkOmhv36B76iKeOzNiECcO1qvmpvP2yTXCuODvctTKgRTNqc5dPRLY","skip-cert-verify":true}
-  - {"name":"US392 1.8MB/s","type":"ss","server":"23.157.40.113","port":7307,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
-  - {"name":"未知1206 1.9MB/s","type":"ss","server":"51.68.206.229","port":8080,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"未知1209 15.7MB/s","type":"ss","server":"89.23.103.21","port":51584,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oYQ8JwEldYn4KT2gfZ6eNl","skip-cert-verify":true}
-  - {"name":"US393 1.6MB/s","type":"ss","server":"167.88.63.21","port":8119,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
-  - {"name":"US397 1.9MB/s","type":"ss","server":"23.157.40.113","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
-  - {"name":"US398 2.0MB/s","type":"ss","server":"38.110.1.12","port":2375,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
-  - {"name":"未知1226 4.5MB/s","type":"ss","server":"51.178.87.37","port":805,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"G!yBwPWH3Vao","skip-cert-verify":true}
-  - {"name":"US399 1.8MB/s","type":"ss","server":"38.114.114.69","port":6379,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"zDNVedRFPQexG9v","skip-cert-verify":true}
-  - {"name":"US400 1.8MB/s","type":"ss","server":"167.88.61.111","port":8090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
-  - {"name":"未知1232 11.5MB/s","type":"ss","server":"156.146.62.161","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"未知1235 16.1MB/s","type":"ss","server":"51.13.114.206","port":19940,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Bk6CwTEYasiCd9iqVOvOpZ","skip-cert-verify":true}
-  - {"name":"未知1241 1.8MB/s","type":"ss","server":"149.202.82.172","port":9102,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
-  - {"name":"US402 1.9MB/s","type":"ss","server":"38.143.66.87","port":6697,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
-  - {"name":"未知1247 1.5MB/s","type":"ss","server":"62.12.116.66","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
-  - {"name":"未知1253 1.8MB/s","type":"ss","server":"149.202.82.172","port":8008,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
-  - {"name":"US403 1.9MB/s","type":"ss","server":"38.75.136.21","port":9102,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
-  - {"name":"未知1257 1.8MB/s","type":"ss","server":"23.166.88.221","port":8118,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
-  - {"name":"US405 1.9MB/s","type":"ss","server":"38.75.136.108","port":8091,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
-  - {"name":"US406 1.8MB/s","type":"ss","server":"38.75.136.21","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1267 1.8MB/s","type":"ss","server":"54.36.174.181","port":3306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1270 1.8MB/s","type":"ss","server":"51.77.53.200","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
-  - {"name":"未知1277 4.2MB/s","type":"ss","server":"45.151.62.54","port":28825,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"0zyDRZ1XmNXaaCAN7KEA8a","skip-cert-verify":true}
-  - {"name":"未知1285 140.6KB/s","type":"ss","server":"51.120.12.152","port":49023,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"TdjTu9dRAjFH3hd8WuJLaf","skip-cert-verify":true}
-  - {"name":"US407 1.9MB/s","type":"ss","server":"139.64.164.15","port":8118,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
-  - {"name":"US408 62.2MB/s","type":"trojan","server":"23.150.248.107","port":443,"alterId":0,"tls":true,"password":"dba20dcb635e430fa4d3bfc303a149d2","sni":"jobscareertoday.com","skip-cert-verify":true,"udp":true}
-  - {"name":"US409 1.8MB/s","type":"ss","server":"23.157.40.87","port":5498,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"lGqs95QkFHo2NV","skip-cert-verify":true}
-  - {"name":"US410 26.3MB/s","type":"ss","server":"212.102.47.132","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"US411 1.6MB/s","type":"ss","server":"38.121.43.204","port":8119,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
-  - {"name":"US412 1.9MB/s","type":"ss","server":"23.157.40.89","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
-  - {"name":"US413 1.9MB/s","type":"ss","server":"23.157.40.103","port":6697,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
-  - {"name":"未知1314 13.4MB/s","type":"ss","server":"51.120.12.115","port":54882,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"ephTQmkeFopQn7l6PFnjs5","skip-cert-verify":true}
-  - {"name":"US414 1.7MB/s","type":"ss","server":"67.220.95.102","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1325 670.0KB/s","type":"ss","server":"203.23.128.33","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
-  - {"name":"US417 2.0MB/s","type":"ss","server":"38.110.1.105","port":9090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US418 1.9MB/s","type":"ss","server":"23.157.40.113","port":8882,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
+  - {"name":"US383 1.9MB/s","type":"ss","server":"38.114.114.69","port":6379,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"zDNVedRFPQexG9v","skip-cert-verify":true}
+  - {"name":"US384 1.9MB/s","type":"ss","server":"38.110.1.122","port":7306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
+  - {"name":"US385 2.0MB/s","type":"ss","server":"38.121.43.27","port":8882,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
+  - {"name":"未知1211 15.1MB/s","type":"ss","server":"45.87.175.181","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"4a2rfixophdjffa8KVA4Aa","skip-cert-verify":true}
+  - {"name":"未知1219 11.9MB/s","type":"ss","server":"156.146.62.162","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
+  - {"name":"US387 1.9MB/s","type":"ss","server":"69.50.95.53","port":3306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US388 1.9MB/s","type":"ss","server":"38.110.1.12","port":6379,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"zDNVedRFPQexG9v","skip-cert-verify":true}
+  - {"name":"US389 1.9MB/s","type":"ss","server":"38.75.136.21","port":8009,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
+  - {"name":"US390 2.0MB/s","type":"ss","server":"38.121.43.27","port":8119,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
+  - {"name":"US391 1.9MB/s","type":"ss","server":"69.50.95.203","port":8091,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
+  - {"name":"US392 1.9MB/s","type":"ss","server":"23.157.40.103","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
+  - {"name":"US393 1.9MB/s","type":"ss","server":"38.75.136.21","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US394 1.9MB/s","type":"ss","server":"216.39.248.133","port":7001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
+  - {"name":"US395 1.7MB/s","type":"ss","server":"23.150.152.16","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
+  - {"name":"US396 1.8MB/s","type":"ss","server":"38.114.114.69","port":6697,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
+  - {"name":"US397 1.9MB/s","type":"ss","server":"38.75.136.21","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US399 1.9MB/s","type":"ss","server":"38.75.136.21","port":9102,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
+  - {"name":"US400 56.3MB/s","type":"ss","server":"64.74.163.130","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
+  - {"name":"未知1255 11.0MB/s","type":"ss","server":"195.181.160.6","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
+  - {"name":"US401 1.9MB/s","type":"ss","server":"38.114.114.69","port":2376,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
+  - {"name":"US402 1.9MB/s","type":"ss","server":"38.75.136.21","port":8090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
+  - {"name":"US403 1.9MB/s","type":"ss","server":"38.114.114.69","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"US404 1.9MB/s","type":"ss","server":"38.75.136.21","port":5001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US405 1.9MB/s","type":"ss","server":"38.75.136.21","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"US409 2.0MB/s","type":"ss","server":"67.220.95.102","port":8881,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
+  - {"name":"US411 1.8MB/s","type":"ss","server":"23.157.40.5","port":8118,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
+  - {"name":"US412 1.9MB/s","type":"ss","server":"38.75.136.21","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
+  - {"name":"未知1284 523.6KB/s","type":"ss","server":"40.172.91.54","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"u17T3BvpYaaiuW2c","skip-cert-verify":true}
+  - {"name":"未知1291 270.5KB/s","type":"ss","server":"95.164.9.144","port":2927,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"ug4Fu79SEREdFGlt2sUyT4","skip-cert-verify":true}
+  - {"name":"未知1292 2.0MB/s","type":"vmess","server":"20.193.131.152","port":23294,"cipher":"auto","uuid":"e6f0541f-af71-4e16-9cd8-5a612934b7a6","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"US413 1.9MB/s","type":"ss","server":"38.114.114.193","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知1293 4.4MB/s","type":"ss","server":"51.178.87.37","port":810,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"G!yBwPWH3Vao","skip-cert-verify":true}
+  - {"name":"US415 1.9MB/s","type":"ss","server":"23.157.40.103","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
+  - {"name":"US416 2.0MB/s","type":"ss","server":"38.91.100.199","port":3389,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US417 1.8MB/s","type":"ss","server":"167.88.61.235","port":9102,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
+  - {"name":"US419 64.9MB/s","type":"ss","server":"205.134.180.147","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"9Bvkw5aupNy8","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国19 23.6MB/s","type":"trojan","server":"us01.ssr.ee","port":443,"alterId":0,"tls":true,"password":"9d0a75d2-f747-4afa-b43f-d208af9e8f9a","sni":"us01.ssr.ee","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1317 263.8KB/s","type":"ss","server":"54.36.174.181","port":8009,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
+  - {"name":"US421 1.9MB/s","type":"ss","server":"38.114.114.69","port":8009,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
+  - {"name":"US422 1.9MB/s","type":"ss","server":"67.220.95.102","port":8009,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
+  - {"name":"未知1327 1.9MB/s","type":"ss","server":"149.202.82.172","port":5500,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
+  - {"name":"US423 1.8MB/s","type":"ss","server":"167.88.61.111","port":8090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -100,87 +83,70 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - US354 68.3MB/s
-      - US355 1.9MB/s
-      - US357 1.9MB/s
-      - US358 1.9MB/s
-      - 未知1071 18.5MB/s
-      - 未知1073 16.1MB/s
-      - 未知1074 1.9MB/s
-      - US359 1.9MB/s
-      - 未知1078 19.1MB/s
-      - US360 1.9MB/s
-      - US362 1.8MB/s
-      - US363 1.7MB/s
-      - US364 1.9MB/s
-      - US365 1.7MB/s
-      - 未知1093 11.7MB/s
-      - US366 1.7MB/s
-      - 🇺🇸US美国10 21.4MB/s
+      - US366 1.9MB/s
+      - TW6 894.2KB/s
       - US367 1.9MB/s
-      - 未知1103 387.1KB/s
-      - US368 1.9MB/s
-      - US370 1.9MB/s
+      - US368 1.8MB/s
+      - US369 58.0KB/s
+      - 未知1160 268.2KB/s
+      - US370 1.8MB/s
+      - 未知1164 31.6KB/s
       - US371 1.9MB/s
-      - US372 98.2MB/s
-      - 未知1128 7.1MB/s
-      - US373 64.0MB/s
-      - 未知1140 1.9MB/s
+      - 未知1165 14.5MB/s
+      - US372 58.8MB/s
+      - 未知1173 9.9MB/s
+      - 未知1176 1.7MB/s
+      - US374 2.0MB/s
+      - US375 1.7MB/s
       - US376 1.9MB/s
-      - US377 1.7MB/s
-      - US378 16.8MB/s
-      - 未知1152 661.5KB/s
-      - US379 1.9MB/s
+      - US377 1.9MB/s
+      - US378 1.9MB/s
+      - US379 1.8MB/s
       - US380 1.9MB/s
       - US381 1.9MB/s
       - US382 1.9MB/s
-      - 🇬🇷GR希腊 134.8KB/s
-      - US383 1.8MB/s
-      - US385 1.9MB/s
-      - US387 1.8MB/s
+      - US383 1.9MB/s
+      - US384 1.9MB/s
+      - US385 2.0MB/s
+      - 未知1211 15.1MB/s
+      - 未知1219 11.9MB/s
+      - US387 1.9MB/s
       - US388 1.9MB/s
-      - 未知1178 1.7MB/s
-      - 未知1183 16.2MB/s
-      - US389 1.8MB/s
-      - 未知1189 1.8MB/s
-      - 未知1193 41.7MB/s
-      - US390 1.8MB/s
-      - 未知1194 7.9MB/s
-      - US392 1.8MB/s
-      - 未知1206 1.9MB/s
-      - 未知1209 15.7MB/s
-      - US393 1.6MB/s
+      - US389 1.9MB/s
+      - US390 2.0MB/s
+      - US391 1.9MB/s
+      - US392 1.9MB/s
+      - US393 1.9MB/s
+      - US394 1.9MB/s
+      - US395 1.7MB/s
+      - US396 1.8MB/s
       - US397 1.9MB/s
-      - US398 2.0MB/s
-      - 未知1226 4.5MB/s
-      - US399 1.8MB/s
-      - US400 1.8MB/s
-      - 未知1232 11.5MB/s
-      - 未知1235 16.1MB/s
-      - 未知1241 1.8MB/s
+      - US399 1.9MB/s
+      - US400 56.3MB/s
+      - 未知1255 11.0MB/s
+      - US401 1.9MB/s
       - US402 1.9MB/s
-      - 未知1247 1.5MB/s
-      - 未知1253 1.8MB/s
       - US403 1.9MB/s
-      - 未知1257 1.8MB/s
+      - US404 1.9MB/s
       - US405 1.9MB/s
-      - US406 1.8MB/s
-      - 未知1267 1.8MB/s
-      - 未知1270 1.8MB/s
-      - 未知1277 4.2MB/s
-      - 未知1285 140.6KB/s
-      - US407 1.9MB/s
-      - US408 62.2MB/s
-      - US409 1.8MB/s
-      - US410 26.3MB/s
-      - US411 1.6MB/s
+      - US409 2.0MB/s
+      - US411 1.8MB/s
       - US412 1.9MB/s
+      - 未知1284 523.6KB/s
+      - 未知1291 270.5KB/s
+      - 未知1292 2.0MB/s
       - US413 1.9MB/s
-      - 未知1314 13.4MB/s
-      - US414 1.7MB/s
-      - 未知1325 670.0KB/s
-      - US417 2.0MB/s
-      - US418 1.9MB/s
+      - 未知1293 4.4MB/s
+      - US415 1.9MB/s
+      - US416 2.0MB/s
+      - US417 1.8MB/s
+      - US419 64.9MB/s
+      - 🇺🇸US美国19 23.6MB/s
+      - 未知1317 263.8KB/s
+      - US421 1.9MB/s
+      - US422 1.9MB/s
+      - 未知1327 1.9MB/s
+      - US423 1.8MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -188,87 +154,70 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - US354 68.3MB/s
-      - US355 1.9MB/s
-      - US357 1.9MB/s
-      - US358 1.9MB/s
-      - 未知1071 18.5MB/s
-      - 未知1073 16.1MB/s
-      - 未知1074 1.9MB/s
-      - US359 1.9MB/s
-      - 未知1078 19.1MB/s
-      - US360 1.9MB/s
-      - US362 1.8MB/s
-      - US363 1.7MB/s
-      - US364 1.9MB/s
-      - US365 1.7MB/s
-      - 未知1093 11.7MB/s
-      - US366 1.7MB/s
-      - 🇺🇸US美国10 21.4MB/s
+      - US366 1.9MB/s
+      - TW6 894.2KB/s
       - US367 1.9MB/s
-      - 未知1103 387.1KB/s
-      - US368 1.9MB/s
-      - US370 1.9MB/s
+      - US368 1.8MB/s
+      - US369 58.0KB/s
+      - 未知1160 268.2KB/s
+      - US370 1.8MB/s
+      - 未知1164 31.6KB/s
       - US371 1.9MB/s
-      - US372 98.2MB/s
-      - 未知1128 7.1MB/s
-      - US373 64.0MB/s
-      - 未知1140 1.9MB/s
+      - 未知1165 14.5MB/s
+      - US372 58.8MB/s
+      - 未知1173 9.9MB/s
+      - 未知1176 1.7MB/s
+      - US374 2.0MB/s
+      - US375 1.7MB/s
       - US376 1.9MB/s
-      - US377 1.7MB/s
-      - US378 16.8MB/s
-      - 未知1152 661.5KB/s
-      - US379 1.9MB/s
+      - US377 1.9MB/s
+      - US378 1.9MB/s
+      - US379 1.8MB/s
       - US380 1.9MB/s
       - US381 1.9MB/s
       - US382 1.9MB/s
-      - 🇬🇷GR希腊 134.8KB/s
-      - US383 1.8MB/s
-      - US385 1.9MB/s
-      - US387 1.8MB/s
+      - US383 1.9MB/s
+      - US384 1.9MB/s
+      - US385 2.0MB/s
+      - 未知1211 15.1MB/s
+      - 未知1219 11.9MB/s
+      - US387 1.9MB/s
       - US388 1.9MB/s
-      - 未知1178 1.7MB/s
-      - 未知1183 16.2MB/s
-      - US389 1.8MB/s
-      - 未知1189 1.8MB/s
-      - 未知1193 41.7MB/s
-      - US390 1.8MB/s
-      - 未知1194 7.9MB/s
-      - US392 1.8MB/s
-      - 未知1206 1.9MB/s
-      - 未知1209 15.7MB/s
-      - US393 1.6MB/s
+      - US389 1.9MB/s
+      - US390 2.0MB/s
+      - US391 1.9MB/s
+      - US392 1.9MB/s
+      - US393 1.9MB/s
+      - US394 1.9MB/s
+      - US395 1.7MB/s
+      - US396 1.8MB/s
       - US397 1.9MB/s
-      - US398 2.0MB/s
-      - 未知1226 4.5MB/s
-      - US399 1.8MB/s
-      - US400 1.8MB/s
-      - 未知1232 11.5MB/s
-      - 未知1235 16.1MB/s
-      - 未知1241 1.8MB/s
+      - US399 1.9MB/s
+      - US400 56.3MB/s
+      - 未知1255 11.0MB/s
+      - US401 1.9MB/s
       - US402 1.9MB/s
-      - 未知1247 1.5MB/s
-      - 未知1253 1.8MB/s
       - US403 1.9MB/s
-      - 未知1257 1.8MB/s
+      - US404 1.9MB/s
       - US405 1.9MB/s
-      - US406 1.8MB/s
-      - 未知1267 1.8MB/s
-      - 未知1270 1.8MB/s
-      - 未知1277 4.2MB/s
-      - 未知1285 140.6KB/s
-      - US407 1.9MB/s
-      - US408 62.2MB/s
-      - US409 1.8MB/s
-      - US410 26.3MB/s
-      - US411 1.6MB/s
+      - US409 2.0MB/s
+      - US411 1.8MB/s
       - US412 1.9MB/s
+      - 未知1284 523.6KB/s
+      - 未知1291 270.5KB/s
+      - 未知1292 2.0MB/s
       - US413 1.9MB/s
-      - 未知1314 13.4MB/s
-      - US414 1.7MB/s
-      - 未知1325 670.0KB/s
-      - US417 2.0MB/s
-      - US418 1.9MB/s
+      - 未知1293 4.4MB/s
+      - US415 1.9MB/s
+      - US416 2.0MB/s
+      - US417 1.8MB/s
+      - US419 64.9MB/s
+      - 🇺🇸US美国19 23.6MB/s
+      - 未知1317 263.8KB/s
+      - US421 1.9MB/s
+      - US422 1.9MB/s
+      - 未知1327 1.9MB/s
+      - US423 1.8MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -276,348 +225,280 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - US354 68.3MB/s
-      - US355 1.9MB/s
-      - US357 1.9MB/s
-      - US358 1.9MB/s
-      - 未知1071 18.5MB/s
-      - 未知1073 16.1MB/s
-      - 未知1074 1.9MB/s
-      - US359 1.9MB/s
-      - 未知1078 19.1MB/s
-      - US360 1.9MB/s
-      - US362 1.8MB/s
-      - US363 1.7MB/s
-      - US364 1.9MB/s
-      - US365 1.7MB/s
-      - 未知1093 11.7MB/s
-      - US366 1.7MB/s
-      - 🇺🇸US美国10 21.4MB/s
+      - US366 1.9MB/s
+      - TW6 894.2KB/s
       - US367 1.9MB/s
-      - 未知1103 387.1KB/s
-      - US368 1.9MB/s
-      - US370 1.9MB/s
+      - US368 1.8MB/s
+      - US369 58.0KB/s
+      - 未知1160 268.2KB/s
+      - US370 1.8MB/s
+      - 未知1164 31.6KB/s
       - US371 1.9MB/s
-      - US372 98.2MB/s
-      - 未知1128 7.1MB/s
-      - US373 64.0MB/s
-      - 未知1140 1.9MB/s
+      - 未知1165 14.5MB/s
+      - US372 58.8MB/s
+      - 未知1173 9.9MB/s
+      - 未知1176 1.7MB/s
+      - US374 2.0MB/s
+      - US375 1.7MB/s
       - US376 1.9MB/s
-      - US377 1.7MB/s
-      - US378 16.8MB/s
-      - 未知1152 661.5KB/s
-      - US379 1.9MB/s
+      - US377 1.9MB/s
+      - US378 1.9MB/s
+      - US379 1.8MB/s
       - US380 1.9MB/s
       - US381 1.9MB/s
       - US382 1.9MB/s
-      - 🇬🇷GR希腊 134.8KB/s
-      - US383 1.8MB/s
-      - US385 1.9MB/s
-      - US387 1.8MB/s
+      - US383 1.9MB/s
+      - US384 1.9MB/s
+      - US385 2.0MB/s
+      - 未知1211 15.1MB/s
+      - 未知1219 11.9MB/s
+      - US387 1.9MB/s
       - US388 1.9MB/s
-      - 未知1178 1.7MB/s
-      - 未知1183 16.2MB/s
-      - US389 1.8MB/s
-      - 未知1189 1.8MB/s
-      - 未知1193 41.7MB/s
-      - US390 1.8MB/s
-      - 未知1194 7.9MB/s
-      - US392 1.8MB/s
-      - 未知1206 1.9MB/s
-      - 未知1209 15.7MB/s
-      - US393 1.6MB/s
+      - US389 1.9MB/s
+      - US390 2.0MB/s
+      - US391 1.9MB/s
+      - US392 1.9MB/s
+      - US393 1.9MB/s
+      - US394 1.9MB/s
+      - US395 1.7MB/s
+      - US396 1.8MB/s
       - US397 1.9MB/s
-      - US398 2.0MB/s
-      - 未知1226 4.5MB/s
-      - US399 1.8MB/s
-      - US400 1.8MB/s
-      - 未知1232 11.5MB/s
-      - 未知1235 16.1MB/s
-      - 未知1241 1.8MB/s
+      - US399 1.9MB/s
+      - US400 56.3MB/s
+      - 未知1255 11.0MB/s
+      - US401 1.9MB/s
       - US402 1.9MB/s
-      - 未知1247 1.5MB/s
-      - 未知1253 1.8MB/s
       - US403 1.9MB/s
-      - 未知1257 1.8MB/s
+      - US404 1.9MB/s
       - US405 1.9MB/s
-      - US406 1.8MB/s
-      - 未知1267 1.8MB/s
-      - 未知1270 1.8MB/s
-      - 未知1277 4.2MB/s
-      - 未知1285 140.6KB/s
-      - US407 1.9MB/s
-      - US408 62.2MB/s
-      - US409 1.8MB/s
-      - US410 26.3MB/s
-      - US411 1.6MB/s
+      - US409 2.0MB/s
+      - US411 1.8MB/s
       - US412 1.9MB/s
+      - 未知1284 523.6KB/s
+      - 未知1291 270.5KB/s
+      - 未知1292 2.0MB/s
       - US413 1.9MB/s
-      - 未知1314 13.4MB/s
-      - US414 1.7MB/s
-      - 未知1325 670.0KB/s
-      - US417 2.0MB/s
-      - US418 1.9MB/s
+      - 未知1293 4.4MB/s
+      - US415 1.9MB/s
+      - US416 2.0MB/s
+      - US417 1.8MB/s
+      - US419 64.9MB/s
+      - 🇺🇸US美国19 23.6MB/s
+      - 未知1317 263.8KB/s
+      - US421 1.9MB/s
+      - US422 1.9MB/s
+      - 未知1327 1.9MB/s
+      - US423 1.8MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US354 68.3MB/s
-      - US355 1.9MB/s
-      - US357 1.9MB/s
-      - US358 1.9MB/s
-      - 未知1071 18.5MB/s
-      - 未知1073 16.1MB/s
-      - 未知1074 1.9MB/s
-      - US359 1.9MB/s
-      - 未知1078 19.1MB/s
-      - US360 1.9MB/s
-      - US362 1.8MB/s
-      - US363 1.7MB/s
-      - US364 1.9MB/s
-      - US365 1.7MB/s
-      - 未知1093 11.7MB/s
-      - US366 1.7MB/s
-      - 🇺🇸US美国10 21.4MB/s
+      - US366 1.9MB/s
+      - TW6 894.2KB/s
       - US367 1.9MB/s
-      - 未知1103 387.1KB/s
-      - US368 1.9MB/s
-      - US370 1.9MB/s
+      - US368 1.8MB/s
+      - US369 58.0KB/s
+      - 未知1160 268.2KB/s
+      - US370 1.8MB/s
+      - 未知1164 31.6KB/s
       - US371 1.9MB/s
-      - US372 98.2MB/s
-      - 未知1128 7.1MB/s
-      - US373 64.0MB/s
-      - 未知1140 1.9MB/s
+      - 未知1165 14.5MB/s
+      - US372 58.8MB/s
+      - 未知1173 9.9MB/s
+      - 未知1176 1.7MB/s
+      - US374 2.0MB/s
+      - US375 1.7MB/s
       - US376 1.9MB/s
-      - US377 1.7MB/s
-      - US378 16.8MB/s
-      - 未知1152 661.5KB/s
-      - US379 1.9MB/s
+      - US377 1.9MB/s
+      - US378 1.9MB/s
+      - US379 1.8MB/s
       - US380 1.9MB/s
       - US381 1.9MB/s
       - US382 1.9MB/s
-      - 🇬🇷GR希腊 134.8KB/s
-      - US383 1.8MB/s
-      - US385 1.9MB/s
-      - US387 1.8MB/s
+      - US383 1.9MB/s
+      - US384 1.9MB/s
+      - US385 2.0MB/s
+      - 未知1211 15.1MB/s
+      - 未知1219 11.9MB/s
+      - US387 1.9MB/s
       - US388 1.9MB/s
-      - 未知1178 1.7MB/s
-      - 未知1183 16.2MB/s
-      - US389 1.8MB/s
-      - 未知1189 1.8MB/s
-      - 未知1193 41.7MB/s
-      - US390 1.8MB/s
-      - 未知1194 7.9MB/s
-      - US392 1.8MB/s
-      - 未知1206 1.9MB/s
-      - 未知1209 15.7MB/s
-      - US393 1.6MB/s
+      - US389 1.9MB/s
+      - US390 2.0MB/s
+      - US391 1.9MB/s
+      - US392 1.9MB/s
+      - US393 1.9MB/s
+      - US394 1.9MB/s
+      - US395 1.7MB/s
+      - US396 1.8MB/s
       - US397 1.9MB/s
-      - US398 2.0MB/s
-      - 未知1226 4.5MB/s
-      - US399 1.8MB/s
-      - US400 1.8MB/s
-      - 未知1232 11.5MB/s
-      - 未知1235 16.1MB/s
-      - 未知1241 1.8MB/s
+      - US399 1.9MB/s
+      - US400 56.3MB/s
+      - 未知1255 11.0MB/s
+      - US401 1.9MB/s
       - US402 1.9MB/s
-      - 未知1247 1.5MB/s
-      - 未知1253 1.8MB/s
       - US403 1.9MB/s
-      - 未知1257 1.8MB/s
+      - US404 1.9MB/s
       - US405 1.9MB/s
-      - US406 1.8MB/s
-      - 未知1267 1.8MB/s
-      - 未知1270 1.8MB/s
-      - 未知1277 4.2MB/s
-      - 未知1285 140.6KB/s
-      - US407 1.9MB/s
-      - US408 62.2MB/s
-      - US409 1.8MB/s
-      - US410 26.3MB/s
-      - US411 1.6MB/s
+      - US409 2.0MB/s
+      - US411 1.8MB/s
       - US412 1.9MB/s
+      - 未知1284 523.6KB/s
+      - 未知1291 270.5KB/s
+      - 未知1292 2.0MB/s
       - US413 1.9MB/s
-      - 未知1314 13.4MB/s
-      - US414 1.7MB/s
-      - 未知1325 670.0KB/s
-      - US417 2.0MB/s
-      - US418 1.9MB/s
+      - 未知1293 4.4MB/s
+      - US415 1.9MB/s
+      - US416 2.0MB/s
+      - US417 1.8MB/s
+      - US419 64.9MB/s
+      - 🇺🇸US美国19 23.6MB/s
+      - 未知1317 263.8KB/s
+      - US421 1.9MB/s
+      - US422 1.9MB/s
+      - 未知1327 1.9MB/s
+      - US423 1.8MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - US354 68.3MB/s
-      - US355 1.9MB/s
-      - US357 1.9MB/s
-      - US358 1.9MB/s
-      - 未知1071 18.5MB/s
-      - 未知1073 16.1MB/s
-      - 未知1074 1.9MB/s
-      - US359 1.9MB/s
-      - 未知1078 19.1MB/s
-      - US360 1.9MB/s
-      - US362 1.8MB/s
-      - US363 1.7MB/s
-      - US364 1.9MB/s
-      - US365 1.7MB/s
-      - 未知1093 11.7MB/s
-      - US366 1.7MB/s
-      - 🇺🇸US美国10 21.4MB/s
+      - US366 1.9MB/s
+      - TW6 894.2KB/s
       - US367 1.9MB/s
-      - 未知1103 387.1KB/s
-      - US368 1.9MB/s
-      - US370 1.9MB/s
+      - US368 1.8MB/s
+      - US369 58.0KB/s
+      - 未知1160 268.2KB/s
+      - US370 1.8MB/s
+      - 未知1164 31.6KB/s
       - US371 1.9MB/s
-      - US372 98.2MB/s
-      - 未知1128 7.1MB/s
-      - US373 64.0MB/s
-      - 未知1140 1.9MB/s
+      - 未知1165 14.5MB/s
+      - US372 58.8MB/s
+      - 未知1173 9.9MB/s
+      - 未知1176 1.7MB/s
+      - US374 2.0MB/s
+      - US375 1.7MB/s
       - US376 1.9MB/s
-      - US377 1.7MB/s
-      - US378 16.8MB/s
-      - 未知1152 661.5KB/s
-      - US379 1.9MB/s
+      - US377 1.9MB/s
+      - US378 1.9MB/s
+      - US379 1.8MB/s
       - US380 1.9MB/s
       - US381 1.9MB/s
       - US382 1.9MB/s
-      - 🇬🇷GR希腊 134.8KB/s
-      - US383 1.8MB/s
-      - US385 1.9MB/s
-      - US387 1.8MB/s
+      - US383 1.9MB/s
+      - US384 1.9MB/s
+      - US385 2.0MB/s
+      - 未知1211 15.1MB/s
+      - 未知1219 11.9MB/s
+      - US387 1.9MB/s
       - US388 1.9MB/s
-      - 未知1178 1.7MB/s
-      - 未知1183 16.2MB/s
-      - US389 1.8MB/s
-      - 未知1189 1.8MB/s
-      - 未知1193 41.7MB/s
-      - US390 1.8MB/s
-      - 未知1194 7.9MB/s
-      - US392 1.8MB/s
-      - 未知1206 1.9MB/s
-      - 未知1209 15.7MB/s
-      - US393 1.6MB/s
+      - US389 1.9MB/s
+      - US390 2.0MB/s
+      - US391 1.9MB/s
+      - US392 1.9MB/s
+      - US393 1.9MB/s
+      - US394 1.9MB/s
+      - US395 1.7MB/s
+      - US396 1.8MB/s
       - US397 1.9MB/s
-      - US398 2.0MB/s
-      - 未知1226 4.5MB/s
-      - US399 1.8MB/s
-      - US400 1.8MB/s
-      - 未知1232 11.5MB/s
-      - 未知1235 16.1MB/s
-      - 未知1241 1.8MB/s
+      - US399 1.9MB/s
+      - US400 56.3MB/s
+      - 未知1255 11.0MB/s
+      - US401 1.9MB/s
       - US402 1.9MB/s
-      - 未知1247 1.5MB/s
-      - 未知1253 1.8MB/s
       - US403 1.9MB/s
-      - 未知1257 1.8MB/s
+      - US404 1.9MB/s
       - US405 1.9MB/s
-      - US406 1.8MB/s
-      - 未知1267 1.8MB/s
-      - 未知1270 1.8MB/s
-      - 未知1277 4.2MB/s
-      - 未知1285 140.6KB/s
-      - US407 1.9MB/s
-      - US408 62.2MB/s
-      - US409 1.8MB/s
-      - US410 26.3MB/s
-      - US411 1.6MB/s
+      - US409 2.0MB/s
+      - US411 1.8MB/s
       - US412 1.9MB/s
+      - 未知1284 523.6KB/s
+      - 未知1291 270.5KB/s
+      - 未知1292 2.0MB/s
       - US413 1.9MB/s
-      - 未知1314 13.4MB/s
-      - US414 1.7MB/s
-      - 未知1325 670.0KB/s
-      - US417 2.0MB/s
-      - US418 1.9MB/s
+      - 未知1293 4.4MB/s
+      - US415 1.9MB/s
+      - US416 2.0MB/s
+      - US417 1.8MB/s
+      - US419 64.9MB/s
+      - 🇺🇸US美国19 23.6MB/s
+      - 未知1317 263.8KB/s
+      - US421 1.9MB/s
+      - US422 1.9MB/s
+      - 未知1327 1.9MB/s
+      - US423 1.8MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US354 68.3MB/s
-      - US355 1.9MB/s
-      - US357 1.9MB/s
-      - US358 1.9MB/s
-      - 未知1071 18.5MB/s
-      - 未知1073 16.1MB/s
-      - 未知1074 1.9MB/s
-      - US359 1.9MB/s
-      - 未知1078 19.1MB/s
-      - US360 1.9MB/s
-      - US362 1.8MB/s
-      - US363 1.7MB/s
-      - US364 1.9MB/s
-      - US365 1.7MB/s
-      - 未知1093 11.7MB/s
-      - US366 1.7MB/s
-      - 🇺🇸US美国10 21.4MB/s
+      - US366 1.9MB/s
+      - TW6 894.2KB/s
       - US367 1.9MB/s
-      - 未知1103 387.1KB/s
-      - US368 1.9MB/s
-      - US370 1.9MB/s
+      - US368 1.8MB/s
+      - US369 58.0KB/s
+      - 未知1160 268.2KB/s
+      - US370 1.8MB/s
+      - 未知1164 31.6KB/s
       - US371 1.9MB/s
-      - US372 98.2MB/s
-      - 未知1128 7.1MB/s
-      - US373 64.0MB/s
-      - 未知1140 1.9MB/s
+      - 未知1165 14.5MB/s
+      - US372 58.8MB/s
+      - 未知1173 9.9MB/s
+      - 未知1176 1.7MB/s
+      - US374 2.0MB/s
+      - US375 1.7MB/s
       - US376 1.9MB/s
-      - US377 1.7MB/s
-      - US378 16.8MB/s
-      - 未知1152 661.5KB/s
-      - US379 1.9MB/s
+      - US377 1.9MB/s
+      - US378 1.9MB/s
+      - US379 1.8MB/s
       - US380 1.9MB/s
       - US381 1.9MB/s
       - US382 1.9MB/s
-      - 🇬🇷GR希腊 134.8KB/s
-      - US383 1.8MB/s
-      - US385 1.9MB/s
-      - US387 1.8MB/s
+      - US383 1.9MB/s
+      - US384 1.9MB/s
+      - US385 2.0MB/s
+      - 未知1211 15.1MB/s
+      - 未知1219 11.9MB/s
+      - US387 1.9MB/s
       - US388 1.9MB/s
-      - 未知1178 1.7MB/s
-      - 未知1183 16.2MB/s
-      - US389 1.8MB/s
-      - 未知1189 1.8MB/s
-      - 未知1193 41.7MB/s
-      - US390 1.8MB/s
-      - 未知1194 7.9MB/s
-      - US392 1.8MB/s
-      - 未知1206 1.9MB/s
-      - 未知1209 15.7MB/s
-      - US393 1.6MB/s
+      - US389 1.9MB/s
+      - US390 2.0MB/s
+      - US391 1.9MB/s
+      - US392 1.9MB/s
+      - US393 1.9MB/s
+      - US394 1.9MB/s
+      - US395 1.7MB/s
+      - US396 1.8MB/s
       - US397 1.9MB/s
-      - US398 2.0MB/s
-      - 未知1226 4.5MB/s
-      - US399 1.8MB/s
-      - US400 1.8MB/s
-      - 未知1232 11.5MB/s
-      - 未知1235 16.1MB/s
-      - 未知1241 1.8MB/s
+      - US399 1.9MB/s
+      - US400 56.3MB/s
+      - 未知1255 11.0MB/s
+      - US401 1.9MB/s
       - US402 1.9MB/s
-      - 未知1247 1.5MB/s
-      - 未知1253 1.8MB/s
       - US403 1.9MB/s
-      - 未知1257 1.8MB/s
+      - US404 1.9MB/s
       - US405 1.9MB/s
-      - US406 1.8MB/s
-      - 未知1267 1.8MB/s
-      - 未知1270 1.8MB/s
-      - 未知1277 4.2MB/s
-      - 未知1285 140.6KB/s
-      - US407 1.9MB/s
-      - US408 62.2MB/s
-      - US409 1.8MB/s
-      - US410 26.3MB/s
-      - US411 1.6MB/s
+      - US409 2.0MB/s
+      - US411 1.8MB/s
       - US412 1.9MB/s
+      - 未知1284 523.6KB/s
+      - 未知1291 270.5KB/s
+      - 未知1292 2.0MB/s
       - US413 1.9MB/s
-      - 未知1314 13.4MB/s
-      - US414 1.7MB/s
-      - 未知1325 670.0KB/s
-      - US417 2.0MB/s
-      - US418 1.9MB/s
+      - 未知1293 4.4MB/s
+      - US415 1.9MB/s
+      - US416 2.0MB/s
+      - US417 1.8MB/s
+      - US419 64.9MB/s
+      - 🇺🇸US美国19 23.6MB/s
+      - 未知1317 263.8KB/s
+      - US421 1.9MB/s
+      - US422 1.9MB/s
+      - 未知1327 1.9MB/s
+      - US423 1.8MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -641,87 +522,70 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - US354 68.3MB/s
-      - US355 1.9MB/s
-      - US357 1.9MB/s
-      - US358 1.9MB/s
-      - 未知1071 18.5MB/s
-      - 未知1073 16.1MB/s
-      - 未知1074 1.9MB/s
-      - US359 1.9MB/s
-      - 未知1078 19.1MB/s
-      - US360 1.9MB/s
-      - US362 1.8MB/s
-      - US363 1.7MB/s
-      - US364 1.9MB/s
-      - US365 1.7MB/s
-      - 未知1093 11.7MB/s
-      - US366 1.7MB/s
-      - 🇺🇸US美国10 21.4MB/s
+      - US366 1.9MB/s
+      - TW6 894.2KB/s
       - US367 1.9MB/s
-      - 未知1103 387.1KB/s
-      - US368 1.9MB/s
-      - US370 1.9MB/s
+      - US368 1.8MB/s
+      - US369 58.0KB/s
+      - 未知1160 268.2KB/s
+      - US370 1.8MB/s
+      - 未知1164 31.6KB/s
       - US371 1.9MB/s
-      - US372 98.2MB/s
-      - 未知1128 7.1MB/s
-      - US373 64.0MB/s
-      - 未知1140 1.9MB/s
+      - 未知1165 14.5MB/s
+      - US372 58.8MB/s
+      - 未知1173 9.9MB/s
+      - 未知1176 1.7MB/s
+      - US374 2.0MB/s
+      - US375 1.7MB/s
       - US376 1.9MB/s
-      - US377 1.7MB/s
-      - US378 16.8MB/s
-      - 未知1152 661.5KB/s
-      - US379 1.9MB/s
+      - US377 1.9MB/s
+      - US378 1.9MB/s
+      - US379 1.8MB/s
       - US380 1.9MB/s
       - US381 1.9MB/s
       - US382 1.9MB/s
-      - 🇬🇷GR希腊 134.8KB/s
-      - US383 1.8MB/s
-      - US385 1.9MB/s
-      - US387 1.8MB/s
+      - US383 1.9MB/s
+      - US384 1.9MB/s
+      - US385 2.0MB/s
+      - 未知1211 15.1MB/s
+      - 未知1219 11.9MB/s
+      - US387 1.9MB/s
       - US388 1.9MB/s
-      - 未知1178 1.7MB/s
-      - 未知1183 16.2MB/s
-      - US389 1.8MB/s
-      - 未知1189 1.8MB/s
-      - 未知1193 41.7MB/s
-      - US390 1.8MB/s
-      - 未知1194 7.9MB/s
-      - US392 1.8MB/s
-      - 未知1206 1.9MB/s
-      - 未知1209 15.7MB/s
-      - US393 1.6MB/s
+      - US389 1.9MB/s
+      - US390 2.0MB/s
+      - US391 1.9MB/s
+      - US392 1.9MB/s
+      - US393 1.9MB/s
+      - US394 1.9MB/s
+      - US395 1.7MB/s
+      - US396 1.8MB/s
       - US397 1.9MB/s
-      - US398 2.0MB/s
-      - 未知1226 4.5MB/s
-      - US399 1.8MB/s
-      - US400 1.8MB/s
-      - 未知1232 11.5MB/s
-      - 未知1235 16.1MB/s
-      - 未知1241 1.8MB/s
+      - US399 1.9MB/s
+      - US400 56.3MB/s
+      - 未知1255 11.0MB/s
+      - US401 1.9MB/s
       - US402 1.9MB/s
-      - 未知1247 1.5MB/s
-      - 未知1253 1.8MB/s
       - US403 1.9MB/s
-      - 未知1257 1.8MB/s
+      - US404 1.9MB/s
       - US405 1.9MB/s
-      - US406 1.8MB/s
-      - 未知1267 1.8MB/s
-      - 未知1270 1.8MB/s
-      - 未知1277 4.2MB/s
-      - 未知1285 140.6KB/s
-      - US407 1.9MB/s
-      - US408 62.2MB/s
-      - US409 1.8MB/s
-      - US410 26.3MB/s
-      - US411 1.6MB/s
+      - US409 2.0MB/s
+      - US411 1.8MB/s
       - US412 1.9MB/s
+      - 未知1284 523.6KB/s
+      - 未知1291 270.5KB/s
+      - 未知1292 2.0MB/s
       - US413 1.9MB/s
-      - 未知1314 13.4MB/s
-      - US414 1.7MB/s
-      - 未知1325 670.0KB/s
-      - US417 2.0MB/s
-      - US418 1.9MB/s
+      - 未知1293 4.4MB/s
+      - US415 1.9MB/s
+      - US416 2.0MB/s
+      - US417 1.8MB/s
+      - US419 64.9MB/s
+      - 🇺🇸US美国19 23.6MB/s
+      - 未知1317 263.8KB/s
+      - US421 1.9MB/s
+      - US422 1.9MB/s
+      - 未知1327 1.9MB/s
+      - US423 1.8MB/s
 
 
 rules:
