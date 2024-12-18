@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@104.18.58.44:443?#%E6%9C%AA%E7%9F%A52
-trojan://telegram-id-privatevpns@54.154.104.50:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.53:8881#US%201.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.132.145.108:443#%E6%9C%AA%E7%9F%A54%2017.0MB%2Fs
-trojan://WOeXShhJpL@104.17.49.240:443?security=tls&type=ws&sni=09jzus.zdzdzd.xyz&path=/juzigongyi&host=09jzus.zdzdzd.xyz#%E6%9C%AA%E7%9F%A55
+trojan://blue2024@172.64.35.155:443?security=tls&type=ws&sni=tb.promote.icu&path=/?ed=2560&host=tb.promote.icu#%E6%9C%AA%E7%9F%A52
+trojan://NISHIKUITAN111@185.148.106.44:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#US
+trojan://blue2024@104.129.164.245:443?sni=ta.promote.icu#US2
+trojan://NISHIKUITAN111@104.20.152.246:443?#%E6%9C%AA%E7%9F%A53
+trojan://blue2024@104.27.125.51:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
