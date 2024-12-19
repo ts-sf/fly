@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@156.229.48.127:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A52
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6ImRlMWUtcTZGemc0MTNDOS52MmZyZWV2cG4uY29tIiwicG9ydCI6IjgwIiwiaWQiOiIyYThhMTBmYi05Y2EzLTM2N2UtYTIzNC1jZjA5Zjg0MWJlNGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL3YxODkzMjkzUHkiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
-trojan://NISHIKUITAN111@104.20.152.246:443?#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#%E6%9C%AA%E7%9F%A55%201.8MB%2Fs
-trojan://NISHIKUITAN111@104.17.126.7:443?#%E6%9C%AA%E7%9F%A56
+trojan://blue2024@108.162.195.192:443?security=tls&type=ws&sni=tb.promote.icu&path=/&host=tb.promote.icu#%E6%9C%AA%E7%9F%A52
+trojan://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeWz.NeT#US
+trojan://NISHIKUITAN111@188.114.96.86:443?#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN111@162.159.20.17:443?#%E6%9C%AA%E7%9F%A54
+trojan://blue2024@104.16.179.237:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
