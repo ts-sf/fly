@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://telegram-id-privatevpns@3.75.40.101:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%203.1MB%2Fs
-trojan://Julius@104.219.41.229:443?security=tls&type=tcp&sni=miami.juliusnet.com#US
-trojan://blue2024@104.16.179.237:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A52
-trojan://blue2024@162.159.128.183:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN111@104.19.95.55:443?#%E6%9C%AA%E7%9F%A54
+trojan://telegram-id-directvpn@52.28.19.156:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52%2079.4KB%2Fs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.105:8000#US%201.9MB%2Fs
+trojan://NISHIKUITAN111@5.182.85.93:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#US2%202.4MB%2Fs
+trojan://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@139.162.121.178:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
