@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5001#US%201.7MB%2Fs
-trojan://world@5.181.23.116:7777?security=none&type=ws&path=/&host=vkvd127.mycdn.me#%E6%9C%AA%E7%9F%A52
-trojan://blue2024@104.16.81.105:443?security=tls&type=tcp&sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A53
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:45590?security=tls&type=tcp&sni=hk12.bilibili.com#HK
-trojan://bpb-trojan@141.11.203.98:443?sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#%E6%9C%AA%E7%9F%A5%201.8MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#%E6%9C%AA%E7%9F%A52%2053.2KB%2Fs
+trojan://blue2024@162.159.44.205:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.71:5004#US2%201.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.10.44:443#%E6%9C%AA%E7%9F%A54%20356.6KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
