@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@198.41.197.79:443?#%E6%9C%AA%E7%9F%A52
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&type=ws&sni=ArGodev11222.PaGes.Dev&host=argodev11222.pages.dev#%E6%9C%AA%E7%9F%A53
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjE2Mi4yNTEuNjIuMTE1IiwicG9ydCI6IjIyMzI0IiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0In0=
-trojan://blue2024@104.16.20.118:443?sni=tb.promote.icu#%E6%9C%AA%E7%9F%A55
-trojan://blue2024@172.66.44.129:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A56
+trojan://blue2024@162.159.44.187:443?security=tls&type=ws&sni=tc.promote.icu&path=/?ed&host=tc.promote.icu#%E6%9C%AA%E7%9F%A52
+vmess://eyJ2IjoiMiIsInBzIjoiVVMiLCJhZGQiOiIzOC42My4yNTEuMjQ0IiwicG9ydCI6IjQ3Nzc3IiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3d3LjE1MjcxMTYzLnh5eiIsInBhdGgiOiIvcGF0aC8yNDA4MTEwNjI4MTMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuMTUyNzExNjMueHl6IiwidGVzdF9uYW1lIjoiVVMifQ==
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%E6%9C%AA%E7%9F%A53%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#US2%201.7MB%2Fs
+trojan://f0eb8c92ce8946aaba856569cff1a16b@134.195.196.138:443?security=tls&headerType=none&type=tcp&sni=avianrecruit.com#%E6%9C%AA%E7%9F%A54%2039.0MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
