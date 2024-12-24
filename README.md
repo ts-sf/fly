@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.17.23.86:443?security=tls&type=ws&sni=td.promote.icu&host=td.promote.icu#%E6%9C%AA%E7%9F%A5
-trojan://blue2024@104.17.19.93:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN111@104.26.10.219:443?#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN111@104.25.118.140:443?#%E6%9C%AA%E7%9F%A54
-trojan://NISHIKUITAN111@156.229.48.127:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.51:8090#US%201.9MB%2Fs
+trojan://blue2024@104.17.57.75:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@104.25.80.32:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A53
+trojan://blue2024@104.21.16.1:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A54
+trojan://blue2024@172.67.75.248:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
