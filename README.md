@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US2%2072.3MB%2Fs
-trojan://bpb-trojan@104.17.211.250:443?security=tls&type=ws&sni=bpb.my79801.com&path=/tr?ed=2560&host=bpb.my79801.com#%E6%9C%AA%E7%9F%A5
-trojan://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443?security=tls&type=ws&sni=pardazeshvpn-tg104.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=pardazeshvpn-tg104.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN111@162.159.21.24:443?#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.49:8119#US3%2027.1MB%2Fs
+trojan://NISHIKUITAN111@185.148.105.154:443?#US
+trojan://NISHIKUITAN111@104.19.179.218:443?#%E6%9C%AA%E7%9F%A52
+trojan://telegram-id-privatevpns@18.169.39.92:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
+trojan://blue2024@160.153.0.167:443?security=tls&type=tcp&sni=b.promote.icu#US2
+trojan://UipJV58NIw@104.16.11.112:443?security=tls&type=ws&sni=t2.rtx.al&path=/cfisthebest&host=t2.rtx.al#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
