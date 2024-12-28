@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@104.24.40.237:443?#%E6%9C%AA%E7%9F%A52
-trojan://blue2024@104.16.36.151:443?security=tls&type=tcp&sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A53
-trojan://03793bc4-e0e9-4527-b0ff-8fe1ce7aaf3d@172.67.171.49:443?security=tls&type=ws&sni=us1.trojanvpn.xyz&path=/&host=us1.trojanvpn.xyz#%E6%9C%AA%E7%9F%A54
-trojan://tg-fq521free@198.62.62.67:443?security=tls&type=ws&sni=torjan.xn--xhq44j.eu.org&path=/&host=torjan.xn--xhq44j.eu.org#US
-trojan://NISHIKUITAN111@104.24.245.199:443?#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%E6%9C%AA%E7%9F%A52%20228.2KB%2Fs
+ss://YWVzLTI1Ni1nY206YjEyMzYwZjQtMzNiYS00YzliLWFlMGMtM2RhNWY4YzZlZDA1@45.142.246.232:19994#%E6%9C%AA%E7%9F%A53
+trojan://aee423ce-e4b0-4555-b5b7-486dd0284fd2@185.146.173.34:443?security=tls&type=ws&sni=nl1.trojanvpn.xyz&path=/&host=nl1.trojanvpn.xyz#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2aUhVVjM2RU9YaHVvYmFYM01oNjZE@147.45.114.160:60879#%E6%9C%AA%E7%9F%A55
+trojan://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&type=tcp&sni=www.sega.com#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
