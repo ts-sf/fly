@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#US2%201.9MB%2Fs
-trojan://auto@104.20.22.182:443?security=tls&type=tcp&sni=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5600#US3%201.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.157.154:990#%E6%9C%AA%E7%9F%A52%2050.5KB%2Fs
-trojan://542f66d8-6b06-4340-a829-76d23db7ca80@185.146.173.42:443?security=tls&type=ws&sni=fr1.trojanvpn.xyz&path=/&host=fr1.trojanvpn.xyz#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN111@185.148.104.251:443?#US
+trojan://NISHIKUITAN111@104.25.31.240:443?#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.217.232:990#%E6%9C%AA%E7%9F%A53%206.1MB%2Fs
+trojan://auto@104.20.17.176:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A54
+trojan://blue2024@104.129.164.245:443?sni=ta.promote.icu#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
