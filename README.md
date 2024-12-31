@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://bpb-trojan@162.159.153.172:443?security=tls&type=tcp&sni=cf.090227.xyz#%E6%9C%AA%E7%9F%A52
-trojan://blue2024@94.242.229.41:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A53
-trojan://blue2024@188.114.97.99:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A54
-trojan://blue2024@104.16.178.249:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed&host=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A55
-trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.130.133:443?security=tls&type=ws&sni=zmaoz.faculty.ucdavis.edu.&path=/olem/ws?@V2ray_Alpha-d=4096&host=fonmelo.com#US
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.49:8119#US%2023.2MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5601#US2%201.8MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%E6%9C%AA%E7%9F%A5%2019.4MB%2Fs
+trojan://NISHIKUITAN111@108.162.192.102:443?#%E6%9C%AA%E7%9F%A52
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&type=ws&sni=ArGodev11222.PaGes.Dev&host=argodev11222.pages.dev#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
