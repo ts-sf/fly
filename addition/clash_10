@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-01-03 01:51:03
+# 创建时间: 2025-01-03 11:17:01
 # 使用模版: V2RaySE 默认模版
-# 节点数量：28
+# 节点数量：83
 ####################################
 #
 mixed-port: 7890
@@ -12,34 +12,89 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"US464 1.4MB/s","type":"ss","server":"23.157.40.47","port":5500,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"HK23","type":"ss","server":"213.130.141.113","port":27804,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"00f6f0c8-94f2-4963-95f2-2b0c38dd1ade","skip-cert-verify":true}
-  - {"name":"未知1425","type":"trojan","server":"92.53.188.162","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1426","type":"trojan","server":"198.41.205.240","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
-  - {"name":"🇰🇷KR韩国 253.4KB/s","type":"trojan","server":"super-goblin.treefrog761.one","port":443,"alterId":0,"tls":true,"password":"3723507166611775488","sni":"super-goblin.treefrog761.one","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1427 1.5MB/s","type":"trojan","server":"connectwithemployers.online","port":443,"alterId":0,"tls":true,"password":"0ab6c98dae3b48e8b9c4a776b6c9c19a","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1428","type":"trojan","server":"104.18.88.163","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ha.lii2010.us.kg","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1429","type":"ss","server":"81.19.140.31","port":65305,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"nlVqIVyKwWoDsD7dVYT9Y0","skip-cert-verify":true}
-  - {"name":"未知1430","type":"ss","server":"77.221.157.56","port":51279,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"fqyU1U2di2QWgFGrOe8aD4","skip-cert-verify":true}
-  - {"name":"HK24","type":"vmess","server":"218.253.32.146","port":58417,"cipher":"auto","uuid":"996ee9ca-f721-33f6-8a26-ed27df4975f0","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知1431","type":"trojan","server":"104.18.32.47","port":2087,"alterId":0,"tls":true,"password":"15f34214-d8de-41e9-ba72-93daeafc59ef","sni":"subhiddify.mmdv2.host","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇭🇺HU匈牙利3 1.9MB/s","type":"trojan","server":"proper-titmouse.boa152.lol","port":443,"alterId":0,"tls":true,"password":"3723507166611775488","sni":"proper-titmouse.boa152.lol","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1432 1.7MB/s","type":"ss","server":"145.239.6.202","port":3389,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1433","type":"trojan","server":"104.19.223.79","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1434","type":"ss","server":"admin.c3.havij.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"P7PqQpnyhsnzKNrm","skip-cert-verify":true}
-  - {"name":"US465 1.7MB/s","type":"ss","server":"23.150.152.56","port":8882,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
-  - {"name":"未知1435","type":"trojan","server":"162.159.135.218","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1436","type":"trojan","server":"172.66.47.33","port":443,"alterId":0,"tls":true,"password":"bba5ce00-09e4-4fce-8d26-35db5b4e38d4","sni":"cfpage-39t.pages.dev","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1437","type":"trojan","server":"104.16.5.34","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"hb.lii2010.us.kg","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US466 1.6MB/s","type":"ss","server":"23.157.40.5","port":5500,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"未知1438","type":"trojan","server":"13.49.169.247","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1439","type":"trojan","server":"162.159.21.210","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1440","type":"trojan","server":"120.233.26.140","port":12345,"alterId":0,"tls":true,"password":"2add6241-8fe8-3922-8347-da25e8ced601","sni":"bestbgp.doubledou.icu","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1441","type":"trojan","server":"104.16.139.171","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"td.promote.icu","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1442","type":"trojan","server":"172.67.184.7","port":443,"alterId":0,"tls":true,"password":"782efefc-aac2-a7f2-6e2b-e42f7bc5d75a","sni":"wwwd7e1909f3a7e4477.jostar-data.nl","skip-cert-verify":true,"network":"httpupgrade","udp":true}
-  - {"name":"US467 1.7MB/s","type":"ss","server":"23.157.40.113","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US468 1.9MB/s","type":"ss","server":"69.50.95.218","port":9090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1443","type":"trojan","server":"141.101.113.119","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"fcspring.ggff.net","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US475 1.9MB/s","type":"ss","server":"23.150.152.56","port":8882,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
+  - {"name":"US476 1.7MB/s","type":"ss","server":"142.202.49.75","port":8000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
+  - {"name":"未知1422","type":"trojan","server":"104.19.46.17","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"🇬🇧GB英国2","type":"ss","server":"51.13.35.115","port":20760,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"SK8DG4IJFnDwuhy35hOWUj","skip-cert-verify":true}
+  - {"name":"未知1423","type":"trojan","server":"104.17.90.26","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ha.lii2010.us.kg","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1424","type":"trojan","server":"156.229.48.127","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","sni":"za.ylks.xyz","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1425","type":"trojan","server":"162.159.153.19","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"cf.090227.xyz","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US477 37.7MB/s","type":"vmess","server":"38.99.82.128","port":22324,"cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知1426","type":"trojan","server":"120.241.224.26","port":46002,"alterId":0,"tls":true,"password":"4ea1d07c-41c2-42b5-954d-414fee051856","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1427","type":"trojan","server":"104.22.50.122","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"US478 1.9MB/s","type":"ss","server":"23.157.40.47","port":8882,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
+  - {"name":"未知1428 1.6MB/s","type":"ss","server":"38.111.114.114","port":8118,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
+  - {"name":"US479 1.9MB/s","type":"ss","server":"167.88.61.159","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
+  - {"name":"US480","type":"vmess","server":"38.11.69.42","port":30003,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1733218657472","headers":{"host":"www.52140341.xyz"}}}
+  - {"name":"US481 2.0MB/s","type":"ss","server":"69.50.95.179","port":5498,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"lGqs95QkFHo2NV","skip-cert-verify":true}
+  - {"name":"未知1429","type":"trojan","server":"104.18.102.177","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"td.promote.icu","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1430","type":"trojan","server":"104.16.112.144","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1431","type":"trojan","server":"162.159.152.59","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"cf.090227.xyz","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US482 2.0MB/s","type":"ss","server":"23.150.152.56","port":8008,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
+  - {"name":"未知1432","type":"trojan","server":"108.162.195.155","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"tb.promote.icu","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1433","type":"trojan","server":"172.67.243.254","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"bpb.my79801.com","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1434","type":"trojan","server":"5.8.35.208","port":443,"alterId":0,"tls":true,"password":"3648425794742788096","sni":"loving-boa.treefrog761.one","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1435","type":"trojan","server":"104.24.10.122","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1436","type":"trojan","server":"104.24.164.50","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"🇷🇺RU俄罗斯20 8.6MB/s","type":"trojan","server":"fitting-ox.boa152.lol","port":443,"alterId":0,"tls":true,"password":"3723507166611775488","sni":"fitting-ox.boa152.lol","skip-cert-verify":true,"udp":true}
+  - {"name":"US483 1.9MB/s","type":"ss","server":"23.157.40.5","port":6379,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"zDNVedRFPQexG9v","skip-cert-verify":true}
+  - {"name":"未知1437","type":"trojan","server":"172.67.218.47","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"udp":true}
+  - {"name":"US484 1.9MB/s","type":"ss","server":"38.114.114.69","port":8000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
+  - {"name":"未知1438","type":"trojan","server":"104.24.184.159","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1439","type":"trojan","server":"104.26.13.31","port":443,"alterId":0,"tls":true,"password":"auto","sni":"trojanfree-76s.pages.dev","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1440","type":"trojan","server":"104.17.52.133","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"US485","type":"trojan","server":"66.235.200.173","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"udp":true}
+  - {"name":"US486 2.0MB/s","type":"ss","server":"139.64.164.15","port":7306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
+  - {"name":"未知1441","type":"trojan","server":"188.244.122.205","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1442 1.8MB/s","type":"ss","server":"149.202.82.172","port":7306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
+  - {"name":"未知1443","type":"trojan","server":"172.67.216.159","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1444 1.8MB/s","type":"ss","server":"217.182.198.219","port":8882,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
+  - {"name":"US487","type":"trojan","server":"151.101.2.228","port":443,"alterId":0,"tls":true,"password":"f8bb4ae1-2358-4a76-ab75-2a6bc94272d6","sni":"pscresearch.faculty.ucdavis.edu","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1445","type":"trojan","server":"104.25.155.56","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1446 1.8MB/s","type":"ss","server":"54.37.18.75","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知1447","type":"ss","server":"157.245.204.218","port":50570,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"5t3nxKYKzAuahYoSrfusUG","skip-cert-verify":true}
+  - {"name":"🇷🇺RU俄罗斯21 4.7MB/s","type":"trojan","server":"193.169.239.65","port":443,"alterId":0,"tls":true,"password":"3723507166611775488","sni":"star-monarch.boa152.lol","skip-cert-verify":true,"udp":true}
+  - {"name":"US488 1.9MB/s","type":"ss","server":"23.157.40.101","port":8009,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"XKFKl2rULjIp74","skip-cert-verify":true}
+  - {"name":"未知1448","type":"trojan","server":"104.17.128.1","port":2096,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"HK20","type":"ss","server":"213.130.141.113","port":27804,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"00f6f0c8-94f2-4963-95f2-2b0c38dd1ade","skip-cert-verify":true}
+  - {"name":"未知1449","type":"trojan","server":"108.162.195.202","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"hb.lii2010.us.kg","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US489 2.0MB/s","type":"ss","server":"38.143.66.244","port":7307,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
+  - {"name":"未知1450","type":"trojan","server":"45.80.108.245","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","sni":"za.ylks.xyz","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1451","type":"trojan","server":"188.114.96.208","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"hb.lii2010.us.kg","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1452","type":"trojan","server":"89.116.46.33","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","sni":"zb.ylks.xyz","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1453","type":"trojan","server":"104.18.173.141","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1454","type":"trojan","server":"123.125.94.170","port":1576,"alterId":0,"tls":true,"password":"d4f89111885.wns.windows.com","sni":"egsource1.mzsourcenode.info","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1455","type":"trojan","server":"104.26.15.133","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"td.promote.icu","skip-cert-verify":true,"udp":true}
+  - {"name":"US490","type":"trojan","server":"167.234.218.40","port":443,"alterId":0,"tls":true,"password":"9d0a75d2-f747-4afa-b43f-d208af9e8f9a","sni":"us01.ssr.ee","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1456","type":"trojan","server":"45.80.110.224","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"bpb.my79801.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1457","type":"trojan","server":"173.245.49.251","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"hb.lii2010.us.kg","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US491 1.9MB/s","type":"ss","server":"23.157.40.113","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
+  - {"name":"🇭🇰HK香港6","type":"ss","server":"console.02.aliyun.aq.kunlunaqs.com","port":45578,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"7243745919d6de49a5db","skip-cert-verify":true}
+  - {"name":"未知1458","type":"trojan","server":"104.18.255.98","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1459","type":"trojan","server":"188.114.98.89","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"bpB-woRker-PanEL-AY6.pagEs.dev","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1460 1.7MB/s","type":"trojan","server":"195.133.93.234","port":443,"alterId":0,"tls":true,"password":"3723507166611775488","sni":"wise-cowbird.boa152.lol","skip-cert-verify":true,"udp":true}
+  - {"name":"US492 1.9MB/s","type":"ss","server":"38.110.1.197","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知1461","type":"trojan","server":"162.159.14.2","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"hb.lii2010.us.kg","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1462","type":"ss","server":"46.32.186.234","port":1080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"171pEaFf5HJtdAAI3L7r6A","skip-cert-verify":true}
+  - {"name":"未知1463","type":"trojan","server":"104.26.10.219","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1464","type":"trojan","server":"104.16.68.95","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN222","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1465","type":"trojan","server":"173.245.49.94","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"hb.lii2010.us.kg","skip-cert-verify":true,"udp":true}
+  - {"name":"US493 27.5MB/s","type":"ss","server":"38.75.136.49","port":8882,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
+  - {"name":"未知1466","type":"trojan","server":"172.64.156.166","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US494 1.7MB/s","type":"ss","server":"216.39.248.133","port":7001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
+  - {"name":"US495 1.9MB/s","type":"ss","server":"23.157.40.119","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知1467","type":"trojan","server":"104.26.12.193","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1468","type":"trojan","server":"104.17.148.22","port":2087,"alterId":0,"tls":true,"password":"auto","sni":"abbas.ab841vpn.workers.dev","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1469 12.0MB/s","type":"trojan","server":"195.133.93.76","port":443,"alterId":0,"tls":true,"password":"3723507166611775488","sni":"national-gar.boa152.lol","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1470","type":"trojan","server":"172.64.156.42","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1471","type":"trojan","server":"185.236.233.111","port":2053,"alterId":0,"tls":true,"password":"ba74833c-8c0f-4dcd-8cbc-13e3c32d3765","sni":"ftp.debian.org","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1472","type":"trojan","server":"104.25.31.240","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1473","type":"trojan","server":"162.159.152.227","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"cf.090227.xyz","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US496","type":"ss","server":"38.150.12.187","port":56018,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"ZpeGa4","skip-cert-verify":true}
+  - {"name":"未知1474","type":"trojan","server":"104.18.107.117","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"bpb.my79801.com","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1475","type":"trojan","server":"104.27.92.191","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"HK21","type":"ss","server":"213.130.141.113","port":58226,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"ba8d6492-f3f5-4376-aa88-1c3bda57a6d9","skip-cert-verify":true}
+  - {"name":"未知1476","type":"vmess","server":"172.67.133.78","port":8443,"cipher":"auto","uuid":"e88b85c6-93b4-47f6-b3fb-2c55dcb1289f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dyajvws","headers":{"host":"lax2.ibgfw.top"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -47,34 +102,89 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - US464 1.4MB/s
-      - HK23
+      - US475 1.9MB/s
+      - US476 1.7MB/s
+      - 未知1422
+      - 🇬🇧GB英国2
+      - 未知1423
+      - 未知1424
       - 未知1425
+      - US477 37.7MB/s
       - 未知1426
-      - 🇰🇷KR韩国 253.4KB/s
-      - 未知1427 1.5MB/s
-      - 未知1428
+      - 未知1427
+      - US478 1.9MB/s
+      - 未知1428 1.6MB/s
+      - US479 1.9MB/s
+      - US480
+      - US481 2.0MB/s
       - 未知1429
       - 未知1430
-      - HK24
       - 未知1431
-      - 🇭🇺HU匈牙利3 1.9MB/s
-      - 未知1432 1.7MB/s
+      - US482 2.0MB/s
+      - 未知1432
       - 未知1433
       - 未知1434
-      - US465 1.7MB/s
       - 未知1435
       - 未知1436
+      - 🇷🇺RU俄罗斯20 8.6MB/s
+      - US483 1.9MB/s
       - 未知1437
-      - US466 1.6MB/s
+      - US484 1.9MB/s
       - 未知1438
       - 未知1439
       - 未知1440
+      - US485
+      - US486 2.0MB/s
       - 未知1441
-      - 未知1442
-      - US467 1.7MB/s
-      - US468 1.9MB/s
+      - 未知1442 1.8MB/s
       - 未知1443
+      - 未知1444 1.8MB/s
+      - US487
+      - 未知1445
+      - 未知1446 1.8MB/s
+      - 未知1447
+      - 🇷🇺RU俄罗斯21 4.7MB/s
+      - US488 1.9MB/s
+      - 未知1448
+      - HK20
+      - 未知1449
+      - US489 2.0MB/s
+      - 未知1450
+      - 未知1451
+      - 未知1452
+      - 未知1453
+      - 未知1454
+      - 未知1455
+      - US490
+      - 未知1456
+      - 未知1457
+      - US491 1.9MB/s
+      - 🇭🇰HK香港6
+      - 未知1458
+      - 未知1459
+      - 未知1460 1.7MB/s
+      - US492 1.9MB/s
+      - 未知1461
+      - 未知1462
+      - 未知1463
+      - 未知1464
+      - 未知1465
+      - US493 27.5MB/s
+      - 未知1466
+      - US494 1.7MB/s
+      - US495 1.9MB/s
+      - 未知1467
+      - 未知1468
+      - 未知1469 12.0MB/s
+      - 未知1470
+      - 未知1471
+      - 未知1472
+      - 未知1473
+      - US496
+      - 未知1474
+      - 未知1475
+      - HK21
+      - 未知1476
 
   - name: ♻️ 自动选择
     type: url-test
@@ -82,34 +192,89 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - US464 1.4MB/s
-      - HK23
+      - US475 1.9MB/s
+      - US476 1.7MB/s
+      - 未知1422
+      - 🇬🇧GB英国2
+      - 未知1423
+      - 未知1424
       - 未知1425
+      - US477 37.7MB/s
       - 未知1426
-      - 🇰🇷KR韩国 253.4KB/s
-      - 未知1427 1.5MB/s
-      - 未知1428
+      - 未知1427
+      - US478 1.9MB/s
+      - 未知1428 1.6MB/s
+      - US479 1.9MB/s
+      - US480
+      - US481 2.0MB/s
       - 未知1429
       - 未知1430
-      - HK24
       - 未知1431
-      - 🇭🇺HU匈牙利3 1.9MB/s
-      - 未知1432 1.7MB/s
+      - US482 2.0MB/s
+      - 未知1432
       - 未知1433
       - 未知1434
-      - US465 1.7MB/s
       - 未知1435
       - 未知1436
+      - 🇷🇺RU俄罗斯20 8.6MB/s
+      - US483 1.9MB/s
       - 未知1437
-      - US466 1.6MB/s
+      - US484 1.9MB/s
       - 未知1438
       - 未知1439
       - 未知1440
+      - US485
+      - US486 2.0MB/s
       - 未知1441
-      - 未知1442
-      - US467 1.7MB/s
-      - US468 1.9MB/s
+      - 未知1442 1.8MB/s
       - 未知1443
+      - 未知1444 1.8MB/s
+      - US487
+      - 未知1445
+      - 未知1446 1.8MB/s
+      - 未知1447
+      - 🇷🇺RU俄罗斯21 4.7MB/s
+      - US488 1.9MB/s
+      - 未知1448
+      - HK20
+      - 未知1449
+      - US489 2.0MB/s
+      - 未知1450
+      - 未知1451
+      - 未知1452
+      - 未知1453
+      - 未知1454
+      - 未知1455
+      - US490
+      - 未知1456
+      - 未知1457
+      - US491 1.9MB/s
+      - 🇭🇰HK香港6
+      - 未知1458
+      - 未知1459
+      - 未知1460 1.7MB/s
+      - US492 1.9MB/s
+      - 未知1461
+      - 未知1462
+      - 未知1463
+      - 未知1464
+      - 未知1465
+      - US493 27.5MB/s
+      - 未知1466
+      - US494 1.7MB/s
+      - US495 1.9MB/s
+      - 未知1467
+      - 未知1468
+      - 未知1469 12.0MB/s
+      - 未知1470
+      - 未知1471
+      - 未知1472
+      - 未知1473
+      - US496
+      - 未知1474
+      - 未知1475
+      - HK21
+      - 未知1476
 
   - name: 🌍 国外媒体
     type: select
@@ -117,136 +282,356 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - US464 1.4MB/s
-      - HK23
+      - US475 1.9MB/s
+      - US476 1.7MB/s
+      - 未知1422
+      - 🇬🇧GB英国2
+      - 未知1423
+      - 未知1424
       - 未知1425
+      - US477 37.7MB/s
       - 未知1426
-      - 🇰🇷KR韩国 253.4KB/s
-      - 未知1427 1.5MB/s
-      - 未知1428
+      - 未知1427
+      - US478 1.9MB/s
+      - 未知1428 1.6MB/s
+      - US479 1.9MB/s
+      - US480
+      - US481 2.0MB/s
       - 未知1429
       - 未知1430
-      - HK24
       - 未知1431
-      - 🇭🇺HU匈牙利3 1.9MB/s
-      - 未知1432 1.7MB/s
+      - US482 2.0MB/s
+      - 未知1432
       - 未知1433
       - 未知1434
-      - US465 1.7MB/s
       - 未知1435
       - 未知1436
+      - 🇷🇺RU俄罗斯20 8.6MB/s
+      - US483 1.9MB/s
       - 未知1437
-      - US466 1.6MB/s
+      - US484 1.9MB/s
       - 未知1438
       - 未知1439
       - 未知1440
+      - US485
+      - US486 2.0MB/s
       - 未知1441
-      - 未知1442
-      - US467 1.7MB/s
-      - US468 1.9MB/s
+      - 未知1442 1.8MB/s
       - 未知1443
+      - 未知1444 1.8MB/s
+      - US487
+      - 未知1445
+      - 未知1446 1.8MB/s
+      - 未知1447
+      - 🇷🇺RU俄罗斯21 4.7MB/s
+      - US488 1.9MB/s
+      - 未知1448
+      - HK20
+      - 未知1449
+      - US489 2.0MB/s
+      - 未知1450
+      - 未知1451
+      - 未知1452
+      - 未知1453
+      - 未知1454
+      - 未知1455
+      - US490
+      - 未知1456
+      - 未知1457
+      - US491 1.9MB/s
+      - 🇭🇰HK香港6
+      - 未知1458
+      - 未知1459
+      - 未知1460 1.7MB/s
+      - US492 1.9MB/s
+      - 未知1461
+      - 未知1462
+      - 未知1463
+      - 未知1464
+      - 未知1465
+      - US493 27.5MB/s
+      - 未知1466
+      - US494 1.7MB/s
+      - US495 1.9MB/s
+      - 未知1467
+      - 未知1468
+      - 未知1469 12.0MB/s
+      - 未知1470
+      - 未知1471
+      - 未知1472
+      - 未知1473
+      - US496
+      - 未知1474
+      - 未知1475
+      - HK21
+      - 未知1476
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US464 1.4MB/s
-      - HK23
+      - US475 1.9MB/s
+      - US476 1.7MB/s
+      - 未知1422
+      - 🇬🇧GB英国2
+      - 未知1423
+      - 未知1424
       - 未知1425
+      - US477 37.7MB/s
       - 未知1426
-      - 🇰🇷KR韩国 253.4KB/s
-      - 未知1427 1.5MB/s
-      - 未知1428
+      - 未知1427
+      - US478 1.9MB/s
+      - 未知1428 1.6MB/s
+      - US479 1.9MB/s
+      - US480
+      - US481 2.0MB/s
       - 未知1429
       - 未知1430
-      - HK24
       - 未知1431
-      - 🇭🇺HU匈牙利3 1.9MB/s
-      - 未知1432 1.7MB/s
+      - US482 2.0MB/s
+      - 未知1432
       - 未知1433
       - 未知1434
-      - US465 1.7MB/s
       - 未知1435
       - 未知1436
+      - 🇷🇺RU俄罗斯20 8.6MB/s
+      - US483 1.9MB/s
       - 未知1437
-      - US466 1.6MB/s
+      - US484 1.9MB/s
       - 未知1438
       - 未知1439
       - 未知1440
+      - US485
+      - US486 2.0MB/s
       - 未知1441
-      - 未知1442
-      - US467 1.7MB/s
-      - US468 1.9MB/s
+      - 未知1442 1.8MB/s
       - 未知1443
+      - 未知1444 1.8MB/s
+      - US487
+      - 未知1445
+      - 未知1446 1.8MB/s
+      - 未知1447
+      - 🇷🇺RU俄罗斯21 4.7MB/s
+      - US488 1.9MB/s
+      - 未知1448
+      - HK20
+      - 未知1449
+      - US489 2.0MB/s
+      - 未知1450
+      - 未知1451
+      - 未知1452
+      - 未知1453
+      - 未知1454
+      - 未知1455
+      - US490
+      - 未知1456
+      - 未知1457
+      - US491 1.9MB/s
+      - 🇭🇰HK香港6
+      - 未知1458
+      - 未知1459
+      - 未知1460 1.7MB/s
+      - US492 1.9MB/s
+      - 未知1461
+      - 未知1462
+      - 未知1463
+      - 未知1464
+      - 未知1465
+      - US493 27.5MB/s
+      - 未知1466
+      - US494 1.7MB/s
+      - US495 1.9MB/s
+      - 未知1467
+      - 未知1468
+      - 未知1469 12.0MB/s
+      - 未知1470
+      - 未知1471
+      - 未知1472
+      - 未知1473
+      - US496
+      - 未知1474
+      - 未知1475
+      - HK21
+      - 未知1476
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - US464 1.4MB/s
-      - HK23
+      - US475 1.9MB/s
+      - US476 1.7MB/s
+      - 未知1422
+      - 🇬🇧GB英国2
+      - 未知1423
+      - 未知1424
       - 未知1425
+      - US477 37.7MB/s
       - 未知1426
-      - 🇰🇷KR韩国 253.4KB/s
-      - 未知1427 1.5MB/s
-      - 未知1428
+      - 未知1427
+      - US478 1.9MB/s
+      - 未知1428 1.6MB/s
+      - US479 1.9MB/s
+      - US480
+      - US481 2.0MB/s
       - 未知1429
       - 未知1430
-      - HK24
       - 未知1431
-      - 🇭🇺HU匈牙利3 1.9MB/s
-      - 未知1432 1.7MB/s
+      - US482 2.0MB/s
+      - 未知1432
       - 未知1433
       - 未知1434
-      - US465 1.7MB/s
       - 未知1435
       - 未知1436
+      - 🇷🇺RU俄罗斯20 8.6MB/s
+      - US483 1.9MB/s
       - 未知1437
-      - US466 1.6MB/s
+      - US484 1.9MB/s
       - 未知1438
       - 未知1439
       - 未知1440
+      - US485
+      - US486 2.0MB/s
       - 未知1441
-      - 未知1442
-      - US467 1.7MB/s
-      - US468 1.9MB/s
+      - 未知1442 1.8MB/s
       - 未知1443
+      - 未知1444 1.8MB/s
+      - US487
+      - 未知1445
+      - 未知1446 1.8MB/s
+      - 未知1447
+      - 🇷🇺RU俄罗斯21 4.7MB/s
+      - US488 1.9MB/s
+      - 未知1448
+      - HK20
+      - 未知1449
+      - US489 2.0MB/s
+      - 未知1450
+      - 未知1451
+      - 未知1452
+      - 未知1453
+      - 未知1454
+      - 未知1455
+      - US490
+      - 未知1456
+      - 未知1457
+      - US491 1.9MB/s
+      - 🇭🇰HK香港6
+      - 未知1458
+      - 未知1459
+      - 未知1460 1.7MB/s
+      - US492 1.9MB/s
+      - 未知1461
+      - 未知1462
+      - 未知1463
+      - 未知1464
+      - 未知1465
+      - US493 27.5MB/s
+      - 未知1466
+      - US494 1.7MB/s
+      - US495 1.9MB/s
+      - 未知1467
+      - 未知1468
+      - 未知1469 12.0MB/s
+      - 未知1470
+      - 未知1471
+      - 未知1472
+      - 未知1473
+      - US496
+      - 未知1474
+      - 未知1475
+      - HK21
+      - 未知1476
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US464 1.4MB/s
-      - HK23
+      - US475 1.9MB/s
+      - US476 1.7MB/s
+      - 未知1422
+      - 🇬🇧GB英国2
+      - 未知1423
+      - 未知1424
       - 未知1425
+      - US477 37.7MB/s
       - 未知1426
-      - 🇰🇷KR韩国 253.4KB/s
-      - 未知1427 1.5MB/s
-      - 未知1428
+      - 未知1427
+      - US478 1.9MB/s
+      - 未知1428 1.6MB/s
+      - US479 1.9MB/s
+      - US480
+      - US481 2.0MB/s
       - 未知1429
       - 未知1430
-      - HK24
       - 未知1431
-      - 🇭🇺HU匈牙利3 1.9MB/s
-      - 未知1432 1.7MB/s
+      - US482 2.0MB/s
+      - 未知1432
       - 未知1433
       - 未知1434
-      - US465 1.7MB/s
       - 未知1435
       - 未知1436
+      - 🇷🇺RU俄罗斯20 8.6MB/s
+      - US483 1.9MB/s
       - 未知1437
-      - US466 1.6MB/s
+      - US484 1.9MB/s
       - 未知1438
       - 未知1439
       - 未知1440
+      - US485
+      - US486 2.0MB/s
       - 未知1441
-      - 未知1442
-      - US467 1.7MB/s
-      - US468 1.9MB/s
+      - 未知1442 1.8MB/s
       - 未知1443
+      - 未知1444 1.8MB/s
+      - US487
+      - 未知1445
+      - 未知1446 1.8MB/s
+      - 未知1447
+      - 🇷🇺RU俄罗斯21 4.7MB/s
+      - US488 1.9MB/s
+      - 未知1448
+      - HK20
+      - 未知1449
+      - US489 2.0MB/s
+      - 未知1450
+      - 未知1451
+      - 未知1452
+      - 未知1453
+      - 未知1454
+      - 未知1455
+      - US490
+      - 未知1456
+      - 未知1457
+      - US491 1.9MB/s
+      - 🇭🇰HK香港6
+      - 未知1458
+      - 未知1459
+      - 未知1460 1.7MB/s
+      - US492 1.9MB/s
+      - 未知1461
+      - 未知1462
+      - 未知1463
+      - 未知1464
+      - 未知1465
+      - US493 27.5MB/s
+      - 未知1466
+      - US494 1.7MB/s
+      - US495 1.9MB/s
+      - 未知1467
+      - 未知1468
+      - 未知1469 12.0MB/s
+      - 未知1470
+      - 未知1471
+      - 未知1472
+      - 未知1473
+      - US496
+      - 未知1474
+      - 未知1475
+      - HK21
+      - 未知1476
 
   - name: 🎯 全球直连
     type: select
@@ -270,34 +655,89 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - US464 1.4MB/s
-      - HK23
+      - US475 1.9MB/s
+      - US476 1.7MB/s
+      - 未知1422
+      - 🇬🇧GB英国2
+      - 未知1423
+      - 未知1424
       - 未知1425
+      - US477 37.7MB/s
       - 未知1426
-      - 🇰🇷KR韩国 253.4KB/s
-      - 未知1427 1.5MB/s
-      - 未知1428
+      - 未知1427
+      - US478 1.9MB/s
+      - 未知1428 1.6MB/s
+      - US479 1.9MB/s
+      - US480
+      - US481 2.0MB/s
       - 未知1429
       - 未知1430
-      - HK24
       - 未知1431
-      - 🇭🇺HU匈牙利3 1.9MB/s
-      - 未知1432 1.7MB/s
+      - US482 2.0MB/s
+      - 未知1432
       - 未知1433
       - 未知1434
-      - US465 1.7MB/s
       - 未知1435
       - 未知1436
+      - 🇷🇺RU俄罗斯20 8.6MB/s
+      - US483 1.9MB/s
       - 未知1437
-      - US466 1.6MB/s
+      - US484 1.9MB/s
       - 未知1438
       - 未知1439
       - 未知1440
+      - US485
+      - US486 2.0MB/s
       - 未知1441
-      - 未知1442
-      - US467 1.7MB/s
-      - US468 1.9MB/s
+      - 未知1442 1.8MB/s
       - 未知1443
+      - 未知1444 1.8MB/s
+      - US487
+      - 未知1445
+      - 未知1446 1.8MB/s
+      - 未知1447
+      - 🇷🇺RU俄罗斯21 4.7MB/s
+      - US488 1.9MB/s
+      - 未知1448
+      - HK20
+      - 未知1449
+      - US489 2.0MB/s
+      - 未知1450
+      - 未知1451
+      - 未知1452
+      - 未知1453
+      - 未知1454
+      - 未知1455
+      - US490
+      - 未知1456
+      - 未知1457
+      - US491 1.9MB/s
+      - 🇭🇰HK香港6
+      - 未知1458
+      - 未知1459
+      - 未知1460 1.7MB/s
+      - US492 1.9MB/s
+      - 未知1461
+      - 未知1462
+      - 未知1463
+      - 未知1464
+      - 未知1465
+      - US493 27.5MB/s
+      - 未知1466
+      - US494 1.7MB/s
+      - US495 1.9MB/s
+      - 未知1467
+      - 未知1468
+      - 未知1469 12.0MB/s
+      - 未知1470
+      - 未知1471
+      - 未知1472
+      - 未知1473
+      - US496
+      - 未知1474
+      - 未知1475
+      - HK21
+      - 未知1476
 
 
 rules:
