@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://3723507166611775488@63.176.218.64:443?security=tls&type=tcp&sni=profound-anemone.boa152.lol#%E6%9C%AA%E7%9F%A52%20509.0KB%2Fs
-trojan://NISHIKUITAN111@190.93.246.217:443?#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN111@104.17.226.121:443?#%E6%9C%AA%E7%9F%A54
-trojan://blue2024@104.18.153.27:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A55
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#US%201.7MB%2Fs
+trojan://NISHIKUITAN111@141.101.113.229:443?#%E6%9C%AA%E7%9F%A52
+trojan://dTaXAtuoQF@185.143.235.200:443?security=tls&type=ws&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=/downloadgame&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN111@69.48.218.10:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#US
+trojan://auto@104.17.147.22:2087?security=tls&type=ws&sni=abbas.ab841vpn.workers.dev&path=/?ed=2560&host=abbas.ab841vpn.workers.dev#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.113:8090#US2%201.1MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
