@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.16.252.52:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A5
-trojan://trojan@104.21.3.52:443?security=tls&type=tcp&sni=test-a23.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://blue2024@104.17.96.65:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN111@173.245.58.34:443?#%E6%9C%AA%E7%9F%A54
-trojan://NISHIKUITAN111@104.21.101.38:443?#%E6%9C%AA%E7%9F%A55
+trojan://3723507166611775488@63.176.218.64:443?security=tls&type=tcp&sni=profound-anemone.boa152.lol#%E6%9C%AA%E7%9F%A52%20509.0KB%2Fs
+trojan://NISHIKUITAN111@190.93.246.217:443?#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN111@104.17.226.121:443?#%E6%9C%AA%E7%9F%A54
+trojan://blue2024@104.18.153.27:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#US%201.7MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
