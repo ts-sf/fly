@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@162.159.21.24:443?#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:9090#US%201.8MB%2Fs
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#US2%201.9MB%2Fs
-trojan://blue2024@173.245.49.251:443?security=tls&type=ws&sni=hb.lii2010.us.kg&path=/&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8091#US3%201.9MB%2Fs
+trojan://3723507166611775488@95.111.192.196:443?security=tls&type=tcp&sni=major-reindeer.boa152.lol#%E6%9C%AA%E7%9F%A52
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjEzOS41OS4xNDIuMjM3IiwicG9ydCI6IjIwODIiLCJpZCI6ImJhODBiMTFiLTI1NzgtNDNjNC05MjlkLTg5MDk1YWYwNjZiYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoienVsYS5pciIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMyJ9
+trojan://NISHIKUITAN111@104.18.18.138:443?#%E6%9C%AA%E7%9F%A54
+trojan://04c924c7-551e-4c67-b3fa-9cca9e8cdc78@151.101.66.228:443?security=tls&type=ws&sni=pscresearch.faculty.ucdavis.edu&path=ws/?ed=2048&host=ihrcxextyuj.com#US
+trojan://3723507166611775488@concrete-buzzard.boa152.lol:443?sni=concrete-buzzard.boa152.lol#%F0%9F%87%A7%F0%9F%87%ACBG%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20751.7KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
