@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@141.101.113.229:443?#%E6%9C%AA%E7%9F%A52
-trojan://dTaXAtuoQF@185.143.235.200:443?security=tls&type=ws&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=/downloadgame&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN111@69.48.218.10:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#US
-trojan://auto@104.17.147.22:2087?security=tls&type=ws&sni=abbas.ab841vpn.workers.dev&path=/?ed=2560&host=abbas.ab841vpn.workers.dev#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.113:8090#US2%201.1MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.132.208.241:443#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@104.19.190.86:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.69:2376#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.26:443#US2%201.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:804#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
