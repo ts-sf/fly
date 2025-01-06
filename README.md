@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.16.5.34:443?security=tls&type=tcp&sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
-trojan://blue2024@104.26.12.31:443?security=tls&type=tcp&sni=tc.promote.icu#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2375#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@172.67.149.124:443?security=tls&type=grpc&sni=hdfyc1.achaemenidempireofpersia.uk#%E6%9C%AA%E7%9F%A54
-trojan://NISHIKUITAN111@104.16.91.99:443?#%E6%9C%AA%E7%9F%A55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSElNcHIwblZlVnlMV3YxNWRiVFRY@193.33.195.79:39764#%E6%9C%AA%E7%9F%A52
+trojan://auto@104.20.17.255:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN111@5.10.244.100:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A54
+trojan://NISHIKUITAN111@172.67.251.112:443?#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.12:3389#US%202.0MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
