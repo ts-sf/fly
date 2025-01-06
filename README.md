@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSElNcHIwblZlVnlMV3YxNWRiVFRY@193.33.195.79:39764#%E6%9C%AA%E7%9F%A52
-trojan://auto@104.20.17.255:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN111@5.10.244.100:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A54
-trojan://NISHIKUITAN111@172.67.251.112:443?#%E6%9C%AA%E7%9F%A55
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.12:3389#US%202.0MB%2Fs
+trojan://blue2024@185.135.9.123:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@172.64.35.135:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A53
+trojan://blue2024@104.16.10.12:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A54
+trojan://bpb-trojan@172.67.2.238:443?security=tls&type=tcp&sni=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev#%E6%9C%AA%E7%9F%A55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyYVVvRUI1SDMwOHBHM3FrbnpXTjJ3@212.18.104.228:17889#US
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
