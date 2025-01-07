@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.17.142.12:443?type=ws&sni=tb.promote.icu&host=tb.promote.icu#%E6%9C%AA%E7%9F%A52
-trojan://auto@162.159.136.232:8443?security=tls&type=tcp&sni=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A53
-trojan://blue2024@104.20.73.186:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9101#US%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.105:5498#US2%201.9MB%2Fs
+trojan://3723507166611775488@195.133.93.135:443?security=tls&type=tcp&sni=pleased-airedale.boa152.lol#%E6%9C%AA%E7%9F%A52%204.1MB%2Fs
+trojan://blue2024@104.19.238.216:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A53
+trojan://blue2024@104.23.113.250:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A54
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSIsImFkZCI6IjE5NS41OC40OS41MCIsInBvcnQiOiIxNjcxMiIsImlkIjoiNmZlYzI5ZmQtMmMxNi00YmYxLTllMzAtZTQ5YTk0NzYwYmM4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1In0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#%E6%9C%AA%E7%9F%A56%2022.8KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
