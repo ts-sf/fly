@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://abbcaac-acab-bcaa-dcab-abaccacbcbab@127.0.0.1:8080?security=tls&type=tcp#US
-trojan://f82c2052-7411-40e8-96ef-d433127979a6@57.128.123.50:2096?security=reality&type=http&sni=dalfak.com&path=/#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8008#US2%201.9MB%2Fs
-trojan://blue2024@104.18.31.239:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A53
-trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&type=ws&sni=bangladeshipatri.com&path=6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A54
+trojan://NISHIKUITAN111@141.11.203.203:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A52
+trojan://NISHIKUITAN111@162.159.133.112:443?#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN111@104.19.95.55:443?#%E6%9C%AA%E7%9F%A54
+trojan://SSorg@31.43.179.60:2053?sni=ssjj.esslh.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0
+trojan://NISHIKUITAN111@92.53.190.87:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
