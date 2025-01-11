@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://SSorg@199.34.228.143:2096?sni=ssjj.esslh.filegear-sg.me#US
-trojan://SSorg@104.19.107.190:2096?sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.26:8119#US2%201.7MB%2Fs
-trojan://blue2024@108.162.196.53:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
-trojan://dfd7e083-fde5-4626-a5ac-5deb691b487a@199.232.210.133:443?security=tls&type=ws&sni=hajlab.ucdavis.edu&path=de?ed=1048&host=didnegar.com#US3
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.203:5498#US%201.8MB%2Fs
+trojan://blue2024@172.64.35.192:443?security=tls&type=ws&sni=tb.promote.icu&path=/&host=tb.promote.icu#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206ZVVJVTRrNDQ0eXRZZzUvbEJhTFpCQ2FlWjBSOXRDVTVTRkVvVnJkakcxZz0=@85.9.112.204:443#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.120:7307#US2%201.9MB%2Fs
+trojan://blue2024@104.17.222.191:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
