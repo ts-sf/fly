@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6679#US%201.9MB%2Fs
-trojan://blue2024@104.27.61.81:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A52
-trojan://3723507166611775488@154.205.151.46:443?security=tls&type=tcp&sni=settled-seal.treefrog761.one#%E6%9C%AA%E7%9F%A53
-trojan://blue2024@104.18.138.78:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A54
-trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&type=tcp&sni=bangladeshipatri.com#%E6%9C%AA%E7%9F%A55
+trojan://blue2024@104.18.152.170:443?security=tls&type=tcp&sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1UEZCTkNlaGhjaFhIYnBBNGF6dG5p@176.124.221.3:10488#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN111@104.24.236.157:443?#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#%E6%9C%AA%E7%9F%A55%203.4MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:8888#US%201.7MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
