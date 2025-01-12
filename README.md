@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.18.152.170:443?security=tls&type=tcp&sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1UEZCTkNlaGhjaFhIYnBBNGF6dG5p@176.124.221.3:10488#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN111@104.24.236.157:443?#%E6%9C%AA%E7%9F%A54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#%E6%9C%AA%E7%9F%A55%203.4MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:8888#US%201.7MB%2Fs
+trojan://blue2024@104.18.187.171:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5601#US%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#US2%202.0MB%2Fs
+trojan://blue2024@104.16.5.34:443?security=tls&type=tcp&sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@108.162.193.55:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
