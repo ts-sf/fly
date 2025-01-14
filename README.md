@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.18.152.170:443?security=tls&type=tcp&sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
-trojan://SSorg@185.204.109.190:8443?sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%E6%9C%AA%E7%9F%A53%2013.8MB%2Fs
-trojan://auto@104.20.21.229:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A54
-trojan://NISHIKUITAN111@213.241.198.4:443?#%E6%9C%AA%E7%9F%A55
+trojan://bpb-trojan@198.41.202.175:443?type=ws&sni=bpb.my79801.com&path=/tr&host=bpb.my79801.com#%E6%9C%AA%E7%9F%A52
+trojan://d4f89111885.wns.windows.com@123.125.94.170:1630?security=tls&type=tcp&sni=desource1.game.mzsourcenode.info#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN111@190.93.245.80:443?#%E6%9C%AA%E7%9F%A54
+trojan://bpb-trojan@198.41.215.216:443?sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A55
+trojan://blue2024@104.18.69.126:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
