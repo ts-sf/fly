@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-01-15 17:42:12
+# 创建时间: 2025-01-16 01:40:49
 # 使用模版: V2RaySE 默认模版
-# 节点数量：16
+# 节点数量：6
 ####################################
 #
 mixed-port: 7890
@@ -12,22 +12,12 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知1630","type":"trojan","server":"104.17.246.107","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ha.lii2010.us.kg","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1631","type":"trojan","server":"5.10.245.142","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","sni":"za.ylks.xyz","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1632","type":"trojan","server":"104.20.20.162","port":443,"alterId":0,"tls":true,"password":"auto","sni":"b96ef9ae.trojanfree-76s.pages.dev","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US475 10.9MB/s","type":"ss","server":"69.50.92.72","port":7306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
-  - {"name":"US476 1.2MB/s","type":"ss","server":"23.157.40.113","port":2375,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
-  - {"name":"未知1633 61.3KB/s","type":"ss","server":"54.37.12.70","port":8000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"US477 1.9MB/s","type":"ss","server":"23.157.40.103","port":8090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
-  - {"name":"未知1634","type":"trojan","server":"104.24.130.166","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1635","type":"trojan","server":"104.19.224.216","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1636","type":"trojan","server":"162.159.44.110","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1637","type":"trojan","server":"104.17.68.111","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"bpb.my79801.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1638","type":"vmess","server":"46.38.144.209","port":54796,"cipher":"auto","uuid":"44acc806-671f-4adb-bbf8-234b75a8511e","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"未知1639","type":"trojan","server":"108.162.192.252","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1640","type":"trojan","server":"172.67.121.40","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1641","type":"trojan","server":"198.41.208.50","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1642","type":"trojan","server":"104.27.65.15","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"hb.lii2010.us.kg","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1631","type":"trojan","server":"104.18.181.179","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"bpb.my79801.com","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1632","type":"trojan","server":"104.17.147.22","port":8080,"alterId":0,"tls":true,"password":"ce87300f-02c9-4993-ac78-a3d2c0ed1c6e","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1633","type":"trojan","server":"162.159.38.105","port":2083,"alterId":0,"tls":true,"password":"SSorg","sni":"ssjj.esslh.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1634","type":"ss","server":"45.87.175.199","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1RWwXhwfAB5gAEozU4G2Pg","skip-cert-verify":true}
+  - {"name":"未知1635 1.8MB/s","type":"ss","server":"51.77.53.200","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知1636","type":"trojan","server":"156.67.30.77","port":443,"alterId":0,"tls":true,"password":"1051bfbb-90db-4261-b5e4-8b91f62b436f","sni":"spotify.com","skip-cert-verify":true,"network":"tcp","udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -35,22 +25,12 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知1630
       - 未知1631
       - 未知1632
-      - US475 10.9MB/s
-      - US476 1.2MB/s
-      - 未知1633 61.3KB/s
-      - US477 1.9MB/s
+      - 未知1633
       - 未知1634
-      - 未知1635
+      - 未知1635 1.8MB/s
       - 未知1636
-      - 未知1637
-      - 未知1638
-      - 未知1639
-      - 未知1640
-      - 未知1641
-      - 未知1642
 
   - name: ♻️ 自动选择
     type: url-test
@@ -58,22 +38,12 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知1630
       - 未知1631
       - 未知1632
-      - US475 10.9MB/s
-      - US476 1.2MB/s
-      - 未知1633 61.3KB/s
-      - US477 1.9MB/s
+      - 未知1633
       - 未知1634
-      - 未知1635
+      - 未知1635 1.8MB/s
       - 未知1636
-      - 未知1637
-      - 未知1638
-      - 未知1639
-      - 未知1640
-      - 未知1641
-      - 未知1642
 
   - name: 🌍 国外媒体
     type: select
@@ -81,88 +51,48 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知1630
       - 未知1631
       - 未知1632
-      - US475 10.9MB/s
-      - US476 1.2MB/s
-      - 未知1633 61.3KB/s
-      - US477 1.9MB/s
+      - 未知1633
       - 未知1634
-      - 未知1635
+      - 未知1635 1.8MB/s
       - 未知1636
-      - 未知1637
-      - 未知1638
-      - 未知1639
-      - 未知1640
-      - 未知1641
-      - 未知1642
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知1630
       - 未知1631
       - 未知1632
-      - US475 10.9MB/s
-      - US476 1.2MB/s
-      - 未知1633 61.3KB/s
-      - US477 1.9MB/s
+      - 未知1633
       - 未知1634
-      - 未知1635
+      - 未知1635 1.8MB/s
       - 未知1636
-      - 未知1637
-      - 未知1638
-      - 未知1639
-      - 未知1640
-      - 未知1641
-      - 未知1642
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知1630
       - 未知1631
       - 未知1632
-      - US475 10.9MB/s
-      - US476 1.2MB/s
-      - 未知1633 61.3KB/s
-      - US477 1.9MB/s
+      - 未知1633
       - 未知1634
-      - 未知1635
+      - 未知1635 1.8MB/s
       - 未知1636
-      - 未知1637
-      - 未知1638
-      - 未知1639
-      - 未知1640
-      - 未知1641
-      - 未知1642
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知1630
       - 未知1631
       - 未知1632
-      - US475 10.9MB/s
-      - US476 1.2MB/s
-      - 未知1633 61.3KB/s
-      - US477 1.9MB/s
+      - 未知1633
       - 未知1634
-      - 未知1635
+      - 未知1635 1.8MB/s
       - 未知1636
-      - 未知1637
-      - 未知1638
-      - 未知1639
-      - 未知1640
-      - 未知1641
-      - 未知1642
 
   - name: 🎯 全球直连
     type: select
@@ -186,22 +116,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知1630
       - 未知1631
       - 未知1632
-      - US475 10.9MB/s
-      - US476 1.2MB/s
-      - 未知1633 61.3KB/s
-      - US477 1.9MB/s
+      - 未知1633
       - 未知1634
-      - 未知1635
+      - 未知1635 1.8MB/s
       - 未知1636
-      - 未知1637
-      - 未知1638
-      - 未知1639
-      - 未知1640
-      - 未知1641
-      - 未知1642
 
 
 rules:
