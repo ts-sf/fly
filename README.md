@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@45.67.215.250:2096?sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0
-trojan://telegram-id-v2rayvpnchannel@13.60.100.99:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@5.182.84.22:2096?sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://333d4654-cab4-3726-9c6c-06a9c27ae680@gy.58n.net:20300?sni=z300.hongkongnode.top#%E6%9C%AA%E7%9F%A52
-trojan://bpb-trojan@162.159.152.2:443?security=tls&type=ws&sni=zamim340.ggff.net&path=/tr?ed=2560&host=zamim340.ggff.net#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@211.57.90.42:50000?sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
+trojan://bpb-trojan@162.159.153.2:443?security=tls&type=ws&sni=zamim340.ggff.net&path=/tr?ed=2560&host=zamim340.ggff.net#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@104.16.112.144:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@45.134.21.8:2053?sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
+trojan://Aimer@198.62.62.192:2083?sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
