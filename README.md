@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://SSorg@35.177.50.118:443?security=tls&type=tcp&sni=ssjj.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN222@173.245.49.110:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#%E6%9C%AA%E7%9F%A53
-trojan://SSorg@108.165.152.92:2053?sni=ssjj.esslh.filegear-sg.me#US
-trojan://NISHIKUITAN111@104.24.184.159:443?#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.164.15:8119#US2%201.8MB%2Fs
+trojan://3767107462583558144@194.62.96.160:443?security=tls&type=tcp&sni=subtle-seahorse.treefrog761.one#%E6%9C%AA%E7%9F%A52%201.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%E6%9C%AA%E7%9F%A53%201.4MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuT2ZrS2JvREF4aFR4MmsxY0FsdEl6@194.87.45.189:443#%E6%9C%AA%E7%9F%A54%203.2MB%2Fs
+trojan://Aimer@220.78.106.96:50000?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@103.116.7.100:2087?sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
