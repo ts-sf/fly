@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://4db82bff-0889-4320-8944-7b8d8ee66ff5@89.213.40.225:2333?security=tls&type=tcp&sni=www#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8009#%E6%9C%AA%E7%9F%A52%20849.9KB%2Fs
-trojan://telegram-id-v2rayvpnchannel@13.61.64.143:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN111@46.254.92.27:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@40.233.70.7:8443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&host=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@104.196.250.34:2087?sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakZtWVRZMA==@45.142.214.123:8388#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:443#%E6%9C%AA%E7%9F%A53%20784.7KB%2Fs
+trojan://f0b00f01-c9b3-352b-84e6-00bb2a719662@gy.58n.net:41767?sni=x114.flybar.work#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@172.67.65.113:2083?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
