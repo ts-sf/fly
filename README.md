@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@104.196.250.34:2087?sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakZtWVRZMA==@45.142.214.123:8388#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:443#%E6%9C%AA%E7%9F%A53%20784.7KB%2Fs
-trojan://f0b00f01-c9b3-352b-84e6-00bb2a719662@gy.58n.net:41767?sni=x114.flybar.work#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@172.67.65.113:2083?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#US%2027.3MB%2Fs
+trojan://telegram-id-privatevpns@13.61.206.57:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@104.18.121.158:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A53
+trojan://f6f037b8-d6f5-4892-9bb5-0f915cac5b3b@107.149.254.26:158?#HK
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8881#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
