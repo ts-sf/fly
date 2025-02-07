@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://bpb-trojan@104.21.79.143:443?security=tls&type=tcp&sni=403b3611-99bC-43B7-88D7-26eD5D0825A9-3.pAgeS.dEv#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#US%207.1MB%2Fs
-trojan://3774827088566296576@35.75.186.204:443?sni=settled-corgi.insect388.motorcycles#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@52.197.171.218:443#%E6%9C%AA%E7%9F%A53%203.3MB%2Fs
-trojan://Aimer@162.159.44.232:2096?sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://auto@104.26.3.36:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5
+trojan://Aimer@103.116.7.189:443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US2
+trojan://Aimer@172.64.33.110:443?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://65086520307764900@3.39.67.154:443?security=tls&type=tcp&sni=hopeful-seagull.shiner427.skin#%E6%9C%AA%E7%9F%A53%201.0MB%2Fs
+trojan://bpb-trojan@23.227.60.8:443?security=tls&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
