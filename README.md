@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#US3%202.0MB%2Fs
-trojan://65086520307764900@relieved-raccoon.shiner427.skin:443?sni=relieved-raccoon.shiner427.skin#%E6%9C%AA%E7%9F%A56%20543.2KB%2Fs
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.176:7307#US4%201.6MB%2Fs
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.103:8091#US5%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5000#US8%201.5MB%2Fs
+trojan://65086520307764900@3.39.67.154:443?security=tls&type=tcp&sni=hopeful-seagull.shiner427.skin#%E6%9C%AA%E7%9F%A58%201.0MB%2Fs
+trojan://65086520307764900@relieved-raccoon.shiner427.skin:443?sni=relieved-raccoon.shiner427.skin#%E6%9C%AA%E7%9F%A510%20545.4KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg==@89.221.224.94:1443#%E6%9C%AA%E7%9F%A512%20676.4KB%2Fs
+trojan://telegram-id-privatevpns@16.171.73.239:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%2011.8MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%E6%9C%AA%E7%9F%A516%2010.4MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
