@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@199.34.228.143:2096?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US
-trojan://telegram-id-directvpn@3.132.17.81:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://cacbaab-caba-acab-dcba-acbccabaacbb@127.0.0.1:8080?security=tls&type=tcp#US2
-trojan://trojan@104.17.148.22:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@188.253.5.199:40005#%E6%9C%AA%E7%9F%A53
+trojan://65abdb1c-1cdf-4630-a32b-8ae566b48c00@89.213.40.26:40007?sni=uknode.soon.guru#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.105:7306#US%202.0MB%2Fs
+trojan://Aimer@173.245.59.110:443?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#%E6%9C%AA%E7%9F%A54%206.3MB%2Fs
+trojan://172d295b-abd4-4219-a83d-0585b498542c@84.247.144.24:443?sni=pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
