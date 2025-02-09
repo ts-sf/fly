@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://65abdb1c-1cdf-4630-a32b-8ae566b48c00@89.213.40.26:40007?sni=uknode.soon.guru#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.105:7306#US%202.0MB%2Fs
-trojan://Aimer@173.245.59.110:443?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#%E6%9C%AA%E7%9F%A54%206.3MB%2Fs
-trojan://172d295b-abd4-4219-a83d-0585b498542c@84.247.144.24:443?sni=pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc#%E6%9C%AA%E7%9F%A55
+trojan://NISHIKUITAN111@89.116.46.33:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@45.86.229.28:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://65086520307764900@18.139.61.105:443?security=tls&type=tcp&sni=dynamic-shrew.shiner427.skin#%E6%9C%AA%E7%9F%A54%20701.9KB%2Fs
+trojan://Aimer@173.245.59.110:443?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#%E6%9C%AA%E7%9F%A56%209.5MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
