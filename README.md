@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&type=tcp&sni=egcmi.phooeyunfold.com#US2
-trojan://blue2024@104.18.79.171:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTI1Ni1nY206RDU0UEs1WEpCOURZQ0pTUg==@156.231.104.13:18003#%E6%9C%AA%E7%9F%A52
-trojan://0000000@3.168.86.26:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#US3
-trojan://blue2024@104.19.90.210:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A53
+trojan://fc685880-dffe-11ef-8ac5-1239d0255272@15.204.234.166:443?security=tls&type=tcp&sni=usa.test3.net#US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#US2%2010.6MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiAyNi45TUIvcyIsImFkZCI6IjEwNC4xNy4yMTMuMjQxIiwicG9ydCI6IjIwODYiLCJpZCI6IjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IjEwMC0xNzEtMTA0LTIzOC5zMi5kYi1saW5rMDIudG9wIiwicGF0aCI6Ii9kYWJhaS5pbjE3Mi42NC40My4xNCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIifQ==
+trojan://NISHIKUITAN111@104.24.184.159:443?#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@172.67.68.56:2096?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
