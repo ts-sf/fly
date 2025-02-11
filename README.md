@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#%E6%9C%AA%E7%9F%A5%20157.6KB%2Fs
-trojan://Aimer@45.194.53.81:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&path=/?ed=2560&host=ngepx.ambercc.filegear-sg.me#US2
-trojan://blue2024@188.114.99.102:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
-trojan://telegram-id-privatevpns@18.195.195.30:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD%2018.0MB%2Fs
-trojan://Aimer@154.197.64.206:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://Bw5Mz7QkVp@45.76.14.107:443?security=tls&type=tcp&sni=z-v2-076978.kailib.com#US
+trojan://Aimer@46.254.93.211:2053?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://3774827088566296576@188.253.22.10:443?sni=key-pangolin.treefrog761.one#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#%E6%9C%AA%E7%9F%A54%201.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%E6%9C%AA%E7%9F%A55%2046.2KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
