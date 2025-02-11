@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://telegram-id-directvpn@44.194.46.61:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#US3%2075.3MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%E6%9C%AA%E7%9F%A55%2010.7MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.72:443#%E6%9C%AA%E7%9F%A58%2014.1MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#%E6%9C%AA%E7%9F%A513%20523.0KB%2Fs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.113:5003#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E%20284.6KB%2Fs
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#%E6%9C%AA%E7%9F%A5%20157.6KB%2Fs
+trojan://telegram-id-privatevpns@18.195.195.30:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD%2018.0MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%E6%9C%AA%E7%9F%A55%2012.6MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.84:5001#US3%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@217.182.198.219:445#%E6%9C%AA%E7%9F%A56%201.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
