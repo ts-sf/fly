@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdXdzSWVqT3lReDV6Um43Mk9jU1M5@150.241.102.95:21771#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@35.81.207.167:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@172.235.251.59:443?sni=kdlsupport.zendesk.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjQ1LjIwNy4yMDcuMjAyIiwicG9ydCI6IjIxNDc1IiwiaWQiOiI5NGI5OTJlMC04NWMxLTQyNjAtOTg1Ni1mYzZlYTY0YjQwOTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoidXMwMi5tbHNiLmxvbCIsInRlc3RfbmFtZSI6IjMifQ==
-trojan://Aimer@154.197.64.240:8443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.110.1.202:8008#US2%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.115:5000#US3%201.8MB%2Fs
+trojan://Aimer@161.129.41.140:6352?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#US4
+trojan://Aimer@173.245.59.128:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.74.202:7002#US5%202.0MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
