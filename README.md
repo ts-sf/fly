@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://65086520307764900@44.213.197.235:443?security=tls&type=tcp&sni=arriving-longhorn.shiner427.skin#US2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%E6%9C%AA%E7%9F%A5%20888.1KB%2Fs
-trojan://0000000@3.168.86.26:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#US3
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@198.199.78.30:443?sni=kdlsupport.zendesk.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7001#%E6%9C%AA%E7%9F%A52%20715.3KB%2Fs
+trojan://Aimer@51.107.9.31:8443?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
+trojan://bpb-trojan@162.159.152.2:443?security=tls&type=ws&sni=zamim340.ggff.net&path=/tr?ed=2560&host=zamim340.ggff.net#%E6%9C%AA%E7%9F%A52
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.172:27103?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK
+trojan://bpb-trojan@89.116.250.94:443?security=tls&type=ws&sni=bpb.my79801.com&path=/tr?ed&host=bpb.my79801.com#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN111@104.24.60.239:443?#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
