@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.16.144.251:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A52
-trojan://Bw5Mz7QkVp@149.28.72.122:443?security=tls&type=tcp&sni=z-v2-080560.kailib.com#US
-trojan://Aimer@121.180.184.145:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.112:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#HK
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7001#%E6%9C%AA%E7%9F%A54%201.8MB%2Fs
+trojan://Bw5Mz7QkVp@45.76.80.201:443?security=tls&type=tcp&sni=z-v2-082554.kailib.com#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.115:5500#US%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.134.94.168:3389#US2%202.0MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.151:8080#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMWQ5MThlZi1lMTYwLTRkMGUtYTQ4YS04OWVlMTg5MWVmNDY=@23.187.72.156:14889#US3
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
