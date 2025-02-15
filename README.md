@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@108.165.152.1:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US2
-trojan://Aimer@219.76.13.180:443?sni=ngepz.ambercc.filegear-sg.me#HK
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsInBvcnQiOiI0MzMiLCJpZCI6IkZyZWUiLCJhaWQiOiIwIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoi5pyq55+lIn0=
-trojan://Bw5Mz7QkVp@162.33.178.121:443?security=tls&type=tcp&sni=z-v2-076986.kailib.com#US3
-trojan://Aimer@172.64.105.24:2053?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://3747000103274291200@185.67.125.36:443?security=tls&type=tcp&sni=model-fly.adder289.quest#%E6%9C%AA%E7%9F%A5%20328.7KB%2Fs
+trojan://blue2024@104.19.185.248:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#%F0%9F%87%A7%F0%9F%87%ACBG%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20755.5KB%2Fs
+trojan://3778399737045327872@18.197.235.48:443?sni=popular-pheasant.adder289.quest#%E6%9C%AA%E7%9F%A53%2017.8MB%2Fs
+trojan://Aimer@161.129.41.140:6352?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
