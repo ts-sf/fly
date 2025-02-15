@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://auto@104.17.148.22:2087?security=tls&type=ws&sni=abbas.ab841vpn.workers.dev&host=abbas.ab841vpn.workers.dev#%E6%9C%AA%E7%9F%A52
-trojan://telegram-id-directvpn@13.37.196.96:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
-trojan://bpb-trojan@104.26.4.60:443?security=tls&type=ws&sni=zamim340.ggff.net&path=/tr?ed=2560&host=zamim340.ggff.net#%E6%9C%AA%E7%9F%A54
-trojan://auto@162.159.44.148:443?security=tls&type=tcp&sni=trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A55
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:42881?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK
+trojan://Aimer@108.165.152.1:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US2
+trojan://Aimer@219.76.13.180:443?sni=ngepz.ambercc.filegear-sg.me#HK
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsInBvcnQiOiI0MzMiLCJpZCI6IkZyZWUiLCJhaWQiOiIwIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoi5pyq55+lIn0=
+trojan://Bw5Mz7QkVp@162.33.178.121:443?security=tls&type=tcp&sni=z-v2-076986.kailib.com#US3
+trojan://Aimer@172.64.105.24:2053?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
