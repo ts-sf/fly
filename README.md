@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=/6b777a91&host=jobscareerforlawyers.com#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprV2Q4bDNlZ3RhV3B4RG5IdkdpcmFS@91.103.253.151:19057#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@duke.ns.cloudflare.com:443?sni=agepw.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://Aimer@27.50.48.239:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://PfE3MbyRzjb5VMOdPVyLYg@165.227.154.214:1000?security=none&type=grpc#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@14.35.59.67:50000?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@172.67.73.163:443?security=tls&type=ws&sni=md1.safecdn.site&path=/Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&host=md1.safecdn.site#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg==@89.221.224.94:8388#%E6%9C%AA%E7%9F%A54%20416.0KB%2Fs
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.65.99:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@154.197.64.248:8443?sni=agepw.ambercc.filegear-sg.me#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
