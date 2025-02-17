@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://65086441068973800@62.112.221.192:443?#%E6%9C%AA%E7%9F%A5
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@172.105.103.27:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@188.164.159.74:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@104.19.57.203:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aERXRFgzWE03eUxGcjFZV0I3UU9l@150.241.97.212:1601#%E6%9C%AA%E7%9F%A55
+trojan://blue2024@188.114.99.102:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
+trojan://eca3a3aa-f204-4b22-ab79-683884e41881@52.194.219.98:443?security=tls&type=tcp&sni=v6.douyinvod.com#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN111@213.109.205.159:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206d0pHc29uZjl4SVVVZ1RJaA==@103.253.43.210:8388#HK
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.122:7306#US%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
