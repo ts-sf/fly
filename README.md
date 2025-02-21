@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@188.164.159.171:443?sni=agept.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2AM%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@45.59.187.105:26443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US
-trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-us.05vr9nyqg5.download:13019?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://3774827088566296576@194.62.96.160:443?security=tls&type=tcp&sni=next-hippo.treefrog761.one#%E6%9C%AA%E7%9F%A52%206.1MB%2Fs
-trojan://Aimer@51.44.86.78:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@135.84.76.152:2087?sni=agept.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OTJiWGNWUWV3ZTVJSERFMUVZbmpN@212.113.106.76:29149#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#%E6%9C%AA%E7%9F%A53%201.2MB%2Fs
+trojan://Aimer@108.162.193.201:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://fuck@42.236.73.72:443?security=tls&type=tcp&sni=www.zitian.cn#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
