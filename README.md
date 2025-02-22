@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://3747000103274291200@185.67.125.177:443?security=tls&type=tcp&sni=quality-albacore.adder289.quest#%E6%9C%AA%E7%9F%A52%2063.2KB%2Fs
-trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443?security=tls&type=tcp&sni=download2hkt.windowsupdate.lol#US
-trojan://3774827088566296576@13.37.126.60:443?sni=amused-buzzard.insect388.motorcycles#%E6%9C%AA%E7%9F%A53
-trojan://Pooria@104.17.148.22:443?security=tls&type=ws&sni=301.pOORiAm.ir&path=/trPyOrWMfkHd15oxiI?ed=1520&host=301.pooriam.ir#%E6%9C%AA%E7%9F%A54
-trojan://blue2024@104.16.209.98:443?security=tls&type=ws&sni=td.promote.icu&host=td.promote.icu#%E6%9C%AA%E7%9F%A55
+trojan://blue2024@5.182.85.129:443?security=tls&type=ws&sni=b.promote.icu&path=/?ed&host=tb.promote.icu#%E6%9C%AA%E7%9F%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI=@hk01.x.quickcht3.club:52611#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://Aimer@92.63.192.110:444?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.105:7306#US%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
