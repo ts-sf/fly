@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@162.120.94.232:8443?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#US
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.157:8080#%E6%9C%AA%E7%9F%A52%201.6MB%2Fs
-trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50018?#HK
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.165.101:8119#US2%2016.2MB%2Fs
+trojan://Aimer@172.66.206.205:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
+trojan://Aimer@129.146.226.222:587?sni=ngepz.ambercc.filegear-sg.me#US2
+trojan://bpb-trojan@23.227.60.8:443?security=tls&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@190.93.244.198:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8118#%E6%9C%AA%E7%9F%A54%201.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
