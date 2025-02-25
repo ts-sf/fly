@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://3747000103274291200@95.85.93.45:443?security=tls&type=tcp&sni=simple-coyote.adder289.quest#US%2014.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppYjlLUTR0MWRWVzQzbUdOOEZKejZB@213.159.75.89:52185#%E6%9C%AA%E7%9F%A52
-trojan://bpb-trojan@198.202.211.146:443?security=tls&type=tcp&sni=bpb.my79801.com#US2
-trojan://bpb-trojan@172.67.2.238:443?security=tls&type=tcp&sni=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@47.236.251.178:443?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://blue2024@188.114.99.102:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
+trojan://trojan@104.18.2.150:443?security=tls&type=ws&sni=main.xicun.us.kg&path=/?ed=2560&host=main.xicun.us.kg#%E6%9C%AA%E7%9F%A53
+trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443?security=tls&type=tcp&sni=download2hkt.windowsupdate.lol#US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSQ2NEMWNjZU5Lb2ZHYlVVdUJDWUJq@45.12.133.203:15357#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%E6%9C%AA%E7%9F%A55%2016.4MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
