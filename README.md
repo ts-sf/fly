@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@45.131.209.89:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A5
-trojan://auto@172.66.46.254:443?security=tls&type=ws&sni=dcf741e8.epeius-2gy.pages.dev&host=dcf741e8.epeius-2gy.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:27002?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK
-trojan://blue2024@104.17.1.234:443?security=tls&type=ws&sni=td.promote.icu&host=td.promote.icu#%E6%9C%AA%E7%9F%A53
-trojan://ltfxdMreszXA7d1rUkPsuQ@165.227.154.214:1000?security=none&type=grpc#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%E6%9C%AA%E7%9F%A5%2011.2MB%2Fs
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.172:46668?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK
+trojan://Aimer@213.109.205.45:443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://65abdb1c-1cdf-4630-a32b-8ae566b48c00@89.213.40.26:40007?security=tls&type=tcp&sni=uknode.soon.guru#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@27.50.49.188:2096?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
