@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%E6%9C%AA%E7%9F%A52%204.6MB%2Fs
-trojan://Aimer@154.197.64.189:2087?security=tls&type=ws&sni=agepy.ambercc.filegear-sg.me&path=/&host=agepy.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@176.124.223.50:8443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://IY4gWQIsHV@104.21.44.185:2087?security=tls&type=httpupgrade&sni=Freedomisnear.onetwothree123.ir&path=/mehdi&host=Freedomisnear.onetwothree123.ir#%E6%9C%AA%E7%9F%A55
-trojan://Aimer@175.214.237.120:50000?security=tls&type=tcp&sni=agepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7307#US2%201.6MB%2Fs
+ss://YWVzLTI1Ni1nY206REEzMFJETFc5MVlETEROMg==@23.185.248.18:17008#US3
+trojan://telegram-id-privatevpns@13.50.215.78:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#US4%202.0MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@43.249.36.70:443#HK%20835.2KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
