@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@172.67.135.57:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%E6%9C%AA%E7%9F%A53%201.7MB%2Fs
-trojan://Aimer@188.164.159.91:2083?sni=agepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8090#%E6%9C%AA%E7%9F%A55%201.2MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.36:8080#%E6%9C%AA%E7%9F%A56
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2376#US2%201.9MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US3%2026.3MB%2Fs
+ss://YWVzLTI1Ni1nY206WTdZMEVVWEY1WlpLSlRGVQ==@154.196.244.24:16014#%E6%9C%AA%E7%9F%A5%20285.7KB%2Fs
+trojan://Aimer@175.215.175.175:50003?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206TE44NTVCQUNNWldDMUNSNw==@156.245.190.21:15012#HK
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
