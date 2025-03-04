@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@46.254.93.37:8443?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGR2b1cwVGRLUnE=@161.97.68.139:443#%E6%9C%AA%E7%9F%A52
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:46668?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK
-trojan://blue2024@104.18.121.158:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8090#US2%201.8MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#%E6%9C%AA%E7%9F%A52
+trojan://3747000103274291200@94.177.131.199:443?security=tls&type=tcp&sni=open-maggot.pigeon031.one#%E6%9C%AA%E7%9F%A53%201.8MB%2Fs
+trojan://Aimer@5.182.84.120:443?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://DHvwod7oq7@104.21.64.1:2083?security=tls&type=ws&sni=esna.twn24.ir&path=/mehdi&host=esna.twn24.ir#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@27.50.49.188:2096?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
