@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://auto@104.17.148.22:2087?security=tls&type=ws&sni=abbas.ab841vpn.workers.dev&host=abbas.ab841vpn.workers.dev#%E6%9C%AA%E7%9F%A5
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.15.85:2083?security=tls&type=tcp&sni=mailbox.CPIFOrpersiA.UK#%E6%9C%AA%E7%9F%A52
-trojan://d9576e81-fc34-46f2-b624-0c1e99cde4be@5.253.41.160:443?security=tls&sni=jp-full.privateip.net#%E6%9C%AA%E7%9F%A53
-trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@95.164.46.235:443?security=tls&sni=it-full.privateip.net#%E6%9C%AA%E7%9F%A54
-trojan://NISHIKUITAN111@185.193.29.193:443?#%E6%9C%AA%E7%9F%A55
+trojan://NISHIKUITAN111@104.21.195.144:443?#%E6%9C%AA%E7%9F%A5
+trojan://blue2024@104.16.97.152:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTMxZTMzNS1kMzQ1LTQzZWUtOGYzNS01MTBhOTJjNDA0OTM=@free.2apzhfa.xyz:31471#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+trojan://95b@43.129.171.137:443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org#HK
+trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.46.220:2083?security=tls&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
