@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@154.197.64.173:2053?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a2NZbUt6bFI4RWJ4aU4zcHNIMTVp@2.56.122.207:28711#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@185.119.117.146:8443?sni=agepq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-trojan://123456@104.25.165.83:8443?security=tls&type=ws&sni=top-azx.pages.dev&path=/Az1.vpn.33.TOP/?ed=2560&host=top-azx.pages.dev#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@206.238.236.137:8443?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@118.35.88.114:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
+trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGRlYzY4Yi1mOWY0LTQ0Y2ItOTY2Ni00MzUwMjhhZTBhZDU=@free.2apzhfa.xyz:31175#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://IY4gWQIsHV@104.21.16.1:2087?security=tls&type=httpupgrade&sni=esna.twn24.ir&path=/mehdi&host=esna.twn24.ir#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
