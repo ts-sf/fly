@@ -2,7 +2,7 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-03-10 10:44:17
+# 创建时间: 2025-03-10 17:35:42
 # 使用模版: V2RaySE 默认模版
 # 节点数量：9
 ####################################
@@ -12,15 +12,15 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知1029","type":"trojan","server":"172.67.204.75","port":443,"alterId":0,"tls":true,"password":"0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01","sni":"Us6-02.818185.Xyz","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1030","type":"trojan","server":"104.18.2.150","port":443,"alterId":0,"tls":true,"password":"trojan","sni":"main.xicun.us.kg","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1031","type":"trojan","server":"104.21.96.1","port":8443,"alterId":0,"tls":true,"password":"s42%26umY%28K5n*csP4","sni":"JOInMAHDiseRVer-EEu.pAGEs.dEv","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1032","type":"trojan","server":"192.65.217.53","port":8443,"alterId":0,"tls":true,"password":"123456","sni":"top-azx.pages.dev","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1033","type":"trojan","server":"172.66.47.42","port":2053,"alterId":0,"tls":true,"password":"T%40_WvT8Ho%40LW%25w_%2C","sni":"NOp-55q.pAgEs.dEv","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1034","type":"trojan","server":"172.66.44.194","port":2053,"alterId":0,"tls":true,"password":"qCfu8t%24s%7B2m%3BsTxm","sni":"JOinMaHdISeRvEr-C1C.PaGES.dEV","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇭🇰HK香港13","type":"ss","server":"hk01.x.quickcht3.club","port":52611,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"2be0c954-4291-45ea-b47d-ca713180550b","skip-cert-verify":true}
-  - {"name":"未知1035","type":"trojan","server":"104.21.80.1","port":2087,"alterId":0,"tls":true,"password":"IY4gWQIsHV","sni":"esna.twn24.ir","skip-cert-verify":true,"network":"httpupgrade","udp":true}
-  - {"name":"US392","type":"ss","server":"185.172.129.91","port":56220,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"LLInmUBrxMgEn85Y6vVjeH","skip-cert-verify":true}
+  - {"name":"US388","type":"ss","server":"38.114.114.67","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
+  - {"name":"HK81","type":"ss","server":"45.196.222.10","port":61002,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"3e836edc-e738-4e63-964d-ad61d9e3f27b","skip-cert-verify":true}
+  - {"name":"未知1029","type":"trojan","server":"104.17.157.109","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1030","type":"trojan","server":"51.158.146.183","port":443,"alterId":0,"tls":true,"password":"f6a0a650-306e-11ee-b692-1239d0255272","sni":"Speedtest.net","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1031 22.0MB/s","type":"ss","server":"45.158.171.141","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"cvII85TrW6n0OGyfpHVS1u","skip-cert-verify":true}
+  - {"name":"未知1032 151.8KB/s","type":"ss","server":"192.36.61.59","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
+  - {"name":"US389 1.7MB/s","type":"ss","server":"69.50.93.47","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知1033","type":"ss","server":"95.164.44.221","port":8388,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"ZTQzOGFj","skip-cert-verify":true}
+  - {"name":"未知1034","type":"trojan","server":"172.67.70.33","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepo.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -28,15 +28,15 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - US388
+      - HK81
       - 未知1029
       - 未知1030
-      - 未知1031
-      - 未知1032
+      - 未知1031 22.0MB/s
+      - 未知1032 151.8KB/s
+      - US389 1.7MB/s
       - 未知1033
       - 未知1034
-      - 🇭🇰HK香港13
-      - 未知1035
-      - US392
 
   - name: ♻️ 自动选择
     type: url-test
@@ -44,15 +44,15 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - US388
+      - HK81
       - 未知1029
       - 未知1030
-      - 未知1031
-      - 未知1032
+      - 未知1031 22.0MB/s
+      - 未知1032 151.8KB/s
+      - US389 1.7MB/s
       - 未知1033
       - 未知1034
-      - 🇭🇰HK香港13
-      - 未知1035
-      - US392
 
   - name: 🌍 国外媒体
     type: select
@@ -60,60 +60,60 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - US388
+      - HK81
       - 未知1029
       - 未知1030
-      - 未知1031
-      - 未知1032
+      - 未知1031 22.0MB/s
+      - 未知1032 151.8KB/s
+      - US389 1.7MB/s
       - 未知1033
       - 未知1034
-      - 🇭🇰HK香港13
-      - 未知1035
-      - US392
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - US388
+      - HK81
       - 未知1029
       - 未知1030
-      - 未知1031
-      - 未知1032
+      - 未知1031 22.0MB/s
+      - 未知1032 151.8KB/s
+      - US389 1.7MB/s
       - 未知1033
       - 未知1034
-      - 🇭🇰HK香港13
-      - 未知1035
-      - US392
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - US388
+      - HK81
       - 未知1029
       - 未知1030
-      - 未知1031
-      - 未知1032
+      - 未知1031 22.0MB/s
+      - 未知1032 151.8KB/s
+      - US389 1.7MB/s
       - 未知1033
       - 未知1034
-      - 🇭🇰HK香港13
-      - 未知1035
-      - US392
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - US388
+      - HK81
       - 未知1029
       - 未知1030
-      - 未知1031
-      - 未知1032
+      - 未知1031 22.0MB/s
+      - 未知1032 151.8KB/s
+      - US389 1.7MB/s
       - 未知1033
       - 未知1034
-      - 🇭🇰HK香港13
-      - 未知1035
-      - US392
 
   - name: 🎯 全球直连
     type: select
@@ -137,15 +137,15 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - US388
+      - HK81
       - 未知1029
       - 未知1030
-      - 未知1031
-      - 未知1032
+      - 未知1031 22.0MB/s
+      - 未知1032 151.8KB/s
+      - US389 1.7MB/s
       - 未知1033
       - 未知1034
-      - 🇭🇰HK香港13
-      - 未知1035
-      - US392
 
 
 rules:
