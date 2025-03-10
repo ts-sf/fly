@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@172.67.73.163:443?security=tls&type=ws&sni=md1.safecdn.site&path=/Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&host=md1.safecdn.site#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.133:8080#%E6%9C%AA%E7%9F%A52%2012.2MB%2Fs
-ss://YWVzLTI1Ni1nY206UEdGMlRHVUNIUUJDNUlQNQ==@156.231.104.26:18016#%E6%9C%AA%E7%9F%A53%2092.2KB%2Fs
-trojan://bpb-trojan@45.80.110.224:443?sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%E6%9C%AA%E7%9F%A55%201.9MB%2Fs
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.196.168:443?security=tls&sni=trus.moonfree.top#US
+trojan://telegram-id-privatevpns@3.120.197.75:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52%2015.7MB%2Fs
+trojan://b504c643-d081-4c90-8f50-9b0bf0b0902d@5.83.221.31:20223?security=tls&sni=v2sg01.fuqiangren.com#HK
+trojan://WOeXShhJpL@104.18.183.139:443?security=tls&type=ws&sni=08jzus.zdzdzd.xyz&path=/juzigongyi&host=08jzus.zdzdzd.xyz#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.19:6697#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
