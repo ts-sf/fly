@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#US%202.2MB%2Fs
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2375#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
-trojan://rXzh%3B%3FnW1GGKB%28K8@104.21.18.192:443?security=tls&type=ws&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV&path=/tr4BCdusB84159lWnu&host=saikoxpubgm.zhkingkurd13.workers.dev#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@44.224.24.91:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US2
-trojan://telegram-id-privatevpns@13.48.174.77:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@154.197.64.196:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TFNsSUJLd1hGdmZDY1IyaEFWakNi@87.251.79.34:20684#US
+trojan://Aimer@45.66.216.162:50000?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+vmess://eyJ2IjoiMiIsInBzIjoiVVMyIDIwMS41TUIvcyIsImFkZCI6IjE1LjIwNC4yNDkuMCIsInBvcnQiOiI0ODE2MCIsImlkIjoiNWIxMTNjMTItNGRkNC00YmI1LTljMDEtY2ZmMDkyYjU1OWUzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMyIn0=
+trojan://Aimer@162.159.44.76:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
