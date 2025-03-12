@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@188.164.159.246:2096?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN111@104.16.218.64:443?#%E6%9C%AA%E7%9F%A53
-trojan://1593d329-8924-4be5-bc19-1d246039b6a7@104.17.147.22:443?security=tls&type=ws&sni=se1.safecdn.site&path=/Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&host=se1.safecdn.site#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@92.243.74.3:8443?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
-trojan://Aimer@154.197.64.233:443?sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:46668?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK
+trojan://Aimer@162.159.45.156:8443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&path=/?ed=2560&host=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://V8Ggxghv8Z@104.21.48.1:2096?security=tls&type=httpupgrade&sni=esna.twn24.ir&path=/?ed=2048&host=esna.twn24.ir#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#US%201.9MB%2Fs
+trojan://Aimer@162.159.39.181:443?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
