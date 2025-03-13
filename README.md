@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.227:8080#%E6%9C%AA%E7%9F%A5%2010.4MB%2Fs
-trojan://71086710-33eb-11ed-adce-1239d0255272@103.253.24.212:443?security=tls&sni=sg1-trojan.bonds.id#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.93.47:5003#US%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.202:5003#US2%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.27:8008#US3%202.0MB%2Fs
+trojan://87c29139-765a-441e-a82d-fdbb46697695@132.226.29.72:443?security=tls&type=tcp&sni=us-2503-1.upd86.de#US
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.28:443?security=tls&type=tcp&sni=trus.moonfree.top#US2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#%E6%9C%AA%E7%9F%A52%2058.7KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTWlYYXc0eGlHaERKQWxlYW9MR1Vk@92.118.112.101:9483#US3
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.135.123:443#US4
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
