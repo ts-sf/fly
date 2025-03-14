@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://87c29139-765a-441e-a82d-fdbb46697695@132.226.29.72:443?security=tls&type=tcp&sni=us-2503-1.upd86.de#US
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.28:443?security=tls&type=tcp&sni=trus.moonfree.top#US2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#%E6%9C%AA%E7%9F%A52%2058.7KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTWlYYXc0eGlHaERKQWxlYW9MR1Vk@92.118.112.101:9483#US3
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.135.123:443#US4
+trojan://Aimer@216.24.57.1:2053?security=tls&type=tcp&sni=ngep.ambercc.filegear-sg.me#US
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.196.166:443?security=tls&sni=trus.moonfree.top#US2
+trojan://030ba667-fde3-498d-99bb-9a0187519dcf@192.142.4.64:40383?security=tls&type=tcp&sni=cdn.alibaba.com#HK
+trojan://85c41c44-e235-4e0c-9c46-987b7233c837@192.142.4.64:40384?security=tls&sni=400567.xyz#HK2
+trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A52
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
