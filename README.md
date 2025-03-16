@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206N0dDM05SNldKWUVNWkkyVA==@91.148.134.106:20005#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#%E6%9C%AA%E7%9F%A53%201.8MB%2Fs
-trojan://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:443?security=tls&type=ws&sni=app.soft10.ir&path=/rIQYIUFzZ8PfAZpXO7Ci&host=app.soft10.ir#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@161.145.150.14:443?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#US
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSAxLjVNQi9zIiwiYWRkIjoiNC4yNDAuNzMuNTUiLCJwb3J0IjoiMTQxMTgiLCJpZCI6ImQ1MTNiZmIyLWI3YzItNGRjNi1hM2Y5LTU1MTQ1ZjE5ODcwNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNSJ9
+trojan://Aimer@47.236.251.178:443?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
+trojan://fc417d14-f39a-47b7-9e91-ed79825315b3@103.224.182.249:443?security=tls&sni=z6.gozargah.one#US2
+trojan://installshield@38.180.249.177:8443?security=tls&type=tcp&sni=38.180.249.177#%E6%9C%AA%E7%9F%A52
+trojan://bpb-trojan@104.18.107.117:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@121.128.254.108:34522?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
