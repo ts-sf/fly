@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#US%201.9MB%2Fs
-trojan://Aimer@206.238.236.137:8443?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppYjlLUTR0MWRWVzQzbUdOOEZKejZB@213.159.75.89:52185#%E6%9C%AA%E7%9F%A53
-trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@195.133.52.153:8443?security=tls&headerType=http&type=tcp&sni=ru2.asc-sam.io&path=/&host=ru2.asc-sam.io#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://3747000103274291200@3.216.105.141:443?sni=crisp-gibbon.adder289.quest#US2
+ss://YWVzLTI1Ni1nY206N0dDM05SNldKWUVNWkkyVA==@91.148.134.106:20005#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#%E6%9C%AA%E7%9F%A53%201.8MB%2Fs
+trojan://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:443?security=tls&type=ws&sni=app.soft10.ir&path=/rIQYIUFzZ8PfAZpXO7Ci&host=app.soft10.ir#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@161.145.150.14:443?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#US
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSAxLjVNQi9zIiwiYWRkIjoiNC4yNDAuNzMuNTUiLCJwb3J0IjoiMTQxMTgiLCJpZCI6ImQ1MTNiZmIyLWI3YzItNGRjNi1hM2Y5LTU1MTQ1ZjE5ODcwNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNSJ9
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
