@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Julius@193.106.248.196:443?security=tls&type=tcp&sni=miami.juliusnet.com#US
-trojan://Aimer@206.238.237.86:2087?sni=agepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8881#US2%202.0MB%2Fs
-trojan://qCfu8t%24s%7B2m%3BsTxm@172.66.47.62:2053?security=tls&type=ws&sni=JOinMaHdISeRvEr-C1C.PaGES.dEV&host=joinmahdiserver-c1c.pages.dev#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@104.20.30.149:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://s42%26umY%28K5n*csP4@104.21.16.1:8443?security=tls&type=ws&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv&host=JOInMAHDiseRVer-EEu.pAGEs.dEv#%E6%9C%AA%E7%9F%A52
+trojan://030ba667-fde3-498d-99bb-9a0187519dcf@192.142.4.64:42404?security=tls&type=tcp&sni=cdn.alibaba.com#HK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA==@95.164.36.59:8388#%E6%9C%AA%E7%9F%A53%2017.3MB%2Fs
+trojan://Aimer@118.35.88.114:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTc3ZWE1ZjhlZmQzYzI3@57.128.29.173:11106#%E6%9C%AA%E7%9F%A55%20476.1KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
