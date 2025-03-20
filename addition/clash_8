@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-03-20 01:43:06
+# 创建时间: 2025-03-20 11:06:52
 # 使用模版: V2RaySE 默认模版
-# 节点数量：161
+# 节点数量：91
 ####################################
 #
 mixed-port: 7890
@@ -12,167 +12,97 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知1033","type":"trojan","server":"31.223.184.248","port":17721,"alterId":0,"tls":true,"password":"c443be95-725d-4da3-a60f-d35af5bfbff8","sni":"data.52daishu.life","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1034 10.3MB/s","type":"ss","server":"212.102.53.79","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"US346 1.7MB/s","type":"ss","server":"38.143.66.87","port":5000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1035","type":"trojan","server":"188.164.159.55","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepx.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1036","type":"trojan","server":"23.227.60.8","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US347 2.0MB/s","type":"ss","server":"67.220.95.102","port":8881,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"kDWvXYZoTBcGkC4","skip-cert-verify":true}
-  - {"name":"未知1037","type":"trojan","server":"188.164.159.45","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1038","type":"ss","server":"185.47.253.144","port":20010,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"HJ90LZ0HK0MLXUGI","skip-cert-verify":true}
-  - {"name":"未知1039 3.3MB/s","type":"ss","server":"169.150.202.174","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
-  - {"name":"US348","type":"ss","server":"38.68.135.18","port":8090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
-  - {"name":"未知1040","type":"trojan","server":"206.238.237.81","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"agepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1041","type":"trojan","server":"172.66.46.254","port":443,"alterId":0,"tls":true,"password":"auto","sni":"dcf741e8.epeius-2gy.pages.dev","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1042","type":"trojan","server":"173.245.59.128","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"agepy.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1043","type":"trojan","server":"68.183.212.103","port":443,"alterId":0,"tls":true,"password":"3bcd9e33-8377-4b32-af33-217158577ff3","sni":"kdlsupport.zendesk.com","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1044 326.7KB/s","type":"ss","server":"156.231.104.26","port":18016,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PGF2TGUCHQBC5IP5","skip-cert-verify":true}
-  - {"name":"US349 194.1KB/s","type":"ss","server":"23.185.248.13","port":17003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"LKG8G8VL60RSB59P","skip-cert-verify":true}
-  - {"name":"未知1045 160.4KB/s","type":"ss","server":"45.87.175.192","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1RWwXhwfAB5gAEozU4G2Pg","skip-cert-verify":true}
-  - {"name":"未知1046","type":"trojan","server":"104.17.165.253","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1047","type":"trojan","server":"183.240.139.234","port":2053,"alterId":0,"tls":true,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","sni":"official.tokyometropolis.kherson.ua","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1048 1.8MB/s","type":"ss","server":"51.77.53.200","port":2375,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
-  - {"name":"未知1049 10.6MB/s","type":"ss","server":"149.34.244.71","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"未知1050","type":"trojan","server":"154.31.115.16","port":28340,"alterId":0,"tls":true,"password":"lCnTqRDYyYzSCwCaa9euS0BO2KlaepCyyepSOSN8ACB86DZl3aZ3c0n8xOxTI55w3O4SX","sni":"social.meijireform.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1051","type":"ss","server":"134.195.196.12","port":5500,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"未知1052","type":"trojan","server":"108.61.171.167","port":443,"alterId":0,"tls":true,"password":"mainssh-niwrhf87","sni":"getgrpc.mainssh.xyz","skip-cert-verify":true,"network":"grpc","udp":true}
-  - {"name":"未知1053","type":"ss","server":"172.236.19.190","port":1080,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"S_kG5IVobozVy77FTaXYzg","skip-cert-verify":true}
-  - {"name":"未知1054","type":"trojan","server":"104.21.71.8","port":443,"alterId":0,"tls":true,"password":"QmxV21qnHf","sni":"tabnak.ITN24.IR","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1055 1.8MB/s","type":"ss","server":"217.182.198.219","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
-  - {"name":"🇦🇺AU澳大利亚3","type":"ss","server":"free.2weradf.xyz","port":36411,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1db3cd57-3556-4432-b91a-86e44cc4c302","skip-cert-verify":true}
-  - {"name":"未知1056","type":"ss","server":"134.195.196.81","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
-  - {"name":"未知1057","type":"trojan","server":"104.17.102.149","port":2053,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"bpb-WorkEr-panel-bcr.PagEs.DEv","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇹🇼TW台湾9","type":"ss","server":"free.2weradf.xyz","port":36241,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1db3cd57-3556-4432-b91a-86e44cc4c302","skip-cert-verify":true}
-  - {"name":"未知1058","type":"trojan","server":"63.177.144.200","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"TW6","type":"trojan","server":"36.234.131.47","port":17786,"alterId":0,"tls":true,"password":"c443be95-725d-4da3-a60f-d35af5bfbff8","skip-cert-verify":true,"udp":true}
-  - {"name":"US350","type":"trojan","server":"65.75.194.43","port":10511,"alterId":0,"tls":true,"password":"95b","sni":"2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com","skip-cert-verify":true,"udp":true}
-  - {"name":"HK83","type":"trojan","server":"45.146.232.171","port":46668,"alterId":0,"tls":true,"password":"b2d0b65a-616c-433d-8e7b-08af61017fa8","sni":"q08m.vgraxiw73s.hasyaf.cn","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US351","type":"trojan","server":"127.0.0.1","port":8080,"alterId":0,"tls":true,"password":"aaabcbc-acba-bcaa-cdab-acabacbbacbc","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US352","type":"ss","server":"38.68.134.202","port":8000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"US353 66.6MB/s","type":"ss","server":"64.74.163.130","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
-  - {"name":"未知1059","type":"trojan","server":"188.114.97.88","port":2053,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"G1-21N.paGEs.dev","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1060 719.8KB/s","type":"ss","server":"54.36.174.181","port":6679,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
-  - {"name":"未知1061","type":"trojan","server":"104.26.4.60","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"zamim340.ggff.net","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US354","type":"trojan","server":"216.24.57.207","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1062 1.8MB/s","type":"ss","server":"51.77.53.200","port":445,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"zDNVedRFPQexG9v","skip-cert-verify":true}
-  - {"name":"🇨🇳湖北5","type":"trojan","server":"jp3.pptv-tv.store","port":17723,"alterId":0,"tls":true,"password":"c443be95-725d-4da3-a60f-d35af5bfbff8","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1063","type":"trojan","server":"104.17.57.75","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1064","type":"ss","server":"134.195.196.12","port":5600,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1065","type":"trojan","server":"198.41.220.2","port":443,"alterId":0,"tls":true,"password":"242a3d8eee5e4ed1a6bfa4141d549a25","sni":"jobscareerfortoday.com","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1066","type":"trojan","server":"104.18.2.150","port":443,"alterId":0,"tls":true,"password":"trojan","sni":"main.xicun.us.kg","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1067","type":"trojan","server":"173.245.59.201","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepz.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US355 1.9MB/s","type":"ss","server":"69.50.95.245","port":7002,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
-  - {"name":"🇬🇧GB英国3","type":"ss","server":"free.2weradf.xyz","port":36271,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1db3cd57-3556-4432-b91a-86e44cc4c302","skip-cert-verify":true}
-  - {"name":"未知1068 119.9KB/s","type":"ss","server":"45.87.175.166","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"cvII85TrW6n0OGyfpHVS1u","skip-cert-verify":true}
-  - {"name":"未知1069","type":"trojan","server":"154.197.64.189","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"agepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"HK84","type":"trojan","server":"5.83.221.31","port":50026,"alterId":0,"tls":true,"password":"699ceb45-ab95-4838-a534-dd914a936eb4","sni":"v2tw01.fuqiangren.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1070 3.3MB/s","type":"ss","server":"45.151.62.54","port":28825,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"0zyDRZ1XmNXaaCAN7KEA8a","skip-cert-verify":true}
-  - {"name":"未知1071","type":"trojan","server":"18.153.94.168","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepx.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US356","type":"trojan","server":"91.149.239.198","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"agepq.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1072","type":"trojan","server":"172.66.44.230","port":8443,"alterId":0,"tls":true,"password":"8r%3C%5B9%27l6hAO%238ZQi","sni":"Koma-YT.PAGeS.Dev","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US357 20.0KB/s","type":"ss","server":"38.68.135.18","port":4444,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
-  - {"name":"未知1073","type":"ss","server":"45.158.171.141","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"4a2rfixophdjffa8KVA4Aa","skip-cert-verify":true}
-  - {"name":"🇭🇰HK香港8","type":"ss","server":"8tv68qhq.slashdevslashnetslashtun.net","port":15013,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"6UK8CRE3C5RMPTF4","skip-cert-verify":true}
-  - {"name":"未知1074","type":"trojan","server":"162.159.153.7","port":443,"alterId":0,"tls":true,"password":"71ed6628-5870-4d19-8a52-f2a3ba3d4898","sni":"vbbb.ylks2024.us.kg","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1075","type":"trojan","server":"172.67.204.120","port":443,"alterId":0,"tls":true,"password":"6d898085-bf6a-449b-9763-0073d4dc2ce0","sni":"BOStON05.890603.XYz","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1076","type":"trojan","server":"104.21.48.1","port":443,"alterId":0,"tls":true,"password":"6d898085-bf6a-449b-9763-0073d4dc2ce0","sni":"BOsToN01.818185.GGff.NET","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1077 1.8MB/s","type":"ss","server":"156.146.62.161","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"未知1078","type":"trojan","server":"13.134.4.69","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1079","type":"trojan","server":"172.66.47.42","port":2053,"alterId":0,"tls":true,"password":"T%40_WvT8Ho%40LW%25w_%2C","sni":"NOp-55q.pAgEs.dEv","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1080","type":"trojan","server":"108.162.195.199","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepo.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1081","type":"ss","server":"45.87.175.157","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1RWwXhwfAB5gAEozU4G2Pg","skip-cert-verify":true}
-  - {"name":"未知1082 4.3MB/s","type":"ss","server":"92.223.2.77","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d0fa3a9b-2115-4cc0-a8f5-7f4f7caf6ec1","skip-cert-verify":true}
-  - {"name":"未知1083","type":"trojan","server":"104.21.16.1","port":2087,"alterId":0,"tls":true,"password":"NcguCi3hdF","sni":"tasnim.twn24.ir","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US358","type":"trojan","server":"108.165.152.239","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepx.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1084","type":"trojan","server":"160.16.149.225","port":443,"alterId":0,"tls":true,"password":"3bcd9e33-8377-4b32-af33-217158577ff3","sni":"kdlsupport.zendesk.com","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1085","type":"trojan","server":"172.67.204.75","port":443,"alterId":0,"tls":true,"password":"a1925233-669e-4068-b740-d77f41986c43","sni":"ny02.818185.xyz","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US359 2.0MB/s","type":"ss","server":"142.202.49.84","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
-  - {"name":"US360 71.6KB/s","type":"ss","server":"38.68.135.18","port":5500,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
-  - {"name":"US361","type":"trojan","server":"66.187.6.220","port":443,"alterId":0,"tls":true,"password":"DHQ7G8SC858VE245","sni":"mokuba.ssss.monster","skip-cert-verify":true,"udp":true}
-  - {"name":"US362","type":"trojan","server":"45.194.53.13","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"agept.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1086","type":"trojan","server":"89.34.230.155","port":443,"alterId":0,"tls":true,"password":"fsoOufuTGmSKzRDaAwAbww","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1087","type":"trojan","server":"104.17.147.5","port":443,"alterId":0,"tls":true,"password":"2e3562a819634de686ade78e434c0963","sni":"jobscareertoday.com","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1088","type":"trojan","server":"112.162.70.172","port":50000,"alterId":0,"tls":true,"password":"Aimer","sni":"agepa.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1089","type":"trojan","server":"104.17.40.244","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"td.promote.icu","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US363","type":"trojan","server":"199.59.243.228","port":443,"alterId":0,"tls":true,"password":"4d048fc6-d944-41dd-b327-10856adcc82d","sni":"zi.you.usdtvfk.top","skip-cert-verify":true,"udp":true}
-  - {"name":"US364","type":"ss","server":"38.107.226.49","port":3306,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"US365 996.3KB/s","type":"ss","server":"38.121.43.71","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
-  - {"name":"🇭🇰HK香港9","type":"ss","server":"free.2apzhfa.xyz","port":31141,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"40c8e357-37ab-40a7-b855-1a02517537cc","skip-cert-verify":true}
-  - {"name":"US366","type":"trojan","server":"192.157.56.142","port":443,"alterId":0,"tls":true,"password":"4863e1b2-ec2f-4c71-b862-ce533028e57e","sni":"trus.moonfree.top","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1090 1.3MB/s","type":"ss","server":"54.36.174.181","port":3389,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1091 1.8MB/s","type":"ss","server":"145.239.6.202","port":9101,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"e4FCWrgpkji3QY","skip-cert-verify":true}
-  - {"name":"未知1092 763.6KB/s","type":"ss","server":"57.128.31.116","port":11104,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"257941d98fe0e7ce","skip-cert-verify":true}
-  - {"name":"🇨🇳CN中国7","type":"trojan","server":"47.242.11.244","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"agepj.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1093","type":"trojan","server":"104.18.79.171","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1094","type":"trojan","server":"185.236.233.111","port":2053,"alterId":0,"tls":true,"password":"ba74833c-8c0f-4dcd-8cbc-13e3c32d3765","sni":"ftp.debian.org","skip-cert-verify":true,"udp":true}
-  - {"name":"US367 2.0MB/s","type":"ss","server":"142.202.48.105","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
-  - {"name":"未知1095","type":"trojan","server":"70.34.206.32","port":443,"alterId":0,"tls":true,"password":"Bw5Mz7QkVp","sni":"z-v2-077787.kailib.com","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1096 1.7MB/s","type":"ss","server":"51.77.53.200","port":8119,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"cdBIDV42DCwnfIN","skip-cert-verify":true}
-  - {"name":"未知1097 1.5MB/s","type":"ss","server":"198.244.142.139","port":11104,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"2396c6f09da10ec2","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国41","type":"trojan","server":"ignacio.ns.cloudflare.com","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"agepj.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1098","type":"trojan","server":"172.66.45.36","port":2083,"alterId":0,"tls":true,"password":"Uy1%2CSF%23%5Dszr%25y.%3Cs","sni":"jOinMaHdIsErVer-6Qj.PAgES.DEv","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1099","type":"trojan","server":"51.116.121.75","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepx.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US368","type":"trojan","server":"167.68.4.223","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"ageph.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1100","type":"trojan","server":"143.110.246.228","port":443,"alterId":0,"tls":true,"password":"3bcd9e33-8377-4b32-af33-217158577ff3","sni":"kdlsupport.zendesk.com","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1101","type":"trojan","server":"188.164.159.246","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"acepo.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇨🇳湖北6","type":"trojan","server":"vn2.pptv-tv.store","port":17752,"alterId":0,"tls":true,"password":"c443be95-725d-4da3-a60f-d35af5bfbff8","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1102","type":"trojan","server":"104.19.86.120","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"agepy.aimercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1103","type":"trojan","server":"172.67.202.155","port":2083,"alterId":0,"tls":true,"password":"xZoTMbL3vm","sni":"zoornazanfarsineveshtam.onetwothree123.ir","skip-cert-verify":true,"network":"httpupgrade","udp":true}
-  - {"name":"未知1104","type":"trojan","server":"104.21.48.1","port":8443,"alterId":0,"tls":true,"password":"s42%26umY%28K5n*csP4","sni":"JOInMAHDiseRVer-EEu.pAGEs.dEv","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇺🇸US美国42 52.1KB/s","type":"trojan","server":"18.171.195.152","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1105","type":"trojan","server":"87.120.204.100","port":443,"alterId":0,"tls":true,"password":"3747000103274291200","sni":"crucial-moccasin.adder289.quest","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1106","type":"trojan","server":"43.156.116.194","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"agepw.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"US369 2.0MB/s","type":"ss","server":"67.220.95.102","port":9090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
-  - {"name":"未知1107","type":"ss","server":"206.245.211.22","port":19012,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"E8CM3R3BWXQQNYMM","skip-cert-verify":true}
-  - {"name":"未知1108 461.6KB/s","type":"ss","server":"154.205.147.24","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d0fa3a9b-2115-4cc0-a8f5-7f4f7caf6ec1","skip-cert-verify":true}
-  - {"name":"未知1109 13.7MB/s","type":"ss","server":"45.87.175.199","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"cvII85TrW6n0OGyfpHVS1u","skip-cert-verify":true}
-  - {"name":"未知1110","type":"trojan","server":"108.162.195.227","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"agepj.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"US370","type":"trojan","server":"108.165.152.65","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1111","type":"trojan","server":"104.21.32.1","port":8443,"alterId":0,"tls":true,"password":"s42%26umY%28K5n*csP4","sni":"JOInMAHDiseRVer-EEu.pAGEs.dEv","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US371","type":"vmess","server":"38.99.82.193","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkvws"}}
-  - {"name":"US372","type":"trojan","server":"103.116.7.103","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1112","type":"ss","server":"206.245.211.18","port":19008,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"1MD7Y1HE8FFHAB0N","skip-cert-verify":true}
-  - {"name":"未知1113 1.7MB/s","type":"ss","server":"51.77.53.200","port":4444,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
-  - {"name":"未知1114 4.0MB/s","type":"ss","server":"185.22.152.16","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d0fa3a9b-2115-4cc0-a8f5-7f4f7caf6ec1","skip-cert-verify":true}
-  - {"name":"US373","type":"trojan","server":"108.165.152.80","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"ageph.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US374","type":"trojan","server":"103.116.7.189","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepx.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1115 147.0KB/s","type":"ss","server":"103.243.215.17","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
-  - {"name":"未知1116 320.7KB/s","type":"trojan","server":"3.123.117.245","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1117","type":"trojan","server":"45.86.229.28","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"US375 1.9MB/s","type":"ss","server":"67.220.95.102","port":5498,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"lGqs95QkFHo2NV","skip-cert-verify":true}
-  - {"name":"未知1118","type":"trojan","server":"188.114.99.102","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"hb.lii2010.us.kg","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1119","type":"ss","server":"77.83.246.74","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"mCeosRacsgFRtnJPq3zctq","skip-cert-verify":true}
-  - {"name":"未知1120","type":"ss","server":"139.28.4.95","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d0fa3a9b-2115-4cc0-a8f5-7f4f7caf6ec1","skip-cert-verify":true}
-  - {"name":"未知1121","type":"trojan","server":"198.41.217.62","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1122","type":"trojan","server":"104.17.147.22","port":2053,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"bPB-worker-PANeL1-e4p.paGes.DeV","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1123","type":"trojan","server":"5.253.41.160","port":443,"alterId":0,"tls":true,"password":"d9576e81-fc34-46f2-b624-0c1e99cde4be","sni":"jp-full.privateip.net","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1124","type":"trojan","server":"92.63.192.110","port":444,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepz.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1125","type":"trojan","server":"154.197.64.67","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"agept.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1126 135.7KB/s","type":"ss","server":"154.196.244.20","port":16010,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"2UOL8ESS12X0J31P","skip-cert-verify":true}
-  - {"name":"未知1127","type":"trojan","server":"185.107.56.55","port":443,"alterId":0,"tls":true,"password":"4863e1b2-ec2f-4c71-b862-ce533028e57e","sni":"trus.moonfree.top","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1128 223.0KB/s","type":"ss","server":"45.87.175.10","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
-  - {"name":"未知1129","type":"ss","server":"206.245.211.24","port":19014,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"7PKV15Z9PTBNEJCI","skip-cert-verify":true}
-  - {"name":"🇨🇦CA加拿大3","type":"ss","server":"free.2weradf.xyz","port":36441,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1db3cd57-3556-4432-b91a-86e44cc4c302","skip-cert-verify":true}
-  - {"name":"未知1130","type":"trojan","server":"52.69.149.34","port":20230,"alterId":0,"tls":true,"password":"90e7b2f3-fb61-4fd7-959f-176e9a51d8d7","sni":"jp006.421421.xyz","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1131","type":"trojan","server":"5.182.84.120","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"agepy.aimercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1132","type":"trojan","server":"146.56.155.102","port":20003,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepo.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1133","type":"trojan","server":"162.159.44.168","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepx.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"🇰🇷KR韩国15","type":"trojan","server":"183.96.243.131","port":50004,"alterId":0,"tls":true,"password":"Aimer","sni":"agepj.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1134","type":"trojan","server":"38.180.249.177","port":8443,"alterId":0,"tls":true,"password":"installshield","sni":"38.180.249.177","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1135 9.9MB/s","type":"ss","server":"212.102.53.193","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"未知1136","type":"trojan","server":"104.19.35.14","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"BPB-wOrkeR-pANel1-E4P.pageS.DeV","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1137 4.2MB/s","type":"ss","server":"142.4.216.225","port":80,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"JIhN6rBKkaEboLNXVSv5rq","skip-cert-verify":true}
-  - {"name":"🇭🇰HK香港10","type":"ss","server":"free.2weradf.xyz","port":36145,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1db3cd57-3556-4432-b91a-86e44cc4c302","skip-cert-verify":true}
-  - {"name":"HK85 49.1KB/s","type":"vmess","server":"103.149.183.178","port":54675,"cipher":"auto","uuid":"3a907956-f668-4e6b-ea03-0949f0c9c0a5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"US376","type":"trojan","server":"104.129.167.128","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1138","type":"trojan","server":"67.219.108.30","port":443,"alterId":0,"tls":true,"password":"bv4kWm6T3P8Y","sni":"ash.f3f93b29-43d0-4aa1-87c5-574f5fafbda7.kailib.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1139 17.1KB/s","type":"ss","server":"154.205.159.100","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
-  - {"name":"未知1140","type":"ss","server":"94.228.165.178","port":58176,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"afKAHp1VfRWZu91LIi9o0D","skip-cert-verify":true}
-  - {"name":"未知1141 3.8MB/s","type":"trojan","server":"154.31.114.42","port":28335,"alterId":0,"tls":true,"password":"B3Kyp23AXFw95RaAwzlXZDASNeNDZz9ROEEpxBFae2yAR4O6Sc0YqCluOY3CxTDp83KxD","sni":"national.meijireform.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知1142","type":"ss","server":"206.245.211.25","port":19015,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"55N09NCXWEH7GQMF","skip-cert-verify":true}
-  - {"name":"US377","type":"trojan","server":"216.198.53.212","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"agept.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1143 55.8KB/s","type":"vmess","server":"193.108.117.143","port":24164,"cipher":"auto","uuid":"aa3c5c18-6578-4de3-b890-2fd25c3a8f35","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知1144 712.9KB/s","type":"ss","server":"89.23.103.21","port":51584,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oYQ8JwEldYn4KT2gfZ6eNl","skip-cert-verify":true}
+  - {"name":"未知1077","type":"trojan","server":"104.16.112.144","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"HK83","type":"trojan","server":"219.76.13.181","port":443,"alterId":0,"tls":true,"password":"SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ","sni":"arbettp.freetrade.link","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1078","type":"trojan","server":"18.134.54.61","port":22222,"alterId":0,"tls":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1079","type":"trojan","server":"104.26.4.60","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"zamim340.ggff.net","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1080 3.6MB/s","type":"ss","server":"156.231.104.21","port":18011,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"17J24GBDGLTUHDF3","skip-cert-verify":true}
+  - {"name":"未知1081 2.2MB/s","type":"ss","server":"139.28.4.95","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d0fa3a9b-2115-4cc0-a8f5-7f4f7caf6ec1","skip-cert-verify":true}
+  - {"name":"未知1082","type":"trojan","server":"185.67.125.177","port":443,"alterId":0,"tls":true,"password":"3747000103274291200","sni":"quality-albacore.adder289.quest","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1083","type":"trojan","server":"27.50.49.188","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"agept.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1084 10.1MB/s","type":"ss","server":"141.98.101.178","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
+  - {"name":"未知1085 1.7MB/s","type":"ss","server":"54.36.174.181","port":7001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"RexnBgU7EV5ADxG","skip-cert-verify":true}
+  - {"name":"未知1086 11.7MB/s","type":"ss","server":"89.221.224.166","port":8388,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"ODMwZWIz","skip-cert-verify":true}
+  - {"name":"未知1087 383.8KB/s","type":"ss","server":"185.47.254.87","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
+  - {"name":"未知1088 14.7MB/s","type":"vmess","server":"172.99.190.207","port":55577,"cipher":"auto","uuid":"e922d485-98a7-475a-9a47-cde3722ac82e","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知1089","type":"trojan","server":"172.66.47.84","port":2083,"alterId":0,"tls":true,"password":"fnufMt%3AsQ%26rC0HUu","sni":"joinmAHDIsERVER-6vv.PaGeS.dEv","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1090","type":"ss","server":"154.196.244.11","port":16001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"DQ2BBMW1APSCW8HD","skip-cert-verify":true}
+  - {"name":"未知1091","type":"ss","server":"174.138.17.254","port":52252,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"mejtz4AxXWj9zo4QBbvz6z","skip-cert-verify":true}
+  - {"name":"未知1092","type":"trojan","server":"103.253.24.212","port":443,"alterId":0,"tls":true,"password":"71086710-33eb-11ed-adce-1239d0255272","sni":"sg1-trojan.bonds.id","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1093","type":"trojan","server":"45.66.216.162","port":50000,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepz.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1094","type":"trojan","server":"118.37.220.10","port":11300,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepo.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"HK84","type":"trojan","server":"5.83.221.31","port":30052,"alterId":0,"tls":true,"password":"c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f","sni":"v2th01.fuqiangren.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1095","type":"ss","server":"92.118.205.219","port":20037,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"B1FJJ1Q6ET728LNF","skip-cert-verify":true}
+  - {"name":"未知1096 3.9MB/s","type":"trojan","server":"154.31.114.182","port":28334,"alterId":0,"tls":true,"password":"l3ESwpOSN3FYFAR93RYe6SAyxa0XSFC2zlSaqTClDZ4OAanXOxweCDZznRc28DyY3yTID","sni":"sakoku.meijireform.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1097","type":"trojan","server":"188.164.159.74","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US362","type":"trojan","server":"160.79.104.131","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepx.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US363","type":"vmess","server":"38.14.107.233","port":38003,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/340434130032"}}
+  - {"name":"未知1098","type":"vmess","server":"128.204.223.119","port":28582,"cipher":"auto","uuid":"4e10c051-2495-427b-a8ed-a627d88b59ee","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/4e10c051-2495-427b-a8ed-a627d88b59ee-vm?ed=2048"}}
+  - {"name":"未知1099","type":"trojan","server":"46.254.93.175","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"ageph.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1100","type":"trojan","server":"87.120.204.100","port":443,"alterId":0,"tls":true,"password":"3747000103274291200","sni":"crucial-moccasin.adder289.quest","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US364","type":"trojan","server":"45.194.53.13","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"agept.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"US365 24.1KB/s","type":"ss","server":"23.185.248.13","port":17003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"LKG8G8VL60RSB59P","skip-cert-verify":true}
+  - {"name":"US366 73.2KB/s","type":"ss","server":"38.68.135.18","port":6697,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TEzjfAYq2IjtuoS","skip-cert-verify":true}
+  - {"name":"未知1101","type":"trojan","server":"5.182.84.22","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepx.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1102 1.8MB/s","type":"ss","server":"145.239.6.202","port":4444,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
+  - {"name":"未知1103","type":"trojan","server":"52.195.195.11","port":50001,"alterId":0,"tls":true,"password":"2155145a-b1b5-443a-8977-670f6bd10f02","sni":"bgroup.node1.t.nodelist-airport.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1104","type":"trojan","server":"172.66.44.182","port":443,"alterId":0,"tls":true,"password":"8QOe%29%26jIP%5E%5Dl%7BP.1","sni":"JoInMAHdisErVER-78D.PaGEs.DEV","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1105","type":"trojan","server":"161.35.34.48","port":443,"alterId":0,"tls":true,"password":"2cba4104747d49d18319e5ade1b93ab5","sni":"yourjobnavigator.online","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1106","type":"trojan","server":"172.67.176.206","port":2053,"alterId":0,"tls":true,"password":"ZJU29smXwp","sni":"damn-mci-again-3.danesh-bonyan.Store","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1107","type":"trojan","server":"104.21.112.1","port":8443,"alterId":0,"tls":true,"password":"s42%26umY%28K5n*csP4","sni":"JOInMAHDiseRVer-EEu.pAGEs.dEv","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US367","type":"trojan","server":"216.24.57.1","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"ngep.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1108","type":"trojan","server":"104.21.63.236","port":443,"alterId":0,"tls":true,"password":"6d898085-bf6a-449b-9763-0073d4dc2ce0","sni":"BOSton01.890604.GGff.NeT","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"HK85","type":"trojan","server":"45.146.232.173","port":42881,"alterId":0,"tls":true,"password":"b2d0b65a-616c-433d-8e7b-08af61017fa8","sni":"q08m.vgraxiw73s.hasyaf.cn","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1109","type":"trojan","server":"162.159.44.231","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepo.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1110","type":"trojan","server":"172.66.44.109","port":2053,"alterId":0,"tls":true,"password":"aP%26%7B%29UBD%40qDGS9b%3B","sni":"JoinmAhDiSERver-7Hd.paGes.Dev","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1111 14.5MB/s","type":"trojan","server":"13.38.175.48","port":22222,"alterId":0,"tls":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1112","type":"ss","server":"45.154.206.189","port":20038,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"T0ELS4804BGXKGMO","skip-cert-verify":true}
+  - {"name":"未知1113 1.7MB/s","type":"ss","server":"51.77.53.200","port":5601,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国18","type":"trojan","server":"47.79.37.55","port":2077,"alterId":0,"tls":true,"password":"Aimer","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1114","type":"ss","server":"38.54.27.37","port":995,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"MDA4MjFlMjAzOTdhMzViOWI1MTFhNGY3YWRjYmVl","skip-cert-verify":true}
+  - {"name":"未知1115","type":"ss","server":"5.253.41.160","port":8443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"24efb418-edaf-4331-b01f-4567900a0898","skip-cert-verify":true}
+  - {"name":"未知1116 1.7MB/s","type":"ss","server":"51.77.53.200","port":5000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知1117","type":"trojan","server":"45.134.21.8","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"agepq.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1118","type":"trojan","server":"104.21.44.185","port":443,"alterId":0,"tls":true,"password":"7wzLwK55Dw","sni":"Freedomisnear.onetwothree123.ir","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1119 1.8MB/s","type":"ss","server":"51.77.53.200","port":443,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"pKEW8JPByTVTLtM","skip-cert-verify":true}
+  - {"name":"US368 105.9MB/s","type":"ss","server":"37.19.198.243","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
+  - {"name":"US369 1.9MB/s","type":"ss","server":"67.220.95.102","port":5004,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知1120","type":"ss","server":"206.245.211.20","port":19010,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"UFRZ6QXAT9H6PVC7","skip-cert-verify":true}
+  - {"name":"未知1121","type":"ss","server":"5.180.45.142","port":18429,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"8VMVo6I6vwTB6hlbnW8Ii5","skip-cert-verify":true}
+  - {"name":"未知1122 1.8MB/s","type":"ss","server":"149.202.82.172","port":3389,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知1123","type":"trojan","server":"168.138.204.44","port":587,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepo.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1124","type":"trojan","server":"188.164.159.171","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"agept.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1125","type":"trojan","server":"190.93.246.247","port":443,"alterId":0,"tls":true,"password":"dba20dcb635e430fa4d3bfc303a149d2","sni":"jobscareerforlawyers.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1126","type":"trojan","server":"172.66.47.170","port":2053,"alterId":0,"tls":true,"password":"Ys.c7%3FD9qmBLo%5EZ%5D","sni":"JOInMaHDiSeRVeR-333.pAGEs.DeV","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1127 1.1MB/s","type":"ss","server":"95.164.9.144","port":2927,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"ug4Fu79SEREdFGlt2sUyT4","skip-cert-verify":true}
+  - {"name":"未知1128 264.3KB/s","type":"ss","server":"45.87.175.69","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
+  - {"name":"未知1129","type":"trojan","server":"104.21.97.119","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"td.promote.icu","skip-cert-verify":true,"udp":true}
+  - {"name":"US370","type":"trojan","server":"52.40.102.162","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepx.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1130","type":"trojan","server":"129.154.207.203","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"agept.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1131","type":"trojan","server":"104.21.44.185","port":2087,"alterId":0,"tls":true,"password":"IY4gWQIsHV","sni":"Freedomisnear.onetwothree123.ir","skip-cert-verify":true,"network":"httpupgrade","udp":true}
+  - {"name":"US371 130.9MB/s","type":"vmess","server":"15.204.248.92","port":30562,"cipher":"auto","uuid":"82466715-6a58-4046-a363-a0d18e5b2ab4","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知1132","type":"trojan","server":"104.21.112.1","port":2087,"alterId":0,"tls":true,"password":"1%5D%3AT%3CL4h4%24H5ZF8%3C","sni":"joiNMAhdiserVeR-H7d.Pages.deV","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1133","type":"trojan","server":"185.107.56.195","port":443,"alterId":0,"tls":true,"password":"4863e1b2-ec2f-4c71-b862-ce533028e57e","sni":"trus.moonfree.top","skip-cert-verify":true,"udp":true}
+  - {"name":"US372 106.6MB/s","type":"ss","server":"156.146.38.170","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
+  - {"name":"未知1134 1.8MB/s","type":"ss","server":"145.239.6.202","port":8888,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知1135","type":"ss","server":"37.143.128.125","port":20012,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y0TILJ399Q270OZ0","skip-cert-verify":true}
+  - {"name":"未知1136","type":"trojan","server":"172.67.159.56","port":443,"alterId":0,"tls":true,"password":"d67cfeaf-b277-44ac-ab99-9dd02a7c5299","sni":"Fgh9JkR5.890617.xYz","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1137","type":"trojan","server":"206.238.236.8","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"agept.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1138","type":"trojan","server":"104.21.47.176","port":443,"alterId":0,"tls":true,"password":"52701795-3c3b-46b4-b7cf-c5978b3a4cf2","sni":"hdfyc1.achaemenidempireofpersia.uk","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1139","type":"trojan","server":"121.153.45.186","port":18004,"alterId":0,"tls":true,"password":"Aimer","sni":"agept.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1140","type":"ss","server":"46.29.238.83","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"AhkxiPV8FVOXXtH7xbIaot","skip-cert-verify":true}
+  - {"name":"US373","type":"ss","server":"142.202.48.52","port":8080,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"KixLvKzwjekG00rm","skip-cert-verify":true}
+  - {"name":"HK86","type":"trojan","server":"43.154.34.74","port":1935,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepz.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1141 1.8MB/s","type":"ss","server":"217.182.198.219","port":5001,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"US374 2.0MB/s","type":"ss","server":"38.121.43.71","port":7307,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"FoOiGlkAA9yPEGP","skip-cert-verify":true}
+  - {"name":"未知1142 12.7MB/s","type":"ss","server":"57.130.11.121","port":11202,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"576f16c6d7e3ec50","skip-cert-verify":true}
+  - {"name":"HK87","type":"trojan","server":"192.142.4.64","port":42395,"alterId":0,"tls":true,"password":"030ba667-fde3-498d-99bb-9a0187519dcf","sni":"cdn.alibaba.com","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1143 355.7KB/s","type":"ss","server":"213.109.147.242","port":62685,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"VpKABcOpNNA0l5G2AVOmw8","skip-cert-verify":true}
+  - {"name":"未知1144 1.7MB/s","type":"ss","server":"149.202.82.172","port":2375,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
+  - {"name":"US375 1.9MB/s","type":"ss","server":"67.220.95.102","port":5003,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"g5MeD6Ft3CWlJId","skip-cert-verify":true}
+  - {"name":"未知1145 323.9KB/s","type":"ss","server":"45.87.175.157","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1RWwXhwfAB5gAEozU4G2Pg","skip-cert-verify":true}
+  - {"name":"HK88","type":"trojan","server":"45.146.232.173","port":27401,"alterId":0,"tls":true,"password":"b2d0b65a-616c-433d-8e7b-08af61017fa8","sni":"q08m.vgraxiw73s.hasyaf.cn","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1146","type":"ss","server":"223.165.5.107","port":20023,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"2MKDZ9YNQNBMWKOX","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -180,167 +110,97 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知1033
-      - 未知1034 10.3MB/s
-      - US346 1.7MB/s
-      - 未知1035
-      - 未知1036
-      - US347 2.0MB/s
-      - 未知1037
-      - 未知1038
-      - 未知1039 3.3MB/s
-      - US348
-      - 未知1040
-      - 未知1041
-      - 未知1042
-      - 未知1043
-      - 未知1044 326.7KB/s
-      - US349 194.1KB/s
-      - 未知1045 160.4KB/s
-      - 未知1046
-      - 未知1047
-      - 未知1048 1.8MB/s
-      - 未知1049 10.6MB/s
-      - 未知1050
-      - 未知1051
-      - 未知1052
-      - 未知1053
-      - 未知1054
-      - 未知1055 1.8MB/s
-      - 🇦🇺AU澳大利亚3
-      - 未知1056
-      - 未知1057
-      - 🇹🇼TW台湾9
-      - 未知1058
-      - TW6
-      - US350
+      - 未知1077
       - HK83
-      - US351
-      - US352
-      - US353 66.6MB/s
-      - 未知1059
-      - 未知1060 719.8KB/s
-      - 未知1061
-      - US354
-      - 未知1062 1.8MB/s
-      - 🇨🇳湖北5
-      - 未知1063
-      - 未知1064
-      - 未知1065
-      - 未知1066
-      - 未知1067
-      - US355 1.9MB/s
-      - 🇬🇧GB英国3
-      - 未知1068 119.9KB/s
-      - 未知1069
-      - HK84
-      - 未知1070 3.3MB/s
-      - 未知1071
-      - US356
-      - 未知1072
-      - US357 20.0KB/s
-      - 未知1073
-      - 🇭🇰HK香港8
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077 1.8MB/s
       - 未知1078
       - 未知1079
-      - 未知1080
-      - 未知1081
-      - 未知1082 4.3MB/s
+      - 未知1080 3.6MB/s
+      - 未知1081 2.2MB/s
+      - 未知1082
       - 未知1083
-      - US358
-      - 未知1084
-      - 未知1085
-      - US359 2.0MB/s
-      - US360 71.6KB/s
-      - US361
-      - US362
-      - 未知1086
-      - 未知1087
-      - 未知1088
+      - 未知1084 10.1MB/s
+      - 未知1085 1.7MB/s
+      - 未知1086 11.7MB/s
+      - 未知1087 383.8KB/s
+      - 未知1088 14.7MB/s
       - 未知1089
-      - US363
-      - US364
-      - US365 996.3KB/s
-      - 🇭🇰HK香港9
-      - US366
-      - 未知1090 1.3MB/s
-      - 未知1091 1.8MB/s
-      - 未知1092 763.6KB/s
-      - 🇨🇳CN中国7
+      - 未知1090
+      - 未知1091
+      - 未知1092
       - 未知1093
       - 未知1094
-      - US367 2.0MB/s
+      - HK84
       - 未知1095
-      - 未知1096 1.7MB/s
-      - 未知1097 1.5MB/s
-      - 🇺🇸US美国41
+      - 未知1096 3.9MB/s
+      - 未知1097
+      - US362
+      - US363
       - 未知1098
       - 未知1099
-      - US368
       - 未知1100
+      - US364
+      - US365 24.1KB/s
+      - US366 73.2KB/s
       - 未知1101
-      - 🇨🇳湖北6
-      - 未知1102
+      - 未知1102 1.8MB/s
       - 未知1103
       - 未知1104
-      - 🇺🇸US美国42 52.1KB/s
       - 未知1105
       - 未知1106
-      - US369 2.0MB/s
       - 未知1107
-      - 未知1108 461.6KB/s
-      - 未知1109 13.7MB/s
+      - US367
+      - 未知1108
+      - HK85
+      - 未知1109
       - 未知1110
-      - US370
-      - 未知1111
-      - US371
-      - US372
+      - 未知1111 14.5MB/s
       - 未知1112
       - 未知1113 1.7MB/s
-      - 未知1114 4.0MB/s
-      - US373
-      - US374
-      - 未知1115 147.0KB/s
-      - 未知1116 320.7KB/s
+      - 🇺🇸US美国18
+      - 未知1114
+      - 未知1115
+      - 未知1116 1.7MB/s
       - 未知1117
-      - US375 1.9MB/s
       - 未知1118
-      - 未知1119
+      - 未知1119 1.8MB/s
+      - US368 105.9MB/s
+      - US369 1.9MB/s
       - 未知1120
       - 未知1121
-      - 未知1122
+      - 未知1122 1.8MB/s
       - 未知1123
       - 未知1124
       - 未知1125
-      - 未知1126 135.7KB/s
-      - 未知1127
-      - 未知1128 223.0KB/s
+      - 未知1126
+      - 未知1127 1.1MB/s
+      - 未知1128 264.3KB/s
       - 未知1129
-      - 🇨🇦CA加拿大3
+      - US370
       - 未知1130
       - 未知1131
+      - US371 130.9MB/s
       - 未知1132
       - 未知1133
-      - 🇰🇷KR韩国15
-      - 未知1134
-      - 未知1135 9.9MB/s
+      - US372 106.6MB/s
+      - 未知1134 1.8MB/s
+      - 未知1135
       - 未知1136
-      - 未知1137 4.2MB/s
-      - 🇭🇰HK香港10
-      - HK85 49.1KB/s
-      - US376
+      - 未知1137
       - 未知1138
-      - 未知1139 17.1KB/s
+      - 未知1139
       - 未知1140
-      - 未知1141 3.8MB/s
-      - 未知1142
-      - US377
-      - 未知1143 55.8KB/s
-      - 未知1144 712.9KB/s
+      - US373
+      - HK86
+      - 未知1141 1.8MB/s
+      - US374 2.0MB/s
+      - 未知1142 12.7MB/s
+      - HK87
+      - 未知1143 355.7KB/s
+      - 未知1144 1.7MB/s
+      - US375 1.9MB/s
+      - 未知1145 323.9KB/s
+      - HK88
+      - 未知1146
 
   - name: ♻️ 自动选择
     type: url-test
@@ -348,167 +208,97 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知1033
-      - 未知1034 10.3MB/s
-      - US346 1.7MB/s
-      - 未知1035
-      - 未知1036
-      - US347 2.0MB/s
-      - 未知1037
-      - 未知1038
-      - 未知1039 3.3MB/s
-      - US348
-      - 未知1040
-      - 未知1041
-      - 未知1042
-      - 未知1043
-      - 未知1044 326.7KB/s
-      - US349 194.1KB/s
-      - 未知1045 160.4KB/s
-      - 未知1046
-      - 未知1047
-      - 未知1048 1.8MB/s
-      - 未知1049 10.6MB/s
-      - 未知1050
-      - 未知1051
-      - 未知1052
-      - 未知1053
-      - 未知1054
-      - 未知1055 1.8MB/s
-      - 🇦🇺AU澳大利亚3
-      - 未知1056
-      - 未知1057
-      - 🇹🇼TW台湾9
-      - 未知1058
-      - TW6
-      - US350
+      - 未知1077
       - HK83
-      - US351
-      - US352
-      - US353 66.6MB/s
-      - 未知1059
-      - 未知1060 719.8KB/s
-      - 未知1061
-      - US354
-      - 未知1062 1.8MB/s
-      - 🇨🇳湖北5
-      - 未知1063
-      - 未知1064
-      - 未知1065
-      - 未知1066
-      - 未知1067
-      - US355 1.9MB/s
-      - 🇬🇧GB英国3
-      - 未知1068 119.9KB/s
-      - 未知1069
-      - HK84
-      - 未知1070 3.3MB/s
-      - 未知1071
-      - US356
-      - 未知1072
-      - US357 20.0KB/s
-      - 未知1073
-      - 🇭🇰HK香港8
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077 1.8MB/s
       - 未知1078
       - 未知1079
-      - 未知1080
-      - 未知1081
-      - 未知1082 4.3MB/s
+      - 未知1080 3.6MB/s
+      - 未知1081 2.2MB/s
+      - 未知1082
       - 未知1083
-      - US358
-      - 未知1084
-      - 未知1085
-      - US359 2.0MB/s
-      - US360 71.6KB/s
-      - US361
-      - US362
-      - 未知1086
-      - 未知1087
-      - 未知1088
+      - 未知1084 10.1MB/s
+      - 未知1085 1.7MB/s
+      - 未知1086 11.7MB/s
+      - 未知1087 383.8KB/s
+      - 未知1088 14.7MB/s
       - 未知1089
-      - US363
-      - US364
-      - US365 996.3KB/s
-      - 🇭🇰HK香港9
-      - US366
-      - 未知1090 1.3MB/s
-      - 未知1091 1.8MB/s
-      - 未知1092 763.6KB/s
-      - 🇨🇳CN中国7
+      - 未知1090
+      - 未知1091
+      - 未知1092
       - 未知1093
       - 未知1094
-      - US367 2.0MB/s
+      - HK84
       - 未知1095
-      - 未知1096 1.7MB/s
-      - 未知1097 1.5MB/s
-      - 🇺🇸US美国41
+      - 未知1096 3.9MB/s
+      - 未知1097
+      - US362
+      - US363
       - 未知1098
       - 未知1099
-      - US368
       - 未知1100
+      - US364
+      - US365 24.1KB/s
+      - US366 73.2KB/s
       - 未知1101
-      - 🇨🇳湖北6
-      - 未知1102
+      - 未知1102 1.8MB/s
       - 未知1103
       - 未知1104
-      - 🇺🇸US美国42 52.1KB/s
       - 未知1105
       - 未知1106
-      - US369 2.0MB/s
       - 未知1107
-      - 未知1108 461.6KB/s
-      - 未知1109 13.7MB/s
+      - US367
+      - 未知1108
+      - HK85
+      - 未知1109
       - 未知1110
-      - US370
-      - 未知1111
-      - US371
-      - US372
+      - 未知1111 14.5MB/s
       - 未知1112
       - 未知1113 1.7MB/s
-      - 未知1114 4.0MB/s
-      - US373
-      - US374
-      - 未知1115 147.0KB/s
-      - 未知1116 320.7KB/s
+      - 🇺🇸US美国18
+      - 未知1114
+      - 未知1115
+      - 未知1116 1.7MB/s
       - 未知1117
-      - US375 1.9MB/s
       - 未知1118
-      - 未知1119
+      - 未知1119 1.8MB/s
+      - US368 105.9MB/s
+      - US369 1.9MB/s
       - 未知1120
       - 未知1121
-      - 未知1122
+      - 未知1122 1.8MB/s
       - 未知1123
       - 未知1124
       - 未知1125
-      - 未知1126 135.7KB/s
-      - 未知1127
-      - 未知1128 223.0KB/s
+      - 未知1126
+      - 未知1127 1.1MB/s
+      - 未知1128 264.3KB/s
       - 未知1129
-      - 🇨🇦CA加拿大3
+      - US370
       - 未知1130
       - 未知1131
+      - US371 130.9MB/s
       - 未知1132
       - 未知1133
-      - 🇰🇷KR韩国15
-      - 未知1134
-      - 未知1135 9.9MB/s
+      - US372 106.6MB/s
+      - 未知1134 1.8MB/s
+      - 未知1135
       - 未知1136
-      - 未知1137 4.2MB/s
-      - 🇭🇰HK香港10
-      - HK85 49.1KB/s
-      - US376
+      - 未知1137
       - 未知1138
-      - 未知1139 17.1KB/s
+      - 未知1139
       - 未知1140
-      - 未知1141 3.8MB/s
-      - 未知1142
-      - US377
-      - 未知1143 55.8KB/s
-      - 未知1144 712.9KB/s
+      - US373
+      - HK86
+      - 未知1141 1.8MB/s
+      - US374 2.0MB/s
+      - 未知1142 12.7MB/s
+      - HK87
+      - 未知1143 355.7KB/s
+      - 未知1144 1.7MB/s
+      - US375 1.9MB/s
+      - 未知1145 323.9KB/s
+      - HK88
+      - 未知1146
 
   - name: 🌍 国外媒体
     type: select
@@ -516,668 +306,388 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知1033
-      - 未知1034 10.3MB/s
-      - US346 1.7MB/s
-      - 未知1035
-      - 未知1036
-      - US347 2.0MB/s
-      - 未知1037
-      - 未知1038
-      - 未知1039 3.3MB/s
-      - US348
-      - 未知1040
-      - 未知1041
-      - 未知1042
-      - 未知1043
-      - 未知1044 326.7KB/s
-      - US349 194.1KB/s
-      - 未知1045 160.4KB/s
-      - 未知1046
-      - 未知1047
-      - 未知1048 1.8MB/s
-      - 未知1049 10.6MB/s
-      - 未知1050
-      - 未知1051
-      - 未知1052
-      - 未知1053
-      - 未知1054
-      - 未知1055 1.8MB/s
-      - 🇦🇺AU澳大利亚3
-      - 未知1056
-      - 未知1057
-      - 🇹🇼TW台湾9
-      - 未知1058
-      - TW6
-      - US350
+      - 未知1077
       - HK83
-      - US351
-      - US352
-      - US353 66.6MB/s
-      - 未知1059
-      - 未知1060 719.8KB/s
-      - 未知1061
-      - US354
-      - 未知1062 1.8MB/s
-      - 🇨🇳湖北5
-      - 未知1063
-      - 未知1064
-      - 未知1065
-      - 未知1066
-      - 未知1067
-      - US355 1.9MB/s
-      - 🇬🇧GB英国3
-      - 未知1068 119.9KB/s
-      - 未知1069
-      - HK84
-      - 未知1070 3.3MB/s
-      - 未知1071
-      - US356
-      - 未知1072
-      - US357 20.0KB/s
-      - 未知1073
-      - 🇭🇰HK香港8
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077 1.8MB/s
       - 未知1078
       - 未知1079
-      - 未知1080
-      - 未知1081
-      - 未知1082 4.3MB/s
+      - 未知1080 3.6MB/s
+      - 未知1081 2.2MB/s
+      - 未知1082
       - 未知1083
-      - US358
-      - 未知1084
-      - 未知1085
-      - US359 2.0MB/s
-      - US360 71.6KB/s
-      - US361
-      - US362
-      - 未知1086
-      - 未知1087
-      - 未知1088
+      - 未知1084 10.1MB/s
+      - 未知1085 1.7MB/s
+      - 未知1086 11.7MB/s
+      - 未知1087 383.8KB/s
+      - 未知1088 14.7MB/s
       - 未知1089
-      - US363
-      - US364
-      - US365 996.3KB/s
-      - 🇭🇰HK香港9
-      - US366
-      - 未知1090 1.3MB/s
-      - 未知1091 1.8MB/s
-      - 未知1092 763.6KB/s
-      - 🇨🇳CN中国7
+      - 未知1090
+      - 未知1091
+      - 未知1092
       - 未知1093
       - 未知1094
-      - US367 2.0MB/s
+      - HK84
       - 未知1095
-      - 未知1096 1.7MB/s
-      - 未知1097 1.5MB/s
-      - 🇺🇸US美国41
+      - 未知1096 3.9MB/s
+      - 未知1097
+      - US362
+      - US363
       - 未知1098
       - 未知1099
-      - US368
       - 未知1100
+      - US364
+      - US365 24.1KB/s
+      - US366 73.2KB/s
       - 未知1101
-      - 🇨🇳湖北6
-      - 未知1102
+      - 未知1102 1.8MB/s
       - 未知1103
       - 未知1104
-      - 🇺🇸US美国42 52.1KB/s
       - 未知1105
       - 未知1106
-      - US369 2.0MB/s
       - 未知1107
-      - 未知1108 461.6KB/s
-      - 未知1109 13.7MB/s
+      - US367
+      - 未知1108
+      - HK85
+      - 未知1109
       - 未知1110
-      - US370
-      - 未知1111
-      - US371
-      - US372
+      - 未知1111 14.5MB/s
       - 未知1112
       - 未知1113 1.7MB/s
-      - 未知1114 4.0MB/s
-      - US373
-      - US374
-      - 未知1115 147.0KB/s
-      - 未知1116 320.7KB/s
+      - 🇺🇸US美国18
+      - 未知1114
+      - 未知1115
+      - 未知1116 1.7MB/s
       - 未知1117
-      - US375 1.9MB/s
       - 未知1118
-      - 未知1119
+      - 未知1119 1.8MB/s
+      - US368 105.9MB/s
+      - US369 1.9MB/s
       - 未知1120
       - 未知1121
-      - 未知1122
+      - 未知1122 1.8MB/s
       - 未知1123
       - 未知1124
       - 未知1125
-      - 未知1126 135.7KB/s
-      - 未知1127
-      - 未知1128 223.0KB/s
+      - 未知1126
+      - 未知1127 1.1MB/s
+      - 未知1128 264.3KB/s
       - 未知1129
-      - 🇨🇦CA加拿大3
+      - US370
       - 未知1130
       - 未知1131
+      - US371 130.9MB/s
       - 未知1132
       - 未知1133
-      - 🇰🇷KR韩国15
-      - 未知1134
-      - 未知1135 9.9MB/s
+      - US372 106.6MB/s
+      - 未知1134 1.8MB/s
+      - 未知1135
       - 未知1136
-      - 未知1137 4.2MB/s
-      - 🇭🇰HK香港10
-      - HK85 49.1KB/s
-      - US376
+      - 未知1137
       - 未知1138
-      - 未知1139 17.1KB/s
+      - 未知1139
       - 未知1140
-      - 未知1141 3.8MB/s
-      - 未知1142
-      - US377
-      - 未知1143 55.8KB/s
-      - 未知1144 712.9KB/s
+      - US373
+      - HK86
+      - 未知1141 1.8MB/s
+      - US374 2.0MB/s
+      - 未知1142 12.7MB/s
+      - HK87
+      - 未知1143 355.7KB/s
+      - 未知1144 1.7MB/s
+      - US375 1.9MB/s
+      - 未知1145 323.9KB/s
+      - HK88
+      - 未知1146
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知1033
-      - 未知1034 10.3MB/s
-      - US346 1.7MB/s
-      - 未知1035
-      - 未知1036
-      - US347 2.0MB/s
-      - 未知1037
-      - 未知1038
-      - 未知1039 3.3MB/s
-      - US348
-      - 未知1040
-      - 未知1041
-      - 未知1042
-      - 未知1043
-      - 未知1044 326.7KB/s
-      - US349 194.1KB/s
-      - 未知1045 160.4KB/s
-      - 未知1046
-      - 未知1047
-      - 未知1048 1.8MB/s
-      - 未知1049 10.6MB/s
-      - 未知1050
-      - 未知1051
-      - 未知1052
-      - 未知1053
-      - 未知1054
-      - 未知1055 1.8MB/s
-      - 🇦🇺AU澳大利亚3
-      - 未知1056
-      - 未知1057
-      - 🇹🇼TW台湾9
-      - 未知1058
-      - TW6
-      - US350
+      - 未知1077
       - HK83
-      - US351
-      - US352
-      - US353 66.6MB/s
-      - 未知1059
-      - 未知1060 719.8KB/s
-      - 未知1061
-      - US354
-      - 未知1062 1.8MB/s
-      - 🇨🇳湖北5
-      - 未知1063
-      - 未知1064
-      - 未知1065
-      - 未知1066
-      - 未知1067
-      - US355 1.9MB/s
-      - 🇬🇧GB英国3
-      - 未知1068 119.9KB/s
-      - 未知1069
-      - HK84
-      - 未知1070 3.3MB/s
-      - 未知1071
-      - US356
-      - 未知1072
-      - US357 20.0KB/s
-      - 未知1073
-      - 🇭🇰HK香港8
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077 1.8MB/s
       - 未知1078
       - 未知1079
-      - 未知1080
-      - 未知1081
-      - 未知1082 4.3MB/s
+      - 未知1080 3.6MB/s
+      - 未知1081 2.2MB/s
+      - 未知1082
       - 未知1083
-      - US358
-      - 未知1084
-      - 未知1085
-      - US359 2.0MB/s
-      - US360 71.6KB/s
-      - US361
-      - US362
-      - 未知1086
-      - 未知1087
-      - 未知1088
+      - 未知1084 10.1MB/s
+      - 未知1085 1.7MB/s
+      - 未知1086 11.7MB/s
+      - 未知1087 383.8KB/s
+      - 未知1088 14.7MB/s
       - 未知1089
-      - US363
-      - US364
-      - US365 996.3KB/s
-      - 🇭🇰HK香港9
-      - US366
-      - 未知1090 1.3MB/s
-      - 未知1091 1.8MB/s
-      - 未知1092 763.6KB/s
-      - 🇨🇳CN中国7
+      - 未知1090
+      - 未知1091
+      - 未知1092
       - 未知1093
       - 未知1094
-      - US367 2.0MB/s
+      - HK84
       - 未知1095
-      - 未知1096 1.7MB/s
-      - 未知1097 1.5MB/s
-      - 🇺🇸US美国41
+      - 未知1096 3.9MB/s
+      - 未知1097
+      - US362
+      - US363
       - 未知1098
       - 未知1099
-      - US368
       - 未知1100
+      - US364
+      - US365 24.1KB/s
+      - US366 73.2KB/s
       - 未知1101
-      - 🇨🇳湖北6
-      - 未知1102
+      - 未知1102 1.8MB/s
       - 未知1103
       - 未知1104
-      - 🇺🇸US美国42 52.1KB/s
       - 未知1105
       - 未知1106
-      - US369 2.0MB/s
       - 未知1107
-      - 未知1108 461.6KB/s
-      - 未知1109 13.7MB/s
+      - US367
+      - 未知1108
+      - HK85
+      - 未知1109
       - 未知1110
-      - US370
-      - 未知1111
-      - US371
-      - US372
+      - 未知1111 14.5MB/s
       - 未知1112
       - 未知1113 1.7MB/s
-      - 未知1114 4.0MB/s
-      - US373
-      - US374
-      - 未知1115 147.0KB/s
-      - 未知1116 320.7KB/s
+      - 🇺🇸US美国18
+      - 未知1114
+      - 未知1115
+      - 未知1116 1.7MB/s
       - 未知1117
-      - US375 1.9MB/s
       - 未知1118
-      - 未知1119
+      - 未知1119 1.8MB/s
+      - US368 105.9MB/s
+      - US369 1.9MB/s
       - 未知1120
       - 未知1121
-      - 未知1122
+      - 未知1122 1.8MB/s
       - 未知1123
       - 未知1124
       - 未知1125
-      - 未知1126 135.7KB/s
-      - 未知1127
-      - 未知1128 223.0KB/s
+      - 未知1126
+      - 未知1127 1.1MB/s
+      - 未知1128 264.3KB/s
       - 未知1129
-      - 🇨🇦CA加拿大3
+      - US370
       - 未知1130
       - 未知1131
+      - US371 130.9MB/s
       - 未知1132
       - 未知1133
-      - 🇰🇷KR韩国15
-      - 未知1134
-      - 未知1135 9.9MB/s
+      - US372 106.6MB/s
+      - 未知1134 1.8MB/s
+      - 未知1135
       - 未知1136
-      - 未知1137 4.2MB/s
-      - 🇭🇰HK香港10
-      - HK85 49.1KB/s
-      - US376
+      - 未知1137
       - 未知1138
-      - 未知1139 17.1KB/s
+      - 未知1139
       - 未知1140
-      - 未知1141 3.8MB/s
-      - 未知1142
-      - US377
-      - 未知1143 55.8KB/s
-      - 未知1144 712.9KB/s
+      - US373
+      - HK86
+      - 未知1141 1.8MB/s
+      - US374 2.0MB/s
+      - 未知1142 12.7MB/s
+      - HK87
+      - 未知1143 355.7KB/s
+      - 未知1144 1.7MB/s
+      - US375 1.9MB/s
+      - 未知1145 323.9KB/s
+      - HK88
+      - 未知1146
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知1033
-      - 未知1034 10.3MB/s
-      - US346 1.7MB/s
-      - 未知1035
-      - 未知1036
-      - US347 2.0MB/s
-      - 未知1037
-      - 未知1038
-      - 未知1039 3.3MB/s
-      - US348
-      - 未知1040
-      - 未知1041
-      - 未知1042
-      - 未知1043
-      - 未知1044 326.7KB/s
-      - US349 194.1KB/s
-      - 未知1045 160.4KB/s
-      - 未知1046
-      - 未知1047
-      - 未知1048 1.8MB/s
-      - 未知1049 10.6MB/s
-      - 未知1050
-      - 未知1051
-      - 未知1052
-      - 未知1053
-      - 未知1054
-      - 未知1055 1.8MB/s
-      - 🇦🇺AU澳大利亚3
-      - 未知1056
-      - 未知1057
-      - 🇹🇼TW台湾9
-      - 未知1058
-      - TW6
-      - US350
+      - 未知1077
       - HK83
-      - US351
-      - US352
-      - US353 66.6MB/s
-      - 未知1059
-      - 未知1060 719.8KB/s
-      - 未知1061
-      - US354
-      - 未知1062 1.8MB/s
-      - 🇨🇳湖北5
-      - 未知1063
-      - 未知1064
-      - 未知1065
-      - 未知1066
-      - 未知1067
-      - US355 1.9MB/s
-      - 🇬🇧GB英国3
-      - 未知1068 119.9KB/s
-      - 未知1069
-      - HK84
-      - 未知1070 3.3MB/s
-      - 未知1071
-      - US356
-      - 未知1072
-      - US357 20.0KB/s
-      - 未知1073
-      - 🇭🇰HK香港8
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077 1.8MB/s
       - 未知1078
       - 未知1079
-      - 未知1080
-      - 未知1081
-      - 未知1082 4.3MB/s
+      - 未知1080 3.6MB/s
+      - 未知1081 2.2MB/s
+      - 未知1082
       - 未知1083
-      - US358
-      - 未知1084
-      - 未知1085
-      - US359 2.0MB/s
-      - US360 71.6KB/s
-      - US361
-      - US362
-      - 未知1086
-      - 未知1087
-      - 未知1088
+      - 未知1084 10.1MB/s
+      - 未知1085 1.7MB/s
+      - 未知1086 11.7MB/s
+      - 未知1087 383.8KB/s
+      - 未知1088 14.7MB/s
       - 未知1089
-      - US363
-      - US364
-      - US365 996.3KB/s
-      - 🇭🇰HK香港9
-      - US366
-      - 未知1090 1.3MB/s
-      - 未知1091 1.8MB/s
-      - 未知1092 763.6KB/s
-      - 🇨🇳CN中国7
+      - 未知1090
+      - 未知1091
+      - 未知1092
       - 未知1093
       - 未知1094
-      - US367 2.0MB/s
+      - HK84
       - 未知1095
-      - 未知1096 1.7MB/s
-      - 未知1097 1.5MB/s
-      - 🇺🇸US美国41
+      - 未知1096 3.9MB/s
+      - 未知1097
+      - US362
+      - US363
       - 未知1098
       - 未知1099
-      - US368
       - 未知1100
+      - US364
+      - US365 24.1KB/s
+      - US366 73.2KB/s
       - 未知1101
-      - 🇨🇳湖北6
-      - 未知1102
+      - 未知1102 1.8MB/s
       - 未知1103
       - 未知1104
-      - 🇺🇸US美国42 52.1KB/s
       - 未知1105
       - 未知1106
-      - US369 2.0MB/s
       - 未知1107
-      - 未知1108 461.6KB/s
-      - 未知1109 13.7MB/s
+      - US367
+      - 未知1108
+      - HK85
+      - 未知1109
       - 未知1110
-      - US370
-      - 未知1111
-      - US371
-      - US372
+      - 未知1111 14.5MB/s
       - 未知1112
       - 未知1113 1.7MB/s
-      - 未知1114 4.0MB/s
-      - US373
-      - US374
-      - 未知1115 147.0KB/s
-      - 未知1116 320.7KB/s
+      - 🇺🇸US美国18
+      - 未知1114
+      - 未知1115
+      - 未知1116 1.7MB/s
       - 未知1117
-      - US375 1.9MB/s
       - 未知1118
-      - 未知1119
+      - 未知1119 1.8MB/s
+      - US368 105.9MB/s
+      - US369 1.9MB/s
       - 未知1120
       - 未知1121
-      - 未知1122
+      - 未知1122 1.8MB/s
       - 未知1123
       - 未知1124
       - 未知1125
-      - 未知1126 135.7KB/s
-      - 未知1127
-      - 未知1128 223.0KB/s
+      - 未知1126
+      - 未知1127 1.1MB/s
+      - 未知1128 264.3KB/s
       - 未知1129
-      - 🇨🇦CA加拿大3
+      - US370
       - 未知1130
       - 未知1131
+      - US371 130.9MB/s
       - 未知1132
       - 未知1133
-      - 🇰🇷KR韩国15
-      - 未知1134
-      - 未知1135 9.9MB/s
+      - US372 106.6MB/s
+      - 未知1134 1.8MB/s
+      - 未知1135
       - 未知1136
-      - 未知1137 4.2MB/s
-      - 🇭🇰HK香港10
-      - HK85 49.1KB/s
-      - US376
+      - 未知1137
       - 未知1138
-      - 未知1139 17.1KB/s
+      - 未知1139
       - 未知1140
-      - 未知1141 3.8MB/s
-      - 未知1142
-      - US377
-      - 未知1143 55.8KB/s
-      - 未知1144 712.9KB/s
+      - US373
+      - HK86
+      - 未知1141 1.8MB/s
+      - US374 2.0MB/s
+      - 未知1142 12.7MB/s
+      - HK87
+      - 未知1143 355.7KB/s
+      - 未知1144 1.7MB/s
+      - US375 1.9MB/s
+      - 未知1145 323.9KB/s
+      - HK88
+      - 未知1146
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知1033
-      - 未知1034 10.3MB/s
-      - US346 1.7MB/s
-      - 未知1035
-      - 未知1036
-      - US347 2.0MB/s
-      - 未知1037
-      - 未知1038
-      - 未知1039 3.3MB/s
-      - US348
-      - 未知1040
-      - 未知1041
-      - 未知1042
-      - 未知1043
-      - 未知1044 326.7KB/s
-      - US349 194.1KB/s
-      - 未知1045 160.4KB/s
-      - 未知1046
-      - 未知1047
-      - 未知1048 1.8MB/s
-      - 未知1049 10.6MB/s
-      - 未知1050
-      - 未知1051
-      - 未知1052
-      - 未知1053
-      - 未知1054
-      - 未知1055 1.8MB/s
-      - 🇦🇺AU澳大利亚3
-      - 未知1056
-      - 未知1057
-      - 🇹🇼TW台湾9
-      - 未知1058
-      - TW6
-      - US350
+      - 未知1077
       - HK83
-      - US351
-      - US352
-      - US353 66.6MB/s
-      - 未知1059
-      - 未知1060 719.8KB/s
-      - 未知1061
-      - US354
-      - 未知1062 1.8MB/s
-      - 🇨🇳湖北5
-      - 未知1063
-      - 未知1064
-      - 未知1065
-      - 未知1066
-      - 未知1067
-      - US355 1.9MB/s
-      - 🇬🇧GB英国3
-      - 未知1068 119.9KB/s
-      - 未知1069
-      - HK84
-      - 未知1070 3.3MB/s
-      - 未知1071
-      - US356
-      - 未知1072
-      - US357 20.0KB/s
-      - 未知1073
-      - 🇭🇰HK香港8
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077 1.8MB/s
       - 未知1078
       - 未知1079
-      - 未知1080
-      - 未知1081
-      - 未知1082 4.3MB/s
+      - 未知1080 3.6MB/s
+      - 未知1081 2.2MB/s
+      - 未知1082
       - 未知1083
-      - US358
-      - 未知1084
-      - 未知1085
-      - US359 2.0MB/s
-      - US360 71.6KB/s
-      - US361
-      - US362
-      - 未知1086
-      - 未知1087
-      - 未知1088
+      - 未知1084 10.1MB/s
+      - 未知1085 1.7MB/s
+      - 未知1086 11.7MB/s
+      - 未知1087 383.8KB/s
+      - 未知1088 14.7MB/s
       - 未知1089
-      - US363
-      - US364
-      - US365 996.3KB/s
-      - 🇭🇰HK香港9
-      - US366
-      - 未知1090 1.3MB/s
-      - 未知1091 1.8MB/s
-      - 未知1092 763.6KB/s
-      - 🇨🇳CN中国7
+      - 未知1090
+      - 未知1091
+      - 未知1092
       - 未知1093
       - 未知1094
-      - US367 2.0MB/s
+      - HK84
       - 未知1095
-      - 未知1096 1.7MB/s
-      - 未知1097 1.5MB/s
-      - 🇺🇸US美国41
+      - 未知1096 3.9MB/s
+      - 未知1097
+      - US362
+      - US363
       - 未知1098
       - 未知1099
-      - US368
       - 未知1100
+      - US364
+      - US365 24.1KB/s
+      - US366 73.2KB/s
       - 未知1101
-      - 🇨🇳湖北6
-      - 未知1102
+      - 未知1102 1.8MB/s
       - 未知1103
       - 未知1104
-      - 🇺🇸US美国42 52.1KB/s
       - 未知1105
       - 未知1106
-      - US369 2.0MB/s
       - 未知1107
-      - 未知1108 461.6KB/s
-      - 未知1109 13.7MB/s
+      - US367
+      - 未知1108
+      - HK85
+      - 未知1109
       - 未知1110
-      - US370
-      - 未知1111
-      - US371
-      - US372
+      - 未知1111 14.5MB/s
       - 未知1112
       - 未知1113 1.7MB/s
-      - 未知1114 4.0MB/s
-      - US373
-      - US374
-      - 未知1115 147.0KB/s
-      - 未知1116 320.7KB/s
+      - 🇺🇸US美国18
+      - 未知1114
+      - 未知1115
+      - 未知1116 1.7MB/s
       - 未知1117
-      - US375 1.9MB/s
       - 未知1118
-      - 未知1119
+      - 未知1119 1.8MB/s
+      - US368 105.9MB/s
+      - US369 1.9MB/s
       - 未知1120
       - 未知1121
-      - 未知1122
+      - 未知1122 1.8MB/s
       - 未知1123
       - 未知1124
       - 未知1125
-      - 未知1126 135.7KB/s
-      - 未知1127
-      - 未知1128 223.0KB/s
+      - 未知1126
+      - 未知1127 1.1MB/s
+      - 未知1128 264.3KB/s
       - 未知1129
-      - 🇨🇦CA加拿大3
+      - US370
       - 未知1130
       - 未知1131
+      - US371 130.9MB/s
       - 未知1132
       - 未知1133
-      - 🇰🇷KR韩国15
-      - 未知1134
-      - 未知1135 9.9MB/s
+      - US372 106.6MB/s
+      - 未知1134 1.8MB/s
+      - 未知1135
       - 未知1136
-      - 未知1137 4.2MB/s
-      - 🇭🇰HK香港10
-      - HK85 49.1KB/s
-      - US376
+      - 未知1137
       - 未知1138
-      - 未知1139 17.1KB/s
+      - 未知1139
       - 未知1140
-      - 未知1141 3.8MB/s
-      - 未知1142
-      - US377
-      - 未知1143 55.8KB/s
-      - 未知1144 712.9KB/s
+      - US373
+      - HK86
+      - 未知1141 1.8MB/s
+      - US374 2.0MB/s
+      - 未知1142 12.7MB/s
+      - HK87
+      - 未知1143 355.7KB/s
+      - 未知1144 1.7MB/s
+      - US375 1.9MB/s
+      - 未知1145 323.9KB/s
+      - HK88
+      - 未知1146
 
   - name: 🎯 全球直连
     type: select
@@ -1201,167 +711,97 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知1033
-      - 未知1034 10.3MB/s
-      - US346 1.7MB/s
-      - 未知1035
-      - 未知1036
-      - US347 2.0MB/s
-      - 未知1037
-      - 未知1038
-      - 未知1039 3.3MB/s
-      - US348
-      - 未知1040
-      - 未知1041
-      - 未知1042
-      - 未知1043
-      - 未知1044 326.7KB/s
-      - US349 194.1KB/s
-      - 未知1045 160.4KB/s
-      - 未知1046
-      - 未知1047
-      - 未知1048 1.8MB/s
-      - 未知1049 10.6MB/s
-      - 未知1050
-      - 未知1051
-      - 未知1052
-      - 未知1053
-      - 未知1054
-      - 未知1055 1.8MB/s
-      - 🇦🇺AU澳大利亚3
-      - 未知1056
-      - 未知1057
-      - 🇹🇼TW台湾9
-      - 未知1058
-      - TW6
-      - US350
+      - 未知1077
       - HK83
-      - US351
-      - US352
-      - US353 66.6MB/s
-      - 未知1059
-      - 未知1060 719.8KB/s
-      - 未知1061
-      - US354
-      - 未知1062 1.8MB/s
-      - 🇨🇳湖北5
-      - 未知1063
-      - 未知1064
-      - 未知1065
-      - 未知1066
-      - 未知1067
-      - US355 1.9MB/s
-      - 🇬🇧GB英国3
-      - 未知1068 119.9KB/s
-      - 未知1069
-      - HK84
-      - 未知1070 3.3MB/s
-      - 未知1071
-      - US356
-      - 未知1072
-      - US357 20.0KB/s
-      - 未知1073
-      - 🇭🇰HK香港8
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077 1.8MB/s
       - 未知1078
       - 未知1079
-      - 未知1080
-      - 未知1081
-      - 未知1082 4.3MB/s
+      - 未知1080 3.6MB/s
+      - 未知1081 2.2MB/s
+      - 未知1082
       - 未知1083
-      - US358
-      - 未知1084
-      - 未知1085
-      - US359 2.0MB/s
-      - US360 71.6KB/s
-      - US361
-      - US362
-      - 未知1086
-      - 未知1087
-      - 未知1088
+      - 未知1084 10.1MB/s
+      - 未知1085 1.7MB/s
+      - 未知1086 11.7MB/s
+      - 未知1087 383.8KB/s
+      - 未知1088 14.7MB/s
       - 未知1089
-      - US363
-      - US364
-      - US365 996.3KB/s
-      - 🇭🇰HK香港9
-      - US366
-      - 未知1090 1.3MB/s
-      - 未知1091 1.8MB/s
-      - 未知1092 763.6KB/s
-      - 🇨🇳CN中国7
+      - 未知1090
+      - 未知1091
+      - 未知1092
       - 未知1093
       - 未知1094
-      - US367 2.0MB/s
+      - HK84
       - 未知1095
-      - 未知1096 1.7MB/s
-      - 未知1097 1.5MB/s
-      - 🇺🇸US美国41
+      - 未知1096 3.9MB/s
+      - 未知1097
+      - US362
+      - US363
       - 未知1098
       - 未知1099
-      - US368
       - 未知1100
+      - US364
+      - US365 24.1KB/s
+      - US366 73.2KB/s
       - 未知1101
-      - 🇨🇳湖北6
-      - 未知1102
+      - 未知1102 1.8MB/s
       - 未知1103
       - 未知1104
-      - 🇺🇸US美国42 52.1KB/s
       - 未知1105
       - 未知1106
-      - US369 2.0MB/s
       - 未知1107
-      - 未知1108 461.6KB/s
-      - 未知1109 13.7MB/s
+      - US367
+      - 未知1108
+      - HK85
+      - 未知1109
       - 未知1110
-      - US370
-      - 未知1111
-      - US371
-      - US372
+      - 未知1111 14.5MB/s
       - 未知1112
       - 未知1113 1.7MB/s
-      - 未知1114 4.0MB/s
-      - US373
-      - US374
-      - 未知1115 147.0KB/s
-      - 未知1116 320.7KB/s
+      - 🇺🇸US美国18
+      - 未知1114
+      - 未知1115
+      - 未知1116 1.7MB/s
       - 未知1117
-      - US375 1.9MB/s
       - 未知1118
-      - 未知1119
+      - 未知1119 1.8MB/s
+      - US368 105.9MB/s
+      - US369 1.9MB/s
       - 未知1120
       - 未知1121
-      - 未知1122
+      - 未知1122 1.8MB/s
       - 未知1123
       - 未知1124
       - 未知1125
-      - 未知1126 135.7KB/s
-      - 未知1127
-      - 未知1128 223.0KB/s
+      - 未知1126
+      - 未知1127 1.1MB/s
+      - 未知1128 264.3KB/s
       - 未知1129
-      - 🇨🇦CA加拿大3
+      - US370
       - 未知1130
       - 未知1131
+      - US371 130.9MB/s
       - 未知1132
       - 未知1133
-      - 🇰🇷KR韩国15
-      - 未知1134
-      - 未知1135 9.9MB/s
+      - US372 106.6MB/s
+      - 未知1134 1.8MB/s
+      - 未知1135
       - 未知1136
-      - 未知1137 4.2MB/s
-      - 🇭🇰HK香港10
-      - HK85 49.1KB/s
-      - US376
+      - 未知1137
       - 未知1138
-      - 未知1139 17.1KB/s
+      - 未知1139
       - 未知1140
-      - 未知1141 3.8MB/s
-      - 未知1142
-      - US377
-      - 未知1143 55.8KB/s
-      - 未知1144 712.9KB/s
+      - US373
+      - HK86
+      - 未知1141 1.8MB/s
+      - US374 2.0MB/s
+      - 未知1142 12.7MB/s
+      - HK87
+      - 未知1143 355.7KB/s
+      - 未知1144 1.7MB/s
+      - US375 1.9MB/s
+      - 未知1145 323.9KB/s
+      - HK88
+      - 未知1146
 
 
 rules:
