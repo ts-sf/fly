@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Y0IweO6223CjwZD8FFZAaCz3yTYxDKX9yOAlXp5FTRONDaZl3zSeS7a3D4cYuCxFRx7yS@tenderly.meijireform.com:28337?sni=tenderly.meijireform.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%202.0MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzM1NTExMi00MzUzLTQ4MDktOWVjYS04ZDk3ODJhYWMxOGI=@free.2apzhfa.xyz:31571#%F0%9F%87%B9%F0%9F%87%B7TR%E5%9C%9F%E8%80%B3%E5%85%B6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzM1NTExMi00MzUzLTQ4MDktOWVjYS04ZDk3ODJhYWMxOGI=@free.2apzhfa.xyz:31721#%F0%9F%87%B2%F0%9F%87%BEMY%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
-trojan://Aimer@135.84.74.27:8443?sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzM1NTExMi00MzUzLTQ4MDktOWVjYS04ZDk3ODJhYWMxOGI=@free.2apzhfa.xyz:31671#%F0%9F%87%A7%F0%9F%87%B7BR%E5%B7%B4%E8%A5%BF
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.133.248:443?security=tls&type=ws&sni=boSTON02.890604.fILegeAr-Sg.ME&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw&host=boston02.890604.filegear-sg.me#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
+trojan://Aimer@199.34.228.143:2096?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#%E6%9C%AA%E7%9F%A53%2084.4KB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5004#%E6%9C%AA%E7%9F%A54%201.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
