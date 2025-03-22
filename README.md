@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.133.248:443?security=tls&type=ws&sni=boSTON02.890604.fILegeAr-Sg.ME&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw&host=boston02.890604.filegear-sg.me#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
-trojan://Aimer@199.34.228.143:2096?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#%E6%9C%AA%E7%9F%A53%2084.4KB%2Fs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5004#%E6%9C%AA%E7%9F%A54%201.8MB%2Fs
+trojan://Aimer@77.238.236.134:8443?security=tls&type=tcp&sni=agepq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@199.34.228.164:2087?sni=agepj.ambercc.filegear-sg.me#US
+trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13740?security=tls&type=tcp&sni=ssl-hg.lihuayun.top#HK
+trojan://YCz0uZ484pjDCFyKqRZ3823SqxDXEBSwNnNYlay3yeuDaA0aISDR533eFglaaOTO3lF8A@69.5.52.190:443?security=tls&sni=garland.taiwanesefood.link#US2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaXJDbjdBVk8xemtwenpBNlVNdGVw@45.95.232.236:4248#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
