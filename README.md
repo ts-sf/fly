@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@221.164.192.95:50003?sni=agepj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTEyOC1nY206ZWM1ODg1NDUtMjkyZS00YTExLWFkYTItZDYyZTU5OWFmOTI4@47.116.193.241:24502#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZDg3MzJjOC1mZTMwLTQyNWQtYTlmNi0yYzUyZDczMzBkNjM=@free.2weradf.xyz:36471#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-trojan://Aimer@108.165.152.239:8443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@134.195.196.193:8000#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.188.71:443#%E6%9C%AA%E7%9F%A52
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@68.183.212.103:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A53
+trojan://auto@162.159.44.148:443?security=tls&type=tcp&sni=trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A54
+trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@172.67.200.238:443?security=tls&type=ws&sni=1P.890689.xyZ&path=/lXENb74xF4ylXngZ&host=1p.890689.xyz#%E6%9C%AA%E7%9F%A55
+trojan://Julius@193.106.248.196:443?security=tls&type=tcp&sni=miami.juliusnet.com#US
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
