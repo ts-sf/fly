@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.188.71:443#%E6%9C%AA%E7%9F%A52
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@68.183.212.103:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A53
-trojan://auto@162.159.44.148:443?security=tls&type=tcp&sni=trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A54
-trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@172.67.200.238:443?security=tls&type=ws&sni=1P.890689.xyZ&path=/lXENb74xF4ylXngZ&host=1p.890689.xyz#%E6%9C%AA%E7%9F%A55
-trojan://Julius@193.106.248.196:443?security=tls&type=tcp&sni=miami.juliusnet.com#US
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.107.245:4444#US%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.105:2376#US2%201.9MB%2Fs
+trojan://Aimer@27.50.48.189:2083?sni=agepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.173.25:443?security=tls&type=ws&sni=BOSton01.890604.GGff.NeT&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw&host=boston01.890604.ggff.net#%E6%9C%AA%E7%9F%A53
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@82.192.82.228:443?security=tls&sni=trus.moonfree.top#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
