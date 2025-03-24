@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://vpn@79.137.204.130:2025?type=ws&path=/&host=vkvd127.mycdn.me#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.101:8000#US%201.9MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#US2%2064.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#%E6%9C%AA%E7%9F%A53%20125.1KB%2Fs
-trojan://trojan@104.18.5.250:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%E6%9C%AA%E7%9F%A54
+trojan://0597af27-0972-45de-a32f-d320348cb765@45.146.232.171:43591?sni=q08m.vgraxiw73s.hasyaf.cn#HK
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.143.66.55:8080#US2
+trojan://Trevely@172.64.33.110:443?security=tls&type=tcp&sni=trojan.trevely.us.kg#%E6%9C%AA%E7%9F%A5
+trojan://Aimer@108.165.152.1:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US3
+trojan://Aimer@210.222.30.180:17100?security=tls&type=ws&sni=agepq.ambercc.filegear-sg.me&path=/&host=agepq.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A52
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
