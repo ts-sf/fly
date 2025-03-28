@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@45.67.214.41:2083?sni=agepv.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://blue2024@188.114.99.102:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A52
-trojan://bpb-trojan@172.66.44.203:443?security=tls&type=tcp&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@27.50.49.188:2096?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.45.36:2083?security=tls&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@46.254.93.37:8443?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://telegram-id-privatevpns@51.21.25.36:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%201008.0KB%2Fs
+trojan://bpb-trojan@104.16.149.244:2053?security=tls&type=tcp&sni=g1-21N.paGeS.deV#%E6%9C%AA%E7%9F%A53
+trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@167.99.35.214:443?security=tls&type=tcp&sni=nl2-full.privateip.net#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5601#%E6%9C%AA%E7%9F%A55%201.1MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
