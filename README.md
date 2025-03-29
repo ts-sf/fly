@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Q%5Ec5%26MzXRa%23%25@172.67.141.68:2087?security=tls&type=httpupgrade&sni=fars.itn24.ir&path=/dHV8LpKm&host=fars.itn24.ir#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@5.182.84.66:2083?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@206.238.236.31:8443?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-trojan://4PbOjiMDLh@172.67.141.68:2096?security=tls&type=ws&sni=esna.itn24.ir&path=/🆔@M3HDIO1&host=esna.itn24.ir#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@108.165.152.1:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US2
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7306#%E6%9C%AA%E7%9F%A5%201.8MB%2Fs
+trojan://bpb-trojan@104.21.30.195:443?security=tls&type=tcp&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv#%E6%9C%AA%E7%9F%A52
+trojan://trojan@172.64.155.16:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZTE5ZmNlYi1jZWRjLTQ4MzItYjQ2MC1mY2NmMjRmZGM4YmU=@183.232.229.164:12359#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#%E6%9C%AA%E7%9F%A54%201.7MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
