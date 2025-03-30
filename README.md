@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1?ed=2560&host=koma-yt.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://NEHZp72yf2@95.181.162.233:443?security=tls&headerType=http&type=tcp&sni=dr-ping.ir&host=Zula.ir#%E6%9C%AA%E7%9F%A53
-trojan://bpb-trojan@190.93.244.66:443?security=tls&type=ws&sni=zeming13.us.kg&path=/tr?ed&host=zeming13.us.kg#%E6%9C%AA%E7%9F%A54
-trojan://vs6f8hvt@104.16.237.15:443?security=tls&type=ws&sni=trojan.cchappy.eu.org&path=/?ed=2560&host=trojan.cchappy.eu.org#%E6%9C%AA%E7%9F%A55
-trojan://GlxLO2T3Gz@104.21.80.1:2096?security=tls&type=ws&sni=tabnak.twn24.ir&path=/🆔@M3HDIO1&host=tabnak.twn24.ir#%E6%9C%AA%E7%9F%A56
+ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA==@156.231.104.24:18014#%E6%9C%AA%E7%9F%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuT2ZrS2JvREF4aFR4MmsxY0FsdEl6@194.87.45.189:443#%E6%9C%AA%E7%9F%A52%20632.8KB%2Fs
+trojan://Aimer@77.74.228.4:2087?security=tls&type=ws&sni=agepm.ambercc.filegear-sg.me&path=/?ed=2560&host=agepm.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@219.76.13.166:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#HK
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:8888#%E6%9C%AA%E7%9F%A54%201.8MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
