@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-04-01 17:30:06
+# 创建时间: 2025-04-02 01:27:50
 # 使用模版: V2RaySE 默认模版
-# 节点数量：14
+# 节点数量：6
 ####################################
 #
 mixed-port: 7890
@@ -12,20 +12,12 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知1069","type":"trojan","server":"88.119.175.241","port":443,"alterId":0,"tls":true,"password":"8ccd2fcc083f094f70e34f8a21a16542","sni":"www.cloudflare.com","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1070","type":"trojan","server":"104.18.36.122","port":2096,"alterId":0,"tls":true,"password":"vs6f8hvt","sni":"trojan.cchappy.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1071 17.8MB/s","type":"ss","server":"35.176.197.229","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"W74XFALLLuw6m5IA","skip-cert-verify":true}
-  - {"name":"US291","type":"trojan","server":"198.62.62.192","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1072","type":"trojan","server":"172.66.47.179","port":443,"alterId":0,"tls":true,"password":"vs6f8hvt","sni":"trojan.cchappy.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1073","type":"trojan","server":"172.67.202.155","port":2053,"alterId":0,"tls":true,"password":"f411e405-da5e-47aa-93bb-8454c6f59ae1","sni":"sUPpoRT.onEtWotHReE123.ir","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1074","type":"trojan","server":"104.26.4.157","port":443,"alterId":0,"tls":true,"password":"vs6f8hvt","sni":"trojan.cchappy.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1075","type":"trojan","server":"46.254.93.243","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"agept.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"未知1076","type":"trojan","server":"172.67.70.33","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepo.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1077","type":"ss","server":"119.59.98.58","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
-  - {"name":"HK140","type":"ss","server":"62.72.163.211","port":45573,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"9dccff22-309e-490e-bf55-5cef598e6408","skip-cert-verify":true}
-  - {"name":"未知1078","type":"trojan","server":"172.66.44.230","port":8443,"alterId":0,"tls":true,"password":"8r%3C%5B9%27l6hAO%238ZQi","sni":"Koma-YT.PAGeS.Dev","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1079","type":"trojan","server":"45.67.215.95","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1080 1.8MB/s","type":"ss","server":"217.182.198.219","port":5000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"Y6R9pAtvxxzmGC","skip-cert-verify":true}
+  - {"name":"未知1080","type":"ss","server":"5.231.63.169","port":40934,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"n9RKjkibLMZHfLjmBv2ptVGBkPZXUqXDn6rGgdBsuTspYjewDc4T59hRwXuGivCpZ9CUpLjykZRdYT67me9Sq25rdNyowAgK","skip-cert-verify":true}
+  - {"name":"US287","type":"ss","server":"212.18.104.228","port":17889,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"tKsLAswLMq1C0L8IcXtpdv","skip-cert-verify":true}
+  - {"name":"US288","type":"trojan","server":"199.34.228.143","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1081","type":"trojan","server":"104.16.93.142","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"td.promote.icu","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1082","type":"trojan","server":"172.67.209.80","port":443,"alterId":0,"tls":true,"password":"bpb-trojan","sni":"403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1083","type":"trojan","server":"118.45.113.48","port":16064,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepx.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -33,20 +25,12 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知1069
-      - 未知1070
-      - 未知1071 17.8MB/s
-      - US291
-      - 未知1072
-      - 未知1073
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077
-      - HK140
-      - 未知1078
-      - 未知1079
-      - 未知1080 1.8MB/s
+      - 未知1080
+      - US287
+      - US288
+      - 未知1081
+      - 未知1082
+      - 未知1083
 
   - name: ♻️ 自动选择
     type: url-test
@@ -54,20 +38,12 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知1069
-      - 未知1070
-      - 未知1071 17.8MB/s
-      - US291
-      - 未知1072
-      - 未知1073
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077
-      - HK140
-      - 未知1078
-      - 未知1079
-      - 未知1080 1.8MB/s
+      - 未知1080
+      - US287
+      - US288
+      - 未知1081
+      - 未知1082
+      - 未知1083
 
   - name: 🌍 国外媒体
     type: select
@@ -75,80 +51,48 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知1069
-      - 未知1070
-      - 未知1071 17.8MB/s
-      - US291
-      - 未知1072
-      - 未知1073
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077
-      - HK140
-      - 未知1078
-      - 未知1079
-      - 未知1080 1.8MB/s
+      - 未知1080
+      - US287
+      - US288
+      - 未知1081
+      - 未知1082
+      - 未知1083
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知1069
-      - 未知1070
-      - 未知1071 17.8MB/s
-      - US291
-      - 未知1072
-      - 未知1073
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077
-      - HK140
-      - 未知1078
-      - 未知1079
-      - 未知1080 1.8MB/s
+      - 未知1080
+      - US287
+      - US288
+      - 未知1081
+      - 未知1082
+      - 未知1083
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知1069
-      - 未知1070
-      - 未知1071 17.8MB/s
-      - US291
-      - 未知1072
-      - 未知1073
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077
-      - HK140
-      - 未知1078
-      - 未知1079
-      - 未知1080 1.8MB/s
+      - 未知1080
+      - US287
+      - US288
+      - 未知1081
+      - 未知1082
+      - 未知1083
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知1069
-      - 未知1070
-      - 未知1071 17.8MB/s
-      - US291
-      - 未知1072
-      - 未知1073
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077
-      - HK140
-      - 未知1078
-      - 未知1079
-      - 未知1080 1.8MB/s
+      - 未知1080
+      - US287
+      - US288
+      - 未知1081
+      - 未知1082
+      - 未知1083
 
   - name: 🎯 全球直连
     type: select
@@ -172,20 +116,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知1069
-      - 未知1070
-      - 未知1071 17.8MB/s
-      - US291
-      - 未知1072
-      - 未知1073
-      - 未知1074
-      - 未知1075
-      - 未知1076
-      - 未知1077
-      - HK140
-      - 未知1078
-      - 未知1079
-      - 未知1080 1.8MB/s
+      - 未知1080
+      - US287
+      - US288
+      - 未知1081
+      - 未知1082
+      - 未知1083
 
 
 rules:
