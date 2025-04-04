@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://95b@65.75.194.43:10511?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com#US
-trojan://Aimer@213.241.198.56:2083?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://blue2024@104.17.27.142:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A53
-trojan://0000000@18.238.109.41:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#US2
-trojan://Aimer@45.150.115.195:2087?sni=agepj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206WTdZMEVVWEY1WlpLSlRGVQ==@154.196.244.24:16014#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206RVhDQjNLS1cwR1hRM0VDRA==@154.196.244.19:16009#%E6%9C%AA%E7%9F%A53
+trojan://s8xwZ%5D%7C%3FV%3EcH@172.67.149.227:443?security=tls&type=ws&sni=fL9F9zCnHrfnvkA1oYA84yy6p44dHfqP.tUrbOOsErveR.wOrKeRS.dEv&path=/trOMMGv7luGhBNaxVb?ed=2560&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@38.59.242.169:27738?sni=agepy.aimercc.filegear-sg.me#US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZTdkZTEzZC04NWQ0LTRlMmUtYTAyMi00ZmU5NDcxZDViZTE=@free.2apzhfa.xyz:31641#%F0%9F%87%BB%F0%9F%87%B3VN%E8%B6%8A%E5%8D%97
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
