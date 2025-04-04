@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.249.79.143:2377#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206RTRWV1RTWDBHVVBRT1ZPOA==@185.47.252.16:20009#%E6%9C%AA%E7%9F%A53
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A54
-trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%E6%9C%AA%E7%9F%A55
+trojan://95b@65.75.194.43:10511?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com#US
+trojan://Aimer@213.241.198.56:2083?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@104.17.27.142:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A53
+trojan://0000000@18.238.109.41:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#US2
+trojan://Aimer@45.150.115.195:2087?sni=agepj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
