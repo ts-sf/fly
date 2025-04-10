@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://blue2024@104.17.165.253:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A52
-trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.15.232:443?security=tls&type=ws&sni=3r.2030.pp.ua&path=/XjTi1NYwi9A2bckpqdDoAgkondVWl&host=3r.2030.pp.ua#%E6%9C%AA%E7%9F%A53
-trojan://VW9s45aUKb@172.67.161.74:2087?security=tls&type=grpc&sni=support.sabapardaziran.ir#%E6%9C%AA%E7%9F%A54
-trojan://telegram-id-directvpn@18.169.81.26:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A55
-trojan://71086710-33eb-11ed-adce-1239d0255272@103.253.24.212:443?security=tls&sni=sg1-trojan.bonds.id#%E6%9C%AA%E7%9F%A56
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@52.69.48.25:2377#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTgzNmVkYy1lNzM4LTRlNjMtOTY0ZC1hZDYxZDllM2YyN2I=@45.196.222.10:61019#HK
+trojan://Aimer@162.159.44.168:443?sni=agepk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://uV8u9Q41e2@104.16.127.84:443?security=tls&type=ws&sni=DieGo.DIEgoMAraDOnA.iR.&path=/&host=DieGo.DIEgoMAraDOnA.iR.#%E6%9C%AA%E7%9F%A54
+trojan://b37c8327-1fcf-4c9e-a42f-9f7922972cc1@45.146.232.171:10465?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
