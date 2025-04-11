@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@27.50.49.61:2096?sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
-trojan://vip@172.67.68.101:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.196.81:443#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#%E6%9C%AA%E7%9F%A53
-trojan://3qx%25QmCt%5E%26cg@172.67.175.40:2083?security=tls&type=ws&sni=tabnak.farsonline24.ir&path=/sq54iQsL&host=tabnak.farsonline24.ir#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.233:2377#TW
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#%E6%9C%AA%E7%9F%A5%2020.5MB%2Fs
+ss://YWVzLTI1Ni1nY206OUQ1STI2VEU4NVNQOTI4Vw==@185.213.22.93:20026#%E6%9C%AA%E7%9F%A52
+trojan://nEKYp2bQim@104.21.15.33:443?security=tls&type=httpupgrade&sni=support.sabapardaziran.ir&path=/30662/@M3HDIO1&host=support.sabapardaziran.ir#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@108.165.152.40:2096?security=tls&type=tcp&sni=ngep.ambercc.filegear-sg.me#US
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
