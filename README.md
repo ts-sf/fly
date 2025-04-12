@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://3747000103274291200@3.216.105.141:443?sni=crisp-gibbon.adder289.quest#US2
-trojan://b37c8327-1fcf-4c9e-a42f-9f7922972cc1@45.146.232.172:46925?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK
-trojan://e3c41c94-097d-475e-8de5-d983d8df7cf1@45.146.232.173:27103?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK2
-trojan://Aimer@173.245.59.203:443?sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@108.162.193.201:443?sni=agepm.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#%E6%9C%AA%E7%9F%A5%201.5MB%2Fs
+trojan://b80Iy90Fma@104.26.9.227:443?security=tls&type=ws&sni=usa03.rtx.al&path=/cfyyds&host=usa03.rtx.al#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@162.159.44.227:443?sni=agepm.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://e3c41c94-097d-475e-8de5-d983d8df7cf1@45.146.232.171:27401?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
