@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZmYzOGY0MC00ZDEzLTQ1ZjQtYjlmNS0xNTBiMzQ4NjI1M2M=@free.2weradf.xyz:36143#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://bpb-trojan@162.159.152.198:443?security=tls&type=tcp&sni=bpbpanel.ac.cn.eu.org#%E6%9C%AA%E7%9F%A52
-trojan://85950277-f447-48f0-9ead-aaf6d5ff3cad@104.21.34.159:443?security=tls&type=ws&sni=df5tym.2031.pp.ua&path=/I4L1BP2DQVYmx5NYQ76MGGq&host=df5tym.2031.pp.ua#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTElubVVCcnhNZ0VuODVZNnZWamVI@185.172.129.91:56220#US
-trojan://blue2024@108.162.195.155:443?security=tls&type=ws&sni=tb.promote.icu&host=tb.promote.icu#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@91.149.239.198:443?security=tls&type=tcp&sni=agepq.ambercc.filegear-sg.me#US
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjEwNC4yMS4yMy4yMTAiLCJwb3J0IjoiMjA4MyIsImlkIjoiYWZiODM3YWQtNzllNy00NDM4LTk2ZDEtYjhmNzA3Nzk5OWFhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoicmFrMi1zdWIuOTMyLnBwLnVhIiwicGF0aCI6Ii9yYWsyLXN1Yi45MzIucHAudWEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJyYWsyLXN1Yi45MzIucHAudWEiLCJ0ZXN0X25hbWUiOiIyIn0=
+trojan://opentunnel.net-trhrst5ju45s@69.16.230.165:443?security=tls&sni=ukt-2.opensvr.net#US2
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyA1MjkuOUtCL3MiLCJhZGQiOiI0Ni4yNTAuMjM0LjMyIiwicG9ydCI6IjQ1MzE3IiwiaWQiOiJiMjgzNjM2OS0yMjBiLTQ4NDAtODBjNC04Y2Y5MDRjNzM1ZWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
+trojan://4467ae8518abf1ef321618c0bfb5549ccc@sydney-mini-ddns.faforex.eu.org:25131?sni=www.cloudflare.com#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
