@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13710?security=tls&type=tcp&sni=aus.lihua.click#HK
-trojan://amclubs@154.83.2.61:8443?security=tls&type=ws&sni=tran.amclubstest.nyc.mn#%E6%9C%AA%E7%9F%A52
-trojan://87c29139-765a-441e-a82d-fdbb46697695@168.138.174.229:443?security=tls&type=tcp&sni=sg-2503-2.upd86.de#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%E6%9C%AA%E7%9F%A54%2020.1MB%2Fs
-trojan://OL4zCJlzpxm2@104.21.112.1:2083?security=tls&type=ws&sni=yjc.twn24.ir&path=/🆔@M3HDIO1&host=yjc.twn24.ir#%E6%9C%AA%E7%9F%A55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZmYzOGY0MC00ZDEzLTQ1ZjQtYjlmNS0xNTBiMzQ4NjI1M2M=@free.2weradf.xyz:36143#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://bpb-trojan@162.159.152.198:443?security=tls&type=tcp&sni=bpbpanel.ac.cn.eu.org#%E6%9C%AA%E7%9F%A52
+trojan://85950277-f447-48f0-9ead-aaf6d5ff3cad@104.21.34.159:443?security=tls&type=ws&sni=df5tym.2031.pp.ua&path=/I4L1BP2DQVYmx5NYQ76MGGq&host=df5tym.2031.pp.ua#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTElubVVCcnhNZ0VuODVZNnZWamVI@185.172.129.91:56220#US
+trojan://blue2024@108.162.195.155:443?security=tls&type=ws&sni=tb.promote.icu&host=tb.promote.icu#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
