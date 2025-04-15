@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@91.149.239.198:443?security=tls&type=tcp&sni=agepq.ambercc.filegear-sg.me#US
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjEwNC4yMS4yMy4yMTAiLCJwb3J0IjoiMjA4MyIsImlkIjoiYWZiODM3YWQtNzllNy00NDM4LTk2ZDEtYjhmNzA3Nzk5OWFhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoicmFrMi1zdWIuOTMyLnBwLnVhIiwicGF0aCI6Ii9yYWsyLXN1Yi45MzIucHAudWEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJyYWsyLXN1Yi45MzIucHAudWEiLCJ0ZXN0X25hbWUiOiIyIn0=
-trojan://opentunnel.net-trhrst5ju45s@69.16.230.165:443?security=tls&sni=ukt-2.opensvr.net#US2
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyA1MjkuOUtCL3MiLCJhZGQiOiI0Ni4yNTAuMjM0LjMyIiwicG9ydCI6IjQ1MzE3IiwiaWQiOiJiMjgzNjM2OS0yMjBiLTQ4NDAtODBjNC04Y2Y5MDRjNzM1ZWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@sydney-mini-ddns.faforex.eu.org:25131?sni=www.cloudflare.com#%E6%9C%AA%E7%9F%A54
+trojan://NISHIKUITAN111@172.67.49.68:443?#%E6%9C%AA%E7%9F%A5
+trojan://JX98RVznPn2V@104.21.32.1:2087?security=tls&type=httpupgrade&sni=ana.twn24.ir&path=/🆔@M3HDIO1&host=ana.twn24.ir#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@108.165.152.65:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyA0LjFNQi9zIiwiYWRkIjoiNDUuMTM3LjE1NS40NSIsInBvcnQiOiIxNzY0NiIsImlkIjoiODI3MzQ3MjQtOGMwNi00YzJlLTljZmYtYjM0Nzc2ZmUxNzU3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#US2%201.9MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
