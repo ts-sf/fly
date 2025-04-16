@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://d041d96a-09a5-405f-ba3d-f56e3b444fb9@45.146.232.171:43583?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#HK
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.138.58:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@5.182.84.66:2083?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@188.164.159.241:2096?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-trojan://2fec7227-9abe-46f2-af18-78302b836c45@172.67.200.238:443?type=ws&sni=3s.890689.xyz&path=/XjTi1NYwi9A2bckpqdDoAgkondVWl&host=3s.890689.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#%E6%9C%AA%E7%9F%A5%205.1MB%2Fs
+trojan://a38c9e28-9960-4e31-9f18-ed2495a756aa@vt-bana2-cn-11.ghpgwqswodgzv.com:40021?type=ws&sni=vt-bana2-cn-11.ghpgwqswodgzv.com&path=/dl_media&host=vt-bana2-cn-11.ghpgwqswodgzv.com#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODFkOTM1MS02NDhjLTQ1OTAtOTA1OC05YTI5Yzg3M2NiMTI=@free.2weradf.xyz:36313#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
+ss://YWVzLTI1Ni1nY206UUlYV1VQWlQ5TzVFVUVXSw==@206.245.211.24:19014#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.19:443#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
