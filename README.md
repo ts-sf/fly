@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@23.94.211.148:443?sni=ngepz.ambercc.filegear-sg.me#US
-trojan://Aimer@162.159.44.232:2096?sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://auto@172.66.45.2:443?security=tls&type=ws&sni=dcf741e8.epeius-2gy.pages.dev&host=dcf741e8.epeius-2gy.pages.dev#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@13.230.213.154:2377#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#US2%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNDc0MzVmZC1jZDZmLTRiZWEtYTI3YS1mNjViZDVhM2RhN2Y=@free.2weradf.xyz:36741#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
+ss://YWVzLTEyOC1nY206NTBjV01yOUtia2VnREM5aEhaUE5Bdw==@20.173.66.64:1080#%E6%9C%AA%E7%9F%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#%E6%9C%AA%E7%9F%A52%20127.7KB%2Fs
+trojan://eaIqFOskZ8kH@104.21.48.1:2053?security=tls&type=ws&sni=tasnim.twn24.ir&path=/🆔@M3HDIO1&host=tasnim.twn24.ir#%E6%9C%AA%E7%9F%A53
+trojan://blue2024@108.162.195.155:443?security=tls&type=ws&sni=tb.promote.icu&host=tb.promote.icu#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
