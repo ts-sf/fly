@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.15:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A52
-trojan://NISHIKUITAN111@104.20.151.19:443?#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@27.50.49.47:2083?sni=epcci.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206WkRHQzBRMkUxMTJVQUpPNg==@156.245.190.23:15014#HK
-trojan://auto@172.66.46.254:443?security=tls&type=ws&sni=dcf741e8.epeius-2gy.pages.dev&path=/?ed=2560&host=dcf741e8.epeius-2gy.pages.dev#%E6%9C%AA%E7%9F%A55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqZUFtWDVPVm43dHgySzl6WFNkWERQ@92.118.112.92:13299#US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjY0ZmY0MS0yNTk1LTQ1MDEtYmY0Mi02OTE2MmQ4MWQ5YWE=@free.2weradf.xyz:36143#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiAzNTYuOEtCL3MiLCJhZGQiOiIxNTQuMjYuMTM0LjEwNiIsInBvcnQiOiIxNDEyOSIsImlkIjoiZTc3OThlMDktMzA5MC00MzY2LWFlODAtZjE4YWZkYWFiZjRmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGb0FlVW82WG5raG1lazFsTXA3dmhuZUhUZ1hpZFFYR3JKRkc1TkdvaFhzcnpjaHQ=@185.221.153.52:31348#%E6%9C%AA%E7%9F%A53
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjEwOC4xNjIuMTkyLjE1NCIsInBvcnQiOiIyMDg3IiwiaWQiOiIyYTMyNjNlMi04OTFjLTQ0NDYtYjQ3NC1hOGM2M2FjYjZlMjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiZ3VuIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIxZmRTTkExMTkyMjg5MjhPcFMyc21UYUIyMjhhQXNERHNkMWVhMTE0OTI4MjUyNDUuMS1zZW5hdG9yLmluZm8iLCJ0ZXN0X25hbWUiOiI0In0=
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
