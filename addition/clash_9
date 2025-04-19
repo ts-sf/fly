@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-04-19 01:19:58
+# 创建时间: 2025-04-19 10:45:28
 # 使用模版: V2RaySE 默认模版
-# 节点数量：7
+# 节点数量：13
 ####################################
 #
 mixed-port: 7890
@@ -12,13 +12,19 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知1198","type":"trojan","server":"141.101.120.24","port":2053,"alterId":0,"tls":true,"password":"c65dbe85-354d-4892-909d-2b288830ee37","sni":"1744156312.speed.baxsab.china.nicchina.pp.ua","skip-cert-verify":true,"network":"grpc","udp":true}
-  - {"name":"未知1199","type":"trojan","server":"104.21.71.8","port":8443,"alterId":0,"tls":true,"password":"xJ6KJem6QIwQ","sni":"shabestan.itn24.ir","skip-cert-verify":true,"network":"httpupgrade","udp":true}
-  - {"name":"US296","type":"trojan","server":"108.165.152.38","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epcco.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"US297","type":"trojan","server":"108.165.152.252","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"agept.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
-  - {"name":"TW36","type":"ss","server":"60.249.35.3","port":2377,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv","skip-cert-verify":true}
-  - {"name":"未知1200","type":"trojan","server":"104.21.16.1","port":2096,"alterId":0,"tls":true,"password":"8e09a4d7-80fc-4bb3-b3fb-1eb23211756a","sni":"ExpREsSTv.Twn24.ir","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1201","type":"trojan","server":"154.197.64.233","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epccy.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1191","type":"trojan","server":"89.191.234.182","port":2025,"alterId":0,"tls":true,"password":"vpn","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1192","type":"ss","server":"194.87.216.121","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"piv97XS1Cval86vfwHPD5j","skip-cert-verify":true}
+  - {"name":"未知1193","type":"ss","server":"195.16.74.107","port":35570,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"demlKZL24gZf9X8eykFdyr","skip-cert-verify":true}
+  - {"name":"未知1194","type":"trojan","server":"92.63.192.110","port":444,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepz.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1195","type":"trojan","server":"104.21.32.1","port":443,"alterId":0,"tls":true,"password":"psycho","sni":"pSYcho.sUeX12.IR","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1196","type":"trojan","server":"188.164.159.45","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US300 1.6MB/s","type":"ss","server":"38.114.114.143","port":2376,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"faBAoD54k87UJG7","skip-cert-verify":true}
+  - {"name":"US301","type":"trojan","server":"69.162.95.2","port":443,"alterId":0,"tls":true,"password":"4863e1b2-ec2f-4c71-b862-ce533028e57e","sni":"trus.moonfree.top","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1197","type":"trojan","server":"62.112.221.57","port":443,"alterId":0,"tls":true,"password":"3747000103274291200","sni":"integral-malamute.adder289.quest","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US302 225.2KB/s","type":"ss","server":"23.150.248.50","port":8090,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"PCnnH6SQSnfoS27","skip-cert-verify":true}
+  - {"name":"未知1198","type":"ss","server":"78.129.140.11","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"5HH2O7FhRyCvcPMA1hDujj","skip-cert-verify":true}
+  - {"name":"未知1199","type":"trojan","server":"18.185.51.67","port":8080,"alterId":0,"tls":true,"password":"Aimer","sni":"epccr.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1200","type":"ss","server":"221.215.48.118","port":2377,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -26,13 +32,19 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - 未知1191
+      - 未知1192
+      - 未知1193
+      - 未知1194
+      - 未知1195
+      - 未知1196
+      - US300 1.6MB/s
+      - US301
+      - 未知1197
+      - US302 225.2KB/s
       - 未知1198
       - 未知1199
-      - US296
-      - US297
-      - TW36
       - 未知1200
-      - 未知1201
 
   - name: ♻️ 自动选择
     type: url-test
@@ -40,13 +52,19 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 未知1191
+      - 未知1192
+      - 未知1193
+      - 未知1194
+      - 未知1195
+      - 未知1196
+      - US300 1.6MB/s
+      - US301
+      - 未知1197
+      - US302 225.2KB/s
       - 未知1198
       - 未知1199
-      - US296
-      - US297
-      - TW36
       - 未知1200
-      - 未知1201
 
   - name: 🌍 国外媒体
     type: select
@@ -54,52 +72,76 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 未知1191
+      - 未知1192
+      - 未知1193
+      - 未知1194
+      - 未知1195
+      - 未知1196
+      - US300 1.6MB/s
+      - US301
+      - 未知1197
+      - US302 225.2KB/s
       - 未知1198
       - 未知1199
-      - US296
-      - US297
-      - TW36
       - 未知1200
-      - 未知1201
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 未知1191
+      - 未知1192
+      - 未知1193
+      - 未知1194
+      - 未知1195
+      - 未知1196
+      - US300 1.6MB/s
+      - US301
+      - 未知1197
+      - US302 225.2KB/s
       - 未知1198
       - 未知1199
-      - US296
-      - US297
-      - TW36
       - 未知1200
-      - 未知1201
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - 未知1191
+      - 未知1192
+      - 未知1193
+      - 未知1194
+      - 未知1195
+      - 未知1196
+      - US300 1.6MB/s
+      - US301
+      - 未知1197
+      - US302 225.2KB/s
       - 未知1198
       - 未知1199
-      - US296
-      - US297
-      - TW36
       - 未知1200
-      - 未知1201
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 未知1191
+      - 未知1192
+      - 未知1193
+      - 未知1194
+      - 未知1195
+      - 未知1196
+      - US300 1.6MB/s
+      - US301
+      - 未知1197
+      - US302 225.2KB/s
       - 未知1198
       - 未知1199
-      - US296
-      - US297
-      - TW36
       - 未知1200
-      - 未知1201
 
   - name: 🎯 全球直连
     type: select
@@ -123,13 +165,19 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 未知1191
+      - 未知1192
+      - 未知1193
+      - 未知1194
+      - 未知1195
+      - 未知1196
+      - US300 1.6MB/s
+      - US301
+      - 未知1197
+      - US302 225.2KB/s
       - 未知1198
       - 未知1199
-      - US296
-      - US297
-      - TW36
       - 未知1200
-      - 未知1201
 
 
 rules:
