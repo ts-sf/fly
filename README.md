@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQjZJeXAwZHpKRmk=@147.45.179.184:443#%E6%9C%AA%E7%9F%A5
-trojan://p0axgx3pXT6yjp4SwSRaaYeCDxCFOFaAlRYDNaRjF8OycXn3ZE3ABaYgnDIx3Eeq9C0ce@43.206.220.255:443?security=tls&sni=huzzah.meijireform.com#%E6%9C%AA%E7%9F%A52
-trojan://juzi@3.67.25.193:443?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A53
-trojan://vip@172.67.70.188:443?security=tls&type=ws&sni=heihu880.pages.dev&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A54
-trojan://s42&umY(K5n*csP4@104.21.64.1:8443?security=tls&type=tcp&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv#%E6%9C%AA%E7%9F%A55
+trojan://trojan@172.64.155.16:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%E6%9C%AA%E7%9F%A52
+trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@104.21.23.162:443?sni=6tghjk.131.pp.ua#%E6%9C%AA%E7%9F%A53
+trojan://3828095943467868160@212.192.2.202:443?sni=lucky-lynx.dolphin109.quest#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@104.234.239.235:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://auto@104.21.35.43:443?security=tls&type=ws&sni=esetsecuritylicense3.wawafec355.workers.dev&path=/&host=esetsecuritylicense3.wawafec355.workers.dev#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
