@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN2NjNmE2NS1mMGQzLTQwNzgtYTIyZC1mMGFlMjcxYzdiMzc=@free.2weradf.xyz:36571#%F0%9F%87%B9%F0%9F%87%B7TR%E5%9C%9F%E8%80%B3%E5%85%B6
-trojan://Aimer@172.64.154.38:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@59.125.75.115:2377#TW
-trojan://NISHIKUITAN111@185.193.29.193:443?#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@27.50.49.47:2083?sni=agepn.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@104.19.103.190:2096?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@185.176.26.193:443?sni=b.promote.icu#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#%E6%9C%AA%E7%9F%A54%206.8MB%2Fs
+trojan://O3666Ckn6N@104.16.252.135:8080?security=none&type=ws&path=/&host=darkevil.news#%E6%9C%AA%E7%9F%A55
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.134:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
