@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://juzi@131.186.16.245:56803?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A5
-trojan://e254ed63-33df-4ca8-a980-7d0d9f510a93@45.146.232.172:46668?sni=q08m.vgraxiw73s.hasyaf.cn#HK
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#US%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.93.113:5004#US2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.241.104:443#%E6%9C%AA%E7%9F%A52%2014.3MB%2Fs
+trojan://3828095943467868160@203.23.128.48:443?sni=evolving-hippo.dolphin109.quest#HK
+trojan://vip@172.64.145.93:443?security=tls&type=tcp&sni=heihu880.pages.dev#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@188.164.159.74:8443?sni=epcch.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2AM%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
+trojan://Aimer@3.75.170.179:443?sni=epcco.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpack9lOWllSXJMUFU0Z3pkRTZtNFNO@185.139.230.55:5170#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
