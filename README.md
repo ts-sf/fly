@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.241.104:443#%E6%9C%AA%E7%9F%A52%2014.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#HK2%20418.6KB%2Fs
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#US3%201.9MB%2Fs
-trojan://pqlnPNu423@57.129.89.172:1935?type=tcp&sni=x1-germany-ovh-v2.devefun.net&host=x1-germany-ovh-v2.devefun.net#%E6%9C%AA%E7%9F%A514%20494.3KB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#US9%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.95.245:445#US5%201.9MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#US7%202.1MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%E6%9C%AA%E7%9F%A513%2018.4MB%2Fs
+trojan://684dd432-74bc-4c40-8d20-5c26a84725f8@45.146.232.171:42882?sni=q08m.vgraxiw73s.hasyaf.cn#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%20364.2KB%2Fs
+trojan://eG92F3gh09@51.15.86.181:1935?security=tls&type=tcp&sni=x1ams-scaleway.devefun.net#%E6%9C%AA%E7%9F%A519%2023.3MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
