@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-05-01 11:12:25
+# 创建时间: 2025-05-01 17:27:37
 # 使用模版: V2RaySE 默认模版
-# 节点数量：3
+# 节点数量：15
 ####################################
 #
 mixed-port: 7890
@@ -12,9 +12,21 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知1553","type":"trojan","server":"172.66.44.194","port":2053,"alterId":0,"tls":true,"password":"qCfu8t%24s%7B2m%3BsTxm","sni":"JOinMaHdISeRvEr-C1C.PaGES.dEV","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知1554","type":"ss","server":"221.215.48.117","port":2377,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv","skip-cert-verify":true}
-  - {"name":"US403","type":"trojan","server":"107.175.37.135","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepo.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1500","type":"trojan","server":"43.201.104.156","port":443,"alterId":0,"tls":true,"password":"b0pkiuXmIQsEQD9W_yT5rsGr","sni":"www.cloudflare.com","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1501","type":"trojan","server":"104.21.96.1","port":2087,"alterId":0,"tls":true,"password":"QTKsqSws9Sgc","sni":"hamshahri.twn24.ir","skip-cert-verify":true,"network":"httpupgrade","udp":true}
+  - {"name":"US376","type":"trojan","server":"104.129.167.128","port":443,"alterId":0,"tls":true,"password":"blue2024","sni":"ta.promote.icu","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"US377","type":"trojan","server":"154.211.8.18","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"ngepy.ambercc.filegear-sg.me","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1502","type":"trojan","server":"18.141.138.96","port":443,"alterId":0,"tls":true,"password":"8jqRgpyc5lEe34TzC9A8DuFD23aS3ZyCleIFuCxp3xOYnZRCeA3Oc3yCga8C2DKYBDaRp","sni":"mention.protocolbuffer.com","skip-cert-verify":true,"udp":true}
+  - {"name":"HK115","type":"trojan","server":"45.146.232.171","port":27301,"alterId":0,"tls":true,"password":"9608b30f-02cf-4854-a088-be1e844ad027","sni":"q08m.vgraxiw73s.hasyaf.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1503 8.4MB/s","type":"trojan","server":"194.164.57.9","port":1935,"alterId":0,"tls":true,"password":"I46LpSIM1f","sni":"x4ger-ionos.devefun.net","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知1504","type":"trojan","server":"45.131.209.89","port":443,"alterId":0,"tls":true,"password":"NISHIKUITAN111","sni":"za.ylks.xyz","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1505","type":"trojan","server":"172.67.216.95","port":443,"alterId":0,"tls":true,"password":"f2s539","sni":"aws-us-dallas-1.f1cflined.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知1506","type":"ss","server":"159.69.246.135","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"d0fa3a9b-2115-4cc0-a8f5-7f4f7caf6ec1","skip-cert-verify":true}
+  - {"name":"US378","type":"trojan","server":"135.84.74.27","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"agepn.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1507","type":"trojan","server":"sg.lyyyds.club","port":443,"alterId":0,"tls":true,"password":"05f1368b-1743-48a3-b2a5-56343e64e7be","sni":"sg.lyyyds.club","skip-cert-verify":true,"udp":true}
+  - {"name":"未知1508","type":"trojan","server":"104.21.48.1","port":443,"alterId":0,"tls":true,"password":"vlJW3VCP9Gmq","sni":"hamshahri.twn24.ir","skip-cert-verify":true,"network":"httpupgrade","udp":true}
+  - {"name":"US379 115.1MB/s","type":"ss","server":"156.146.38.170","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
+  - {"name":"未知1509","type":"trojan","server":"198.41.212.242","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epcca.ambercc.filegear-sg.me","skip-cert-verify":true,"udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -22,9 +34,21 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知1553
-      - 未知1554
-      - US403
+      - 未知1500
+      - 未知1501
+      - US376
+      - US377
+      - 未知1502
+      - HK115
+      - 未知1503 8.4MB/s
+      - 未知1504
+      - 未知1505
+      - 未知1506
+      - US378
+      - 未知1507
+      - 未知1508
+      - US379 115.1MB/s
+      - 未知1509
 
   - name: ♻️ 自动选择
     type: url-test
@@ -32,9 +56,21 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知1553
-      - 未知1554
-      - US403
+      - 未知1500
+      - 未知1501
+      - US376
+      - US377
+      - 未知1502
+      - HK115
+      - 未知1503 8.4MB/s
+      - 未知1504
+      - 未知1505
+      - 未知1506
+      - US378
+      - 未知1507
+      - 未知1508
+      - US379 115.1MB/s
+      - 未知1509
 
   - name: 🌍 国外媒体
     type: select
@@ -42,36 +78,84 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知1553
-      - 未知1554
-      - US403
+      - 未知1500
+      - 未知1501
+      - US376
+      - US377
+      - 未知1502
+      - HK115
+      - 未知1503 8.4MB/s
+      - 未知1504
+      - 未知1505
+      - 未知1506
+      - US378
+      - 未知1507
+      - 未知1508
+      - US379 115.1MB/s
+      - 未知1509
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知1553
-      - 未知1554
-      - US403
+      - 未知1500
+      - 未知1501
+      - US376
+      - US377
+      - 未知1502
+      - HK115
+      - 未知1503 8.4MB/s
+      - 未知1504
+      - 未知1505
+      - 未知1506
+      - US378
+      - 未知1507
+      - 未知1508
+      - US379 115.1MB/s
+      - 未知1509
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知1553
-      - 未知1554
-      - US403
+      - 未知1500
+      - 未知1501
+      - US376
+      - US377
+      - 未知1502
+      - HK115
+      - 未知1503 8.4MB/s
+      - 未知1504
+      - 未知1505
+      - 未知1506
+      - US378
+      - 未知1507
+      - 未知1508
+      - US379 115.1MB/s
+      - 未知1509
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知1553
-      - 未知1554
-      - US403
+      - 未知1500
+      - 未知1501
+      - US376
+      - US377
+      - 未知1502
+      - HK115
+      - 未知1503 8.4MB/s
+      - 未知1504
+      - 未知1505
+      - 未知1506
+      - US378
+      - 未知1507
+      - 未知1508
+      - US379 115.1MB/s
+      - 未知1509
 
   - name: 🎯 全球直连
     type: select
@@ -95,9 +179,21 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知1553
-      - 未知1554
-      - US403
+      - 未知1500
+      - 未知1501
+      - US376
+      - US377
+      - 未知1502
+      - HK115
+      - 未知1503 8.4MB/s
+      - 未知1504
+      - 未知1505
+      - 未知1506
+      - US378
+      - 未知1507
+      - 未知1508
+      - US379 115.1MB/s
+      - 未知1509
 
 
 rules:
