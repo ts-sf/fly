@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@104.16.56.6:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
-trojan://2bfa08e0-ae1e-11ed-a3a0-1239d0255272@5.254.17.52:443?security=tls&type=ws&sni=telewebion.com&path=/trojanws#%E6%9C%AA%E7%9F%A52
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAyODAuNEtCL3MiLCJhZGQiOiIxMDEuOTkuOTEuMjM0IiwicG9ydCI6IjM2NzAwIiwiaWQiOiIxMjdmZjQzYy0xODUxLTRiMmQtYmE4Yy02YWZiYTIxZWMwNGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
-trojan://Aimer@162.159.128.30:443?type=ws&sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@52.89.138.13:443?sni=epcca.ambercc.filegear-sg.me#US2
+trojan://KsMF5kLudbU3@104.21.44.185:2087?security=tls&type=ws&sni=econews.onetwothree123.ir&path=/🆔@M3HDIO1&host=econews.onetwothree123.ir#%E6%9C%AA%E7%9F%A5
+trojan://Aimer@46.254.93.175:2083?security=tls&type=ws&sni=ageph.ambercc.filegear-sg.me&path=/&host=ageph.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@154.211.8.12:2096?sni=epccf.ambercc.filegear-sg.me#US
+trojan://87c29139-765a-441e-a82d-fdbb46697695@132.226.29.72:443?security=tls&type=tcp&sni=us-2503-1.upd86.de#US2
+trojan://Aimer@222.107.236.137:12434?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
