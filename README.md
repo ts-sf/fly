@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10001?security=tls&type=tcp&sni=www.cloudflare.com#%E6%9C%AA%E7%9F%A5
-trojan://2b2f6798-04cb-41ae-866a-97a31e8c8ec8@45.146.232.171:22269?sni=q08m.vgraxiw73s.hasyaf.cn#HK
-trojan://Aimer@104.16.36.135:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@162.159.129.226:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJalZBaTh0VVlXdlkwc0huWXBObWtB@167.235.57.7:443#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@162.159.140.164:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://vip@172.67.68.101:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.22.95.183:443#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@154.23.172.19:11000?sni=epccj.ambercc.filegear-sg.me#US
+trojan://Aimer@108.165.152.163:2087?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&host=epcca.ambercc.filegear-sg.me#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
