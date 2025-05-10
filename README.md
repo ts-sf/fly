@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://fdd1d613-f234-40f6-b63d-97517e0fc4b3@34.220.50.197:20230?sni=www.alibaba.com#US
-trojan://amclubs2024@198.62.62.156:443?security=tls&type=ws&sni=tr.amclub.us.kg&host=tr.amclub.us.kg#US2
-trojan://Aimer@108.162.195.127:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&type=tcp&sni=x1es-ovh.devefun.net#%E6%9C%AA%E7%9F%A53%203.9MB%2Fs
-trojan://Aimer@154.211.8.240:443?security=tls&type=ws&sni=epccf.ambercc.filegear-sg.me&path=/&host=epccf.ambercc.filegear-sg.me#US3
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@154.90.63.80:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.66:2377#TW
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.146:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A52
+trojan://d0d98f45-15ec-4a5a-9ccd-d4089e2204d9@52.195.209.38:20230?sni=www.alibaba.com#%E6%9C%AA%E7%9F%A53
+trojan://4d048fc6-d944-41dd-b327-10856adcc82d@199.59.243.228:443?security=tls&sni=zi.you.usdtvfk.top#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
