@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://vip@172.67.209.127:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://U%26YcI8%3E7ep%7D%3CeT8%5D@104.17.147.22:8443?security=tls&type=ws&sni=jOInMaHdisErVeR-Ys7.pagEs.DEV&host=joinmahdiserver-ys7.pages.dev#%E6%9C%AA%E7%9F%A53
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgMjYuMU1CL3MiLCJhZGQiOiI2NC4xODEuMjQ4LjE5NiIsInBvcnQiOiIzMzA2IiwiaWQiOiI5NzllMzlkNy1mZGY4LTRlNTEtYWZiNi00ZDE4MWM1NjE3MGYiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im9yYS5haWhpLnVrIiwicGF0aCI6Ii9yYXkiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvcmEuYWloaS51ayIsInRlc3RfbmFtZSI6IlVTIn0=
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443?type=ws&sni=m2rrrty.777219.xyz&path=/duJhdsnTCbijwHNYeMcCs9#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@104.17.158.58:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.140.54.43:2377#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@104.20.30.149:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://VGZ0nM9KY3Qz@172.67.175.40:2096?security=tls&type=httpupgrade&sni=esna.farsonline24.ir&path=/🆔@M3HDIO1&host=esna.farsonline24.ir#%E6%9C%AA%E7%9F%A54
+trojan://0212fab5-e93c-4904-b7a8-187fd535f354@104.21.49.59:443?security=tls&type=ws&sni=3wsxcvbn.890617.xyz&path=/rFt8MpX4JNWO67qEaMINZ1&host=3wsxcvbn.890617.xyz#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@162.159.134.201:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
