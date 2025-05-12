@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@162.159.38.104:2087?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@221.215.48.117:2377#%E6%9C%AA%E7%9F%A53
-trojan://bpb-trojan@101.69.122.104:443?security=tls&type=ws&sni=zamim340.ggff.net&path=/tr?ed=2560&host=zamim340.ggff.net#%E6%9C%AA%E7%9F%A54
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.157:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A55
-trojan://Aimer@104.16.204.203:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
+trojan://Aimer@162.159.138.219:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
+trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@143.244.191.231:443?security=tls&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen#US2
+trojan://Aimer@104.19.35.228:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@8.20.125.1:443?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#US3
+trojan://Aimer@18.185.51.67:8080?security=tls&type=tcp&sni=epccr.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
