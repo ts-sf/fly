@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@172.66.206.60:2087?security=tls&type=ws&sni=epccj.ambercc.filegear-sg.me&path=/&host=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.16.1:8443?security=tls&type=ws&sni=tABNaK.TwN24.ir&path=/vNF7RJtVepEuGq7R6Cczl&host=tabnak.twn24.ir#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@108.165.152.241:2053?sni=epccy.ambercc.filegear-sg.me#US
-ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#HK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YkExSHJOYkJiN3Z0bGVzTW1QQmJs@62.60.239.203:1090#%E6%9C%AA%E7%9F%A54
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#US%201.6MB%2Fs
+trojan://aa424865-2762-404c-b767-66c9f98e026b@104.21.38.48:443?security=tls&type=ws&sni=4WwwWwWWWwWWWwwWWWWWWwwTttTtTT.HuAnGdI2031.dpdnS.ORG&path=/P6OrM7FLvAhFqZdFGa29fCwxS&host=4wwwwwwwwwwwwwwwwwwwwwwttttttt.huangdi2031.dpdns.org#%E6%9C%AA%E7%9F%A52
+trojan://trojan@45.192.222.112:8443?security=tls&type=ws&sni=store.timimi.dpdns.org&path=/?ed=2560&host=store.timimi.dpdns.org#HK
+trojan://Aimer@79.137.204.220:2053?sni=epcco.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHZGh6d2dWa2ZmZUVWZzVaV2xidEdG@78.129.140.11:443#%E6%9C%AA%E7%9F%A54%206.2MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
