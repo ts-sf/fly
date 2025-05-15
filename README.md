@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#US%201.6MB%2Fs
-trojan://aa424865-2762-404c-b767-66c9f98e026b@104.21.38.48:443?security=tls&type=ws&sni=4WwwWwWWWwWWWwwWWWWWWwwTttTtTT.HuAnGdI2031.dpdnS.ORG&path=/P6OrM7FLvAhFqZdFGa29fCwxS&host=4wwwwwwwwwwwwwwwwwwwwwwttttttt.huangdi2031.dpdns.org#%E6%9C%AA%E7%9F%A52
-trojan://trojan@45.192.222.112:8443?security=tls&type=ws&sni=store.timimi.dpdns.org&path=/?ed=2560&host=store.timimi.dpdns.org#HK
-trojan://Aimer@79.137.204.220:2053?sni=epcco.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHZGh6d2dWa2ZmZUVWZzVaV2xidEdG@78.129.140.11:443#%E6%9C%AA%E7%9F%A54%206.2MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#US
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiA3NjUuMktCL3MiLCJhZGQiOiIxMDEuOTkuOTEuMjM0IiwicG9ydCI6IjM2NzAwIiwiaWQiOiIxMjdmZjQzYy0xODUxLTRiMmQtYmE4Yy02YWZiYTIxZWMwNGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
+trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.15.232:443?security=tls&type=ws&sni=ab2c7f0b-bf1b-4eb3-9884-256f4de3d.2030.pp.ua&path=/4p35eUnmGxQ8YJFJxz&host=ab2c7f0b-bf1b-4eb3-9884-256f4de3d.2030.pp.ua#%E6%9C%AA%E7%9F%A53
+trojan://bpb-trojan@45.80.110.224:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A54
+trojan://5Va4g9kI9%21WY@104.21.71.8:2087?security=tls&type=httpupgrade&sni=fars.itn24.ir&path=/dHV8LpKm&host=fars.itn24.ir#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
