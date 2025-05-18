@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://53249200-30ff-436f-a032-0bb00605f8f9@104.21.24.172:443?security=tls&type=ws&sni=3derty.852224.dpdns.org&path=/YPTDHLX8qjvTU5JqXZxjQ5ILc&host=3derty.852224.dpdns.org#%E6%9C%AA%E7%9F%A52
-trojan://U592RRvl1vSW@104.21.64.1:2053?security=tls&type=ws&sni=tasnim.twn24.ir&path=/🆔@M3HDIO1&host=tasnim.twn24.ir#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@218.144.55.101:21282?sni=agepj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://x657pOt8KJBW@104.21.112.1:2053?security=tls&type=ws&sni=tasnim.twn24.ir&path=/🆔@M3HDIO1&host=tasnim.twn24.ir#%E6%9C%AA%E7%9F%A55
-trojan://Aimer@104.26.12.208:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
+trojan://Aimer@108.162.194.193:443?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
+trojan://bpb-trojan@172.66.213.38:443?security=tls&type=ws&sni=bpb-hd.aaronchin.xyz&host=bpb-hd.aaronchin.xyz#%E6%9C%AA%E7%9F%A52
+trojan://blue2024@5.182.85.129:443?security=tls&type=ws&sni=b.promote.icu&path=/?ed&host=tb.promote.icu#%E6%9C%AA%E7%9F%A53
+trojan://amclubs@162.159.129.11:2053?type=ws&sni=tran.amclubs.rr.nu&host=tran.amclubs.rr.nu#%E6%9C%AA%E7%9F%A54
+trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@172.67.136.117:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
