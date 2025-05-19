@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@108.162.194.193:443?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
-trojan://bpb-trojan@172.66.213.38:443?security=tls&type=ws&sni=bpb-hd.aaronchin.xyz&host=bpb-hd.aaronchin.xyz#%E6%9C%AA%E7%9F%A52
-trojan://blue2024@5.182.85.129:443?security=tls&type=ws&sni=b.promote.icu&path=/?ed&host=tb.promote.icu#%E6%9C%AA%E7%9F%A53
-trojan://amclubs@162.159.129.11:2053?type=ws&sni=tran.amclubs.rr.nu&host=tran.amclubs.rr.nu#%E6%9C%AA%E7%9F%A54
-trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@172.67.136.117:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A55
+trojan://ctZ66Vttffqq@104.21.80.1:2083?security=tls&type=ws&sni=yjc.twn24.ir&path=/🆔@M3HDIO1&host=yjc.twn24.ir#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@162.159.133.68:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9101#US%201.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.27:2377#US2
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@23.94.25.129:55511?security=tls&type=tcp&sni=t17.qifei.app#US3
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
