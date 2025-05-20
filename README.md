@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@103.116.7.133:2083?security=tls&type=ws&sni=agepn.ambercc.filegear-sg.me&path=/?ed=2560&host=agepn.ambercc.filegear-sg.me#US2
-trojan://Aimer@213.241.198.59:2083?sni=epccn.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://f411e405-da5e-47aa-93bb-8454c6f59ae1@104.21.44.185:443?security=tls&type=ws&sni=MehRneWS.OnEtwothREe123.iR&path=/26za8O91d9bS7H1OOKD&host=mehrnews.onetwothree123.ir#%E6%9C%AA%E7%9F%A5
-trojan://blue2024@198.41.200.142:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A52
-trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@104.21.84.58:443?security=tls&type=ws&sni=XXXcddDe.IRaN2035.dpdNs.orG&path=/bdtuD5eD7Q29WxRG8DqNAB&host=xxxcddde.iran2035.dpdns.org#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@185.169.107.15:2053?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@ignacio.ns.cloudflare.com:443?sni=epccn.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.42.98:443?security=tls&type=ws&sni=icecream.955850.xyz&path=/proxyip=45.67.215.153:443&proxyIP=null&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A53
+trojan://blue2024@104.16.112.144:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@209.208.227.79:443?sni=epccv.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
