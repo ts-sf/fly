@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://trojan@172.67.75.172:8443?sni=fofang.pages.dev#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@172.64.159.228:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://fefba36d-5142-42f1-b14d-db5249511d93@104.21.82.39:443?security=tls&type=ws&sni=5ttt.191288.xyz&path=/BFBuPh4SuxTxCwkqKrjE&host=5ttt.191288.xyz#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQTAwblRRbVRzM01WYlV1TlFMdkNi@65.38.120.217:65283#%E6%9C%AA%E7%9F%A54
-trojan://QTKsqSws9Sgc@104.21.80.1:2087?security=tls&type=httpupgrade&sni=hamshahri.twn24.ir&path=/🆔@M3HDIO1&host=hamshahri.twn24.ir#%E6%9C%AA%E7%9F%A55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGJlMDZlYS0wNmZiLTQ3OWItYTZmMS05MjliN2MwMWQxZWE=@154.83.90.11:52105#US
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?security=tls&sni=trus.moonfree.top#%E6%9C%AA%E7%9F%A5
+trojan://Aimer@104.16.10.64:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@154.197.64.206:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://NISHIKUITAN111@198.41.205.240:443?#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
