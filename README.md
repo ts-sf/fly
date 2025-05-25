@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@23.94.25.129:55511?security=tls&type=tcp&sni=t17.qifei.app#US
-trojan://juzi@91.107.233.151:8443?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?security=tls&type=ws&sni=Xxs345rf.857856.xYZ&path=/71M8Ov1I5Gk9247fHC0XGZG6&host=xxs345rf.857856.xyz#%E6%9C%AA%E7%9F%A53
-trojan://NISHIKUITAN111@198.41.217.62:443?#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@104.16.6.66:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@104.19.144.198:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.102:2375#US2%201.9MB%2Fs
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.99:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A52
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.209:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%E6%9C%AA%E7%9F%A54%203.0MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
