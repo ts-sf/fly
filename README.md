@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN222@141.101.121.176:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@5.182.84.50:2096?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.161.104:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@125.137.12.172:16992?sni=epme.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@104.21.74.120:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@172.67.146.103:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.22.15.132:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A53
+trojan://6gUCk7hlRJ@172.67.193.157:8443?security=tls&type=ws&sni=MIKasA.drAgoNAllEy.iR.&path=/&host=MIKasA.drAgoNAllEy.iR.#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%E6%9C%AA%E7%9F%A55%201.2MB%2Fs
+trojan://Aimer@172.67.70.27:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
