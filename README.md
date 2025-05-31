@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@ignacio.ns.cloudflare.com:443?sni=epme.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://Aimer@104.19.42.244:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@27.50.49.156:2096?sni=epccn.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@104.18.179.229:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@104.19.52.227:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@192.200.160.169:2096?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#US2
+trojan://87c29139-765a-441e-a82d-fdbb46697695@132.226.29.72:443?security=tls&type=tcp&sni=us-2503-1.upd86.de#US3
+trojan://blue2024@104.16.38.173:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5
+trojan://yaml777@104.21.61.73:443?security=tls&type=ws&sni=yaml7.ggff.net&path=/&host=yaml7.ggff.net#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@104.129.167.255:8443?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&path=/&host=epcca.ambercc.filegear-sg.me#US4
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
