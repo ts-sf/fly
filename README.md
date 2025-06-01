@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@45.66.129.147:46741?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://c133fbaf-49b6-478a-9a9f-dbde3839aeb5@183.237.91.187:15320?sni=m.ctrip.com#%E6%9C%AA%E7%9F%A53
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.65.90.53:443?security=tls&type=ws&sni=icecream.955850.xyz&path=/proxyip=45.67.215.153:443&proxyIP=null&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@162.159.135.28:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
-trojan://Aimer@104.19.60.184:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
+trojan://Aimer@104.26.12.185:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206RFRDQlo3Sk9EMzg0RVlIUw==@185.47.253.144:20010#%E6%9C%AA%E7%9F%A53
+trojan://Bw5Mz7QkVp@70.34.206.32:443?security=tls&type=tcp&sni=z-v2-077787.kailib.com#%E6%9C%AA%E7%9F%A54
+trojan://bpb-trojan@104.19.223.79:443?security=tls&type=ws&sni=qq.vvii.us.kg&host=qq.vvii.us.kg#%E6%9C%AA%E7%9F%A55
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.134:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
