@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@5.182.84.120:443?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
-trojan://c21b972a-bc92-4f8c-8e6a-6868001f7f88@141.193.213.198:443?security=tls&type=ws&sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&path=/images&host=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com#US2
-trojan://auto@104.20.19.25:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@27.50.49.179:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.232:2377#TW
+trojan://Aimer@5.35.68.249:2053?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#US%20481.3KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyA3NjQuM0tCL3MiLCJhZGQiOiI4NC4yNDcuMTUwLjE3NyIsInBvcnQiOiIzNjE0MSIsImlkIjoiZDMxZWU1MmYtYjZlNC00ZGI4LTljOTUtOTg4NTVlYzgyM2NjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
+trojan://Aimer@104.19.55.89:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://55af195e-105f-4efc-871b-6eccb3163214@162.159.153.2:443?security=tls&type=ws&sni=ft-champions-coupons-relate.trycloudflare.com&host=ft-champions-coupons-relate.trycloudflare.com#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
