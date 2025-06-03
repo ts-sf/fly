@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@5.35.68.249:2053?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#US%20481.3KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyA3NjQuM0tCL3MiLCJhZGQiOiI4NC4yNDcuMTUwLjE3NyIsInBvcnQiOiIzNjE0MSIsImlkIjoiZDMxZWU1MmYtYjZlNC00ZGI4LTljOTUtOTg4NTVlYzgyM2NjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
-trojan://Aimer@104.19.55.89:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://55af195e-105f-4efc-871b-6eccb3163214@162.159.153.2:443?security=tls&type=ws&sni=ft-champions-coupons-relate.trycloudflare.com&host=ft-champions-coupons-relate.trycloudflare.com#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@108.165.152.36:2096?sni=epmq.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://Aimer@172.66.45.126:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@104.16.48.139:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@92.243.74.3:8443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.194:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
