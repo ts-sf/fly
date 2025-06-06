@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.152.205:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@108.162.195.82:443?sni=epms.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://61d4840a5f23ac24873dd72e54a607e7@172.67.178.220:443?security=tls&type=ws&sni=notice.2513142.xyz&path=/#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@172.66.46.66:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@172.67.146.101:443?sni=epms.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://4d048fc6-d944-41dd-b327-10856adcc82d@199.59.243.228:443?security=tls&sni=zi.you.usdtvfk.top#US
+trojan://Aimer@34.218.130.79:443?sni=ngepx.ambercc.filegear-sg.me#US2
+ss://YWVzLTI1Ni1nY206NFFITFdKM0tOWTdHSVM0MA==@185.47.254.177:20007#%E6%9C%AA%E7%9F%A5%20750.9KB%2Fs
+trojan://Aimer@104.19.37.92:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@49.51.179.33:443?sni=epccj.ambercc.filegear-sg.me#US3
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
