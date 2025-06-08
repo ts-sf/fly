@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#%E6%9C%AA%E7%9F%A5%2010.8MB%2Fs
-trojan://Aimer@162.159.141.17:443?type=ws&sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@104.16.43.45:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@162.159.134.228:443?type=ws&sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.2.133:443?security=tls&type=ws&sni=zmaoz.faculty.ucdavis.edu.&host=fonmelo.com#US2
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9101#US%201.7MB%2Fs
+trojan://4069c35c-54ea-48ee-9ffa-05d9a0302043@172.67.220.32:443?security=tls&type=grpc&sni=m5tyui.999836.xyz#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#%E6%9C%AA%E7%9F%A53%203.2MB%2Fs
+trojan://Aimer@104.26.15.58:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@172.67.151.67:443?sni=epms.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
