@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@104.16.192.140:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@104.19.33.4:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.89.70.208:8090#US%202.0MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCAxLjNNQi9zIiwiYWRkIjoiMTU0LjI2LjEzNC4yMjEiLCJwb3J0IjoiNTQ4MTMiLCJpZCI6ImRmOWM2ZTllLTllN2EtNGQwNi04OGJiLTliMjkzMzdiOTczZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNCJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKRHBiY3FoM3dsMnNrMHdVV2QxaWs5@89.185.84.185:443#%E6%9C%AA%E7%9F%A55%206.4MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwQ0ZmbERnTm41Qzg5SU1BOG10OWNn@62.60.234.92:53579#%E6%9C%AA%E7%9F%A52
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAyLjBNQi9zIiwiYWRkIjoiNDUuMTM3LjE1NS40NSIsInBvcnQiOiIxNzY0NiIsImlkIjoiODI3MzQ3MjQtOGMwNi00YzJlLTljZmYtYjM0Nzc2ZmUxNzU3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
+trojan://Ng35283528@104.16.83.8:443?security=tls&type=ws&sni=c2.validbv3528.eu.org&path=/?ed=2560&host=c2.validbv3528.eu.org#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WkVZckIyNWVMcGlMaEIyN3U3Y3VMRG9STDZqaFpNZkN4cnNyTXZPeGNTMkVNR2J2V2lKZEsyaXRpV1VIQVE9@45.43.137.114:443#%E6%9C%AA%E7%9F%A55
+trojan://blue2024@190.93.245.62:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
