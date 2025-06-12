@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@172.67.171.131:443?security=tls&type=ws&sni=iNvINcIbLE.faFA20.Shop&path=/trPC2UpdSYVTQtLZwx/MTI5LjE1OS44NC43MQ==?ed=2560&host=invincible.fafa20.shop#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@108.165.152.67:2053?sni=epccy.ambercc.filegear-sg.me#US
-trojan://b80Iy90Fma@104.26.9.227:443?security=tls&type=ws&sni=usa03.rtx.al&path=/cfyyds&host=usa03.rtx.al#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@104.21.31.253:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206S0M0MU1NWVZBWDgzR0RKMA==@185.186.79.135:20028#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@104.16.2.21:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.152.17:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A52
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.115:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@154.197.64.240:8443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@23.94.25.129:55511?security=tls&type=tcp&sni=t17.qifei.app#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
