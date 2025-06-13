@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@104.18.0.96:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://WOeXShhJpL@104.17.8.124:443?security=tls&type=ws&sni=10jzus.zdzdzd.xyz&path=/juzigongyi&host=10jzus.zdzdzd.xyz#%E6%9C%AA%E7%9F%A53
-trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.15.85:443?security=tls&type=ws&sni=md1.safecdn.site&path=/Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&host=md1.safecdn.site#%E6%9C%AA%E7%9F%A54
-trojan://123@104.24.92.207:2053?type=ws&sni=epeius001-ea1.pages.dev&host=epeius001-ea1.pages.dev#%E6%9C%AA%E7%9F%A55
-trojan://Aimer@108.165.152.29:2096?sni=epccv.ambercc.filegear-sg.me#US
+trojan://Aimer@23.94.92.19:443?sni=epccc.ambercc.filegear-sg.me#US
+trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.157.220:443?sni=c1sWER.777159.XYz#%E6%9C%AA%E7%9F%A52
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.163:443?security=tls&type=ws&sni=blOOM-cHh.pAges.DeV&host=blOOM-cHh.pAges.DeV#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@155.46.213.38:2083?sni=agepw.ambercc.filegear-sg.me#US2
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
