@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.153:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A52
-trojan://bpb-trojan@198.41.211.21:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A53
-trojan://bpb-trojan@104.21.38.227:443?security=tls&type=ws&sni=adbt.ir&host=adbt.ir#%E6%9C%AA%E7%9F%A54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVk9aSERMdnZ2VUxqeDN6Mzg5ajBT@77.246.96.113:29530#%E6%9C%AA%E7%9F%A55
-trojan://Aimer@108.165.152.92:2053?security=tls&type=ws&sni=agept.ambercc.filegear-sg.me&host=agept.ambercc.filegear-sg.me#US
+trojan://Aimer@162.159.38.100:2053?security=tls&type=ws&sni=agepa.ambercc.filegear-sg.me&host=agepa.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@199.34.228.164:2087?sni=epccz.ambercc.filegear-sg.me#US
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@45.66.129.147:46741?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@108.165.152.71:443?sni=epccf.ambercc.filegear-sg.me#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
