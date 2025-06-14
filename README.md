@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@162.159.38.100:2053?security=tls&type=ws&sni=agepa.ambercc.filegear-sg.me&host=agepa.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@199.34.228.164:2087?sni=epccz.ambercc.filegear-sg.me#US
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@45.66.129.147:46741?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@108.165.152.71:443?sni=epccf.ambercc.filegear-sg.me#US2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%E6%9C%AA%E7%9F%A5%20861.4KB%2Fs
+trojan://juzi@172.67.74.9:2087?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.66:2377#TW
+trojan://Aimer@104.16.12.80:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@159.89.227.200:1401?sni=www.baidu.com#US2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
