@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.21.94:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@154.211.8.12:2096?sni=epccv.ambercc.filegear-sg.me#US
-trojan://Aimer@162.159.34.65:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-trojan://uV8u9Q41e2@104.16.127.84:443?security=tls&type=ws&sni=DieGo.DIEgoMAraDOnA.iR.&path=/&host=DieGo.DIEgoMAraDOnA.iR.#%E6%9C%AA%E7%9F%A54
-trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net#%E6%9C%AA%E7%9F%A55
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.153:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A52
+trojan://bpb-trojan@198.41.211.21:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A53
+trojan://bpb-trojan@104.21.38.227:443?security=tls&type=ws&sni=adbt.ir&host=adbt.ir#%E6%9C%AA%E7%9F%A54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVk9aSERMdnZ2VUxqeDN6Mzg5ajBT@77.246.96.113:29530#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@108.165.152.92:2053?security=tls&type=ws&sni=agept.ambercc.filegear-sg.me&host=agept.ambercc.filegear-sg.me#US
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
