@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9101#US2%201.9MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVMzIDcuM01CL3MiLCJhZGQiOiIxNS4yMDQuMjQ4LjkyIiwicG9ydCI6IjMwNTYyIiwiaWQiOiI4MjQ2NjcxNS02YTU4LTQwNDYtYTM2My1hMGQxOGU1YjJhYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzMifQ==
-trojan://juzi@104.25.254.197:2096?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@104.18.67.16:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@27.50.49.209:2087?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&path=/&host=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@52.195.228.139:2377#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@172.67.149.185:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://55af195e-105f-4efc-871b-6eccb3163214@162.159.153.2:443?security=tls&type=ws&sni=ft-champions-coupons-relate.trycloudflare.com&host=ft-champions-coupons-relate.trycloudflare.com#%E6%9C%AA%E7%9F%A54
+trojan://8QOe%29%26jIP%5E%5Dl%7BP.1@172.66.44.182:443?security=tls&type=ws&sni=JoInMAHdisErVER-78D.PaGEs.DEV&host=joinmahdiserver-78d.pages.dev#%E6%9C%AA%E7%9F%A55
+trojan://auto@104.21.31.51:443?security=tls&type=ws&sni=esetsecuritylicense1.vowexa5791.workers.dev&path=/&host=esetsecuritylicense1.vowexa5791.workers.dev#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
