@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@108.165.152.93:2083?sni=epccu.ambercc.filegear-sg.me#US
-trojan://OL4zCJlzpxm2@104.21.112.1:2083?security=tls&type=ws&sni=yjc.twn24.ir&path=/рЯЖФ@M3HDIO1&host=yjc.twn24.ir#%E6%9C%AA%E7%9F%A52
-trojan://poTB9j1n12Tq@172.67.142.21:2053?sni=tasnim.andishehnegariran.ir#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@104.16.155.153:443?sni=epccy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@104.19.155.26:443?sni=epccy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@162.159.138.141:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206TkZWSTM5MjdHOEw5NFAzUw==@37.143.128.125:20012#%E6%9C%AA%E7%9F%A53
+trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23007?sni=84.yuanul.com#%E6%9C%AA%E7%9F%A54
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.8:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@162.159.143.31:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
