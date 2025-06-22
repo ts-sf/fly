@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NISHIKUITAN111@46.254.92.27:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A52
-trojan://CjqK8GFZ%29%2CD%3F@104.21.11.178:443?security=tls&type=ws&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&path=/trU3kEraImU22Jv6vo?ed=2560&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@104.18.92.92:443?sni=epccx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://ttfang@222.103.185.193:50586?sni=ttfang.fange.me#%E6%9C%AA%E7%9F%A55
-trojan://7743e1b5-d301-4a66-b765-17094890fae2@172.67.156.239:443?sni=ssloa2.100896.xyz#%E6%9C%AA%E7%9F%A56
+trojan://Aimer@162.159.138.147:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://ttfang@198.41.220.255:443?security=tls&type=ws&sni=ttfang.fange.me&path=/&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A53
+trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@172.67.75.172:443?security=tls&type=ws&sni=fwd-refuse-senators-brought.trycloudflare.com&host=fwd-refuse-senators-brought.trycloudflare.com#%E6%9C%AA%E7%9F%A54
+trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.198.165:443?sni=ssp1.100896.xyz#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@185.119.117.146:8443?sni=agepq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
