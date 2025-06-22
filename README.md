@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@162.159.138.147:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://ttfang@198.41.220.255:443?security=tls&type=ws&sni=ttfang.fange.me&path=/&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A53
-trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@172.67.75.172:443?security=tls&type=ws&sni=fwd-refuse-senators-brought.trycloudflare.com&host=fwd-refuse-senators-brought.trycloudflare.com#%E6%9C%AA%E7%9F%A54
-trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.198.165:443?sni=ssp1.100896.xyz#%E6%9C%AA%E7%9F%A55
-trojan://Aimer@185.119.117.146:8443?sni=agepq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#US%2022.8MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%E6%9C%AA%E7%9F%A52%2018.7MB%2Fs
+trojan://3r372@91.195.240.94:443?security=tls&type=tcp&sni=tj786.37927.online#%E6%9C%AA%E7%9F%A53
+trojan://ttfang@198.41.221.84:443?security=tls&type=ws&sni=ttfang.fange.me&path=/&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A54
+trojan://b7bc6b1c-610d-4d39-ad29-18a0d6902348@54.169.146.94:443?security=tls&sni=usa.liangyuandian.top#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
