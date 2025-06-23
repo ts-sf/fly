@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://50197133-5149-40fc-89fa-3f71d5f2e8c4@183.236.51.106:10816?security=tls&type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com#%E6%9C%AA%E7%9F%A52
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23014?sni=101.yuanul.com#%E6%9C%AA%E7%9F%A53
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.6.214:443?security=tls&type=ws&sni=icecream.955850.xyz&path=/proxyip=45.67.215.153:443&proxyIP=null&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A54
-trojan://juzi@172.67.74.9:2087?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A55
-trojan://Aimer@104.26.14.53:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
+trojan://a124e41a-0fb8-4543-a0ab-a127c7b515a9@44.246.215.62:20230?security=tls&sni=421421.xyz#US
+trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@104.26.13.31:443?security=tls&type=ws&sni=fwd-refuse-senators-brought.trycloudflare.com&host=fwd-refuse-senators-brought.trycloudflare.com#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@172.67.77.64:443?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&host=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@172.67.70.191:443?security=tls&type=ws&sni=azadnet-4tt.pages.dev&host=azadnet-4tt.pages.dev#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@108.165.152.92:2053?sni=epmo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
