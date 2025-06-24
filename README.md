@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@104.26.10.95:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:4444#US
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjE5My4xNTEuMTM5LjE0NyIsInBvcnQiOiI0MTUxNyIsImlkIjoiYThlNDMzNTQtNWFkYy00MTRhLTg4NzUtMjQ0ODQ3YTRkOTA3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJ2YXJ6ZXNoMy5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
-trojan://e36034d8-1f0c-3721-bca4-2d9d98352fd2@111.47.212.170:30712?sni=x83.flybar.work#%E6%9C%AA%E7%9F%A54
-trojan://Ng35283528@104.16.83.8:443?security=tls&type=ws&sni=c2.validbv3528.eu.org&path=/?ed=2560&host=c2.validbv3528.eu.org#%E6%9C%AA%E7%9F%A55
+trojan://telegram-id-privatevpns@18.194.77.188:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52
+trojan://ttfang@198.41.221.93:443?security=tls&type=ws&sni=ttfang.fange.me&path=/&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A53
+trojan://2155145a-b1b5-443a-8977-670f6bd10f02@18.183.227.31:50001?security=tls&sni=bgroup.node1.t.nodelist-airport.com#%E6%9C%AA%E7%9F%A54
+trojan://85f133142f04dbf6547da33895cfabb3@120.233.128.68:39001?sni=120.233.128.68#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
+trojan://Aimer@172.67.148.158:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
