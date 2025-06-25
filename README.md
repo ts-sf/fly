@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.74.102:443?security=tls&type=tcp&sni=jp.iamnotagoodman.com#HK
-trojan://Aimer@104.26.2.145:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@104.17.150.137:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVGczWXpKaA==@45.84.1.33:8388#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@8.223.15.4:443?sni=agepj.ambercc.filegear-sg.me#HK2
+trojan://telegram-id-directvpn@13.37.66.53:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://Aimer@167.68.4.131:8443?sni=epcct.ambercc.filegear-sg.me#US2
+trojan://blue2024@172.64.35.83:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5
+trojan://Aimer@188.166.162.201:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@92.243.74.2:8443?sni=epccy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
