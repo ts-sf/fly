@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://telegram-id-directvpn@13.37.66.53:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://Aimer@167.68.4.131:8443?sni=epcct.ambercc.filegear-sg.me#US2
-trojan://blue2024@172.64.35.83:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@188.166.162.201:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@92.243.74.2:8443?sni=epccy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@160.153.0.153:2087?security=tls&type=ws&sni=iNVInCIBLE.FAFA20.Shop&path=/trCilgA8ns36QnE04E/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560&host=invincible.fafa20.shop#US2
+trojan://Aimer@162.159.140.150:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
+trojan://Aimer@104.19.53.243:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI=@103.135.102.151:52611#HK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.116.199:443#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
