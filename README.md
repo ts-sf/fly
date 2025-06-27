@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI=@141.164.63.32:30936#%E6%9C%AA%E7%9F%A52%204.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvamNQMzZuMVNvdURjbkJnOUVPWlA4@9.163.232.180:1490#%E6%9C%AA%E7%9F%A53%202.6MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%E6%9C%AA%E7%9F%A54%201.5MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.27:2377#US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#%E6%9C%AA%E7%9F%A55%20162.8KB%2Fs
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2083?security=tls&type=ws&sni=INvincIBLE.fafA20.Shop&path=/trYStgfIRQtOjkkxCQ/MTI5LjE1OS44NC43MQ==?ed=2560&host=invincible.fafa20.shop#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@45.154.98.230:5007?sni=epmf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.75.120:443?security=tls&type=ws&sni=inviNcIble.fafa20.ShOp&path=/tr7PXHQRn4VPwGA2zY/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560&host=invincible.fafa20.shop#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@104.19.164.70:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@104.19.155.26:443?sni=epccy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
