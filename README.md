@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@104.16.196.27:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
-trojan://NISHIKUITAN111@104.24.60.239:443?#%E6%9C%AA%E7%9F%A52
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@otto.ns.cloudflare.com:443?sni=kc1.vs2024.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://be7933a0-6330-46ea-8530-b3e7b6c89938@209.209.48.19:38022?security=tls&type=tcp&sni=aliyun.com#HK
-trojan://Aimer@206.238.236.198:2083?sni=agepw.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@172.67.131.27:443?security=tls&type=ws&sni=CcCVfGTyU.89060004.Xyz&path=/5MkU0nARgHwk3aXBStn7&host=cccvfgtyu.89060004.xyz#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@172.67.159.44:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.194:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#US
+trojan://Aimer@104.18.39.115:443?security=tls&type=ws&sni=epmf.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&host=epmf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
+trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@104.21.23.162:443?sni=6tghjk.131.pp.ua#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
