@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://Aimer@206.238.236.8:2096?security=tls&type=ws&sni=agept.ambercc.filegear-sg.me&host=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@172.67.146.101:443?sni=epms.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.192:443?sni=tx.vs2024.dpdns.org#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@45.194.53.13:2053?sni=agept.ambercc.filegear-sg.me#US2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.227:8080#%E6%9C%AA%E7%9F%A54%202.1MB%2Fs
+trojan://Aimer@211.195.83.140:50003?sni=epmq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#HK
+trojan://bpb-trojan@89.116.250.94:443?security=tls&type=ws&sni=bpb.my79801.com&path=/tr?ed&host=bpb.my79801.com#%E6%9C%AA%E7%9F%A53
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.187:443?sni=kc1.vs2024.dpdns.org#%E6%9C%AA%E7%9F%A54
+trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&type=tcp&sni=us3.trojanvh.xyz#US
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
