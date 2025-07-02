@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://poTB9j1n12Tq@172.67.142.21:2053?sni=tasnim.andishehnegariran.ir#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@162.159.135.75:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@172.67.155.201:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@104.19.57.203:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
-trojan://vip@104.26.9.156:443?security=tls&type=ws&sni=heihu880.pages.dev&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A56
+ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@92.63.193.243:20#%E6%9C%AA%E7%9F%A52
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&type=ws&sni=vfarid.xcdi.wOrKERS.DEV&host=vfarid.xcdi.wOrKERS.DEV#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@85.90.208.235:2222#%E6%9C%AA%E7%9F%A54
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSAzMTQuN0tCL3MiLCJhZGQiOiI0NS44Mi4yNDYuMTczIiwicG9ydCI6IjI2NTIxIiwiaWQiOiJjZmY3MDAxZS0zYTc0LTQzZTgtYmZkOC1hN2FmOTYzMGE1OGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1In0=
+trojan://NISHIKUITAN111@185.148.106.44:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
