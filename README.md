@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://512d9674-db12-44ca-a1b5-654244549b65@104.21.65.31:443?security=tls&type=ws&sni=XxCdvfgty.444652.xyZ&path=/HOi2k5ElZdeML7Ua7dX3JIrYk7zm&host=xxcdvfgty.444652.xyz#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@167.68.5.248:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US
-trojan://Aimer@162.159.143.89:443?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&host=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@107.172.180.73:3306?type=ws&sni=epcca.ambercc.filegear-sg.me&host=epcca.ambercc.filegear-sg.me#US2
-ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA==@156.231.104.24:18014#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@172.67.145.95:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@112.161.49.84:11681?sni=epmq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.168.62:443?security=tls&sni=BoSTON03.862224.ggFf.neT#%E6%9C%AA%E7%9F%A54
+trojan://f2s539@172.67.216.95:443?security=tls&type=ws&sni=aws-us-dallas-1.f1cflined.com&path=/f1rocket&host=aws-us-dallas-1.f1cflined.com#%E6%9C%AA%E7%9F%A55
+trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?security=tls&type=ws&sni=90.tAIpEI108.dpDnS.orG&path=/685uFbiRrgAsHzTP8d&host=90.taipei108.dpdns.org#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
