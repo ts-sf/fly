@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@13.215.50.90:6668?sni=baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://Aimer@188.164.159.214:2083?type=ws&sni=epmk.ambercc.filegear-sg.me&path=/&host=epmk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://Aimer@31.43.179.27:443?type=ws&sni=epmk.ambercc.filegear-sg.me&path=/&host=epmk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.200:443?type=ws&sni=vle.amclubdns.dpdns.org&path=/?ed=2560&PROT_TYPE=trojan&host=vle.amclubdns.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://trojan@109.234.211.66:8443?type=ws&sni=store.timimi.dpdns.org&path=/&host=store.timimi.dpdns.org#%E6%9C%AA%E7%9F%A5
+trojan://62f4b944-1a6c-4203-a73e-be5de8da84bf@a-bgp.jifeng.click:23521?sni=cn.bing.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://62f4b944-1a6c-4203-a73e-be5de8da84bf@a-bgp.jifeng.click:23515?sni=cn.bing.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://62f4b944-1a6c-4203-a73e-be5de8da84bf@a-lepl.jifeng.click:23523?sni=cn.bing.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://Aimer@188.164.159.185:8443?sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2AM%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
