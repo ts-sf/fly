@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.36:30534?sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://Aimer@31.43.179.27:443?type=ws&sni=epmk.ambercc.filegear-sg.me&path=/&host=epmk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.29:53067?sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%E6%B1%9F%E8%8B%8F
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:7041?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.10:9141?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@13.215.50.90:6668?sni=baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://Aimer@188.164.159.214:2083?type=ws&sni=epmk.ambercc.filegear-sg.me&path=/&host=epmk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
+trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://Aimer@31.43.179.27:443?type=ws&sni=epmk.ambercc.filegear-sg.me&path=/&host=epmk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.200:443?type=ws&sni=vle.amclubdns.dpdns.org&path=/?ed=2560&PROT_TYPE=trojan&host=vle.amclubdns.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
