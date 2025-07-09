@@ -2,7 +2,7 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-07-09 10:24:08
+# 创建时间: 2025-07-09 16:40:38
 # 使用模版: V2RaySE 默认模版
 # 节点数量：2
 ####################################
@@ -12,8 +12,8 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇪🇸ES西班牙 149.1KB/s","type":"ss","server":"uk.opensocks.site","port":8388,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"MjJhY","skip-cert-verify":true}
-  - {"name":"🇮🇷IR伊朗 607.4KB/s","type":"ss","server":"beesyar.org","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"QCXDxuDlTTMD7jtgHUjIoj","skip-cert-verify":true}
+  - {"name":"未知2 41.2KB/s","type":"ss","server":"45.87.175.28","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
+  - {"name":"🇸🇪SE瑞典 137.0KB/s","type":"trojan","server":"h2de.gzcloud.shop","port":443,"alterId":0,"tls":true,"password":"113b0562-5018-4533-8268-ebb5bb5e5433","sni":"h2de.gzcloud.shop","skip-cert-verify":true,"udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -21,8 +21,8 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇪🇸ES西班牙 149.1KB/s
-      - 🇮🇷IR伊朗 607.4KB/s
+      - 未知2 41.2KB/s
+      - 🇸🇪SE瑞典 137.0KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -30,8 +30,8 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇪🇸ES西班牙 149.1KB/s
-      - 🇮🇷IR伊朗 607.4KB/s
+      - 未知2 41.2KB/s
+      - 🇸🇪SE瑞典 137.0KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -39,32 +39,32 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇪🇸ES西班牙 149.1KB/s
-      - 🇮🇷IR伊朗 607.4KB/s
+      - 未知2 41.2KB/s
+      - 🇸🇪SE瑞典 137.0KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇪🇸ES西班牙 149.1KB/s
-      - 🇮🇷IR伊朗 607.4KB/s
+      - 未知2 41.2KB/s
+      - 🇸🇪SE瑞典 137.0KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇪🇸ES西班牙 149.1KB/s
-      - 🇮🇷IR伊朗 607.4KB/s
+      - 未知2 41.2KB/s
+      - 🇸🇪SE瑞典 137.0KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇪🇸ES西班牙 149.1KB/s
-      - 🇮🇷IR伊朗 607.4KB/s
+      - 未知2 41.2KB/s
+      - 🇸🇪SE瑞典 137.0KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -88,8 +88,8 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇪🇸ES西班牙 149.1KB/s
-      - 🇮🇷IR伊朗 607.4KB/s
+      - 未知2 41.2KB/s
+      - 🇸🇪SE瑞典 137.0KB/s
 
 
 rules:
