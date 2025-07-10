@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%E6%9C%AA%E7%9F%A52%2041.2KB%2Fs
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.27:4447?sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#%E6%9C%AA%E7%9F%A53
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@176.53.144.206:8443?sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
+trojan://Aimer@103.116.7.100:2087?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=sk.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.123:10600?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://Aimer@46.254.93.243:8443?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
