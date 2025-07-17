@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-07-17 00:41:36
+# 创建时间: 2025-07-17 10:28:07
 # 使用模版: V2RaySE 默认模版
-# 节点数量：32
+# 节点数量：29
 ####################################
 #
 mixed-port: 7890
@@ -12,38 +12,35 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇯🇵JP日本","type":"trojan","server":"36.151.251.48","port":41225,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知","type":"ss","server":"152.53.2.128","port":34045,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TG","skip-cert-verify":true}
-  - {"name":"🇹🇼TW台湾","type":"ss","server":"118.163.198.43","port":2377,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv","skip-cert-verify":true}
-  - {"name":"未知2","type":"trojan","server":"4560c642-swin40-tjuq6l-wf62.cu.plebai.net","port":15229,"alterId":0,"tls":true,"password":"def14a51-e0d9-11ec-8429-f23c91cfbbc9","sni":"4560c642-swin40-tjuq6l-wf62.cu.plebai.net","skip-cert-verify":true,"udp":true}
-  - {"name":"未知3","type":"vmess","server":"https://github.com/ALIILAPRO/v2rayNG-Config","port":433,"cipher":"chacha20-poly1305","uuid":"Free","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知4","type":"trojan","server":"91.193.58.0","port":443,"alterId":0,"tls":true,"password":"trojan","sni":"wahaha.yingyangkuaixian.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知5","type":"trojan","server":"13c2c931-swin40-swy6li-tni2.cu.plebai.net","port":15229,"alterId":0,"tls":true,"password":"5e2f888c-68ef-11ef-96ca-f23c9164ca5d","sni":"13c2c931-swin40-swy6li-tni2.cu.plebai.net","skip-cert-verify":true,"udp":true}
-  - {"name":"🇸🇬SG新加坡","type":"ss","server":"165.154.236.149","port":39856,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"/6Go+gsioWhN1fM4MiOLwS4oWVF+r3UGv2SjSApfS0A=","skip-cert-verify":true}
-  - {"name":"🇭🇰HK香港","type":"ss","server":"103.103.245.158","port":636,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"9bfdde71b4c0","skip-cert-verify":true}
-  - {"name":"未知6","type":"trojan","server":"whatismyipaddress.com","port":443,"alterId":0,"tls":true,"password":"06e4425e-a8cb-4b63-929f-2105604ab0a9","sni":"cc.ylka.dpdns.org","skip-cert-verify":true,"udp":true}
-  - {"name":"🇷🇺RU俄罗斯","type":"trojan","server":"194.53.53.249","port":2083,"alterId":0,"tls":true,"password":"d6b8011a-c725-435a-9fec-bf6d3530392c","sni":"vle.amclubdns.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知","type":"trojan","server":"ip.sb","port":443,"alterId":0,"tls":true,"password":"06e4425e-a8cb-4b63-929f-2105604ab0a9","sni":"ss.ylka.dpdns.org","skip-cert-verify":true,"udp":true}
+  - {"name":"未知2","type":"trojan","server":"13c2c931-swin40-swy6li-tni2.cu.plebai.net","port":15229,"alterId":0,"tls":true,"password":"5e2f888c-68ef-11ef-96ca-f23c9164ca5d","sni":"13c2c931-swin40-swy6li-tni2.cu.plebai.net","skip-cert-verify":true,"udp":true}
   - {"name":"🇰🇷KR韩国","type":"trojan","server":"36.151.251.48","port":16158,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"🇯🇵JP日本2","type":"trojan","server":"36.151.251.48","port":53248,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知7 240.7KB/s","type":"ss","server":"147.45.178.200","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"a58fa62b4944ddbf","skip-cert-verify":true}
-  - {"name":"🇭🇰HK香港2","type":"trojan","server":"36.150.215.141","port":16322,"alterId":0,"tls":true,"password":"KFpSHZWq","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"🇯🇵JP日本3","type":"ss","server":"137.220.191.40","port":636,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"823e135ed103","skip-cert-verify":true}
-  - {"name":"未知8","type":"trojan","server":"zoomgov.vipren.biz.id","port":443,"alterId":0,"tls":true,"password":"2d46956c-f6f4-4e17-9599-76e8b49e0d2e","sni":"zoomgov.vipren.biz.id","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国","type":"trojan","server":"36.151.251.48","port":4447,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"🇸🇬SG新加坡2","type":"trojan","server":"36.151.251.48","port":44123,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知9","type":"trojan","server":"194.76.18.129","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"udp":true}
-  - {"name":"🇭🇰HK香港3","type":"ss","server":"ss.029.node-for-bigairport.win","port":22356,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"c69374da-2208-4cbd-b81e-cdf88b5e7f53","skip-cert-verify":true}
-  - {"name":"🇸🇬SG新加坡3","type":"trojan","server":"36.151.251.48","port":32765,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国2","type":"trojan","server":"36.151.251.48","port":13855,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知10","type":"trojan","server":"45.67.215.95","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知11","type":"trojan","server":"198.62.62.67","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"udp":true}
-  - {"name":"未知12","type":"trojan","server":"391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net","port":15229,"alterId":0,"tls":true,"password":"60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d","skip-cert-verify":true,"udp":true}
-  - {"name":"🇭🇰HK香港4","type":"trojan","server":"36.151.192.13","port":1122,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知13","type":"trojan","server":"ip.sb","port":443,"alterId":0,"tls":true,"password":"06e4425e-a8cb-4b63-929f-2105604ab0a9","sni":"ss.ylka.dpdns.org","skip-cert-verify":true,"udp":true}
-  - {"name":"🇭🇰HK香港5","type":"trojan","server":"36.151.192.13","port":9141,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知3 94.9KB/s","type":"ss","server":"147.45.178.200","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"a58fa62b4944ddbf","skip-cert-verify":true}
+  - {"name":"未知4","type":"trojan","server":"109.234.211.66","port":8443,"alterId":0,"tls":true,"password":"trojan","sni":"store.timimi.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇭🇰HK香港","type":"trojan","server":"36.151.192.13","port":1122,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬SG新加坡","type":"trojan","server":"36.151.251.48","port":32765,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知5","type":"trojan","server":"391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net","port":15229,"alterId":0,"tls":true,"password":"60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d","skip-cert-verify":true,"udp":true}
+  - {"name":"未知6","type":"trojan","server":"91.193.58.0","port":443,"alterId":0,"tls":true,"password":"trojan","sni":"wahaha.yingyangkuaixian.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇭🇰HK香港2","type":"ss","server":"103.103.245.158","port":636,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"9bfdde71b4c0","skip-cert-verify":true}
+  - {"name":"未知7","type":"vmess","server":"https://github.com/ALIILAPRO/v2rayNG-Config","port":433,"cipher":"chacha20-poly1305","uuid":"Free","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知8","type":"trojan","server":"45.67.215.95","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"udp":true}
+  - {"name":"未知9","type":"trojan","server":"198.62.62.67","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国","type":"trojan","server":"36.151.251.48","port":13855,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵JP日本","type":"trojan","server":"36.151.251.48","port":41225,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇷🇺RU俄罗斯","type":"trojan","server":"194.53.53.249","port":2083,"alterId":0,"tls":true,"password":"d6b8011a-c725-435a-9fec-bf6d3530392c","sni":"vle.amclubdns.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
   - {"name":"🇷🇺RU俄罗斯2","type":"ss","server":"185.242.86.156","port":54170,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"36ZCHeabUSfKjfQEvJ4HDV","skip-cert-verify":true}
-  - {"name":"🇭🇰HK香港6","type":"trojan","server":"155.117.228.70","port":26193,"alterId":0,"tls":true,"password":"7367d04e-4c59-4dff-a50e-12e730a09891","skip-cert-verify":true,"udp":true}
-  - {"name":"未知14","type":"trojan","server":"109.234.211.66","port":8443,"alterId":0,"tls":true,"password":"trojan","sni":"store.timimi.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇺🇸US美国2","type":"trojan","server":"36.151.251.48","port":4447,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知10","type":"trojan","server":"zoomgov.vipren.biz.id","port":443,"alterId":0,"tls":true,"password":"2d46956c-f6f4-4e17-9599-76e8b49e0d2e","sni":"zoomgov.vipren.biz.id","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰HK香港3","type":"trojan","server":"155.117.228.70","port":26193,"alterId":0,"tls":true,"password":"7367d04e-4c59-4dff-a50e-12e730a09891","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵JP日本2","type":"ss","server":"137.220.191.40","port":636,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"823e135ed103","skip-cert-verify":true}
+  - {"name":"🇭🇰HK香港4","type":"ss","server":"ss.029.node-for-bigairport.win","port":22356,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"c69374da-2208-4cbd-b81e-cdf88b5e7f53","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡2","type":"trojan","server":"36.151.251.48","port":44123,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知11","type":"trojan","server":"whatismyipaddress.com","port":443,"alterId":0,"tls":true,"password":"06e4425e-a8cb-4b63-929f-2105604ab0a9","sni":"cc.ylka.dpdns.org","skip-cert-verify":true,"udp":true}
+  - {"name":"未知12","type":"ss","server":"152.53.2.128","port":34045,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"TG","skip-cert-verify":true}
+  - {"name":"未知13","type":"trojan","server":"4560c642-swin40-tjuq6l-wf62.cu.plebai.net","port":15229,"alterId":0,"tls":true,"password":"def14a51-e0d9-11ec-8429-f23c91cfbbc9","sni":"4560c642-swin40-tjuq6l-wf62.cu.plebai.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰HK香港5","type":"trojan","server":"36.151.192.13","port":9141,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵JP日本3","type":"trojan","server":"36.151.251.48","port":53248,"alterId":0,"tls":true,"password":"d0d08cddacc3190ea81b1b792e1b5fde","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰HK香港6","type":"trojan","server":"36.150.215.141","port":16322,"alterId":0,"tls":true,"password":"KFpSHZWq","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -51,38 +48,35 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇯🇵JP日本
       - 未知
-      - 🇹🇼TW台湾
       - 未知2
-      - 未知3
-      - 未知4
-      - 未知5
-      - 🇸🇬SG新加坡
-      - 🇭🇰HK香港
-      - 未知6
-      - 🇷🇺RU俄罗斯
       - 🇰🇷KR韩国
-      - 🇯🇵JP日本2
-      - 未知7 240.7KB/s
+      - 未知3 94.9KB/s
+      - 未知4
+      - 🇭🇰HK香港
+      - 🇸🇬SG新加坡
+      - 未知5
+      - 未知6
       - 🇭🇰HK香港2
-      - 🇯🇵JP日本3
+      - 未知7
       - 未知8
-      - 🇺🇸US美国
-      - 🇸🇬SG新加坡2
       - 未知9
-      - 🇭🇰HK香港3
-      - 🇸🇬SG新加坡3
+      - 🇺🇸US美国
+      - 🇯🇵JP日本
+      - 🇷🇺RU俄罗斯
+      - 🇷🇺RU俄罗斯2
       - 🇺🇸US美国2
       - 未知10
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本2
+      - 🇭🇰HK香港4
+      - 🇸🇬SG新加坡2
       - 未知11
       - 未知12
-      - 🇭🇰HK香港4
       - 未知13
       - 🇭🇰HK香港5
-      - 🇷🇺RU俄罗斯2
+      - 🇯🇵JP日本3
       - 🇭🇰HK香港6
-      - 未知14
 
   - name: ♻️ 自动选择
     type: url-test
@@ -90,38 +84,35 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇯🇵JP日本
       - 未知
-      - 🇹🇼TW台湾
       - 未知2
-      - 未知3
-      - 未知4
-      - 未知5
-      - 🇸🇬SG新加坡
-      - 🇭🇰HK香港
-      - 未知6
-      - 🇷🇺RU俄罗斯
       - 🇰🇷KR韩国
-      - 🇯🇵JP日本2
-      - 未知7 240.7KB/s
+      - 未知3 94.9KB/s
+      - 未知4
+      - 🇭🇰HK香港
+      - 🇸🇬SG新加坡
+      - 未知5
+      - 未知6
       - 🇭🇰HK香港2
-      - 🇯🇵JP日本3
+      - 未知7
       - 未知8
-      - 🇺🇸US美国
-      - 🇸🇬SG新加坡2
       - 未知9
-      - 🇭🇰HK香港3
-      - 🇸🇬SG新加坡3
+      - 🇺🇸US美国
+      - 🇯🇵JP日本
+      - 🇷🇺RU俄罗斯
+      - 🇷🇺RU俄罗斯2
       - 🇺🇸US美国2
       - 未知10
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本2
+      - 🇭🇰HK香港4
+      - 🇸🇬SG新加坡2
       - 未知11
       - 未知12
-      - 🇭🇰HK香港4
       - 未知13
       - 🇭🇰HK香港5
-      - 🇷🇺RU俄罗斯2
+      - 🇯🇵JP日本3
       - 🇭🇰HK香港6
-      - 未知14
 
   - name: 🌍 国外媒体
     type: select
@@ -129,152 +120,140 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇯🇵JP日本
       - 未知
-      - 🇹🇼TW台湾
       - 未知2
-      - 未知3
-      - 未知4
-      - 未知5
-      - 🇸🇬SG新加坡
-      - 🇭🇰HK香港
-      - 未知6
-      - 🇷🇺RU俄罗斯
       - 🇰🇷KR韩国
-      - 🇯🇵JP日本2
-      - 未知7 240.7KB/s
+      - 未知3 94.9KB/s
+      - 未知4
+      - 🇭🇰HK香港
+      - 🇸🇬SG新加坡
+      - 未知5
+      - 未知6
       - 🇭🇰HK香港2
-      - 🇯🇵JP日本3
+      - 未知7
       - 未知8
-      - 🇺🇸US美国
-      - 🇸🇬SG新加坡2
       - 未知9
-      - 🇭🇰HK香港3
-      - 🇸🇬SG新加坡3
+      - 🇺🇸US美国
+      - 🇯🇵JP日本
+      - 🇷🇺RU俄罗斯
+      - 🇷🇺RU俄罗斯2
       - 🇺🇸US美国2
       - 未知10
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本2
+      - 🇭🇰HK香港4
+      - 🇸🇬SG新加坡2
       - 未知11
       - 未知12
-      - 🇭🇰HK香港4
       - 未知13
       - 🇭🇰HK香港5
-      - 🇷🇺RU俄罗斯2
+      - 🇯🇵JP日本3
       - 🇭🇰HK香港6
-      - 未知14
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇯🇵JP日本
       - 未知
-      - 🇹🇼TW台湾
       - 未知2
-      - 未知3
-      - 未知4
-      - 未知5
-      - 🇸🇬SG新加坡
-      - 🇭🇰HK香港
-      - 未知6
-      - 🇷🇺RU俄罗斯
       - 🇰🇷KR韩国
-      - 🇯🇵JP日本2
-      - 未知7 240.7KB/s
+      - 未知3 94.9KB/s
+      - 未知4
+      - 🇭🇰HK香港
+      - 🇸🇬SG新加坡
+      - 未知5
+      - 未知6
       - 🇭🇰HK香港2
-      - 🇯🇵JP日本3
+      - 未知7
       - 未知8
-      - 🇺🇸US美国
-      - 🇸🇬SG新加坡2
       - 未知9
-      - 🇭🇰HK香港3
-      - 🇸🇬SG新加坡3
+      - 🇺🇸US美国
+      - 🇯🇵JP日本
+      - 🇷🇺RU俄罗斯
+      - 🇷🇺RU俄罗斯2
       - 🇺🇸US美国2
       - 未知10
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本2
+      - 🇭🇰HK香港4
+      - 🇸🇬SG新加坡2
       - 未知11
       - 未知12
-      - 🇭🇰HK香港4
       - 未知13
       - 🇭🇰HK香港5
-      - 🇷🇺RU俄罗斯2
+      - 🇯🇵JP日本3
       - 🇭🇰HK香港6
-      - 未知14
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇯🇵JP日本
       - 未知
-      - 🇹🇼TW台湾
       - 未知2
-      - 未知3
-      - 未知4
-      - 未知5
-      - 🇸🇬SG新加坡
-      - 🇭🇰HK香港
-      - 未知6
-      - 🇷🇺RU俄罗斯
       - 🇰🇷KR韩国
-      - 🇯🇵JP日本2
-      - 未知7 240.7KB/s
+      - 未知3 94.9KB/s
+      - 未知4
+      - 🇭🇰HK香港
+      - 🇸🇬SG新加坡
+      - 未知5
+      - 未知6
       - 🇭🇰HK香港2
-      - 🇯🇵JP日本3
+      - 未知7
       - 未知8
-      - 🇺🇸US美国
-      - 🇸🇬SG新加坡2
       - 未知9
-      - 🇭🇰HK香港3
-      - 🇸🇬SG新加坡3
+      - 🇺🇸US美国
+      - 🇯🇵JP日本
+      - 🇷🇺RU俄罗斯
+      - 🇷🇺RU俄罗斯2
       - 🇺🇸US美国2
       - 未知10
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本2
+      - 🇭🇰HK香港4
+      - 🇸🇬SG新加坡2
       - 未知11
       - 未知12
-      - 🇭🇰HK香港4
       - 未知13
       - 🇭🇰HK香港5
-      - 🇷🇺RU俄罗斯2
+      - 🇯🇵JP日本3
       - 🇭🇰HK香港6
-      - 未知14
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇯🇵JP日本
       - 未知
-      - 🇹🇼TW台湾
       - 未知2
-      - 未知3
-      - 未知4
-      - 未知5
-      - 🇸🇬SG新加坡
-      - 🇭🇰HK香港
-      - 未知6
-      - 🇷🇺RU俄罗斯
       - 🇰🇷KR韩国
-      - 🇯🇵JP日本2
-      - 未知7 240.7KB/s
+      - 未知3 94.9KB/s
+      - 未知4
+      - 🇭🇰HK香港
+      - 🇸🇬SG新加坡
+      - 未知5
+      - 未知6
       - 🇭🇰HK香港2
-      - 🇯🇵JP日本3
+      - 未知7
       - 未知8
-      - 🇺🇸US美国
-      - 🇸🇬SG新加坡2
       - 未知9
-      - 🇭🇰HK香港3
-      - 🇸🇬SG新加坡3
+      - 🇺🇸US美国
+      - 🇯🇵JP日本
+      - 🇷🇺RU俄罗斯
+      - 🇷🇺RU俄罗斯2
       - 🇺🇸US美国2
       - 未知10
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本2
+      - 🇭🇰HK香港4
+      - 🇸🇬SG新加坡2
       - 未知11
       - 未知12
-      - 🇭🇰HK香港4
       - 未知13
       - 🇭🇰HK香港5
-      - 🇷🇺RU俄罗斯2
+      - 🇯🇵JP日本3
       - 🇭🇰HK香港6
-      - 未知14
 
   - name: 🎯 全球直连
     type: select
@@ -298,38 +277,35 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇯🇵JP日本
       - 未知
-      - 🇹🇼TW台湾
       - 未知2
-      - 未知3
-      - 未知4
-      - 未知5
-      - 🇸🇬SG新加坡
-      - 🇭🇰HK香港
-      - 未知6
-      - 🇷🇺RU俄罗斯
       - 🇰🇷KR韩国
-      - 🇯🇵JP日本2
-      - 未知7 240.7KB/s
+      - 未知3 94.9KB/s
+      - 未知4
+      - 🇭🇰HK香港
+      - 🇸🇬SG新加坡
+      - 未知5
+      - 未知6
       - 🇭🇰HK香港2
-      - 🇯🇵JP日本3
+      - 未知7
       - 未知8
-      - 🇺🇸US美国
-      - 🇸🇬SG新加坡2
       - 未知9
-      - 🇭🇰HK香港3
-      - 🇸🇬SG新加坡3
+      - 🇺🇸US美国
+      - 🇯🇵JP日本
+      - 🇷🇺RU俄罗斯
+      - 🇷🇺RU俄罗斯2
       - 🇺🇸US美国2
       - 未知10
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本2
+      - 🇭🇰HK香港4
+      - 🇸🇬SG新加坡2
       - 未知11
       - 未知12
-      - 🇭🇰HK香港4
       - 未知13
       - 🇭🇰HK香港5
-      - 🇷🇺RU俄罗斯2
+      - 🇯🇵JP日本3
       - 🇭🇰HK香港6
-      - 未知14
 
 
 rules:
