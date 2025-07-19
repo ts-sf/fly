@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://da631e61-bead-4c9c-8bd7-7bea82f736ae@js-12f83a8c.kaiqsz.com:12221?sni=nkrpjj.cn#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:44123?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:53248?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:32765?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-ss://YWVzLTI1Ni1nY206VEc=@152.53.2.128:34045#%F0%9F%87%A6%F0%9F%87%B9AT%E5%A5%A5%E5%9C%B0%E5%88%A9
+trojan://74260628090146500@huge-turkey.shiner427.skin:443?#%F0%9F%87%AF%F0%9F%87%B4JO%E7%BA%A6%E6%97%A6
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?#BE%E6%AF%94%E5%88%A9%E6%97%B6
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:13855?sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:41225?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:41225?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
