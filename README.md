@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.238:446?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%201.4MB%2Fs
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@92.243.74.180:8443?type=ws&sni=tyep.esslh.filegear-sg.me&path=/&host=tyep.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&type=ws&sni=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A53
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%E6%9C%AA%E7%9F%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%20207.3KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:32962?sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiA3Ni4xS0IvcyIsImFkZCI6IjQ3Ljc5LjQxLjE0IiwicG9ydCI6IjE1OTI0IiwiaWQiOiJmNTA2MjhlZC1lNTY4LTRjZGUtZWRhOC0zZGNlMTVlZGMxYzEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9mNTA2MjhlZCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIifQ==
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
