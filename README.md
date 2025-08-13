@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://be76ac23-8ff8-4afe-a86e-5153f4ce869d@8.134.93.116:25004?#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
-trojan://Aimer@92.243.74.23:2096?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@188.164.159.55:2096?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A52
-trojan://Aimer@108.165.152.175:2096?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US2
-trojan://Aimer@115.22.115.218:50000?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A53
+trojan://Aimer@211.224.100.145:50000?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+trojan://Aimer@154.197.64.219:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3lSZG9xUUllYmRLWlZZczVHelc4@45.150.32.13:14628#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD2
+trojan://Aimer@154.197.64.196:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
