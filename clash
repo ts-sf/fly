@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-08-17 16:38:52
+# 创建时间: 2025-08-18 00:37:37
 # 使用模版: V2RaySE 默认模版
-# 节点数量：102
+# 节点数量：70
 ####################################
 #
 mixed-port: 7890
@@ -12,108 +12,76 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇩🇪DE德国 9.2MB/s","type":"ss","server":"147.45.178.200","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"a58fa62b4944ddbf","skip-cert-verify":true}
   - {"name":"🇭🇰HK香港","type":"trojan","server":"36.156.102.125","port":444,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.ithome.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知","type":"trojan","server":"5.10.245.216","port":2096,"alterId":0,"tls":true,"password":"ttfang","sni":"ttfang.fange.me","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇦🇺AU澳大利亚 4.1MB/s","type":"ss","server":"185.177.229.245","port":1866,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oXGp1+ihlfKg826H","skip-cert-verify":true}
-  - {"name":"🇩🇪DE德国2 126.5KB/s","type":"ss","server":"46.101.245.131","port":44354,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"9RviNa4tscjcmCB408vLSg","skip-cert-verify":true}
+  - {"name":"US","type":"trojan","server":"192.0.54.221","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US2","type":"trojan","server":"198.62.62.61","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
   - {"name":"🇺🇸US美国","type":"trojan","server":"36.156.102.67","port":22006,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知2","type":"trojan","server":"27.50.49.74","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇬🇧GB英国 14.1MB/s","type":"ss","server":"46.226.163.225","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"c40641c1f89e7acb","skip-cert-verify":true}
-  - {"name":"US","type":"trojan","server":"63.141.128.66","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US2","type":"trojan","server":"135.84.74.27","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇯🇵JP日本","type":"trojan","server":"52.194.230.74","port":6668,"alterId":0,"tls":true,"password":"1a17b19d-4896-4531-af79-6e91d8ef8228","sni":"baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知3","type":"trojan","server":"5.182.85.255","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知4","type":"trojan","server":"27.50.49.251","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知5","type":"trojan","server":"188.164.159.175","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US3","type":"trojan","server":"104.129.167.255","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US4","type":"trojan","server":"108.165.152.14","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知6","type":"vmess","server":"104.25.174.85","port":443,"cipher":"auto","uuid":"8f74ec8a-971c-11ed-a8fc-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/920f9840-4d0f-11f0-a948-6a75f667b472?ed=2048","headers":{"host":"920f9840-4d0f-11f0-a948-6a75f667b472.ShomaParvazRoYadetonNist-BypassIsHere.lat"}}}
-  - {"name":"US5","type":"trojan","server":"108.165.152.219","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知7","type":"trojan","server":"103.116.7.100","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇸🇬SG新加坡","type":"trojan","server":"36.156.102.125","port":1256,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知8","type":"trojan","server":"27.50.49.208","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US6","type":"trojan","server":"104.18.3.108","port":8443,"alterId":0,"tls":true,"password":"slch2024","sni":"ocost-dy.wmlefl.cc","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US7","type":"trojan","server":"108.165.152.40","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇯🇵JP日本2 107.5KB/s","type":"ss","server":"arxfw2b78fi2q9hzylhn.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Nk9asglDzHzjktVzTkvhaA","skip-cert-verify":true}
-  - {"name":"US8","type":"trojan","server":"209.94.90.87","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"HK","type":"trojan","server":"154.211.8.220","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知9 569.5KB/s","type":"vmess","server":"210.3.159.150","port":42717,"cipher":"auto","uuid":"b5803d74-c6f8-415f-e1e6-ebc9e4269b86","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇫🇷FR法国","type":"ss","server":"62.210.88.22","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"WDavBimDmH2QLxljf5PSO1","skip-cert-verify":true}
-  - {"name":"US9","type":"trojan","server":"108.165.152.55","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US10","type":"trojan","server":"198.62.62.61","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US11","type":"trojan","server":"23.94.233.164","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"HK2","type":"trojan","server":"154.211.8.209","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"HK3","type":"trojan","server":"154.211.8.155","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US12","type":"trojan","server":"135.84.74.254","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知10 14.0MB/s","type":"ss","server":"185.213.23.226","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
-  - {"name":"未知11","type":"trojan","server":"77.232.140.114","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇯🇵JP日本3","type":"trojan","server":"36.156.102.78","port":409,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
-  - {"name":"US13","type":"trojan","server":"167.68.4.199","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知12","type":"trojan","server":"176.124.223.92","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知13","type":"trojan","server":"194.76.18.129","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知14","type":"trojan","server":"103.116.7.235","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知15","type":"trojan","server":"5.182.84.229","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US14","type":"trojan","server":"154.219.5.242","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US15","type":"trojan","server":"66.81.247.88","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US16","type":"trojan","server":"192.0.54.221","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇯🇵JP日本4","type":"trojan","server":"36.156.102.125","port":461,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知16","type":"trojan","server":"27.50.48.21","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇺🇸US美国2 2.6MB/s","type":"ss","server":"204.136.10.115","port":1866,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oXGp1+ihlfKg826H","skip-cert-verify":true}
-  - {"name":"未知17","type":"trojan","server":"5.182.84.52","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知18","type":"trojan","server":"188.164.159.241","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US17","type":"trojan","server":"199.34.228.164","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知19","type":"vmess","server":"https://github.com/ALIILAPRO/v2rayNG-Config","port":433,"cipher":"chacha20-poly1305","uuid":"Free","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知20","type":"trojan","server":"92.243.74.3","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US18","type":"trojan","server":"216.24.57.30","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US19","type":"trojan","server":"192.200.160.35","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇺🇸US美国3 20.5MB/s","type":"ss","server":"104.167.197.25","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"360e21d21977dc11","skip-cert-verify":true}
-  - {"name":"未知21","type":"trojan","server":"45.67.215.95","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知22","type":"trojan","server":"92.243.74.23","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US20","type":"trojan","server":"130.250.137.63","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇳🇱NL荷兰 77.5KB/s","type":"ss","server":"164.92.156.41","port":24206,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"zI7kiNZ0UfV9cXB73a4nRD","skip-cert-verify":true}
-  - {"name":"未知23","type":"trojan","server":"5.182.84.9","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US21","type":"trojan","server":"167.68.5.248","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US22","type":"trojan","server":"155.46.213.38","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知24","type":"trojan","server":"141.11.203.168","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US23","type":"trojan","server":"104.129.166.131","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知25","type":"trojan","server":"154.197.64.155","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇩🇪DE德国3","type":"ss","server":"45.150.32.13","port":14628,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"DKyRdoqQIebdKZVYs5GzW8","skip-cert-verify":true}
-  - {"name":"🇭🇰HK香港2","type":"trojan","server":"36.156.102.125","port":447,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知26","type":"trojan","server":"188.164.159.171","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇸🇬SG新加坡2","type":"trojan","server":"36.156.102.125","port":406,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"US24","type":"trojan","server":"198.62.62.67","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇭🇰HK香港3","type":"ss","server":"103.103.245.158","port":636,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"9bfdde71b4c0","skip-cert-verify":true}
-  - {"name":"US25","type":"trojan","server":"66.81.247.230","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知27","type":"trojan","server":"103.116.7.103","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知28","type":"trojan","server":"188.164.159.45","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇺🇸US美国2 2.3MB/s","type":"ss","server":"204.136.10.115","port":1866,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oXGp1+ihlfKg826H","skip-cert-verify":true}
+  - {"name":"未知","type":"trojan","server":"176.124.223.92","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US3","type":"trojan","server":"167.68.5.248","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知2","type":"trojan","server":"45.67.215.95","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知3","type":"trojan","server":"5.182.84.52","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US4","type":"trojan","server":"63.141.128.66","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇭🇰HK香港2","type":"ss","server":"103.103.245.158","port":636,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"9bfdde71b4c0","skip-cert-verify":true}
+  - {"name":"US5","type":"trojan","server":"167.68.4.199","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US6","type":"trojan","server":"104.129.167.255","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US7","type":"trojan","server":"66.81.247.88","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇩🇪DE德国","type":"ss","server":"45.144.54.33","port":34803,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"LiHQX9cDbdooBHlIg0eiqQ","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国3 369.1KB/s","type":"ss","server":"104.167.197.25","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"360e21d21977dc11","skip-cert-verify":true}
+  - {"name":"US8","type":"trojan","server":"130.250.137.63","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇬🇧GB英国 127.6KB/s","type":"ss","server":"46.226.163.225","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"c40641c1f89e7acb","skip-cert-verify":true}
+  - {"name":"未知4","type":"trojan","server":"5.182.85.255","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知5","type":"trojan","server":"194.76.18.129","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
   - {"name":"🇺🇸US美国4","type":"ss","server":"172.233.128.126","port":1866,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oXGp1+ihlfKg826H","skip-cert-verify":true}
-  - {"name":"未知29","type":"vmess","server":"141.101.113.6","port":443,"cipher":"auto","uuid":"8f74ec8a-971c-11ed-a8fc-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/920f9840-4d0f-11f0-a948-6a75f667b472?ed=2048","headers":{"host":"920f9840-4d0f-11f0-a948-6a75f667b472.ShomaParvazRoYadetonNist-BypassIsHere.lat"}}}
-  - {"name":"未知30","type":"trojan","server":"172.67.181.173","port":443,"alterId":0,"tls":true,"password":"f282b878-8711-45a1-8c69-5564172123c1","sni":"vpn.stupidworld.web.id","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知31","type":"trojan","server":"103.116.7.189","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"HK4","type":"trojan","server":"154.211.8.90","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知32","type":"trojan","server":"5.182.84.244","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知33","type":"trojan","server":"27.50.48.115","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知34","type":"trojan","server":"92.243.75.49","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知35","type":"trojan","server":"154.197.64.166","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇷🇺RU俄罗斯","type":"ss","server":"213.156.138.138","port":31348,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oVfvPkqJFCjOEbBsbmOtIiAuqgmEFOEf332F26C8lwEwQng9","skip-cert-verify":true}
-  - {"name":"🇱🇹LT立陶宛 48.1KB/s","type":"ss","server":"45.87.175.28","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
-  - {"name":"US26","type":"trojan","server":"154.17.12.30","port":7000,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US27","type":"trojan","server":"108.165.152.143","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US28","type":"trojan","server":"107.172.87.159","port":12354,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇯🇵JP日本5","type":"ss","server":"137.220.191.40","port":636,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"823e135ed103","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国5","type":"trojan","server":"36.156.102.125","port":347,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知36","type":"ss","server":"awes35lesl.blhao0o.dpdns.org","port":12024,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"01721e43-5389-4f97-b21c-900abb2bda9e","skip-cert-verify":true}
-  - {"name":"US29","type":"trojan","server":"108.165.152.113","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知37","type":"vmess","server":"47.79.41.14","port":15924,"cipher":"auto","uuid":"f50628ed-e568-4cde-eda8-3dce15edc1c1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/f50628ed"}}
-  - {"name":"🇩🇪DE德国4","type":"ss","server":"45.144.54.33","port":34803,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"LiHQX9cDbdooBHlIg0eiqQ","skip-cert-verify":true}
-  - {"name":"未知38","type":"trojan","server":"121.165.36.35","port":12367,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇷🇺RU俄罗斯2","type":"ss","server":"185.242.86.156","port":54170,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"36ZCHeabUSfKjfQEvJ4HDV","skip-cert-verify":true}
-  - {"name":"未知39","type":"trojan","server":"154.197.64.98","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"US30","type":"trojan","server":"107.173.155.242","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"🇺🇸US美国6","type":"trojan","server":"172.67.214.21","port":443,"alterId":0,"tls":true,"password":"7248e825-887c-48b9-83bc-c26bc6392bf8","sni":"xXcdvFgt.191268.XYz","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇩🇪DE德国2","type":"ss","server":"45.150.32.13","port":14628,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"DKyRdoqQIebdKZVYs5GzW8","skip-cert-verify":true}
+  - {"name":"🇯🇵JP日本 26.2KB/s","type":"ss","server":"arxfw2b78fi2q9hzylhn.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Nk9asglDzHzjktVzTkvhaA","skip-cert-verify":true}
+  - {"name":"未知6","type":"trojan","server":"92.243.74.23","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知7","type":"vmess","server":"47.79.41.14","port":15924,"cipher":"auto","uuid":"f50628ed-e568-4cde-eda8-3dce15edc1c1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/f50628ed"}}
+  - {"name":"未知8","type":"vmess","server":"https://github.com/ALIILAPRO/v2rayNG-Config","port":433,"cipher":"chacha20-poly1305","uuid":"Free","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知9","type":"trojan","server":"103.116.7.100","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US9","type":"trojan","server":"104.129.166.131","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US10","type":"trojan","server":"192.200.160.35","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知10","type":"trojan","server":"172.67.181.173","port":443,"alterId":0,"tls":true,"password":"f282b878-8711-45a1-8c69-5564172123c1","sni":"vpn.stupidworld.web.id","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知11","type":"trojan","server":"5.182.84.244","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇷🇺RU俄罗斯","type":"ss","server":"185.242.86.156","port":54170,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"36ZCHeabUSfKjfQEvJ4HDV","skip-cert-verify":true}
+  - {"name":"US11","type":"trojan","server":"155.46.213.38","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US12","type":"trojan","server":"66.81.247.230","port":2096,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知12","type":"vmess","server":"104.25.174.85","port":443,"cipher":"auto","uuid":"8f74ec8a-971c-11ed-a8fc-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/920f9840-4d0f-11f0-a948-6a75f667b472?ed=2048","headers":{"host":"920f9840-4d0f-11f0-a948-6a75f667b472.ShomaParvazRoYadetonNist-BypassIsHere.lat"}}}
+  - {"name":"🇱🇹LT立陶宛 59.2KB/s","type":"ss","server":"45.87.175.28","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
+  - {"name":"🇯🇵JP日本2","type":"trojan","server":"52.194.230.74","port":6668,"alterId":0,"tls":true,"password":"1a17b19d-4896-4531-af79-6e91d8ef8228","sni":"baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵JP日本3","type":"trojan","server":"36.156.102.125","port":461,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵JP日本4","type":"trojan","server":"36.156.102.78","port":409,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知13","type":"trojan","server":"77.232.140.114","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知14","type":"trojan","server":"103.116.7.235","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇭🇰HK香港3","type":"trojan","server":"36.156.102.125","port":447,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"US13","type":"trojan","server":"104.18.3.108","port":8443,"alterId":0,"tls":true,"password":"slch2024","sni":"ocost-dy.wmlefl.cc","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇫🇷FR法国","type":"ss","server":"62.210.88.22","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"WDavBimDmH2QLxljf5PSO1","skip-cert-verify":true}
+  - {"name":"未知15","type":"trojan","server":"5.182.84.9","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US14","type":"trojan","server":"216.24.57.30","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇩🇪DE德国3 119.7KB/s","type":"ss","server":"147.45.178.200","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"a58fa62b4944ddbf","skip-cert-verify":true}
+  - {"name":"未知16","type":"trojan","server":"103.116.7.103","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇫🇷FR法国2 4.2MB/s","type":"ss","server":"81.19.137.222","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"a58fa62b4944ddbf","skip-cert-verify":true}
+  - {"name":"US15","type":"trojan","server":"135.84.74.27","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US16","type":"trojan","server":"209.94.90.87","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇩🇪DE德国4","type":"ss","server":"46.101.245.131","port":44354,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"9RviNa4tscjcmCB408vLSg","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡","type":"trojan","server":"36.156.102.125","port":1256,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知17","type":"trojan","server":"92.243.74.3","port":8443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇸🇬SG新加坡2","type":"trojan","server":"36.156.102.125","port":406,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国5","type":"trojan","server":"172.67.214.21","port":443,"alterId":0,"tls":true,"password":"7248e825-887c-48b9-83bc-c26bc6392bf8","sni":"xXcdvFgt.191268.XYz","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇳🇱NL荷兰","type":"ss","server":"164.92.156.41","port":24206,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"zI7kiNZ0UfV9cXB73a4nRD","skip-cert-verify":true}
+  - {"name":"未知18","type":"vmess","server":"141.101.113.6","port":443,"cipher":"auto","uuid":"8f74ec8a-971c-11ed-a8fc-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/920f9840-4d0f-11f0-a948-6a75f667b472?ed=2048","headers":{"host":"920f9840-4d0f-11f0-a948-6a75f667b472.ShomaParvazRoYadetonNist-BypassIsHere.lat"}}}
+  - {"name":"未知19","type":"trojan","server":"92.243.75.49","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
   - {"name":"🇳🇱NL荷兰2","type":"ss","server":"213.109.147.242","port":62685,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"VpKABcOpNNA0l5G2AVOmw8","skip-cert-verify":true}
-  - {"name":"🇫🇷FR法国2 10.8MB/s","type":"ss","server":"81.19.137.222","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"a58fa62b4944ddbf","skip-cert-verify":true}
+  - {"name":"US17","type":"trojan","server":"198.62.62.67","port":443,"alterId":0,"tls":true,"password":"tg-fq521free","sni":"torjan.xn--xhq44j.eu.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知20","type":"trojan","server":"5.182.84.229","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇦🇺AU澳大利亚 3.3MB/s","type":"ss","server":"185.177.229.245","port":1866,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oXGp1+ihlfKg826H","skip-cert-verify":true}
+  - {"name":"US18","type":"trojan","server":"135.84.74.254","port":2083,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"US19","type":"trojan","server":"199.34.228.164","port":2087,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇺🇸US美国6","type":"trojan","server":"36.156.102.125","port":347,"alterId":0,"tls":true,"password":"253bc477d4e43c209f2d427272968280","sni":"www.baidu.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知21 835.0KB/s","type":"vmess","server":"210.3.159.150","port":42717,"cipher":"auto","uuid":"b5803d74-c6f8-415f-e1e6-ebc9e4269b86","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"未知22","type":"trojan","server":"103.116.7.189","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知23","type":"trojan","server":"141.11.203.168","port":443,"alterId":0,"tls":true,"password":"Aimer","sni":"epgc.aimercc.dpdns.org","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇯🇵JP日本5","type":"ss","server":"137.220.191.40","port":636,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"823e135ed103","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -121,108 +89,76 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇩🇪DE德国 9.2MB/s
       - 🇭🇰HK香港
-      - 未知
-      - 🇦🇺AU澳大利亚 4.1MB/s
-      - 🇩🇪DE德国2 126.5KB/s
-      - 🇺🇸US美国
-      - 未知2
-      - 🇬🇧GB英国 14.1MB/s
       - US
       - US2
-      - 🇯🇵JP日本
-      - 未知3
-      - 未知4
-      - 未知5
+      - 🇺🇸US美国
+      - 🇺🇸US美国2 2.3MB/s
+      - 未知
       - US3
+      - 未知2
+      - 未知3
       - US4
-      - 未知6
+      - 🇭🇰HK香港2
       - US5
-      - 未知7
-      - 🇸🇬SG新加坡
-      - 未知8
       - US6
       - US7
-      - 🇯🇵JP日本2 107.5KB/s
+      - 🇩🇪DE德国
+      - 🇺🇸US美国3 369.1KB/s
       - US8
-      - HK
-      - 未知9 569.5KB/s
-      - 🇫🇷FR法国
+      - 🇬🇧GB英国 127.6KB/s
+      - 未知4
+      - 未知5
+      - 🇺🇸US美国4
+      - 🇩🇪DE德国2
+      - 🇯🇵JP日本 26.2KB/s
+      - 未知6
+      - 未知7
+      - 未知8
+      - 未知9
       - US9
       - US10
-      - US11
-      - HK2
-      - HK3
-      - US12
-      - 未知10 14.0MB/s
+      - 未知10
       - 未知11
-      - 🇯🇵JP日本3
-      - US13
+      - 🇷🇺RU俄罗斯
+      - US11
+      - US12
       - 未知12
+      - 🇱🇹LT立陶宛 59.2KB/s
+      - 🇯🇵JP日本2
+      - 🇯🇵JP日本3
+      - 🇯🇵JP日本4
       - 未知13
       - 未知14
+      - 🇭🇰HK香港3
+      - US13
+      - 🇫🇷FR法国
       - 未知15
       - US14
+      - 🇩🇪DE德国3 119.7KB/s
+      - 未知16
+      - 🇫🇷FR法国2 4.2MB/s
       - US15
       - US16
-      - 🇯🇵JP日本4
-      - 未知16
-      - 🇺🇸US美国2 2.6MB/s
+      - 🇩🇪DE德国4
+      - 🇸🇬SG新加坡
       - 未知17
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国5
+      - 🇳🇱NL荷兰
       - 未知18
-      - US17
       - 未知19
+      - 🇳🇱NL荷兰2
+      - US17
       - 未知20
+      - 🇦🇺AU澳大利亚 3.3MB/s
       - US18
       - US19
-      - 🇺🇸US美国3 20.5MB/s
-      - 未知21
-      - 未知22
-      - US20
-      - 🇳🇱NL荷兰 77.5KB/s
-      - 未知23
-      - US21
-      - US22
-      - 未知24
-      - US23
-      - 未知25
-      - 🇩🇪DE德国3
-      - 🇭🇰HK香港2
-      - 未知26
-      - 🇸🇬SG新加坡2
-      - US24
-      - 🇭🇰HK香港3
-      - US25
-      - 未知27
-      - 未知28
-      - 🇺🇸US美国4
-      - 未知29
-      - 未知30
-      - 未知31
-      - HK4
-      - 未知32
-      - 未知33
-      - 未知34
-      - 未知35
-      - 🇷🇺RU俄罗斯
-      - 🇱🇹LT立陶宛 48.1KB/s
-      - US26
-      - US27
-      - US28
-      - 🇯🇵JP日本5
-      - 🇺🇸US美国5
-      - 未知36
-      - US29
-      - 未知37
-      - 🇩🇪DE德国4
-      - 未知38
-      - 🇷🇺RU俄罗斯2
-      - 未知39
-      - US30
       - 🇺🇸US美国6
-      - 🇳🇱NL荷兰2
-      - 🇫🇷FR法国2 10.8MB/s
+      - 未知21 835.0KB/s
+      - 未知22
+      - 未知23
+      - 🇯🇵JP日本5
 
   - name: ♻️ 自动选择
     type: url-test
@@ -230,108 +166,76 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇩🇪DE德国 9.2MB/s
       - 🇭🇰HK香港
-      - 未知
-      - 🇦🇺AU澳大利亚 4.1MB/s
-      - 🇩🇪DE德国2 126.5KB/s
-      - 🇺🇸US美国
-      - 未知2
-      - 🇬🇧GB英国 14.1MB/s
       - US
       - US2
-      - 🇯🇵JP日本
-      - 未知3
-      - 未知4
-      - 未知5
+      - 🇺🇸US美国
+      - 🇺🇸US美国2 2.3MB/s
+      - 未知
       - US3
+      - 未知2
+      - 未知3
       - US4
-      - 未知6
+      - 🇭🇰HK香港2
       - US5
-      - 未知7
-      - 🇸🇬SG新加坡
-      - 未知8
       - US6
       - US7
-      - 🇯🇵JP日本2 107.5KB/s
+      - 🇩🇪DE德国
+      - 🇺🇸US美国3 369.1KB/s
       - US8
-      - HK
-      - 未知9 569.5KB/s
-      - 🇫🇷FR法国
+      - 🇬🇧GB英国 127.6KB/s
+      - 未知4
+      - 未知5
+      - 🇺🇸US美国4
+      - 🇩🇪DE德国2
+      - 🇯🇵JP日本 26.2KB/s
+      - 未知6
+      - 未知7
+      - 未知8
+      - 未知9
       - US9
       - US10
-      - US11
-      - HK2
-      - HK3
-      - US12
-      - 未知10 14.0MB/s
+      - 未知10
       - 未知11
-      - 🇯🇵JP日本3
-      - US13
+      - 🇷🇺RU俄罗斯
+      - US11
+      - US12
       - 未知12
+      - 🇱🇹LT立陶宛 59.2KB/s
+      - 🇯🇵JP日本2
+      - 🇯🇵JP日本3
+      - 🇯🇵JP日本4
       - 未知13
       - 未知14
+      - 🇭🇰HK香港3
+      - US13
+      - 🇫🇷FR法国
       - 未知15
       - US14
+      - 🇩🇪DE德国3 119.7KB/s
+      - 未知16
+      - 🇫🇷FR法国2 4.2MB/s
       - US15
       - US16
-      - 🇯🇵JP日本4
-      - 未知16
-      - 🇺🇸US美国2 2.6MB/s
+      - 🇩🇪DE德国4
+      - 🇸🇬SG新加坡
       - 未知17
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国5
+      - 🇳🇱NL荷兰
       - 未知18
-      - US17
       - 未知19
+      - 🇳🇱NL荷兰2
+      - US17
       - 未知20
+      - 🇦🇺AU澳大利亚 3.3MB/s
       - US18
       - US19
-      - 🇺🇸US美国3 20.5MB/s
-      - 未知21
-      - 未知22
-      - US20
-      - 🇳🇱NL荷兰 77.5KB/s
-      - 未知23
-      - US21
-      - US22
-      - 未知24
-      - US23
-      - 未知25
-      - 🇩🇪DE德国3
-      - 🇭🇰HK香港2
-      - 未知26
-      - 🇸🇬SG新加坡2
-      - US24
-      - 🇭🇰HK香港3
-      - US25
-      - 未知27
-      - 未知28
-      - 🇺🇸US美国4
-      - 未知29
-      - 未知30
-      - 未知31
-      - HK4
-      - 未知32
-      - 未知33
-      - 未知34
-      - 未知35
-      - 🇷🇺RU俄罗斯
-      - 🇱🇹LT立陶宛 48.1KB/s
-      - US26
-      - US27
-      - US28
-      - 🇯🇵JP日本5
-      - 🇺🇸US美国5
-      - 未知36
-      - US29
-      - 未知37
-      - 🇩🇪DE德国4
-      - 未知38
-      - 🇷🇺RU俄罗斯2
-      - 未知39
-      - US30
       - 🇺🇸US美国6
-      - 🇳🇱NL荷兰2
-      - 🇫🇷FR法国2 10.8MB/s
+      - 未知21 835.0KB/s
+      - 未知22
+      - 未知23
+      - 🇯🇵JP日本5
 
   - name: 🌍 国外媒体
     type: select
@@ -339,432 +243,304 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇩🇪DE德国 9.2MB/s
       - 🇭🇰HK香港
-      - 未知
-      - 🇦🇺AU澳大利亚 4.1MB/s
-      - 🇩🇪DE德国2 126.5KB/s
-      - 🇺🇸US美国
-      - 未知2
-      - 🇬🇧GB英国 14.1MB/s
       - US
       - US2
-      - 🇯🇵JP日本
-      - 未知3
-      - 未知4
-      - 未知5
+      - 🇺🇸US美国
+      - 🇺🇸US美国2 2.3MB/s
+      - 未知
       - US3
+      - 未知2
+      - 未知3
       - US4
-      - 未知6
+      - 🇭🇰HK香港2
       - US5
-      - 未知7
-      - 🇸🇬SG新加坡
-      - 未知8
       - US6
       - US7
-      - 🇯🇵JP日本2 107.5KB/s
+      - 🇩🇪DE德国
+      - 🇺🇸US美国3 369.1KB/s
       - US8
-      - HK
-      - 未知9 569.5KB/s
-      - 🇫🇷FR法国
+      - 🇬🇧GB英国 127.6KB/s
+      - 未知4
+      - 未知5
+      - 🇺🇸US美国4
+      - 🇩🇪DE德国2
+      - 🇯🇵JP日本 26.2KB/s
+      - 未知6
+      - 未知7
+      - 未知8
+      - 未知9
       - US9
       - US10
-      - US11
-      - HK2
-      - HK3
-      - US12
-      - 未知10 14.0MB/s
+      - 未知10
       - 未知11
-      - 🇯🇵JP日本3
-      - US13
+      - 🇷🇺RU俄罗斯
+      - US11
+      - US12
       - 未知12
+      - 🇱🇹LT立陶宛 59.2KB/s
+      - 🇯🇵JP日本2
+      - 🇯🇵JP日本3
+      - 🇯🇵JP日本4
       - 未知13
       - 未知14
+      - 🇭🇰HK香港3
+      - US13
+      - 🇫🇷FR法国
       - 未知15
       - US14
+      - 🇩🇪DE德国3 119.7KB/s
+      - 未知16
+      - 🇫🇷FR法国2 4.2MB/s
       - US15
       - US16
-      - 🇯🇵JP日本4
-      - 未知16
-      - 🇺🇸US美国2 2.6MB/s
+      - 🇩🇪DE德国4
+      - 🇸🇬SG新加坡
       - 未知17
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国5
+      - 🇳🇱NL荷兰
       - 未知18
-      - US17
       - 未知19
+      - 🇳🇱NL荷兰2
+      - US17
       - 未知20
+      - 🇦🇺AU澳大利亚 3.3MB/s
       - US18
       - US19
-      - 🇺🇸US美国3 20.5MB/s
-      - 未知21
-      - 未知22
-      - US20
-      - 🇳🇱NL荷兰 77.5KB/s
-      - 未知23
-      - US21
-      - US22
-      - 未知24
-      - US23
-      - 未知25
-      - 🇩🇪DE德国3
-      - 🇭🇰HK香港2
-      - 未知26
-      - 🇸🇬SG新加坡2
-      - US24
-      - 🇭🇰HK香港3
-      - US25
-      - 未知27
-      - 未知28
-      - 🇺🇸US美国4
-      - 未知29
-      - 未知30
-      - 未知31
-      - HK4
-      - 未知32
-      - 未知33
-      - 未知34
-      - 未知35
-      - 🇷🇺RU俄罗斯
-      - 🇱🇹LT立陶宛 48.1KB/s
-      - US26
-      - US27
-      - US28
-      - 🇯🇵JP日本5
-      - 🇺🇸US美国5
-      - 未知36
-      - US29
-      - 未知37
-      - 🇩🇪DE德国4
-      - 未知38
-      - 🇷🇺RU俄罗斯2
-      - 未知39
-      - US30
       - 🇺🇸US美国6
-      - 🇳🇱NL荷兰2
-      - 🇫🇷FR法国2 10.8MB/s
+      - 未知21 835.0KB/s
+      - 未知22
+      - 未知23
+      - 🇯🇵JP日本5
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇩🇪DE德国 9.2MB/s
       - 🇭🇰HK香港
-      - 未知
-      - 🇦🇺AU澳大利亚 4.1MB/s
-      - 🇩🇪DE德国2 126.5KB/s
-      - 🇺🇸US美国
-      - 未知2
-      - 🇬🇧GB英国 14.1MB/s
       - US
       - US2
-      - 🇯🇵JP日本
-      - 未知3
-      - 未知4
-      - 未知5
+      - 🇺🇸US美国
+      - 🇺🇸US美国2 2.3MB/s
+      - 未知
       - US3
+      - 未知2
+      - 未知3
       - US4
-      - 未知6
+      - 🇭🇰HK香港2
       - US5
-      - 未知7
-      - 🇸🇬SG新加坡
-      - 未知8
       - US6
       - US7
-      - 🇯🇵JP日本2 107.5KB/s
+      - 🇩🇪DE德国
+      - 🇺🇸US美国3 369.1KB/s
       - US8
-      - HK
-      - 未知9 569.5KB/s
-      - 🇫🇷FR法国
+      - 🇬🇧GB英国 127.6KB/s
+      - 未知4
+      - 未知5
+      - 🇺🇸US美国4
+      - 🇩🇪DE德国2
+      - 🇯🇵JP日本 26.2KB/s
+      - 未知6
+      - 未知7
+      - 未知8
+      - 未知9
       - US9
       - US10
-      - US11
-      - HK2
-      - HK3
-      - US12
-      - 未知10 14.0MB/s
+      - 未知10
       - 未知11
-      - 🇯🇵JP日本3
-      - US13
+      - 🇷🇺RU俄罗斯
+      - US11
+      - US12
       - 未知12
+      - 🇱🇹LT立陶宛 59.2KB/s
+      - 🇯🇵JP日本2
+      - 🇯🇵JP日本3
+      - 🇯🇵JP日本4
       - 未知13
       - 未知14
+      - 🇭🇰HK香港3
+      - US13
+      - 🇫🇷FR法国
       - 未知15
       - US14
+      - 🇩🇪DE德国3 119.7KB/s
+      - 未知16
+      - 🇫🇷FR法国2 4.2MB/s
       - US15
       - US16
-      - 🇯🇵JP日本4
-      - 未知16
-      - 🇺🇸US美国2 2.6MB/s
+      - 🇩🇪DE德国4
+      - 🇸🇬SG新加坡
       - 未知17
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国5
+      - 🇳🇱NL荷兰
       - 未知18
-      - US17
       - 未知19
+      - 🇳🇱NL荷兰2
+      - US17
       - 未知20
+      - 🇦🇺AU澳大利亚 3.3MB/s
       - US18
       - US19
-      - 🇺🇸US美国3 20.5MB/s
-      - 未知21
-      - 未知22
-      - US20
-      - 🇳🇱NL荷兰 77.5KB/s
-      - 未知23
-      - US21
-      - US22
-      - 未知24
-      - US23
-      - 未知25
-      - 🇩🇪DE德国3
-      - 🇭🇰HK香港2
-      - 未知26
-      - 🇸🇬SG新加坡2
-      - US24
-      - 🇭🇰HK香港3
-      - US25
-      - 未知27
-      - 未知28
-      - 🇺🇸US美国4
-      - 未知29
-      - 未知30
-      - 未知31
-      - HK4
-      - 未知32
-      - 未知33
-      - 未知34
-      - 未知35
-      - 🇷🇺RU俄罗斯
-      - 🇱🇹LT立陶宛 48.1KB/s
-      - US26
-      - US27
-      - US28
-      - 🇯🇵JP日本5
-      - 🇺🇸US美国5
-      - 未知36
-      - US29
-      - 未知37
-      - 🇩🇪DE德国4
-      - 未知38
-      - 🇷🇺RU俄罗斯2
-      - 未知39
-      - US30
       - 🇺🇸US美国6
-      - 🇳🇱NL荷兰2
-      - 🇫🇷FR法国2 10.8MB/s
+      - 未知21 835.0KB/s
+      - 未知22
+      - 未知23
+      - 🇯🇵JP日本5
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇩🇪DE德国 9.2MB/s
       - 🇭🇰HK香港
-      - 未知
-      - 🇦🇺AU澳大利亚 4.1MB/s
-      - 🇩🇪DE德国2 126.5KB/s
-      - 🇺🇸US美国
-      - 未知2
-      - 🇬🇧GB英国 14.1MB/s
       - US
       - US2
-      - 🇯🇵JP日本
-      - 未知3
-      - 未知4
-      - 未知5
+      - 🇺🇸US美国
+      - 🇺🇸US美国2 2.3MB/s
+      - 未知
       - US3
+      - 未知2
+      - 未知3
       - US4
-      - 未知6
+      - 🇭🇰HK香港2
       - US5
-      - 未知7
-      - 🇸🇬SG新加坡
-      - 未知8
       - US6
       - US7
-      - 🇯🇵JP日本2 107.5KB/s
+      - 🇩🇪DE德国
+      - 🇺🇸US美国3 369.1KB/s
       - US8
-      - HK
-      - 未知9 569.5KB/s
-      - 🇫🇷FR法国
+      - 🇬🇧GB英国 127.6KB/s
+      - 未知4
+      - 未知5
+      - 🇺🇸US美国4
+      - 🇩🇪DE德国2
+      - 🇯🇵JP日本 26.2KB/s
+      - 未知6
+      - 未知7
+      - 未知8
+      - 未知9
       - US9
       - US10
-      - US11
-      - HK2
-      - HK3
-      - US12
-      - 未知10 14.0MB/s
+      - 未知10
       - 未知11
-      - 🇯🇵JP日本3
-      - US13
+      - 🇷🇺RU俄罗斯
+      - US11
+      - US12
       - 未知12
+      - 🇱🇹LT立陶宛 59.2KB/s
+      - 🇯🇵JP日本2
+      - 🇯🇵JP日本3
+      - 🇯🇵JP日本4
       - 未知13
       - 未知14
+      - 🇭🇰HK香港3
+      - US13
+      - 🇫🇷FR法国
       - 未知15
       - US14
+      - 🇩🇪DE德国3 119.7KB/s
+      - 未知16
+      - 🇫🇷FR法国2 4.2MB/s
       - US15
       - US16
-      - 🇯🇵JP日本4
-      - 未知16
-      - 🇺🇸US美国2 2.6MB/s
+      - 🇩🇪DE德国4
+      - 🇸🇬SG新加坡
       - 未知17
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国5
+      - 🇳🇱NL荷兰
       - 未知18
-      - US17
       - 未知19
+      - 🇳🇱NL荷兰2
+      - US17
       - 未知20
+      - 🇦🇺AU澳大利亚 3.3MB/s
       - US18
       - US19
-      - 🇺🇸US美国3 20.5MB/s
-      - 未知21
-      - 未知22
-      - US20
-      - 🇳🇱NL荷兰 77.5KB/s
-      - 未知23
-      - US21
-      - US22
-      - 未知24
-      - US23
-      - 未知25
-      - 🇩🇪DE德国3
-      - 🇭🇰HK香港2
-      - 未知26
-      - 🇸🇬SG新加坡2
-      - US24
-      - 🇭🇰HK香港3
-      - US25
-      - 未知27
-      - 未知28
-      - 🇺🇸US美国4
-      - 未知29
-      - 未知30
-      - 未知31
-      - HK4
-      - 未知32
-      - 未知33
-      - 未知34
-      - 未知35
-      - 🇷🇺RU俄罗斯
-      - 🇱🇹LT立陶宛 48.1KB/s
-      - US26
-      - US27
-      - US28
-      - 🇯🇵JP日本5
-      - 🇺🇸US美国5
-      - 未知36
-      - US29
-      - 未知37
-      - 🇩🇪DE德国4
-      - 未知38
-      - 🇷🇺RU俄罗斯2
-      - 未知39
-      - US30
       - 🇺🇸US美国6
-      - 🇳🇱NL荷兰2
-      - 🇫🇷FR法国2 10.8MB/s
+      - 未知21 835.0KB/s
+      - 未知22
+      - 未知23
+      - 🇯🇵JP日本5
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇩🇪DE德国 9.2MB/s
       - 🇭🇰HK香港
-      - 未知
-      - 🇦🇺AU澳大利亚 4.1MB/s
-      - 🇩🇪DE德国2 126.5KB/s
-      - 🇺🇸US美国
-      - 未知2
-      - 🇬🇧GB英国 14.1MB/s
       - US
       - US2
-      - 🇯🇵JP日本
-      - 未知3
-      - 未知4
-      - 未知5
+      - 🇺🇸US美国
+      - 🇺🇸US美国2 2.3MB/s
+      - 未知
       - US3
+      - 未知2
+      - 未知3
       - US4
-      - 未知6
+      - 🇭🇰HK香港2
       - US5
-      - 未知7
-      - 🇸🇬SG新加坡
-      - 未知8
       - US6
       - US7
-      - 🇯🇵JP日本2 107.5KB/s
+      - 🇩🇪DE德国
+      - 🇺🇸US美国3 369.1KB/s
       - US8
-      - HK
-      - 未知9 569.5KB/s
-      - 🇫🇷FR法国
+      - 🇬🇧GB英国 127.6KB/s
+      - 未知4
+      - 未知5
+      - 🇺🇸US美国4
+      - 🇩🇪DE德国2
+      - 🇯🇵JP日本 26.2KB/s
+      - 未知6
+      - 未知7
+      - 未知8
+      - 未知9
       - US9
       - US10
-      - US11
-      - HK2
-      - HK3
-      - US12
-      - 未知10 14.0MB/s
+      - 未知10
       - 未知11
-      - 🇯🇵JP日本3
-      - US13
+      - 🇷🇺RU俄罗斯
+      - US11
+      - US12
       - 未知12
+      - 🇱🇹LT立陶宛 59.2KB/s
+      - 🇯🇵JP日本2
+      - 🇯🇵JP日本3
+      - 🇯🇵JP日本4
       - 未知13
       - 未知14
+      - 🇭🇰HK香港3
+      - US13
+      - 🇫🇷FR法国
       - 未知15
       - US14
+      - 🇩🇪DE德国3 119.7KB/s
+      - 未知16
+      - 🇫🇷FR法国2 4.2MB/s
       - US15
       - US16
-      - 🇯🇵JP日本4
-      - 未知16
-      - 🇺🇸US美国2 2.6MB/s
+      - 🇩🇪DE德国4
+      - 🇸🇬SG新加坡
       - 未知17
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国5
+      - 🇳🇱NL荷兰
       - 未知18
-      - US17
       - 未知19
+      - 🇳🇱NL荷兰2
+      - US17
       - 未知20
+      - 🇦🇺AU澳大利亚 3.3MB/s
       - US18
       - US19
-      - 🇺🇸US美国3 20.5MB/s
-      - 未知21
-      - 未知22
-      - US20
-      - 🇳🇱NL荷兰 77.5KB/s
-      - 未知23
-      - US21
-      - US22
-      - 未知24
-      - US23
-      - 未知25
-      - 🇩🇪DE德国3
-      - 🇭🇰HK香港2
-      - 未知26
-      - 🇸🇬SG新加坡2
-      - US24
-      - 🇭🇰HK香港3
-      - US25
-      - 未知27
-      - 未知28
-      - 🇺🇸US美国4
-      - 未知29
-      - 未知30
-      - 未知31
-      - HK4
-      - 未知32
-      - 未知33
-      - 未知34
-      - 未知35
-      - 🇷🇺RU俄罗斯
-      - 🇱🇹LT立陶宛 48.1KB/s
-      - US26
-      - US27
-      - US28
-      - 🇯🇵JP日本5
-      - 🇺🇸US美国5
-      - 未知36
-      - US29
-      - 未知37
-      - 🇩🇪DE德国4
-      - 未知38
-      - 🇷🇺RU俄罗斯2
-      - 未知39
-      - US30
       - 🇺🇸US美国6
-      - 🇳🇱NL荷兰2
-      - 🇫🇷FR法国2 10.8MB/s
+      - 未知21 835.0KB/s
+      - 未知22
+      - 未知23
+      - 🇯🇵JP日本5
 
   - name: 🎯 全球直连
     type: select
@@ -788,108 +564,76 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇩🇪DE德国 9.2MB/s
       - 🇭🇰HK香港
-      - 未知
-      - 🇦🇺AU澳大利亚 4.1MB/s
-      - 🇩🇪DE德国2 126.5KB/s
-      - 🇺🇸US美国
-      - 未知2
-      - 🇬🇧GB英国 14.1MB/s
       - US
       - US2
-      - 🇯🇵JP日本
-      - 未知3
-      - 未知4
-      - 未知5
+      - 🇺🇸US美国
+      - 🇺🇸US美国2 2.3MB/s
+      - 未知
       - US3
+      - 未知2
+      - 未知3
       - US4
-      - 未知6
+      - 🇭🇰HK香港2
       - US5
-      - 未知7
-      - 🇸🇬SG新加坡
-      - 未知8
       - US6
       - US7
-      - 🇯🇵JP日本2 107.5KB/s
+      - 🇩🇪DE德国
+      - 🇺🇸US美国3 369.1KB/s
       - US8
-      - HK
-      - 未知9 569.5KB/s
-      - 🇫🇷FR法国
+      - 🇬🇧GB英国 127.6KB/s
+      - 未知4
+      - 未知5
+      - 🇺🇸US美国4
+      - 🇩🇪DE德国2
+      - 🇯🇵JP日本 26.2KB/s
+      - 未知6
+      - 未知7
+      - 未知8
+      - 未知9
       - US9
       - US10
-      - US11
-      - HK2
-      - HK3
-      - US12
-      - 未知10 14.0MB/s
+      - 未知10
       - 未知11
-      - 🇯🇵JP日本3
-      - US13
+      - 🇷🇺RU俄罗斯
+      - US11
+      - US12
       - 未知12
+      - 🇱🇹LT立陶宛 59.2KB/s
+      - 🇯🇵JP日本2
+      - 🇯🇵JP日本3
+      - 🇯🇵JP日本4
       - 未知13
       - 未知14
+      - 🇭🇰HK香港3
+      - US13
+      - 🇫🇷FR法国
       - 未知15
       - US14
+      - 🇩🇪DE德国3 119.7KB/s
+      - 未知16
+      - 🇫🇷FR法国2 4.2MB/s
       - US15
       - US16
-      - 🇯🇵JP日本4
-      - 未知16
-      - 🇺🇸US美国2 2.6MB/s
+      - 🇩🇪DE德国4
+      - 🇸🇬SG新加坡
       - 未知17
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国5
+      - 🇳🇱NL荷兰
       - 未知18
-      - US17
       - 未知19
+      - 🇳🇱NL荷兰2
+      - US17
       - 未知20
+      - 🇦🇺AU澳大利亚 3.3MB/s
       - US18
       - US19
-      - 🇺🇸US美国3 20.5MB/s
-      - 未知21
-      - 未知22
-      - US20
-      - 🇳🇱NL荷兰 77.5KB/s
-      - 未知23
-      - US21
-      - US22
-      - 未知24
-      - US23
-      - 未知25
-      - 🇩🇪DE德国3
-      - 🇭🇰HK香港2
-      - 未知26
-      - 🇸🇬SG新加坡2
-      - US24
-      - 🇭🇰HK香港3
-      - US25
-      - 未知27
-      - 未知28
-      - 🇺🇸US美国4
-      - 未知29
-      - 未知30
-      - 未知31
-      - HK4
-      - 未知32
-      - 未知33
-      - 未知34
-      - 未知35
-      - 🇷🇺RU俄罗斯
-      - 🇱🇹LT立陶宛 48.1KB/s
-      - US26
-      - US27
-      - US28
-      - 🇯🇵JP日本5
-      - 🇺🇸US美国5
-      - 未知36
-      - US29
-      - 未知37
-      - 🇩🇪DE德国4
-      - 未知38
-      - 🇷🇺RU俄罗斯2
-      - 未知39
-      - US30
       - 🇺🇸US美国6
-      - 🇳🇱NL荷兰2
-      - 🇫🇷FR法国2 10.8MB/s
+      - 未知21 835.0KB/s
+      - 未知22
+      - 未知23
+      - 🇯🇵JP日本5
 
 
 rules:
