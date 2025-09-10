@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://slch2024@185.251.80.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A52
-trojan://slch2024@185.148.104.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US
-trojan://slch2024@209.94.90.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#US2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY213dFFSeklDWEdRTGlvU29semk3@106.15.224.42:2055#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://slch2024@185.251.81.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@185.245.107.61:2222#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD3
+trojan://slch2024@185.251.82.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206MmI1ZmFkMzg3NGU1@156.251.179.135:443#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
