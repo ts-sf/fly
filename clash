@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-09-23 16:38:15
+# 创建时间: 2025-09-24 00:37:38
 # 使用模版: V2RaySE 默认模版
-# 节点数量：10
+# 节点数量：5
 ####################################
 #
 mixed-port: 7890
@@ -12,16 +12,11 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇺🇸US美国2 39.0KB/s","type":"ss","server":"arxfw2b78fi2q9hzylhn.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Nk9asglDzHzjktVzTkvhaA","skip-cert-verify":true}
-  - {"name":"🇳🇱NL荷兰 292.9KB/s","type":"ss","server":"213.109.147.242","port":62685,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"VpKABcOpNNA0l5G2AVOmw8","skip-cert-verify":true}
-  - {"name":"🇱🇹LT立陶宛 157.5KB/s","type":"ss","server":"45.87.175.28","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国4 5.5MB/s","type":"ss","server":"104.167.197.25","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"360e21d21977dc11","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国5 32.0KB/s","type":"ss","server":"switcher-nick-croquet.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"9tqhMdIrTkgQ46PvhyAtMH","skip-cert-verify":true}
-  - {"name":"🇮🇹IT意大利 21.1MB/s","type":"ss","server":"212.102.53.81","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国9 2.0MB/s","type":"ss","server":"204.136.10.115","port":1866,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oXGp1+ihlfKg826H","skip-cert-verify":true}
-  - {"name":"🇦🇺AU澳大利亚 3.9MB/s","type":"ss","server":"185.177.229.245","port":1866,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oXGp1+ihlfKg826H","skip-cert-verify":true}
-  - {"name":"🇮🇹IT意大利2 18.0MB/s","type":"ss","server":"212.102.53.196","port":443,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"shadowsocks","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国14 141.7KB/s","type":"ss","server":"pupas-shirting-unsung.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"p78naCf2EfOlRSLTX0wFVx","skip-cert-verify":true}
+  - {"name":"🇱🇹LT立陶宛 65.1KB/s","type":"ss","server":"45.87.175.28","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国6 26.9KB/s","type":"ss","server":"arxfw2b78fi2q9hzylhn.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Nk9asglDzHzjktVzTkvhaA","skip-cert-verify":true}
+  - {"name":"🇦🇺AU澳大利亚 2.3MB/s","type":"ss","server":"185.177.229.245","port":1866,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oXGp1+ihlfKg826H","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国14 1.3MB/s","type":"ss","server":"204.136.10.115","port":1866,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oXGp1+ihlfKg826H","skip-cert-verify":true}
+  - {"name":"🇳🇱NL荷兰2 106.0KB/s","type":"ss","server":"213.109.147.242","port":62685,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"VpKABcOpNNA0l5G2AVOmw8","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -29,16 +24,11 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇸US美国2 39.0KB/s
-      - 🇳🇱NL荷兰 292.9KB/s
-      - 🇱🇹LT立陶宛 157.5KB/s
-      - 🇺🇸US美国4 5.5MB/s
-      - 🇺🇸US美国5 32.0KB/s
-      - 🇮🇹IT意大利 21.1MB/s
-      - 🇺🇸US美国9 2.0MB/s
-      - 🇦🇺AU澳大利亚 3.9MB/s
-      - 🇮🇹IT意大利2 18.0MB/s
-      - 🇺🇸US美国14 141.7KB/s
+      - 🇱🇹LT立陶宛 65.1KB/s
+      - 🇺🇸US美国6 26.9KB/s
+      - 🇦🇺AU澳大利亚 2.3MB/s
+      - 🇺🇸US美国14 1.3MB/s
+      - 🇳🇱NL荷兰2 106.0KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -46,16 +36,11 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸US美国2 39.0KB/s
-      - 🇳🇱NL荷兰 292.9KB/s
-      - 🇱🇹LT立陶宛 157.5KB/s
-      - 🇺🇸US美国4 5.5MB/s
-      - 🇺🇸US美国5 32.0KB/s
-      - 🇮🇹IT意大利 21.1MB/s
-      - 🇺🇸US美国9 2.0MB/s
-      - 🇦🇺AU澳大利亚 3.9MB/s
-      - 🇮🇹IT意大利2 18.0MB/s
-      - 🇺🇸US美国14 141.7KB/s
+      - 🇱🇹LT立陶宛 65.1KB/s
+      - 🇺🇸US美国6 26.9KB/s
+      - 🇦🇺AU澳大利亚 2.3MB/s
+      - 🇺🇸US美国14 1.3MB/s
+      - 🇳🇱NL荷兰2 106.0KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -63,64 +48,44 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸US美国2 39.0KB/s
-      - 🇳🇱NL荷兰 292.9KB/s
-      - 🇱🇹LT立陶宛 157.5KB/s
-      - 🇺🇸US美国4 5.5MB/s
-      - 🇺🇸US美国5 32.0KB/s
-      - 🇮🇹IT意大利 21.1MB/s
-      - 🇺🇸US美国9 2.0MB/s
-      - 🇦🇺AU澳大利亚 3.9MB/s
-      - 🇮🇹IT意大利2 18.0MB/s
-      - 🇺🇸US美国14 141.7KB/s
+      - 🇱🇹LT立陶宛 65.1KB/s
+      - 🇺🇸US美国6 26.9KB/s
+      - 🇦🇺AU澳大利亚 2.3MB/s
+      - 🇺🇸US美国14 1.3MB/s
+      - 🇳🇱NL荷兰2 106.0KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国2 39.0KB/s
-      - 🇳🇱NL荷兰 292.9KB/s
-      - 🇱🇹LT立陶宛 157.5KB/s
-      - 🇺🇸US美国4 5.5MB/s
-      - 🇺🇸US美国5 32.0KB/s
-      - 🇮🇹IT意大利 21.1MB/s
-      - 🇺🇸US美国9 2.0MB/s
-      - 🇦🇺AU澳大利亚 3.9MB/s
-      - 🇮🇹IT意大利2 18.0MB/s
-      - 🇺🇸US美国14 141.7KB/s
+      - 🇱🇹LT立陶宛 65.1KB/s
+      - 🇺🇸US美国6 26.9KB/s
+      - 🇦🇺AU澳大利亚 2.3MB/s
+      - 🇺🇸US美国14 1.3MB/s
+      - 🇳🇱NL荷兰2 106.0KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇸US美国2 39.0KB/s
-      - 🇳🇱NL荷兰 292.9KB/s
-      - 🇱🇹LT立陶宛 157.5KB/s
-      - 🇺🇸US美国4 5.5MB/s
-      - 🇺🇸US美国5 32.0KB/s
-      - 🇮🇹IT意大利 21.1MB/s
-      - 🇺🇸US美国9 2.0MB/s
-      - 🇦🇺AU澳大利亚 3.9MB/s
-      - 🇮🇹IT意大利2 18.0MB/s
-      - 🇺🇸US美国14 141.7KB/s
+      - 🇱🇹LT立陶宛 65.1KB/s
+      - 🇺🇸US美国6 26.9KB/s
+      - 🇦🇺AU澳大利亚 2.3MB/s
+      - 🇺🇸US美国14 1.3MB/s
+      - 🇳🇱NL荷兰2 106.0KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国2 39.0KB/s
-      - 🇳🇱NL荷兰 292.9KB/s
-      - 🇱🇹LT立陶宛 157.5KB/s
-      - 🇺🇸US美国4 5.5MB/s
-      - 🇺🇸US美国5 32.0KB/s
-      - 🇮🇹IT意大利 21.1MB/s
-      - 🇺🇸US美国9 2.0MB/s
-      - 🇦🇺AU澳大利亚 3.9MB/s
-      - 🇮🇹IT意大利2 18.0MB/s
-      - 🇺🇸US美国14 141.7KB/s
+      - 🇱🇹LT立陶宛 65.1KB/s
+      - 🇺🇸US美国6 26.9KB/s
+      - 🇦🇺AU澳大利亚 2.3MB/s
+      - 🇺🇸US美国14 1.3MB/s
+      - 🇳🇱NL荷兰2 106.0KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -144,16 +109,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸US美国2 39.0KB/s
-      - 🇳🇱NL荷兰 292.9KB/s
-      - 🇱🇹LT立陶宛 157.5KB/s
-      - 🇺🇸US美国4 5.5MB/s
-      - 🇺🇸US美国5 32.0KB/s
-      - 🇮🇹IT意大利 21.1MB/s
-      - 🇺🇸US美国9 2.0MB/s
-      - 🇦🇺AU澳大利亚 3.9MB/s
-      - 🇮🇹IT意大利2 18.0MB/s
-      - 🇺🇸US美国14 141.7KB/s
+      - 🇱🇹LT立陶宛 65.1KB/s
+      - 🇺🇸US美国6 26.9KB/s
+      - 🇦🇺AU澳大利亚 2.3MB/s
+      - 🇺🇸US美国14 1.3MB/s
+      - 🇳🇱NL荷兰2 106.0KB/s
 
 
 rules:
