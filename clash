@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-10-04 09:55:30
+# 创建时间: 2025-10-04 16:33:58
 # 使用模版: V2RaySE 默认模版
-# 节点数量：9
+# 节点数量：5
 ####################################
 #
 mixed-port: 7890
@@ -12,15 +12,11 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇮🇷IR伊朗 14.2MB/s","type":"ss","server":"151.242.251.144","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"4a2rfixophdjffa8KVA4Aa","skip-cert-verify":true}
-  - {"name":"🇦🇺AU澳大利亚 3.5MB/s","type":"ss","server":"185.177.229.245","port":1866,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oXGp1+ihlfKg826H","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国2 24.6MB/s","type":"ss","server":"104.167.197.25","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"360e21d21977dc11","skip-cert-verify":true}
-  - {"name":"🇱🇹LT立陶宛 14.2MB/s","type":"ss","server":"45.87.175.28","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国4 22.9KB/s","type":"ss","server":"switcher-nick-croquet.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"9tqhMdIrTkgQ46PvhyAtMH","skip-cert-verify":true}
-  - {"name":"🇮🇷IR伊朗2 13.2MB/s","type":"ss","server":"beesyar.org","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"4a2rfixophdjffa8KVA4Aa","skip-cert-verify":true}
-  - {"name":"🇯🇵JP日本3 34.1KB/s","type":"ss","server":"arxfw2b78fi2q9hzylhn.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Nk9asglDzHzjktVzTkvhaA","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国6 26.3KB/s","type":"ss","server":"pupas-shirting-unsung.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"p78naCf2EfOlRSLTX0wFVx","skip-cert-verify":true}
-  - {"name":"🇳🇱NL荷兰2 367.5KB/s","type":"ss","server":"213.109.147.242","port":62685,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"VpKABcOpNNA0l5G2AVOmw8","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国2 17.7MB/s","type":"ss","server":"104.167.197.25","port":57456,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"360e21d21977dc11","skip-cert-verify":true}
+  - {"name":"🇦🇺AU澳大利亚 2.0MB/s","type":"ss","server":"185.177.229.245","port":1866,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oXGp1+ihlfKg826H","skip-cert-verify":true}
+  - {"name":"🇳🇱NL荷兰2 89.5KB/s","type":"ss","server":"213.109.147.242","port":62685,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"VpKABcOpNNA0l5G2AVOmw8","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国4 29.8KB/s","type":"ss","server":"pupas-shirting-unsung.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"p78naCf2EfOlRSLTX0wFVx","skip-cert-verify":true}
+  - {"name":"🇱🇹LT立陶宛 32.7KB/s","type":"ss","server":"45.87.175.28","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -28,15 +24,11 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇮🇷IR伊朗 14.2MB/s
-      - 🇦🇺AU澳大利亚 3.5MB/s
-      - 🇺🇸US美国2 24.6MB/s
-      - 🇱🇹LT立陶宛 14.2MB/s
-      - 🇺🇸US美国4 22.9KB/s
-      - 🇮🇷IR伊朗2 13.2MB/s
-      - 🇯🇵JP日本3 34.1KB/s
-      - 🇺🇸US美国6 26.3KB/s
-      - 🇳🇱NL荷兰2 367.5KB/s
+      - 🇺🇸US美国2 17.7MB/s
+      - 🇦🇺AU澳大利亚 2.0MB/s
+      - 🇳🇱NL荷兰2 89.5KB/s
+      - 🇺🇸US美国4 29.8KB/s
+      - 🇱🇹LT立陶宛 32.7KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -44,15 +36,11 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇮🇷IR伊朗 14.2MB/s
-      - 🇦🇺AU澳大利亚 3.5MB/s
-      - 🇺🇸US美国2 24.6MB/s
-      - 🇱🇹LT立陶宛 14.2MB/s
-      - 🇺🇸US美国4 22.9KB/s
-      - 🇮🇷IR伊朗2 13.2MB/s
-      - 🇯🇵JP日本3 34.1KB/s
-      - 🇺🇸US美国6 26.3KB/s
-      - 🇳🇱NL荷兰2 367.5KB/s
+      - 🇺🇸US美国2 17.7MB/s
+      - 🇦🇺AU澳大利亚 2.0MB/s
+      - 🇳🇱NL荷兰2 89.5KB/s
+      - 🇺🇸US美国4 29.8KB/s
+      - 🇱🇹LT立陶宛 32.7KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -60,60 +48,44 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇮🇷IR伊朗 14.2MB/s
-      - 🇦🇺AU澳大利亚 3.5MB/s
-      - 🇺🇸US美国2 24.6MB/s
-      - 🇱🇹LT立陶宛 14.2MB/s
-      - 🇺🇸US美国4 22.9KB/s
-      - 🇮🇷IR伊朗2 13.2MB/s
-      - 🇯🇵JP日本3 34.1KB/s
-      - 🇺🇸US美国6 26.3KB/s
-      - 🇳🇱NL荷兰2 367.5KB/s
+      - 🇺🇸US美国2 17.7MB/s
+      - 🇦🇺AU澳大利亚 2.0MB/s
+      - 🇳🇱NL荷兰2 89.5KB/s
+      - 🇺🇸US美国4 29.8KB/s
+      - 🇱🇹LT立陶宛 32.7KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇮🇷IR伊朗 14.2MB/s
-      - 🇦🇺AU澳大利亚 3.5MB/s
-      - 🇺🇸US美国2 24.6MB/s
-      - 🇱🇹LT立陶宛 14.2MB/s
-      - 🇺🇸US美国4 22.9KB/s
-      - 🇮🇷IR伊朗2 13.2MB/s
-      - 🇯🇵JP日本3 34.1KB/s
-      - 🇺🇸US美国6 26.3KB/s
-      - 🇳🇱NL荷兰2 367.5KB/s
+      - 🇺🇸US美国2 17.7MB/s
+      - 🇦🇺AU澳大利亚 2.0MB/s
+      - 🇳🇱NL荷兰2 89.5KB/s
+      - 🇺🇸US美国4 29.8KB/s
+      - 🇱🇹LT立陶宛 32.7KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇮🇷IR伊朗 14.2MB/s
-      - 🇦🇺AU澳大利亚 3.5MB/s
-      - 🇺🇸US美国2 24.6MB/s
-      - 🇱🇹LT立陶宛 14.2MB/s
-      - 🇺🇸US美国4 22.9KB/s
-      - 🇮🇷IR伊朗2 13.2MB/s
-      - 🇯🇵JP日本3 34.1KB/s
-      - 🇺🇸US美国6 26.3KB/s
-      - 🇳🇱NL荷兰2 367.5KB/s
+      - 🇺🇸US美国2 17.7MB/s
+      - 🇦🇺AU澳大利亚 2.0MB/s
+      - 🇳🇱NL荷兰2 89.5KB/s
+      - 🇺🇸US美国4 29.8KB/s
+      - 🇱🇹LT立陶宛 32.7KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇮🇷IR伊朗 14.2MB/s
-      - 🇦🇺AU澳大利亚 3.5MB/s
-      - 🇺🇸US美国2 24.6MB/s
-      - 🇱🇹LT立陶宛 14.2MB/s
-      - 🇺🇸US美国4 22.9KB/s
-      - 🇮🇷IR伊朗2 13.2MB/s
-      - 🇯🇵JP日本3 34.1KB/s
-      - 🇺🇸US美国6 26.3KB/s
-      - 🇳🇱NL荷兰2 367.5KB/s
+      - 🇺🇸US美国2 17.7MB/s
+      - 🇦🇺AU澳大利亚 2.0MB/s
+      - 🇳🇱NL荷兰2 89.5KB/s
+      - 🇺🇸US美国4 29.8KB/s
+      - 🇱🇹LT立陶宛 32.7KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -137,15 +109,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇮🇷IR伊朗 14.2MB/s
-      - 🇦🇺AU澳大利亚 3.5MB/s
-      - 🇺🇸US美国2 24.6MB/s
-      - 🇱🇹LT立陶宛 14.2MB/s
-      - 🇺🇸US美国4 22.9KB/s
-      - 🇮🇷IR伊朗2 13.2MB/s
-      - 🇯🇵JP日本3 34.1KB/s
-      - 🇺🇸US美国6 26.3KB/s
-      - 🇳🇱NL荷兰2 367.5KB/s
+      - 🇺🇸US美国2 17.7MB/s
+      - 🇦🇺AU澳大利亚 2.0MB/s
+      - 🇳🇱NL荷兰2 89.5KB/s
+      - 🇺🇸US美国4 29.8KB/s
+      - 🇱🇹LT立陶宛 32.7KB/s
 
 
 rules:
