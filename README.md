@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%20502.1KB%2Fs
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1572?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A52
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:6752?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
-ss://YWVzLTI1Ni1nY206MTQ4MzcxNDEtNTAwMS00ZDIxLTlhMjUtNTJmZWI5OTY3MzAy@iaplsg.91king.win:21004#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://253bc477d4e43c209f2d427272968280@160.16.136.130:4451?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5
+trojan://253bc477d4e43c209f2d427272968280@221.128.195.219:4431?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&type=ws&sni=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A52
+trojan://iwangjie@158.101.11.204:15805?type=ws&sni=nodes.830901.xyz&path=/?ed=2560&host=nodes.830901.xyz#US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%2047.9KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
