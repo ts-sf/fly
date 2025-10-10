@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://253bc477d4e43c209f2d427272968280@60.84.23.102:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2%204.9MB%2Fs
-trojan://253bc477d4e43c209f2d427272968280@160.16.63.16:3271?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%207.4MB%2Fs
-trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:5328?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A53%203.3MB%2Fs
-trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:5041?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A54%204.5MB%2Fs
-trojan://253bc477d4e43c209f2d427272968280@23.227.194.19:443?sni=www.nintendogames.net#US%2045.0MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B%2024.3KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%2020.9KB%2Fs
+trojan://253bc477d4e43c209f2d427272968280@23.227.194.19:443?sni=www.nintendogames.net#US%2021.1MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%20223.8KB%2Fs
+trojan://253bc477d4e43c209f2d427272968280@60.84.23.102:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF%207.3MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
