@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18007?sni=TG.WangCai2#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18022?sni=TG.WangCai2#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%972
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18081?sni=TG.WangCai2#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%973
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIDUuNE1CL3MiLCJhZGQiOiI1MS4zOC4xOTEuMTAwIiwicG9ydCI6IjU1MCIsImlkIjoiOTZkYjdlNTctNTMxNC00NTYwLWI3MDgtMjQ0NjY3MGRmYTI5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoi5pyq55+lIn0=
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18057?sni=TG.WangCai2#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%974
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17054?sni=TG.WangCai2#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17095?sni=TG.WangCai2#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%972
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18098?sni=TG.WangCai2#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%973
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17084?sni=TG.WangCai2#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%974
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
