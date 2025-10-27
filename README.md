@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://ea39fa94f1ee00999337ea1fd3318e69@153.121.41.97:4452?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%208.3MB%2Fs
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.106.144:2467?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%203.5MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.106.144:2381?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%20488.9KB%2Fs
-trojan://BxceQaOe@36.150.215.241:26373?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://596de3c8-c1c4-4fe1-a7aa-7046b0f2af8a@36.103.168.7:21864?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.131.243:2467?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%201.7MB%2Fs
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.131.243:4452?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%203.3MB%2Fs
+trojan://BxceQaOe@36.150.215.241:27409?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.83:443?sni=www.nintendogames.net#HK%20880.2KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
