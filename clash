@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-11-07 10:09:56
+# 创建时间: 2025-11-07 16:41:03
 # 使用模版: V2RaySE 默认模版
-# 节点数量：7
+# 节点数量：6
 ####################################
 #
 mixed-port: 7890
@@ -12,13 +12,12 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇺🇸US美国5 12.8MB/s","type":"ss","server":"45.87.175.174","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"k1dBOmOB4oqi7Ump37a1bQ","skip-cert-verify":true}
-  - {"name":"未知4 111.9KB/s","type":"ss","server":"liubu9.singdns.com","port":17459,"cipher":"aes-128-gcm","alterId":0,"tls":true,"password":"57bc0c04-8184-48f5-906b-897d095ed445","skip-cert-verify":true}
-  - {"name":"🇭🇰HK香港2 817.5KB/s","type":"trojan","server":"58.152.53.42","port":443,"alterId":0,"tls":true,"password":"e4e262d453466988575c397a30562337","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"未知9 13.4MB/s","type":"vmess","server":"cpanel.navar1.ir","port":100,"cipher":"auto","uuid":"26402bc7-7895-4dd0-ae6e-151a00c71145","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇱🇹LT立陶宛 157.0KB/s","type":"ss","server":"45.87.175.28","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
-  - {"name":"🇳🇱NL荷兰2 1.2MB/s","type":"ss","server":"213.109.147.242","port":62685,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"VpKABcOpNNA0l5G2AVOmw8","skip-cert-verify":true}
-  - {"name":"未知12 651.2KB/s","type":"vmess","server":"47.239.141.74","port":11886,"cipher":"auto","uuid":"0d36b017-6d7c-493d-bb12-55c34faf6efc","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"🇭🇰HK香港 341.0KB/s","type":"trojan","server":"203.198.122.194","port":443,"alterId":0,"tls":true,"password":"1b57001bd214304027025a740b6cf1ac","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇦UA乌克兰 40.4KB/s","type":"ss","server":"switcher-nick-croquet.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"RFK38Cg7APneSB5cWDcpbm","skip-cert-verify":true}
+  - {"name":"🇳🇱NL荷兰 118.3KB/s","type":"ss","server":"213.109.147.242","port":62685,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"VpKABcOpNNA0l5G2AVOmw8","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国6 3.0MB/s","type":"ss","server":"45.87.175.174","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"k1dBOmOB4oqi7Ump37a1bQ","skip-cert-verify":true}
+  - {"name":"🇱🇹LT立陶宛 141.0KB/s","type":"ss","server":"45.87.175.28","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
+  - {"name":"🇮🇷IR伊朗 5.2MB/s","type":"ss","server":"151.242.251.133","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"k1dBOmOB4oqi7Ump37a1bQ","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -26,13 +25,12 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇸US美国5 12.8MB/s
-      - 未知4 111.9KB/s
-      - 🇭🇰HK香港2 817.5KB/s
-      - 未知9 13.4MB/s
-      - 🇱🇹LT立陶宛 157.0KB/s
-      - 🇳🇱NL荷兰2 1.2MB/s
-      - 未知12 651.2KB/s
+      - 🇭🇰HK香港 341.0KB/s
+      - 🇺🇦UA乌克兰 40.4KB/s
+      - 🇳🇱NL荷兰 118.3KB/s
+      - 🇺🇸US美国6 3.0MB/s
+      - 🇱🇹LT立陶宛 141.0KB/s
+      - 🇮🇷IR伊朗 5.2MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -40,13 +38,12 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸US美国5 12.8MB/s
-      - 未知4 111.9KB/s
-      - 🇭🇰HK香港2 817.5KB/s
-      - 未知9 13.4MB/s
-      - 🇱🇹LT立陶宛 157.0KB/s
-      - 🇳🇱NL荷兰2 1.2MB/s
-      - 未知12 651.2KB/s
+      - 🇭🇰HK香港 341.0KB/s
+      - 🇺🇦UA乌克兰 40.4KB/s
+      - 🇳🇱NL荷兰 118.3KB/s
+      - 🇺🇸US美国6 3.0MB/s
+      - 🇱🇹LT立陶宛 141.0KB/s
+      - 🇮🇷IR伊朗 5.2MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -54,52 +51,48 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸US美国5 12.8MB/s
-      - 未知4 111.9KB/s
-      - 🇭🇰HK香港2 817.5KB/s
-      - 未知9 13.4MB/s
-      - 🇱🇹LT立陶宛 157.0KB/s
-      - 🇳🇱NL荷兰2 1.2MB/s
-      - 未知12 651.2KB/s
+      - 🇭🇰HK香港 341.0KB/s
+      - 🇺🇦UA乌克兰 40.4KB/s
+      - 🇳🇱NL荷兰 118.3KB/s
+      - 🇺🇸US美国6 3.0MB/s
+      - 🇱🇹LT立陶宛 141.0KB/s
+      - 🇮🇷IR伊朗 5.2MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国5 12.8MB/s
-      - 未知4 111.9KB/s
-      - 🇭🇰HK香港2 817.5KB/s
-      - 未知9 13.4MB/s
-      - 🇱🇹LT立陶宛 157.0KB/s
-      - 🇳🇱NL荷兰2 1.2MB/s
-      - 未知12 651.2KB/s
+      - 🇭🇰HK香港 341.0KB/s
+      - 🇺🇦UA乌克兰 40.4KB/s
+      - 🇳🇱NL荷兰 118.3KB/s
+      - 🇺🇸US美国6 3.0MB/s
+      - 🇱🇹LT立陶宛 141.0KB/s
+      - 🇮🇷IR伊朗 5.2MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇸US美国5 12.8MB/s
-      - 未知4 111.9KB/s
-      - 🇭🇰HK香港2 817.5KB/s
-      - 未知9 13.4MB/s
-      - 🇱🇹LT立陶宛 157.0KB/s
-      - 🇳🇱NL荷兰2 1.2MB/s
-      - 未知12 651.2KB/s
+      - 🇭🇰HK香港 341.0KB/s
+      - 🇺🇦UA乌克兰 40.4KB/s
+      - 🇳🇱NL荷兰 118.3KB/s
+      - 🇺🇸US美国6 3.0MB/s
+      - 🇱🇹LT立陶宛 141.0KB/s
+      - 🇮🇷IR伊朗 5.2MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国5 12.8MB/s
-      - 未知4 111.9KB/s
-      - 🇭🇰HK香港2 817.5KB/s
-      - 未知9 13.4MB/s
-      - 🇱🇹LT立陶宛 157.0KB/s
-      - 🇳🇱NL荷兰2 1.2MB/s
-      - 未知12 651.2KB/s
+      - 🇭🇰HK香港 341.0KB/s
+      - 🇺🇦UA乌克兰 40.4KB/s
+      - 🇳🇱NL荷兰 118.3KB/s
+      - 🇺🇸US美国6 3.0MB/s
+      - 🇱🇹LT立陶宛 141.0KB/s
+      - 🇮🇷IR伊朗 5.2MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -123,13 +116,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸US美国5 12.8MB/s
-      - 未知4 111.9KB/s
-      - 🇭🇰HK香港2 817.5KB/s
-      - 未知9 13.4MB/s
-      - 🇱🇹LT立陶宛 157.0KB/s
-      - 🇳🇱NL荷兰2 1.2MB/s
-      - 未知12 651.2KB/s
+      - 🇭🇰HK香港 341.0KB/s
+      - 🇺🇦UA乌克兰 40.4KB/s
+      - 🇳🇱NL荷兰 118.3KB/s
+      - 🇺🇸US美国6 3.0MB/s
+      - 🇱🇹LT立陶宛 141.0KB/s
+      - 🇮🇷IR伊朗 5.2MB/s
 
 
 rules:
