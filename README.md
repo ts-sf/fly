@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://BxceQaOe@36.150.215.247:1251?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsInBvcnQiOiI0MzMiLCJpZCI6IkZyZWUiLCJhaWQiOiIwIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoi5pyq55+lIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6Im5sLXYycmF5LmZyZWV2bWVzcy5jb20iLCJwb3J0IjoiMjA4MyIsImlkIjoiYzNkMDY2YmMtNDE3MC00MDA2LWE5NWMtMDAxMjM2N2U4ZjEzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMiJ9
-trojan://adbac894-90b9-4913-b77e-a715a8d4ebc8@oss-cn-shanghai.letssepub.com:20021?sni=dingding-doc.com#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
-trojan://1b57001bd214304027025a740b6cf1ac@117.172.176.22:2283?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+trojan://BxceQaOe@203.198.122.129:443?sni=203.198.122.129#HK
+trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
+trojan://BxceQaOe@36.151.192.242:194?#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
