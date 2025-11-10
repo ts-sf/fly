@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2025-11-10 16:42:15
+# 创建时间: 2025-11-11 00:41:53
 # 使用模版: V2RaySE 默认模版
-# 节点数量：6
+# 节点数量：4
 ####################################
 #
 mixed-port: 7890
@@ -12,12 +12,10 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知3 819.4KB/s","type":"vmess","server":"82.197.69.131","port":39674,"cipher":"auto","uuid":"5a89386a-827b-4f54-8778-2f1b5122c6ef","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知4 221.8KB/s","type":"vmess","server":"62.146.235.193","port":28011,"cipher":"auto","uuid":"cfc5a87f-3c13-4e25-b556-176cdd6b5c6a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇱🇹LT立陶宛 9.5MB/s","type":"ss","server":"45.87.175.28","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
-  - {"name":"🇳🇱NL荷兰2 143.0KB/s","type":"ss","server":"213.109.147.242","port":62685,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"VpKABcOpNNA0l5G2AVOmw8","skip-cert-verify":true}
-  - {"name":"🇭🇰HK香港4 264.0KB/s","type":"trojan","server":"58.152.110.25","port":443,"alterId":0,"tls":true,"password":"1b57001bd214304027025a740b6cf1ac","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"未知8 38.8KB/s","type":"vmess","server":"sg-v2ray.freevmess.com","port":2083,"cipher":"auto","uuid":"820ceab0-de1d-4d3b-9d5f-7e83664c3f0c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰HK香港2 1.4MB/s","type":"trojan","server":"58.152.110.25","port":443,"alterId":0,"tls":true,"password":"1b57001bd214304027025a740b6cf1ac","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇱🇹LT立陶宛 148.7KB/s","type":"ss","server":"45.87.175.28","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
+  - {"name":"未知20 225.2KB/s","type":"vmess","server":"82.197.69.131","port":39674,"cipher":"auto","uuid":"5a89386a-827b-4f54-8778-2f1b5122c6ef","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇳🇱NL荷兰 41.1KB/s","type":"ss","server":"213.109.147.242","port":62685,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"VpKABcOpNNA0l5G2AVOmw8","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -25,12 +23,10 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知3 819.4KB/s
-      - 未知4 221.8KB/s
-      - 🇱🇹LT立陶宛 9.5MB/s
-      - 🇳🇱NL荷兰2 143.0KB/s
-      - 🇭🇰HK香港4 264.0KB/s
-      - 未知8 38.8KB/s
+      - 🇭🇰HK香港2 1.4MB/s
+      - 🇱🇹LT立陶宛 148.7KB/s
+      - 未知20 225.2KB/s
+      - 🇳🇱NL荷兰 41.1KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -38,12 +34,10 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知3 819.4KB/s
-      - 未知4 221.8KB/s
-      - 🇱🇹LT立陶宛 9.5MB/s
-      - 🇳🇱NL荷兰2 143.0KB/s
-      - 🇭🇰HK香港4 264.0KB/s
-      - 未知8 38.8KB/s
+      - 🇭🇰HK香港2 1.4MB/s
+      - 🇱🇹LT立陶宛 148.7KB/s
+      - 未知20 225.2KB/s
+      - 🇳🇱NL荷兰 41.1KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -51,48 +45,40 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知3 819.4KB/s
-      - 未知4 221.8KB/s
-      - 🇱🇹LT立陶宛 9.5MB/s
-      - 🇳🇱NL荷兰2 143.0KB/s
-      - 🇭🇰HK香港4 264.0KB/s
-      - 未知8 38.8KB/s
+      - 🇭🇰HK香港2 1.4MB/s
+      - 🇱🇹LT立陶宛 148.7KB/s
+      - 未知20 225.2KB/s
+      - 🇳🇱NL荷兰 41.1KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知3 819.4KB/s
-      - 未知4 221.8KB/s
-      - 🇱🇹LT立陶宛 9.5MB/s
-      - 🇳🇱NL荷兰2 143.0KB/s
-      - 🇭🇰HK香港4 264.0KB/s
-      - 未知8 38.8KB/s
+      - 🇭🇰HK香港2 1.4MB/s
+      - 🇱🇹LT立陶宛 148.7KB/s
+      - 未知20 225.2KB/s
+      - 🇳🇱NL荷兰 41.1KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知3 819.4KB/s
-      - 未知4 221.8KB/s
-      - 🇱🇹LT立陶宛 9.5MB/s
-      - 🇳🇱NL荷兰2 143.0KB/s
-      - 🇭🇰HK香港4 264.0KB/s
-      - 未知8 38.8KB/s
+      - 🇭🇰HK香港2 1.4MB/s
+      - 🇱🇹LT立陶宛 148.7KB/s
+      - 未知20 225.2KB/s
+      - 🇳🇱NL荷兰 41.1KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知3 819.4KB/s
-      - 未知4 221.8KB/s
-      - 🇱🇹LT立陶宛 9.5MB/s
-      - 🇳🇱NL荷兰2 143.0KB/s
-      - 🇭🇰HK香港4 264.0KB/s
-      - 未知8 38.8KB/s
+      - 🇭🇰HK香港2 1.4MB/s
+      - 🇱🇹LT立陶宛 148.7KB/s
+      - 未知20 225.2KB/s
+      - 🇳🇱NL荷兰 41.1KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -116,12 +102,10 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知3 819.4KB/s
-      - 未知4 221.8KB/s
-      - 🇱🇹LT立陶宛 9.5MB/s
-      - 🇳🇱NL荷兰2 143.0KB/s
-      - 🇭🇰HK香港4 264.0KB/s
-      - 未知8 38.8KB/s
+      - 🇭🇰HK香港2 1.4MB/s
+      - 🇱🇹LT立陶宛 148.7KB/s
+      - 未知20 225.2KB/s
+      - 🇳🇱NL荷兰 41.1KB/s
 
 
 rules:
