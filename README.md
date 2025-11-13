@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiAxOC42TUIvcyIsImFkZCI6Ijg1LjE5NS4xMDEuMTIyIiwicG9ydCI6IjQwODc4IiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
-trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/65.109.227.138=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A53
-trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.89.128.93=44004&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A54
-trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A55
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNiIsImFkZCI6ImNwYW5lbC5uYXZhcjEuaXIiLCJwb3J0IjoiMTAwIiwiaWQiOiIyNjQwMmJjNy03ODk1LTRkZDAtYWU2ZS0xNTFhMDBjNzExNDUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2In0=
+trojan://8221436f-1b7e-4517-9698-0da2a53443e3@45.159.251.8:81?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A52
+trojan://BxceQaOe@36.150.215.246:2145?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://2274c52572e721086f8bd8f88984643c@160.16.106.144:127?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://2274c52572e721086f8bd8f88984643c@117.172.176.25:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyA5LjFNQi9zIiwiYWRkIjoiODUuMTk1LjEwMS4xMjIiLCJwb3J0IjoiNDA4NzgiLCJpZCI6ImYzZDQxNjdlLWIxNWUtNGU0Ni04MmU5LTkyODZlZjkzZmRhNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
