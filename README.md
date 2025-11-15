@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://0044022d-f703-4b2b-aff3-345d6eafd5fa@77.91.74.150:8443?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/77.91.74.150=8443&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A5
-trojan://BxceQaOe@116.49.237.130:2753?sni=t.me/ripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjQ3LjgzLjE4LjEwIiwicG9ydCI6IjM2OTY4IiwiaWQiOiIxNzZiZjFkZC02NDdmLTRjMDktODkyZS01ZjkyMjNkYzg2MTciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAzLjFNQi9zIiwiYWRkIjoibWNpLnlla3RhbmV0LmluZm8iLCJwb3J0IjoiNTU1NTUiLCJpZCI6ImE0YjQxZGM4LWI2ODQtNDllNC1iM2RiLWFkZTM4MmMxMTNkMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
-trojan://df16cfa5-5558-4610-a591-f23589588922@57.128.183.77:8443?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/57.128.183.77=8443&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A54
+trojan://2b1487cd-e56b-4c62-b1e9-8beb686e002c@45.95.232.18:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.95.232.18=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A5
+trojan://77823eea-3082-483b-a169-e13d68d7a9af@51.91.251.16:8443?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.91.251.16=8443&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A52
+trojan://7bdd8f2d-f3ed-4ca6-a33b-522594586791@51.178.82.149:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.178.82.149=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A53
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCAxMi4zTUIvcyIsImFkZCI6Ijg1LjE5NS4xMDEuMTIyIiwicG9ydCI6IjQwODc4IiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0In0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
