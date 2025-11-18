@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoic2Vya2F0Lm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InNlcmthdC5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmthdC5vcmciLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjguMjEwLjE0MC4yMyIsInBvcnQiOiI1NDgwOSIsImlkIjoiZmRlNzNkYWYtY2M2Ny00MmYzLTk5MzUtMzViMTMyYjAxYWJkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6ImNmY2RuMi5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiIyMDUyIiwiaWQiOiI5ZWJiMDllZi1jZTY5LTRiYmItYmE4Zi0zYmU2YzUyZWY5YzIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoiemlmc3R6YW1oazEueW9mbmhrZmMueHl6IiwicGF0aCI6Ii92aWRlby9WdURGZGt0eiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
-trojan://823f57d2-d271-48a6-859e-d041179e1c6b@145.239.88.255:8443?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/145.239.88.255=8443&host=joss.gpj.web.id#%E6%9C%AA%E7%9F%A54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%2025.8KB%2Fs
+trojan://a0299a2f-a132-4a31-9430-8ef39d7601dd@5.182.39.57:443?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/5.182.39.57=443&host=joss.gpj.web.id#%E6%9C%AA%E7%9F%A5
+trojan://9fe99086-5b8d-42b5-9f83-118119e75bdb@45.149.63.24:2053?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/45.149.63.24=2053&host=joss.gpj.web.id#%E6%9C%AA%E7%9F%A52
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:5553?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%202.1MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://BxceQaOe@219.79.165.55:443?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
