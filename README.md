@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B%209.4MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://BxceQaOe@58.152.26.173:443?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://BxceQaOe@219.79.165.55:443?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiMTcyLjY3LjE5Ni4xNzAiLCJwb3J0IjoiMjA4NiIsImlkIjoiNWU3NDI5YTQtYjAwNi00YTE2LWIxYTMtMWFmMmZiY2RkYmMwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoic3BlZWR0ZXN0bmV0Y29tZXhwcmVzc3R2c29mdDk4aXJlcm5hbmV3c2dnZmZuZXRlbWFpbGNsb3VkZmxhcmUuZXhwcmVzc3R2LmdnZmYubmV0IiwicGF0aCI6Ii8/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IuacquefpSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://fa115af5-0647-4549-acd9-5166695ea2de@185.114.72.31:2053?sni=joss.gpj.web.id#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
+trojan://2274c52572e721086f8bd8f88984643c@58.152.110.9:443?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
+trojan://BxceQaOe@116.49.237.130:4094?sni=t.me/ripaojiedian#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD2
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BTElJTEFQUk8vdjJyYXlORy1Db25maWciLCJwb3J0IjoiNDMzIiwiaWQiOiJGcmVlIiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIifQ==
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
