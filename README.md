@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?sni=37.202.200.19#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiMTA0LjIwLjIzLjE3IiwicG9ydCI6IjQ0MyIsImlkIjoiYjllODIxMTctZWQzYS00MDk4LTgxNTMtMTAwY2ExMmFhNTIzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsImhvc3QiOiIiLCJwYXRoIjoidmNEYVpoc005V3Z4eXNVbWZCb3g0SVVBRFZyQSIsInRscyI6InRscyIsInNuaSI6ImhkZnk1cGVyc2lhc2VydmVyYzMuZnJlZWFpcmxhaW5lcy5jb20iLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B%2018.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%2033.4KB%2Fs
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:4211?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.199.32.191=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A5
+ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://BxceQaOe@116.49.237.130:381?sni=t.me/ripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.110.206:443?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
