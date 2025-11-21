@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://8f58ba37-a117-4ad3-9422-37b62e01d2e6@77.91.74.6:443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/77.91.74.6=443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A52
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAzODYuNEtCL3MiLCJhZGQiOiI0Ny4yMzguNzEuMTY2IiwicG9ydCI6IjM3MjEiLCJpZCI6IjBiM2RhNmUwLTJhNDEtNDllNC04YmVlLWNmYTcwNWQ0NDhmYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
-trojan://9d6aef63-e6c6-4a0f-a001-221450103494@195.16.74.240:81?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/195.16.74.240=81&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A54
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSIsImFkZCI6ImluZGlhdmlkZW8uc2JzIiwicG9ydCI6IjQ0MyIsImlkIjoiNDI1YzVlNmUtMzBhMC00OTg0LThhMTMtZWU2ZjcyMDUzMTYyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiaW5kaWF2aWRlby5zYnMiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6ImluZGlhdmlkZW8uc2JzIiwidGVzdF9uYW1lIjoiNSJ9
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.89.176:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%203.1MB%2Fs
+trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/109.169.76.23=443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A5
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6Ijg1LjE5NS4xMDEuMTIyIiwicG9ydCI6IjQwODc4IiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
+trojan://f583143c-2cbe-47f5-804d-27efa55442a1@81.91.214.162:443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/81.91.214.162=443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A53
+trojan://0507fbcd-b983-43a7-8e1d-2c561960ad4f@a76-4179-8a78-c8b78b3c00cb.664.qzz.io:443?sni=A76-4179-8a78-c8B78B3C00Cb.664.QZz.iO#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
