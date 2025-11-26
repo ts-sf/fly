@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAzLjJNQi9zIiwiYWRkIjoiOGJzd2h2LnRlZW9vbWJvb20uZGUiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiOGJzd2h2LnRlZW9vbWJvb20uZGUiLCJwYXRoIjoiL3ZpZGVvLzRyNnE4Ynl5Lm0zdTgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI4YnN3aHYudGVlb29tYm9vbS5kZSIsInRlc3RfbmFtZSI6IjMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B%202.0MB%2Fs
-trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#%E6%9C%AA%E7%9F%A54%201.1MB%2Fs
-trojan://2cf6d686799e6fa95316394064f26c0a@58.152.110.120:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF%20205.3KB%2Fs
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.131.243:3169?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%208.9MB%2Fs
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.116.227:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%201.8MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCA2NjUuMUtCL3MiLCJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsInBvcnQiOiIyODAxMSIsImlkIjoiY2ZjNWE4N2YtM2MxMy00ZTI1LWI1NTYtMTc2Y2RkNmI1YzZhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNCJ9
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.116.227:127?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%201.6MB%2Fs
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.240.91:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13%205.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%2012.3KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
