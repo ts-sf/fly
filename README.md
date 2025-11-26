@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://0757f35a-e8ee-4f88-b43c-cef94e223b9e@94.177.199.119:8443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/94.177.199.119=8443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A5
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjQ2LjE4My4xODYuNTciLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzEiLCJhaWQiOiIwIiwic2N5IjoiemVybyIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2bS5ncGoxLndlYi5pZCIsInBhdGgiOiIvR2VvLVByb2plY3QvNDYuMTgzLjE4Ni41Ny00NDMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2bS5ncGoxLndlYi5pZCIsInRlc3RfbmFtZSI6IjIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6Ijg5LjIwNy4xMi44MCIsInBvcnQiOiI4NDQzIiwiaWQiOiJmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzEiLCJhaWQiOiIwIiwic2N5IjoiemVybyIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2bS5ncGoxLndlYi5pZCIsInBhdGgiOiIvR2VvLVByb2plY3QvODkuMjA3LjEyLjgwLTg0NDMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2bS5ncGoxLndlYi5pZCIsInRlc3RfbmFtZSI6IjMifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjQ3LjIzOS4xMDIuMTE1IiwicG9ydCI6IjUzNjEiLCJpZCI6ImEwNTM2ODJlLTkzNzMtNGZlNy04Mjc3LTFkZTNmOGQxZWFjZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNCJ9
-trojan://BxceQaOe@58.152.18.95:443?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://e683d757-b855-44c3-b0b6-22586444914a@86.107.197.239:443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/86.107.197.239=443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A52
+trojan://telegram-id-directvpn@3.76.168.69:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAzLjJNQi9zIiwiYWRkIjoiOGJzd2h2LnRlZW9vbWJvb20uZGUiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiOGJzd2h2LnRlZW9vbWJvb20uZGUiLCJwYXRoIjoiL3ZpZGVvLzRyNnE4Ynl5Lm0zdTgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI4YnN3aHYudGVlb29tYm9vbS5kZSIsInRlc3RfbmFtZSI6IjMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+trojan://2cf6d686799e6fa95316394064f26c0a@3.113.21.213:5552?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
