@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://e683d757-b855-44c3-b0b6-22586444914a@86.107.197.239:443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/86.107.197.239=443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A52
-trojan://telegram-id-directvpn@3.76.168.69:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAzLjJNQi9zIiwiYWRkIjoiOGJzd2h2LnRlZW9vbWJvb20uZGUiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiOGJzd2h2LnRlZW9vbWJvb20uZGUiLCJwYXRoIjoiL3ZpZGVvLzRyNnE4Ynl5Lm0zdTgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI4YnN3aHYudGVlb29tYm9vbS5kZSIsInRlc3RfbmFtZSI6IjMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-trojan://2cf6d686799e6fa95316394064f26c0a@3.113.21.213:5552?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://9ccc3e1d-3df5-4348-aa05-738310149cc3@45.86.229.28:443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.86.229.28=443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A52
+trojan://BxceQaOe@58.152.53.8:443?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://2cf6d686799e6fa95316394064f26c0a@153.121.44.99:3093?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%206.0MB%2Fs
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.116.227:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%201.8MB%2Fs
+trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A53
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
