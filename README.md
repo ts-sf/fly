@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&type=grpc&sni=cdn-21.gsmxreality.com#%E6%9C%AA%E7%9F%A52
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.236.32:2760?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A53%205.0MB%2Fs
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.240.91:2760?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A54%20811.1KB%2Fs
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@103.135.103.229:443?security=tls#%E6%9C%AA%E7%9F%A55
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10825?security=tls#%E6%9C%AA%E7%9F%A56
+trojan://Cl150MQWlG@209.250.236.93:443?security=tls&type=grpc&sni=irancell-ir-4.mmdruby13.store#%E6%9C%AA%E7%9F%A52
+trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#%E6%9C%AA%E7%9F%A53
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:17115?security=tls&sni=$$hn.xiaohouzi.club#%E6%9C%AA%E7%9F%A54
+trojan://430b6895-2e0f-4716-9410-e1339d0f9af6@uk01.clashzone.xyz:54122?security=tls&sni=filimo.com#%E6%9C%AA%E7%9F%A55
+trojan://telegram-id-directvpn@3.239.128.106:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
