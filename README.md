@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:3294?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A52
-trojan://BxceQaOe@153.121.67.215:2145?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A53
-trojan://xxoo@3.34.6.217:443?security=tls#%E6%9C%AA%E7%9F%A54
-trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A55
-trojan://xxoo@146.19.230.241:443?security=tls#%E6%9C%AA%E7%9F%A56
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443?security=tls#%E6%9C%AA%E7%9F%A5
+trojan://2af761ca-a375-4a12-a68f-c4307db89f59@193.181.208.28:8443?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/193.181.208.28=8443&host=joss.gpj.web.id#%E6%9C%AA%E7%9F%A52
+trojan://2cf6d686799e6fa95316394064f26c0a@58.152.110.120:443?security=tls&sni=www.nintendogames.net#HK
+trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A53
+trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
