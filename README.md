@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://a25e963f-8f68-4b28-8c11-5d721f616434@62.60.246.168:443?sni=joss.gpj.web.id#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.240.91:4054?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A52
-trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053?sni=joss.gpj.web.id#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10822?security=tls#%E6%9C%AA%E7%9F%A53
-trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A54
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRGF2QmltRG1IMlFMeGxqZjVQU08x@62.210.88.22:443#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
+trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%E6%9C%AA%E7%9F%A53
+trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%E6%9C%AA%E7%9F%A54
+trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
