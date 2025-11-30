@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#%E6%9C%AA%E7%9F%A52
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10823?security=tls#%E6%9C%AA%E7%9F%A53
-trojan://redfree8@104.17.148.22:443?security=tls&type=ws&sni=redfree8-p1.pooriashop.ir&path=/trTelegram#%E6%9C%AA%E7%9F%A54
-trojan://6d64570c-81d4-30fa-b2e2-dce73e1a2702@138.2.45.89:44301?security=tls&sni=osav101.jd0001.top#%E6%9C%AA%E7%9F%A55
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443?security=tls#%E6%9C%AA%E7%9F%A56
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19201?security=tls#%E6%9C%AA%E7%9F%A52
+trojan://BxceQaOe@16.162.87.79:2173?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A53
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5321?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A54
+trojan://BxceQaOe@43.198.91.31:3579?sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A55
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@iplc.xiaohouzi.club:20037?security=tls&sni=$$$$iplc.xiaohouzi.club#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
