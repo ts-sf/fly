@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls#%E6%9C%AA%E7%9F%A52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRGF2QmltRG1IMlFMeGxqZjVQU08x@62.210.88.22:443#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
-trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%E6%9C%AA%E7%9F%A53
-trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%E6%9C%AA%E7%9F%A54
-trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#%E6%9C%AA%E7%9F%A55
+trojan://2cf6d686799e6fa95316394064f26c0a@57.180.29.221:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://redfree8@104.17.148.22:80?security=tls&type=ws&sni=redfree8-p1.pooriashop.ir&path=/trLwW5jwrnymnOdqki?ed=2560#%E6%9C%AA%E7%9F%A52
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:17103?security=tls&sni=$$canada01.xiaohouzi.club#%E6%9C%AA%E7%9F%A53
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls#%E6%9C%AA%E7%9F%A54
+trojan://2af761ca-a375-4a12-a68f-c4307db89f59@193.181.208.28:8443?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/193.181.208.28=8443&host=joss.gpj.web.id#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
