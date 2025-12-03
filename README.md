@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&type=ws&sni=notdirect.howhealthyistoomajreally.homes&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa#%E6%9C%AA%E7%9F%A52
-trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A53
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1801?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A54
-trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&type=ws&sni=kotlet.arshiacomplus.dpdns.org&path=/yamtekodasayahhh#%E6%9C%AA%E7%9F%A55
-trojan://e5e79b65-c5fd-4b06-8f56-6bf8c44a61d9@193.42.112.66:2053?security=tls&type=ws&sni=joss.gpj4.web.id&path=/Free-VPN-CF-Geo-Project/193.42.112.66=2053&host=joss.gpj4.web.id#%E6%9C%AA%E7%9F%A56
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiA1OTMuNEtCL3MiLCJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsInBvcnQiOiIyODAxMSIsImlkIjoiY2ZjNWE4N2YtM2MxMy00ZTI1LWI1NTYtMTc2Y2RkNmI1YzZhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMiJ9
+trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A53
+trojan://394a715e-3ef1-4aae-bb5e-a48857ed00b7@77.91.69.146:443?security=tls&type=ws&sni=joss.gpj4.web.id&path=/Free-VPN-CF-Geo-Project/77.91.69.146=443&host=joss.gpj4.web.id#%E6%9C%AA%E7%9F%A54
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.131.243:3169?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A55
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
