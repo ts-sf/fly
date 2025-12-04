@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.223.205:1331?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5
-trojan://trojan@38.207.133.204:10002?security=tls&type=ws&sni=qingming-b08.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A52
-trojan://telegram-id-privatevpns@3.127.91.148:22222?security=tls&sni=3.127.91.148#%E6%9C%AA%E7%9F%A53
-trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?security=tls#%E6%9C%AA%E7%9F%A54
-trojan://79314e99f0a473fe86efc7827942ad00@153.121.51.29:3169?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A55
+trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A52
+trojan://telegram-id-directvpn@35.91.162.93:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A53
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48462?security=tls&sni=$$hn.xiaohouzi.club#%E6%9C%AA%E7%9F%A54
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10823?security=tls#%E6%9C%AA%E7%9F%A55
+trojan://21e10785-99c6-316e-a184-a03384ee06e5@hn.xiaohouzi.club:18581?security=tls&sni=$$vutnkr01.xiaohouzi.club#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
