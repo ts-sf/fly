@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#%E6%9C%AA%E7%9F%A563%2012.6MB%2Fs
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#%E6%9C%AA%E7%9F%A577%205.9MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAyIDMxMi41S0IvcyIsImFkZCI6IjYyLjE0Ni4yMzUuMTkzIiwicG9ydCI6IjI4MDExIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMDIifQ==
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%E6%9C%AA%E7%9F%A5123%20767.1KB%2Fs
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.124.55:4054?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5133%202.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.140:8080#%E6%9C%AA%E7%9F%A543%2097.1KB%2Fs
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#US%204.4MB%2Fs
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.124.55:4054?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A562%204.0MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjcgOS42TUIvcyIsImFkZCI6IjQ0bTRyMC5rZWVvb21ib29tLmRlIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiNDRtNHIwLmtlZW9vbWJvb20uZGUiLCJwYXRoIjoiL3ZpZGVvLzBkdzVmLm0zdTgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI0NG00cjAua2Vlb29tYm9vbS5kZSIsInRlc3RfbmFtZSI6IjY3In0=
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#%E6%9C%AA%E7%9F%A571%202.4MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
