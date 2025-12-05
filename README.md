@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.144.208:3145?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A542%203.9MB%2Fs
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#%E6%9C%AA%E7%9F%A558%2031.9MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjYgOS41TUIvcyIsImFkZCI6InY3N2U1ci5rZWVvb21ib29tLmRlIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0Ijoidjc3ZTVyLmtlZW9vbWJvb20uZGUiLCJwYXRoIjoiL3ZpZGVvL2RrOWdtMy5tM3U4IiwidGxzIjoidGxzIiwic25pIjoidjc3ZTVyLmtlZW9vbWJvb20uZGUiLCJ0ZXN0X25hbWUiOiI2NiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%2027.3KB%2Fs
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#%E6%9C%AA%E7%9F%A585%208.3MB%2Fs
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:127?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%204.4MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZVVKajZIV0N5RFplU2FxcG1mOEFN@162.19.175.40:7425#%E6%9C%AA%E7%9F%A539%20555.9KB%2Fs
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.57.238:4054?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A543%2091.6KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.140:8080#%E6%9C%AA%E7%9F%A544%20167.6KB%2Fs
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:4054?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A556%20101.0KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
