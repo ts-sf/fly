@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%E6%9C%AA%E7%9F%A512%20401.9KB%2Fs
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:2890?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A530%20476.4KB%2Fs
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#%E6%9C%AA%E7%9F%A552%202.9MB%2Fs
-trojan://79314e99f0a473fe86efc7827942ad00@153.121.65.107:1331?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A568%20747.8KB%2Fs
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#US%20280.2KB%2Fs
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.87.174:3169?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A59%205.4MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.140:8080#%E6%9C%AA%E7%9F%A539%20132.9KB%2Fs
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#%E6%9C%AA%E7%9F%A542%203.4MB%2Fs
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A556%203.3MB%2Fs
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.57.238:4054?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A577%20240.9KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
