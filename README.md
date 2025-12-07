@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://BxceQaOe@54.199.213.179:3579?sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A52
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10822?security=tls#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%20120.5KB%2Fs
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls#%E6%9C%AA%E7%9F%A54
-trojan://c60fbf90-4b55-11ed-b935-225401db9d57@51.75.76.22:443?security=tls#%E6%9C%AA%E7%9F%A55
+trojan://telegram-id-directvpn@3.96.217.9:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A52
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.18.98:443?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A53
+trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#%E6%9C%AA%E7%9F%A54
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19225?security=tls#%E6%9C%AA%E7%9F%A55
+trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@iplc.xiaohouzi.club:20514?security=tls&sni=$$$$supaz041.xiaohouzi.club#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
