@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://7b06d22a8a7c764f@211.72.35.153:3389?security=tls#%E6%9C%AA%E7%9F%A52
-trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:2283?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A53
-trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@31.72img.xyz:443?security=tls#%E6%9C%AA%E7%9F%A54
-trojan://7a566d21dfcd0f12490275fd3dd3cfc4@trs09.bolab.net:443?security=tls#%E6%9C%AA%E7%9F%A55
-trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?security=tls&sni=fe2.update.microsoft.com#%E6%9C%AA%E7%9F%A56
+trojan://BxceQaOe@54.199.213.179:3579?sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A52
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10822?security=tls#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%20120.5KB%2Fs
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls#%E6%9C%AA%E7%9F%A54
+trojan://c60fbf90-4b55-11ed-b935-225401db9d57@51.75.76.22:443?security=tls#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
