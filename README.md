@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click#%E6%9C%AA%E7%9F%A511%205.8MB%2Fs
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#%E6%9C%AA%E7%9F%A554%2021.2MB%2Fs
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.136.130:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%202.4MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%2025.5KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.191:8080#%E6%9C%AA%E7%9F%A5204%20113.7KB%2Fs
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890?sni=www.nintendogames.net#US2%204.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#%E6%9C%AA%E7%9F%A5123%2012.9KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%2066.7KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%2078.3MB%2Fs
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5203%203.7MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
