@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?security=tls&sni=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A52
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.116.227:4054?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A53
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.3:10823?security=tls#%E6%9C%AA%E7%9F%A54
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:2381?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A55
-trojan://3c4e10af98c30972@211.72.35.152:3389?security=tls#%E6%9C%AA%E7%9F%A56
+trojan://7ac49a893e0bd10c@60.249.3.226:3389?security=tls#%E6%9C%AA%E7%9F%A52
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.240.91:1331?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A53
+trojan://6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3@fr-full.privateip.net:443?security=tls#%E6%9C%AA%E7%9F%A54
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.240.91:316?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A55
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1085?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
