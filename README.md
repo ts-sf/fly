@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://vip@log.bpminecraft.com:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A52
-trojan://af4d2493-9156-4514-9f6b-ee5d1a1e4713@download2hkt.windowsupdate.lol:443?security=tls#%E6%9C%AA%E7%9F%A53
-trojan://BxceQaOe@58.152.25.242:443?security=tls&sni=t.me/ripaojiedian#HK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%E6%9C%AA%E7%9F%A54%202.4MB%2Fs
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10820?security=tls#%E6%9C%AA%E7%9F%A55
+trojan://BxceQaOe@58.152.25.20:443?sni=t.me%252Fripaojiedian#%E6%9C%AA%E7%9F%A52
+trojan://vip@104.18.42.163:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A53
+trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%E6%9C%AA%E7%9F%A54
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.223.205:1331?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A55
+trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?security=tls&sni=data.steamdownload.top#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
