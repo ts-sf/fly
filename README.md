@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A530%204.8MB%2Fs
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.117.182:3093?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A569%208.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#%E6%9C%AA%E7%9F%A5104%2024.1KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%E6%9C%AA%E7%9F%A5113%203.1MB%2Fs
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%207.5MB%2Fs
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890?sni=www.nintendogames.net#US%204.2MB%2Fs
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#%E6%9C%AA%E7%9F%A561%205.5MB%2Fs
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A565%2063.3KB%2Fs
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.106.144:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%20101.6KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%E6%9C%AA%E7%9F%A5114%2011.3MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
