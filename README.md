@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890?sni=www.nintendogames.net#US%204.2MB%2Fs
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#%E6%9C%AA%E7%9F%A561%205.5MB%2Fs
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A565%2063.3KB%2Fs
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.106.144:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%20101.6KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%E6%9C%AA%E7%9F%A5114%2011.3MB%2Fs
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%E6%9C%AA%E7%9F%A532%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#US%20169.1KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4SWo0c2VpZjg1UVFIZkxtUjB6WWtR@209.74.82.196:48918#%E6%9C%AA%E7%9F%A587%2044.7KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#%E6%9C%AA%E7%9F%A5167%20102.5KB%2Fs
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.242.183:1331?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5171%209.0MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
