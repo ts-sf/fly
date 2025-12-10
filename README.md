@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c@104.21.112.1:443?security=tls&type=ws&sni=yellow-cloud-d53f.vavovi6084.workers.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A52
-trojan://af4b064a9c39472fb34ad8b113acdc6b@46.29.161.237:443?sni=46.29.161.237#%E6%9C%AA%E7%9F%A53
-trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?security=tls#%E6%9C%AA%E7%9F%A54
-trojan://telegram-id-directvpn@13.39.61.165:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A55
-trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%E6%9C%AA%E7%9F%A56
+trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:2173?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A52
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@sub.xiaohouzi.club:16011?security=tls&sni=$$azhk095.xiaohouzi.club#%E6%9C%AA%E7%9F%A53
+trojan://92690597d6298061459918a371e8d77d@47.242.225.242:443?security=tls&sni=hezijiasuqi.com#HK
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@saas.sin.fan:443?security=tls&sni=_acme-challenge.2go.cloudns.be#%E6%9C%AA%E7%9F%A54
+trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.81.85.238:443?security=tls#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
