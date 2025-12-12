@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%E6%9C%AA%E7%9F%A533%2011.5MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%2021.8MB%2Fs
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#%E6%9C%AA%E7%9F%A568%20330.2KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#%E6%9C%AA%E7%9F%A599%20227.8KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#%E6%9C%AA%E7%9F%A5119%20100.7KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%20761.3KB%2Fs
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.124.55:2890?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A527%201.7MB%2Fs
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#%E6%9C%AA%E7%9F%A543%201.1MB%2Fs
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.242.183:1331?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A544%208.9MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODIgTi9BL3MiLCJhZGQiOiIxNTYuMjM4LjIzOC4xOTQiLCJwb3J0IjoiNDcyOTYiLCJpZCI6IjA1MjQyMzZhLWUyMTctNGNmMy05MjIzLTk2OGEyOTBmZmNlNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiODIifQ==
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
