@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19365?security=tls&sni=$$supaz041.xiaohouzi.club#%E6%9C%AA%E7%9F%A52
-trojan://telegram-id-directvpn@3.129.217.93:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A53
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BTElJTEFQUk8vdjJyYXlORy1Db25maWciLCJwb3J0IjoiNDMzIiwiaWQiOiJGcmVlIiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQifQ==
-trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#%E6%9C%AA%E7%9F%A55
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19233?security=tls#%E6%9C%AA%E7%9F%A56
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10821?security=tls#%E6%9C%AA%E7%9F%A52
+trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%E6%9C%AA%E7%9F%A53
+trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A54
+trojan://76d630f2af6619c4a5de0ef953df3c6a@153.121.73.102:1331?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A55
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls#%E6%9C%AA%E7%9F%A56
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
