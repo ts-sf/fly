@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://adb3985f-f23b-42f9-9332-cac7604021fd@green2.cdntencentmusic.com:35501?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
-trojan://5a2c16f9@104.19.220.22:443?sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://cfdf8794-5365-41ac-9e59-573aab964b3e@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF%2061.3KB%2Fs
-trojan://5a2c16f9@104.17.162.3:443?sni=snippets.kkii.eu.org#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
-trojan://7418004a-0ecd-41c0-a062-42bf966d3fb2@cf.0sm.com:443?sni=vd.vmy2024.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@13.231.130.241:3093?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?security=tls&type=ws&sni=bisque.qzz.io&path=/66.135.4.222:8443&host=bisque.qzz.io#%E6%9C%AA%E7%9F%A5
+trojan://15299860-fadf-4a95-bb62-63666856822b@green2.cdntencentmusic.com:31102?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%2040.5KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
