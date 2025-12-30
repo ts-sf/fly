@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD%20102.1KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSAzMDMuN0tCL3MiLCJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJwb3J0IjoiMjA4MiIsImlkIjoiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZ29vZ2xlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNSJ9
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.153.13:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%202.3MB%2Fs
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1281?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5%2099.8KB%2Fs
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.226:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3%202.1MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%2060.0MB%2Fs
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.153.13:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%203.7MB%2Fs
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.226:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A57%202.1MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOCAxLjFNQi9zIiwiYWRkIjoiNS4xOTYuMjkuMTIzIiwicG9ydCI6IjIwODIiLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjgifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD%203.5MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
