@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiA5LjBNQi9zIiwiYWRkIjoiMTYyLjE5LjI0OC4yMzgiLCJwb3J0IjoiNTUwIiwiaWQiOiJlZGUyN2E3OS1iMDM5LTQ5MGItOTMyYy00OTVkZTRiNjg4ODAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
-trojan://4843e94d205f3893f588255a591abe94@160.16.72.33:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://BxceQaOe@57.180.49.42:3579?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%2021.8MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BTElJTEFQUk8vdjJyYXlORy1Db25maWciLCJwb3J0IjoiNDMzIiwiaWQiOiJGcmVlIiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
+ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.singdns.com:17459#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiAzLjFNQi9zIiwiYWRkIjoiMTUuMjM1LjQxLjIwMCIsInBvcnQiOiI4MCIsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMiJ9
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?security=tls&type=ws&sni=_acme-challenge.2go.cloudns.be&path=/#%E6%9C%AA%E7%9F%A53
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjE3Mi42Ny4yMDQuODQiLCJwb3J0IjoiODA4MCIsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoibmFzbmV0LTUxMTk1MjQyNC5tY2l0ZWwuY28iLCJwYXRoIjoiL25hc25ldC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0In0=
+trojan://BxceQaOe@18.162.188.208:4569?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
