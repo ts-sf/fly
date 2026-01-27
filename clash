@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-01-20 00:48:40
+# 创建时间: 2026-01-27 10:36:07
 # 使用模版: V2RaySE 默认模版
-# 节点数量：8
+# 节点数量：1
 ####################################
 #
 mixed-port: 7890
@@ -12,14 +12,7 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇸🇬SG新加坡 2.3MB/s","type":"trojan","server":"153.121.38.213","port":544,"alterId":0,"tls":true,"password":"4843e94d205f3893f588255a591abe94","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"未知8 112.8KB/s","type":"vmess","server":"94.232.247.165","port":45653,"cipher":"auto","uuid":"9e91d19a-c73f-4276-adbc-b337c374259c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知10 1.9MB/s","type":"trojan","server":"80.173.231.254","port":12420,"alterId":0,"tls":true,"password":"wp9IsiY82uQhcmgNC1eoBM","sni":"www.semanticstaplegun.click","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇯🇵JP日本2 4.3MB/s","type":"trojan","server":"153.121.38.213","port":4006,"alterId":0,"tls":true,"password":"4843e94d205f3893f588255a591abe94","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"🇯🇵JP日本3 1.8MB/s","type":"trojan","server":"153.121.38.213","port":3423,"alterId":0,"tls":true,"password":"4843e94d205f3893f588255a591abe94","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"🇸🇬SG新加坡2 954.7KB/s","type":"trojan","server":"153.121.38.213","port":3901,"alterId":0,"tls":true,"password":"4843e94d205f3893f588255a591abe94","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"未知16 12.2MB/s","type":"vmess","server":"217.69.5.32","port":443,"cipher":"auto","uuid":"ec4c349c-b3c6-4cff-be63-01eaad1dc098","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知17 1.5MB/s","type":"vmess","server":"dv4.789900.xyz","port":2096,"cipher":"auto","uuid":"0c8f3e29-4ec9-4ba6-a6ef-4487873f5d05","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/0c8f3e29-4ec9-4ba6-a6ef-4487873f5d05-vm","headers":{"host":"dv4.789900.xyz"}}}
+  - {"name":"🇺🇸US美国14 469.0KB/s","type":"ss","server":"4.250.220.204","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"W74XFALLLuw6m5IA","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -27,14 +20,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇸🇬SG新加坡 2.3MB/s
-      - 未知8 112.8KB/s
-      - 未知10 1.9MB/s
-      - 🇯🇵JP日本2 4.3MB/s
-      - 🇯🇵JP日本3 1.8MB/s
-      - 🇸🇬SG新加坡2 954.7KB/s
-      - 未知16 12.2MB/s
-      - 未知17 1.5MB/s
+      - 🇺🇸US美国14 469.0KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -42,14 +28,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇸🇬SG新加坡 2.3MB/s
-      - 未知8 112.8KB/s
-      - 未知10 1.9MB/s
-      - 🇯🇵JP日本2 4.3MB/s
-      - 🇯🇵JP日本3 1.8MB/s
-      - 🇸🇬SG新加坡2 954.7KB/s
-      - 未知16 12.2MB/s
-      - 未知17 1.5MB/s
+      - 🇺🇸US美国14 469.0KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -57,56 +36,28 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇸🇬SG新加坡 2.3MB/s
-      - 未知8 112.8KB/s
-      - 未知10 1.9MB/s
-      - 🇯🇵JP日本2 4.3MB/s
-      - 🇯🇵JP日本3 1.8MB/s
-      - 🇸🇬SG新加坡2 954.7KB/s
-      - 未知16 12.2MB/s
-      - 未知17 1.5MB/s
+      - 🇺🇸US美国14 469.0KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇸🇬SG新加坡 2.3MB/s
-      - 未知8 112.8KB/s
-      - 未知10 1.9MB/s
-      - 🇯🇵JP日本2 4.3MB/s
-      - 🇯🇵JP日本3 1.8MB/s
-      - 🇸🇬SG新加坡2 954.7KB/s
-      - 未知16 12.2MB/s
-      - 未知17 1.5MB/s
+      - 🇺🇸US美国14 469.0KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇸🇬SG新加坡 2.3MB/s
-      - 未知8 112.8KB/s
-      - 未知10 1.9MB/s
-      - 🇯🇵JP日本2 4.3MB/s
-      - 🇯🇵JP日本3 1.8MB/s
-      - 🇸🇬SG新加坡2 954.7KB/s
-      - 未知16 12.2MB/s
-      - 未知17 1.5MB/s
+      - 🇺🇸US美国14 469.0KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇸🇬SG新加坡 2.3MB/s
-      - 未知8 112.8KB/s
-      - 未知10 1.9MB/s
-      - 🇯🇵JP日本2 4.3MB/s
-      - 🇯🇵JP日本3 1.8MB/s
-      - 🇸🇬SG新加坡2 954.7KB/s
-      - 未知16 12.2MB/s
-      - 未知17 1.5MB/s
+      - 🇺🇸US美国14 469.0KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -130,14 +81,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇸🇬SG新加坡 2.3MB/s
-      - 未知8 112.8KB/s
-      - 未知10 1.9MB/s
-      - 🇯🇵JP日本2 4.3MB/s
-      - 🇯🇵JP日本3 1.8MB/s
-      - 🇸🇬SG新加坡2 954.7KB/s
-      - 未知16 12.2MB/s
-      - 未知17 1.5MB/s
+      - 🇺🇸US美国14 469.0KB/s
 
 
 rules:
