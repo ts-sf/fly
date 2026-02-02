@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.106.99:3076?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%2095.5KB%2Fs
-trojan://iWnFtzMiac@205.185.115.223:19258?sni=cloudflare.com#%E6%9C%AA%E7%9F%A52
-trojan://c1d83c0c7d57cead4379ba14a82df69b@203.198.122.20:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF%202.7MB%2Fs
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://BxceQaOe@43.199.77.22:1221?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://d03e1173-3109-43c0-a5dd-e2b56916c540@xiaozhu1.kkieo555.cn:11278?security=tls&headerType=none&type=tcp&sni=Telegram🇨🇳WangCai2#%E6%9C%AA%E7%9F%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.106.99:3076?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%207.3MB%2Fs
+trojan://3692ef88-4d16-4848-a01b-b646f9448b11@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0%2014.5MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
