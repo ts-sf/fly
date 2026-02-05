@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-02-05 10:54:38
+# 创建时间: 2026-02-05 17:02:33
 # 使用模版: V2RaySE 默认模版
-# 节点数量：45
+# 节点数量：69
 ####################################
 #
 mixed-port: 7890
@@ -12,51 +12,75 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知","type":"vmess","server":"https://github.com/ALIILAPRO/v2rayNG-Config","port":433,"cipher":"chacha20-poly1305","uuid":"Free","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬SG新加坡","type":"trojan","server":"57.181.30.136","port":532,"alterId":0,"tls":true,"password":"BxceQaOe","sni":"t.me%2Fripaojiedian","skip-cert-verify":true,"udp":true}
+  - {"name":"未知","type":"vmess","server":"15.235.83.228","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"lammaland.org"}}}
+  - {"name":"🇯🇵JP日本 3.9MB/s","type":"trojan","server":"202.181.103.246","port":3423,"alterId":0,"tls":true,"password":"5fb072e0ddd631cf66cf752b09210480","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
   - {"name":"未知2","type":"vmess","server":"8.210.140.23","port":54809,"cipher":"auto","uuid":"fde73daf-cc67-42f3-9935-35b132b01abd","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki?ed=2048"}}
-  - {"name":"🇳🇴NO挪威","type":"trojan","server":"83.143.87.9","port":18581,"alterId":0,"tls":true,"password":"RPyW62_b9aH.ztJKeArou","sni":"83.143.87.9","skip-cert-verify":true,"udp":true}
-  - {"name":"未知3","type":"trojan","server":"v1.dabache.top","port":8443,"alterId":0,"tls":true,"password":"T9BpZIVMNv","sni":"sweden.vmaxpanel.com","skip-cert-verify":true,"udp":true}
-  - {"name":"未知4 980.5KB/s","type":"vmess","server":"89.31.120.192","port":443,"cipher":"auto","uuid":"44537595-9ccc-4b83-8936-5f9ad3229019","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US美国","type":"ss","server":"92.118.112.101","port":9483,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"qFvn2fNEvBgM5knffrN96q","skip-cert-verify":true}
-  - {"name":"🇭🇰HK香港","type":"trojan","server":"18.177.138.102","port":2266,"alterId":0,"tls":true,"password":"BxceQaOe","sni":"t.me/ripaojiedian","skip-cert-verify":true,"udp":true}
-  - {"name":"未知5","type":"vmess","server":"15.235.83.228","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"lammaland.org"}}}
-  - {"name":"🇸🇬SG新加坡","type":"trojan","server":"152.42.254.150","port":443,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇦CA加拿大","type":"trojan","server":"167.17.185.169","port":10889,"alterId":0,"tls":true,"password":"cTv.9PDdCt-wybBrG1qlxI5UJuaEj","sni":"ya.ru","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国","type":"trojan","server":"216.24.57.250","port":443,"alterId":0,"tls":true,"password":"5027e2a4-c4d2-463a-9508-83a2c7d1ad83","sni":"afrcloud1.mmv.kr","skip-cert-verify":true,"udp":true}
+  - {"name":"🇷🇺RU俄罗斯","type":"ss","server":"62.133.63.169","port":37096,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Ul0rGyAAed5HRDpvFqr2C0","skip-cert-verify":true}
   - {"name":"🇺🇸US美国2","type":"ss","server":"pupas-shirting-unsung.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"p78naCf2EfOlRSLTX0wFVx","skip-cert-verify":true}
-  - {"name":"未知6","type":"vmess","server":"serkat.org","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"serkat.org"}}}
-  - {"name":"🇨🇦CA加拿大","type":"ss","server":"144.217.164.29","port":12000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"8JCsPssfgS8tiRwiMlhARg==","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国3","type":"trojan","server":"216.24.57.250","port":443,"alterId":0,"tls":true,"password":"5027e2a4-c4d2-463a-9508-83a2c7d1ad83","sni":"afrcloud1.mmv.kr","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国4","type":"ss","server":"71.19.148.143","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"p78naCf2EfOlRSLTX0wFVx","skip-cert-verify":true}
-  - {"name":"未知7","type":"vmess","server":"yichueng.org","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"yichueng.org"}}}
-  - {"name":"未知8","type":"trojan","server":"www.multiplydose.com","port":443,"alterId":0,"tls":true,"password":"humanity","sni":"www.multiplydose.com","skip-cert-verify":true,"network":"ws","udp":true}
-  - {"name":"未知9","type":"trojan","server":"xiaozhu1.kkieo555.cn","port":11278,"alterId":0,"tls":true,"password":"d03e1173-3109-43c0-a5dd-e2b56916c540","sni":"Telegram🇨🇳WangCai2","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇯🇵JP日本","type":"trojan","server":"116.80.60.36","port":443,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"🇭🇰HK香港2","type":"trojan","server":"219.76.135.98","port":443,"alterId":0,"tls":true,"password":"BxceQaOe","sni":"t.me%2Fripaojiedian","skip-cert-verify":true,"udp":true}
-  - {"name":"🇷🇺RU俄罗斯","type":"ss","server":"185.242.86.156","port":54170,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"36ZCHeabUSfKjfQEvJ4HDV","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国5","type":"ss","server":"15.204.247.49","port":12000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"8JCsPssfgS8tiRwiMlhARg==","skip-cert-verify":true}
-  - {"name":"未知10","type":"trojan","server":"104.18.1.196","port":443,"alterId":0,"tls":true,"password":"a9570330-769d-11ef-90dc-1577c1651679","sni":"sg-trojan.andfree.my.id","skip-cert-verify":true,"udp":true}
-  - {"name":"未知11","type":"trojan","server":"104.18.32.47","port":443,"alterId":0,"tls":true,"password":"humanity","sni":"www.calmlunch.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知3","type":"vmess","server":"104.26.0.56","port":2086,"cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"github.com/Alvin9999","headers":{"host":"ip14.freegradely.xyz"}}}
+  - {"name":"未知4","type":"trojan","server":"www.multiplydose.com","port":443,"alterId":0,"tls":true,"password":"humanity","sni":"www.multiplydose.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇺🇸US美国3","type":"vmess","server":"104.21.69.44","port":8080,"cipher":"auto","uuid":"nasnet","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/nasnet/cdn","headers":{"host":"nasnet-511952424.mcitel.co"}}}
+  - {"name":"未知5","type":"trojan","server":"104.18.32.47","port":443,"alterId":0,"tls":true,"password":"humanity","sni":"www.calmlunch.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"🇷🇺RU俄罗斯2","type":"ss","server":"185.242.86.156","port":54170,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"36ZCHeabUSfKjfQEvJ4HDV","skip-cert-verify":true}
+  - {"name":"未知6","type":"vmess","server":"47.83.18.10","port":36968,"cipher":"auto","uuid":"176bf1dd-647f-4c09-892e-5f9223dc8617","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki?ed=2048"}}
+  - {"name":"🇪🇸ES西班牙 949.4KB/s","type":"trojan","server":"80.173.231.254","port":12420,"alterId":0,"tls":true,"password":"wp9IsiY82uQhcmgNC1eoBM","sni":"www.semanticstaplegun.click","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国4","type":"ss","server":"15.204.247.49","port":12000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"8JCsPssfgS8tiRwiMlhARg==","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国5","type":"trojan","server":"mmmk.288288.shop","port":443,"alterId":0,"tls":true,"password":"5cccb4da-8aee-4b01-be84-2056265e52dc","sni":"Mmmk.288288.shoP","skip-cert-verify":true,"udp":true}
+  - {"name":"未知7","type":"vmess","server":"fapeng.org","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"fapeng.org"}}}
+  - {"name":"🇳🇴NO挪威","type":"trojan","server":"83.143.87.9","port":18581,"alterId":0,"tls":true,"password":"RPyW62_b9aH.ztJKeArou","sni":"83.143.87.9","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国6","type":"ss","server":"71.19.148.143","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"p78naCf2EfOlRSLTX0wFVx","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国7","type":"trojan","server":"vip2.kaixincloud.top","port":8443,"alterId":0,"tls":true,"password":"T9BpZIVMNv","sni":"sweden.vmaxpanel.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇬🇧GB英国","type":"trojan","server":"vip3.kaixincloud.top","port":8443,"alterId":0,"tls":true,"password":"T9BpZIVMNv","sni":"sweden.vmaxpanel.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇫🇷FR法国","type":"trojan","server":"bbbnmkl.taiwan2028.indevs.in","port":443,"alterId":0,"tls":true,"password":"5cccb4da-8aee-4b01-be84-2056265e52dc","sni":"bBbNmKl.TAIwAn2028.IndEvs.In","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰HK香港","type":"trojan","server":"13.115.128.246","port":1820,"alterId":0,"tls":true,"password":"BxceQaOe","sni":"t.me/ripaojiedian","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国8","type":"trojan","server":"eed4.7777125.xyz","port":443,"alterId":0,"tls":true,"password":"fc3704d6-8e5e-443a-bd5b-20ec7cfbe990","sni":"eed4.7777125.xyz","skip-cert-verify":true,"udp":true}
+  - {"name":"未知8","type":"vmess","server":"serkat.org","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"serkat.org"}}}
+  - {"name":"🇬🇧GB英国2 666.6KB/s","type":"vmess","server":"82.198.246.97","port":180,"cipher":"auto","uuid":"d13fc2f5-3e05-4795-81eb-44143a09e552","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US美国9","type":"trojan","server":"60a22220-8a8f-46e7-82ba-76d42df68c34.661.qzz.io","port":443,"alterId":0,"tls":true,"password":"0c6b96bc-5e3a-4500-8497-6dead1965609","sni":"60a22220-8A8f-46e7-82bA-76D42Df68c34.661.qZZ.Io","skip-cert-verify":true,"udp":true}
+  - {"name":"未知9","type":"trojan","server":"160.16.72.205","port":5076,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"未知10","type":"trojan","server":"160.16.138.24","port":544,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"🇸🇬SG新加坡2","type":"trojan","server":"178.128.114.70","port":443,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"🇺🇸US美国10","type":"ss","server":"92.118.112.101","port":9483,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"qFvn2fNEvBgM5knffrN96q","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡3 2.5MB/s","type":"trojan","server":"13.231.234.230","port":544,"alterId":0,"tls":true,"password":"5fb072e0ddd631cf66cf752b09210480","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬SG新加坡4 4.0MB/s","type":"trojan","server":"202.181.103.246","port":3076,"alterId":0,"tls":true,"password":"5fb072e0ddd631cf66cf752b09210480","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国11","type":"trojan","server":"52.194.248.81","port":4569,"alterId":0,"tls":true,"password":"BxceQaOe","sni":"t.me/ripaojiedian","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国12","type":"trojan","server":"rrrrrrr5.191262.xyz","port":443,"alterId":0,"tls":true,"password":"fc3704d6-8e5e-443a-bd5b-20ec7cfbe990","sni":"rrrrrrr5.191262.xyz","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国13","type":"trojan","server":"yyyyu.taiwan2026.indevs.in","port":443,"alterId":0,"tls":true,"password":"fc3704d6-8e5e-443a-bd5b-20ec7cfbe990","sni":"yyyyu.taiwan2026.indevs.in","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国14","type":"trojan","server":"6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io","port":443,"alterId":0,"tls":true,"password":"0c6b96bc-5e3a-4500-8497-6dead1965609","sni":"6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io","skip-cert-verify":true,"udp":true}
+  - {"name":"未知11","type":"trojan","server":"xiaozhu1.kkieo555.cn","port":11278,"alterId":0,"tls":true,"password":"d03e1173-3109-43c0-a5dd-e2b56916c540","sni":"Telegram🇨🇳WangCai2","skip-cert-verify":true,"network":"tcp","udp":true}
   - {"name":"未知12","type":"trojan","server":"160.16.124.55","port":491,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇺🇸US美国6","type":"vmess","server":"172.64.152.23","port":8443,"cipher":"auto","uuid":"19e52bf4-1b7d-4bd4-ae66-6ca024436c17","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/gbt","headers":{"host":"frsys.fl-dl.com"}}}
-  - {"name":"🇸🇬SG新加坡2","type":"trojan","server":"160.16.87.174","port":390,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国7","type":"trojan","server":"18.182.62.89","port":1221,"alterId":0,"tls":true,"password":"BxceQaOe","sni":"t.me/ripaojiedian","skip-cert-verify":true,"udp":true}
-  - {"name":"未知13","type":"trojan","server":"160.16.72.205","port":5076,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇭🇰HK香港3","type":"trojan","server":"58.152.53.45","port":443,"alterId":0,"tls":true,"password":"BxceQaOe","skip-cert-verify":true,"udp":true}
-  - {"name":"未知14","type":"vmess","server":"fapeng.org","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"fapeng.org"}}}
-  - {"name":"🇯🇵JP日本2","type":"trojan","server":"43.206.238.87","port":20539,"alterId":0,"tls":true,"password":"BxceQaOe","sni":"t.me%2Fripaojiedian","skip-cert-verify":true,"udp":true}
-  - {"name":"未知15","type":"trojan","server":"160.16.138.24","port":544,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇭🇰HK香港4","type":"trojan","server":"203.198.84.150","port":443,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"未知16","type":"trojan","server":"tuntro006.instconn.com","port":443,"alterId":0,"tls":true,"password":"63b21d86-a49c-4936-a634-0b5af3e30433","sni":"torontorm1.686911.xyz","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国15 545.8KB/s","type":"trojan","server":"38.180.107.76","port":443,"alterId":0,"tls":true,"password":"5fb072e0ddd631cf66cf752b09210480","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国16","type":"trojan","server":"ggghj.www890604.dpdns.org","port":443,"alterId":0,"tls":true,"password":"5cccb4da-8aee-4b01-be84-2056265e52dc","sni":"ggghj.www890604.dpdns.org","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国17","type":"trojan","server":"v1.dabache.top","port":8443,"alterId":0,"tls":true,"password":"T9BpZIVMNv","sni":"sweden.vmaxpanel.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国18","type":"trojan","server":"blackshadow.dpdns.org","port":443,"alterId":0,"tls":true,"password":"2bcfbfba-b446-4ad5-93ad-72af9e008f61","sni":"blackshadow.dpdns.org","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇦CA加拿大2","type":"ss","server":"144.217.164.29","port":12000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"8JCsPssfgS8tiRwiMlhARg==","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国19 543.1KB/s","type":"trojan","server":"38.180.190.13","port":443,"alterId":0,"tls":true,"password":"5fb072e0ddd631cf66cf752b09210480","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"未知13","type":"vmess","server":"yichueng.org","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"yichueng.org"}}}
+  - {"name":"🇺🇸US美国20","type":"trojan","server":"mmmhu.huangshang.online","port":443,"alterId":0,"tls":true,"password":"5cccb4da-8aee-4b01-be84-2056265e52dc","sni":"mMMhU.HUangSHANG.onlIne","skip-cert-verify":true,"udp":true}
+  - {"name":"未知14","type":"vmess","server":"tr1-smart.adelping.com","port":80,"cipher":"auto","uuid":"43dcdce1-3cea-4193-bc8d-90b92071d779","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"🇯🇵JP日本2","type":"trojan","server":"18.183.170.92","port":26378,"alterId":0,"tls":true,"password":"BxceQaOe","sni":"t.me%2Fripaojiedian","skip-cert-verify":true,"udp":true}
+  - {"name":"🇬🇧GB英国3","type":"trojan","server":"167.68.4.199","port":2053,"alterId":0,"tls":true,"password":"Aimer","sni":"epge.muarua.filegear-sg.me","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国21","type":"trojan","server":"jjji.2030.pp.ua","port":443,"alterId":0,"tls":true,"password":"fc3704d6-8e5e-443a-bd5b-20ec7cfbe990","sni":"jjji.2030.pp.ua","skip-cert-verify":true,"udp":true}
+  - {"name":"未知15 517.3KB/s","type":"vmess","server":"89.31.120.192","port":443,"cipher":"auto","uuid":"44537595-9ccc-4b83-8936-5f9ad3229019","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知16","type":"vmess","server":"https://github.com/ALIILAPRO/v2rayNG-Config","port":433,"cipher":"chacha20-poly1305","uuid":"Free","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇦CA加拿大3","type":"trojan","server":"167.17.185.172","port":10889,"alterId":0,"tls":true,"password":"cTv.9PDdCt-wybBrG1qlxI5UJuaEj","sni":"web.max.ru","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰HK香港2","type":"trojan","server":"3.112.45.123","port":3373,"alterId":0,"tls":true,"password":"5fb072e0ddd631cf66cf752b09210480","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国22","type":"trojan","server":"mmkk.www890604.dpdns.org","port":443,"alterId":0,"tls":true,"password":"5cccb4da-8aee-4b01-be84-2056265e52dc","sni":"mMKK.WwW890604.DpdNS.OrG","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇦CA加拿大4","type":"ss","server":"79.127.233.170","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
+  - {"name":"🇨🇦CA加拿大5","type":"trojan","server":"lll9.7777198.xyz","port":443,"alterId":0,"tls":true,"password":"b9bb332d-5e0d-41af-adac-49362dde8661","sni":"lll9.7777198.xyz","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰HK香港3","type":"trojan","server":"52.195.179.165","port":2266,"alterId":0,"tls":true,"password":"BxceQaOe","sni":"t.me/ripaojiedian","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵JP日本3 1.8MB/s","type":"trojan","server":"160.16.214.104","port":3423,"alterId":0,"tls":true,"password":"5fb072e0ddd631cf66cf752b09210480","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国23","type":"vmess","server":"172.64.149.182","port":8080,"cipher":"auto","uuid":"nasnet","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/nasnet/cdn?ed=2560","headers":{"host":"nasnet-5712964102.sharghdaily.co"}}}
+  - {"name":"🇷🇺RU俄罗斯3","type":"trojan","server":"212.193.18.144","port":36158,"alterId":0,"tls":true,"password":"ZblhWr0mqMakCPg.N","sni":"ya.ru","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇦CA加拿大6","type":"trojan","server":"ooiuyt.890699.xyz","port":443,"alterId":0,"tls":true,"password":"98b419ef-83a2-4d1b-a23d-566b7f24477b","sni":"OOIuyT.890699.xYZ","skip-cert-verify":true,"udp":true}
+  - {"name":"🇩🇪DE德国","type":"trojan","server":"104.21.40.34","port":443,"alterId":0,"tls":true,"password":"humanity","sni":"www.gossipglove.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国24","type":"trojan","server":"kkko9.191288.xyz","port":443,"alterId":0,"tls":true,"password":"5cccb4da-8aee-4b01-be84-2056265e52dc","sni":"kKko9.191288.xyz","skip-cert-verify":true,"udp":true}
   - {"name":"未知17","type":"vmess","server":"161.248.30.3","port":20086,"cipher":"auto","uuid":"1006a928-2021-4a3b-beb5-d5853c6281c5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇨🇦CA加拿大2","type":"ss","server":"79.127.233.170","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"f8f7aCzcPKbsF8p3","skip-cert-verify":true}
-  - {"name":"未知18 5.0MB/s","type":"vmess","server":"tr1-smart.adelping.com","port":80,"cipher":"auto","uuid":"68c8f462-8468-4931-90a8-680c3d6cb3c1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
-  - {"name":"🇸🇬SG新加坡3","type":"trojan","server":"178.128.114.70","port":443,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"network":"tcp","udp":true}
-  - {"name":"🇸🇬SG新加坡4","type":"trojan","server":"18.182.62.89","port":3579,"alterId":0,"tls":true,"password":"BxceQaOe","sni":"t.me%2Fripaojiedian","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国8","type":"trojan","server":"38.180.193.194","port":443,"alterId":0,"tls":true,"password":"c1d83c0c7d57cead4379ba14a82df69b","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"🇷🇺RU俄罗斯2","type":"trojan","server":"212.193.18.144","port":36158,"alterId":0,"tls":true,"password":"ZblhWr0mqMakCPg.N","sni":"ya.ru","skip-cert-verify":true,"udp":true}
-  - {"name":"未知19","type":"trojan","server":"172.66.44.230","port":8443,"alterId":0,"tls":true,"password":"8r%3C%5B9%27l6hAO%238ZQi","sni":"Koma-YT.PAGeS.Dev","skip-cert-verify":true,"udp":true}
-  - {"name":"未知20","type":"vmess","server":"47.83.18.10","port":36968,"cipher":"auto","uuid":"176bf1dd-647f-4c09-892e-5f9223dc8617","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki?ed=2048"}}
-  - {"name":"🇭🇰HK香港5","type":"trojan","server":"58.152.30.222","port":443,"alterId":0,"tls":true,"password":"BxceQaOe","sni":"t.me/ripaojiedian","skip-cert-verify":true,"udp":true}
-  - {"name":"未知21","type":"trojan","server":"205.185.115.223","port":19258,"alterId":0,"tls":true,"password":"iWnFtzMiac","sni":"cloudflare.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国25","type":"trojan","server":"vip1.kaixincloud.top","port":8443,"alterId":0,"tls":true,"password":"T9BpZIVMNv","sni":"sweden.vmaxpanel.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇩🇪DE德国2","type":"trojan","server":"mk.huangshang.online","port":443,"alterId":0,"tls":true,"password":"5cccb4da-8aee-4b01-be84-2056265e52dc","sni":"mK.huAngshanG.OnlINe","skip-cert-verify":true,"udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -64,51 +88,75 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知
-      - 未知2
-      - 🇳🇴NO挪威
-      - 未知3
-      - 未知4 980.5KB/s
-      - 🇺🇸US美国
-      - 🇭🇰HK香港
-      - 未知5
       - 🇸🇬SG新加坡
-      - 🇺🇸US美国2
-      - 未知6
+      - 未知
+      - 🇯🇵JP日本 3.9MB/s
+      - 未知2
       - 🇨🇦CA加拿大
-      - 🇺🇸US美国3
-      - 🇺🇸US美国4
-      - 未知7
-      - 未知8
-      - 未知9
-      - 🇯🇵JP日本
-      - 🇭🇰HK香港2
+      - 🇺🇸US美国
       - 🇷🇺RU俄罗斯
+      - 🇺🇸US美国2
+      - 未知3
+      - 未知4
+      - 🇺🇸US美国3
+      - 未知5
+      - 🇷🇺RU俄罗斯2
+      - 未知6
+      - 🇪🇸ES西班牙 949.4KB/s
+      - 🇺🇸US美国4
       - 🇺🇸US美国5
+      - 未知7
+      - 🇳🇴NO挪威
+      - 🇺🇸US美国6
+      - 🇺🇸US美国7
+      - 🇬🇧GB英国
+      - 🇫🇷FR法国
+      - 🇭🇰HK香港
+      - 🇺🇸US美国8
+      - 未知8
+      - 🇬🇧GB英国2 666.6KB/s
+      - 🇺🇸US美国9
+      - 未知9
       - 未知10
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国10
+      - 🇸🇬SG新加坡3 2.5MB/s
+      - 🇸🇬SG新加坡4 4.0MB/s
+      - 🇺🇸US美国11
+      - 🇺🇸US美国12
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
       - 未知11
       - 未知12
-      - 🇺🇸US美国6
-      - 🇸🇬SG新加坡2
-      - 🇺🇸US美国7
+      - 🇺🇸US美国15 545.8KB/s
+      - 🇺🇸US美国16
+      - 🇺🇸US美国17
+      - 🇺🇸US美国18
+      - 🇨🇦CA加拿大2
+      - 🇺🇸US美国19 543.1KB/s
       - 未知13
-      - 🇭🇰HK香港3
+      - 🇺🇸US美国20
       - 未知14
       - 🇯🇵JP日本2
-      - 未知15
-      - 🇭🇰HK香港4
+      - 🇬🇧GB英国3
+      - 🇺🇸US美国21
+      - 未知15 517.3KB/s
       - 未知16
+      - 🇨🇦CA加拿大3
+      - 🇭🇰HK香港2
+      - 🇺🇸US美国22
+      - 🇨🇦CA加拿大4
+      - 🇨🇦CA加拿大5
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本3 1.8MB/s
+      - 🇺🇸US美国23
+      - 🇷🇺RU俄罗斯3
+      - 🇨🇦CA加拿大6
+      - 🇩🇪DE德国
+      - 🇺🇸US美国24
       - 未知17
-      - 🇨🇦CA加拿大2
-      - 未知18 5.0MB/s
-      - 🇸🇬SG新加坡3
-      - 🇸🇬SG新加坡4
-      - 🇺🇸US美国8
-      - 🇷🇺RU俄罗斯2
-      - 未知19
-      - 未知20
-      - 🇭🇰HK香港5
-      - 未知21
+      - 🇺🇸US美国25
+      - 🇩🇪DE德国2
 
   - name: ♻️ 自动选择
     type: url-test
@@ -116,51 +164,75 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知
-      - 未知2
-      - 🇳🇴NO挪威
-      - 未知3
-      - 未知4 980.5KB/s
-      - 🇺🇸US美国
-      - 🇭🇰HK香港
-      - 未知5
       - 🇸🇬SG新加坡
-      - 🇺🇸US美国2
-      - 未知6
+      - 未知
+      - 🇯🇵JP日本 3.9MB/s
+      - 未知2
       - 🇨🇦CA加拿大
-      - 🇺🇸US美国3
-      - 🇺🇸US美国4
-      - 未知7
-      - 未知8
-      - 未知9
-      - 🇯🇵JP日本
-      - 🇭🇰HK香港2
+      - 🇺🇸US美国
       - 🇷🇺RU俄罗斯
+      - 🇺🇸US美国2
+      - 未知3
+      - 未知4
+      - 🇺🇸US美国3
+      - 未知5
+      - 🇷🇺RU俄罗斯2
+      - 未知6
+      - 🇪🇸ES西班牙 949.4KB/s
+      - 🇺🇸US美国4
       - 🇺🇸US美国5
+      - 未知7
+      - 🇳🇴NO挪威
+      - 🇺🇸US美国6
+      - 🇺🇸US美国7
+      - 🇬🇧GB英国
+      - 🇫🇷FR法国
+      - 🇭🇰HK香港
+      - 🇺🇸US美国8
+      - 未知8
+      - 🇬🇧GB英国2 666.6KB/s
+      - 🇺🇸US美国9
+      - 未知9
       - 未知10
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国10
+      - 🇸🇬SG新加坡3 2.5MB/s
+      - 🇸🇬SG新加坡4 4.0MB/s
+      - 🇺🇸US美国11
+      - 🇺🇸US美国12
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
       - 未知11
       - 未知12
-      - 🇺🇸US美国6
-      - 🇸🇬SG新加坡2
-      - 🇺🇸US美国7
+      - 🇺🇸US美国15 545.8KB/s
+      - 🇺🇸US美国16
+      - 🇺🇸US美国17
+      - 🇺🇸US美国18
+      - 🇨🇦CA加拿大2
+      - 🇺🇸US美国19 543.1KB/s
       - 未知13
-      - 🇭🇰HK香港3
+      - 🇺🇸US美国20
       - 未知14
       - 🇯🇵JP日本2
-      - 未知15
-      - 🇭🇰HK香港4
+      - 🇬🇧GB英国3
+      - 🇺🇸US美国21
+      - 未知15 517.3KB/s
       - 未知16
+      - 🇨🇦CA加拿大3
+      - 🇭🇰HK香港2
+      - 🇺🇸US美国22
+      - 🇨🇦CA加拿大4
+      - 🇨🇦CA加拿大5
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本3 1.8MB/s
+      - 🇺🇸US美国23
+      - 🇷🇺RU俄罗斯3
+      - 🇨🇦CA加拿大6
+      - 🇩🇪DE德国
+      - 🇺🇸US美国24
       - 未知17
-      - 🇨🇦CA加拿大2
-      - 未知18 5.0MB/s
-      - 🇸🇬SG新加坡3
-      - 🇸🇬SG新加坡4
-      - 🇺🇸US美国8
-      - 🇷🇺RU俄罗斯2
-      - 未知19
-      - 未知20
-      - 🇭🇰HK香港5
-      - 未知21
+      - 🇺🇸US美国25
+      - 🇩🇪DE德国2
 
   - name: 🌍 国外媒体
     type: select
@@ -168,204 +240,300 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知
-      - 未知2
-      - 🇳🇴NO挪威
-      - 未知3
-      - 未知4 980.5KB/s
-      - 🇺🇸US美国
-      - 🇭🇰HK香港
-      - 未知5
       - 🇸🇬SG新加坡
-      - 🇺🇸US美国2
-      - 未知6
+      - 未知
+      - 🇯🇵JP日本 3.9MB/s
+      - 未知2
       - 🇨🇦CA加拿大
-      - 🇺🇸US美国3
-      - 🇺🇸US美国4
-      - 未知7
-      - 未知8
-      - 未知9
-      - 🇯🇵JP日本
-      - 🇭🇰HK香港2
+      - 🇺🇸US美国
       - 🇷🇺RU俄罗斯
+      - 🇺🇸US美国2
+      - 未知3
+      - 未知4
+      - 🇺🇸US美国3
+      - 未知5
+      - 🇷🇺RU俄罗斯2
+      - 未知6
+      - 🇪🇸ES西班牙 949.4KB/s
+      - 🇺🇸US美国4
       - 🇺🇸US美国5
+      - 未知7
+      - 🇳🇴NO挪威
+      - 🇺🇸US美国6
+      - 🇺🇸US美国7
+      - 🇬🇧GB英国
+      - 🇫🇷FR法国
+      - 🇭🇰HK香港
+      - 🇺🇸US美国8
+      - 未知8
+      - 🇬🇧GB英国2 666.6KB/s
+      - 🇺🇸US美国9
+      - 未知9
       - 未知10
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国10
+      - 🇸🇬SG新加坡3 2.5MB/s
+      - 🇸🇬SG新加坡4 4.0MB/s
+      - 🇺🇸US美国11
+      - 🇺🇸US美国12
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
       - 未知11
       - 未知12
-      - 🇺🇸US美国6
-      - 🇸🇬SG新加坡2
-      - 🇺🇸US美国7
+      - 🇺🇸US美国15 545.8KB/s
+      - 🇺🇸US美国16
+      - 🇺🇸US美国17
+      - 🇺🇸US美国18
+      - 🇨🇦CA加拿大2
+      - 🇺🇸US美国19 543.1KB/s
       - 未知13
-      - 🇭🇰HK香港3
+      - 🇺🇸US美国20
       - 未知14
       - 🇯🇵JP日本2
-      - 未知15
-      - 🇭🇰HK香港4
+      - 🇬🇧GB英国3
+      - 🇺🇸US美国21
+      - 未知15 517.3KB/s
       - 未知16
+      - 🇨🇦CA加拿大3
+      - 🇭🇰HK香港2
+      - 🇺🇸US美国22
+      - 🇨🇦CA加拿大4
+      - 🇨🇦CA加拿大5
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本3 1.8MB/s
+      - 🇺🇸US美国23
+      - 🇷🇺RU俄罗斯3
+      - 🇨🇦CA加拿大6
+      - 🇩🇪DE德国
+      - 🇺🇸US美国24
       - 未知17
-      - 🇨🇦CA加拿大2
-      - 未知18 5.0MB/s
-      - 🇸🇬SG新加坡3
-      - 🇸🇬SG新加坡4
-      - 🇺🇸US美国8
-      - 🇷🇺RU俄罗斯2
-      - 未知19
-      - 未知20
-      - 🇭🇰HK香港5
-      - 未知21
+      - 🇺🇸US美国25
+      - 🇩🇪DE德国2
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知
-      - 未知2
-      - 🇳🇴NO挪威
-      - 未知3
-      - 未知4 980.5KB/s
-      - 🇺🇸US美国
-      - 🇭🇰HK香港
-      - 未知5
       - 🇸🇬SG新加坡
-      - 🇺🇸US美国2
-      - 未知6
+      - 未知
+      - 🇯🇵JP日本 3.9MB/s
+      - 未知2
       - 🇨🇦CA加拿大
-      - 🇺🇸US美国3
-      - 🇺🇸US美国4
-      - 未知7
-      - 未知8
-      - 未知9
-      - 🇯🇵JP日本
-      - 🇭🇰HK香港2
+      - 🇺🇸US美国
       - 🇷🇺RU俄罗斯
+      - 🇺🇸US美国2
+      - 未知3
+      - 未知4
+      - 🇺🇸US美国3
+      - 未知5
+      - 🇷🇺RU俄罗斯2
+      - 未知6
+      - 🇪🇸ES西班牙 949.4KB/s
+      - 🇺🇸US美国4
       - 🇺🇸US美国5
+      - 未知7
+      - 🇳🇴NO挪威
+      - 🇺🇸US美国6
+      - 🇺🇸US美国7
+      - 🇬🇧GB英国
+      - 🇫🇷FR法国
+      - 🇭🇰HK香港
+      - 🇺🇸US美国8
+      - 未知8
+      - 🇬🇧GB英国2 666.6KB/s
+      - 🇺🇸US美国9
+      - 未知9
       - 未知10
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国10
+      - 🇸🇬SG新加坡3 2.5MB/s
+      - 🇸🇬SG新加坡4 4.0MB/s
+      - 🇺🇸US美国11
+      - 🇺🇸US美国12
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
       - 未知11
       - 未知12
-      - 🇺🇸US美国6
-      - 🇸🇬SG新加坡2
-      - 🇺🇸US美国7
+      - 🇺🇸US美国15 545.8KB/s
+      - 🇺🇸US美国16
+      - 🇺🇸US美国17
+      - 🇺🇸US美国18
+      - 🇨🇦CA加拿大2
+      - 🇺🇸US美国19 543.1KB/s
       - 未知13
-      - 🇭🇰HK香港3
+      - 🇺🇸US美国20
       - 未知14
       - 🇯🇵JP日本2
-      - 未知15
-      - 🇭🇰HK香港4
+      - 🇬🇧GB英国3
+      - 🇺🇸US美国21
+      - 未知15 517.3KB/s
       - 未知16
+      - 🇨🇦CA加拿大3
+      - 🇭🇰HK香港2
+      - 🇺🇸US美国22
+      - 🇨🇦CA加拿大4
+      - 🇨🇦CA加拿大5
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本3 1.8MB/s
+      - 🇺🇸US美国23
+      - 🇷🇺RU俄罗斯3
+      - 🇨🇦CA加拿大6
+      - 🇩🇪DE德国
+      - 🇺🇸US美国24
       - 未知17
-      - 🇨🇦CA加拿大2
-      - 未知18 5.0MB/s
-      - 🇸🇬SG新加坡3
-      - 🇸🇬SG新加坡4
-      - 🇺🇸US美国8
-      - 🇷🇺RU俄罗斯2
-      - 未知19
-      - 未知20
-      - 🇭🇰HK香港5
-      - 未知21
+      - 🇺🇸US美国25
+      - 🇩🇪DE德国2
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知
-      - 未知2
-      - 🇳🇴NO挪威
-      - 未知3
-      - 未知4 980.5KB/s
-      - 🇺🇸US美国
-      - 🇭🇰HK香港
-      - 未知5
       - 🇸🇬SG新加坡
-      - 🇺🇸US美国2
-      - 未知6
+      - 未知
+      - 🇯🇵JP日本 3.9MB/s
+      - 未知2
       - 🇨🇦CA加拿大
-      - 🇺🇸US美国3
-      - 🇺🇸US美国4
-      - 未知7
-      - 未知8
-      - 未知9
-      - 🇯🇵JP日本
-      - 🇭🇰HK香港2
+      - 🇺🇸US美国
       - 🇷🇺RU俄罗斯
+      - 🇺🇸US美国2
+      - 未知3
+      - 未知4
+      - 🇺🇸US美国3
+      - 未知5
+      - 🇷🇺RU俄罗斯2
+      - 未知6
+      - 🇪🇸ES西班牙 949.4KB/s
+      - 🇺🇸US美国4
       - 🇺🇸US美国5
+      - 未知7
+      - 🇳🇴NO挪威
+      - 🇺🇸US美国6
+      - 🇺🇸US美国7
+      - 🇬🇧GB英国
+      - 🇫🇷FR法国
+      - 🇭🇰HK香港
+      - 🇺🇸US美国8
+      - 未知8
+      - 🇬🇧GB英国2 666.6KB/s
+      - 🇺🇸US美国9
+      - 未知9
       - 未知10
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国10
+      - 🇸🇬SG新加坡3 2.5MB/s
+      - 🇸🇬SG新加坡4 4.0MB/s
+      - 🇺🇸US美国11
+      - 🇺🇸US美国12
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
       - 未知11
       - 未知12
-      - 🇺🇸US美国6
-      - 🇸🇬SG新加坡2
-      - 🇺🇸US美国7
+      - 🇺🇸US美国15 545.8KB/s
+      - 🇺🇸US美国16
+      - 🇺🇸US美国17
+      - 🇺🇸US美国18
+      - 🇨🇦CA加拿大2
+      - 🇺🇸US美国19 543.1KB/s
       - 未知13
-      - 🇭🇰HK香港3
+      - 🇺🇸US美国20
       - 未知14
       - 🇯🇵JP日本2
-      - 未知15
-      - 🇭🇰HK香港4
+      - 🇬🇧GB英国3
+      - 🇺🇸US美国21
+      - 未知15 517.3KB/s
       - 未知16
+      - 🇨🇦CA加拿大3
+      - 🇭🇰HK香港2
+      - 🇺🇸US美国22
+      - 🇨🇦CA加拿大4
+      - 🇨🇦CA加拿大5
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本3 1.8MB/s
+      - 🇺🇸US美国23
+      - 🇷🇺RU俄罗斯3
+      - 🇨🇦CA加拿大6
+      - 🇩🇪DE德国
+      - 🇺🇸US美国24
       - 未知17
-      - 🇨🇦CA加拿大2
-      - 未知18 5.0MB/s
-      - 🇸🇬SG新加坡3
-      - 🇸🇬SG新加坡4
-      - 🇺🇸US美国8
-      - 🇷🇺RU俄罗斯2
-      - 未知19
-      - 未知20
-      - 🇭🇰HK香港5
-      - 未知21
+      - 🇺🇸US美国25
+      - 🇩🇪DE德国2
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知
-      - 未知2
-      - 🇳🇴NO挪威
-      - 未知3
-      - 未知4 980.5KB/s
-      - 🇺🇸US美国
-      - 🇭🇰HK香港
-      - 未知5
       - 🇸🇬SG新加坡
-      - 🇺🇸US美国2
-      - 未知6
+      - 未知
+      - 🇯🇵JP日本 3.9MB/s
+      - 未知2
       - 🇨🇦CA加拿大
-      - 🇺🇸US美国3
-      - 🇺🇸US美国4
-      - 未知7
-      - 未知8
-      - 未知9
-      - 🇯🇵JP日本
-      - 🇭🇰HK香港2
+      - 🇺🇸US美国
       - 🇷🇺RU俄罗斯
+      - 🇺🇸US美国2
+      - 未知3
+      - 未知4
+      - 🇺🇸US美国3
+      - 未知5
+      - 🇷🇺RU俄罗斯2
+      - 未知6
+      - 🇪🇸ES西班牙 949.4KB/s
+      - 🇺🇸US美国4
       - 🇺🇸US美国5
+      - 未知7
+      - 🇳🇴NO挪威
+      - 🇺🇸US美国6
+      - 🇺🇸US美国7
+      - 🇬🇧GB英国
+      - 🇫🇷FR法国
+      - 🇭🇰HK香港
+      - 🇺🇸US美国8
+      - 未知8
+      - 🇬🇧GB英国2 666.6KB/s
+      - 🇺🇸US美国9
+      - 未知9
       - 未知10
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国10
+      - 🇸🇬SG新加坡3 2.5MB/s
+      - 🇸🇬SG新加坡4 4.0MB/s
+      - 🇺🇸US美国11
+      - 🇺🇸US美国12
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
       - 未知11
       - 未知12
-      - 🇺🇸US美国6
-      - 🇸🇬SG新加坡2
-      - 🇺🇸US美国7
+      - 🇺🇸US美国15 545.8KB/s
+      - 🇺🇸US美国16
+      - 🇺🇸US美国17
+      - 🇺🇸US美国18
+      - 🇨🇦CA加拿大2
+      - 🇺🇸US美国19 543.1KB/s
       - 未知13
-      - 🇭🇰HK香港3
+      - 🇺🇸US美国20
       - 未知14
       - 🇯🇵JP日本2
-      - 未知15
-      - 🇭🇰HK香港4
+      - 🇬🇧GB英国3
+      - 🇺🇸US美国21
+      - 未知15 517.3KB/s
       - 未知16
+      - 🇨🇦CA加拿大3
+      - 🇭🇰HK香港2
+      - 🇺🇸US美国22
+      - 🇨🇦CA加拿大4
+      - 🇨🇦CA加拿大5
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本3 1.8MB/s
+      - 🇺🇸US美国23
+      - 🇷🇺RU俄罗斯3
+      - 🇨🇦CA加拿大6
+      - 🇩🇪DE德国
+      - 🇺🇸US美国24
       - 未知17
-      - 🇨🇦CA加拿大2
-      - 未知18 5.0MB/s
-      - 🇸🇬SG新加坡3
-      - 🇸🇬SG新加坡4
-      - 🇺🇸US美国8
-      - 🇷🇺RU俄罗斯2
-      - 未知19
-      - 未知20
-      - 🇭🇰HK香港5
-      - 未知21
+      - 🇺🇸US美国25
+      - 🇩🇪DE德国2
 
   - name: 🎯 全球直连
     type: select
@@ -389,51 +557,75 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知
-      - 未知2
-      - 🇳🇴NO挪威
-      - 未知3
-      - 未知4 980.5KB/s
-      - 🇺🇸US美国
-      - 🇭🇰HK香港
-      - 未知5
       - 🇸🇬SG新加坡
-      - 🇺🇸US美国2
-      - 未知6
+      - 未知
+      - 🇯🇵JP日本 3.9MB/s
+      - 未知2
       - 🇨🇦CA加拿大
-      - 🇺🇸US美国3
-      - 🇺🇸US美国4
-      - 未知7
-      - 未知8
-      - 未知9
-      - 🇯🇵JP日本
-      - 🇭🇰HK香港2
+      - 🇺🇸US美国
       - 🇷🇺RU俄罗斯
+      - 🇺🇸US美国2
+      - 未知3
+      - 未知4
+      - 🇺🇸US美国3
+      - 未知5
+      - 🇷🇺RU俄罗斯2
+      - 未知6
+      - 🇪🇸ES西班牙 949.4KB/s
+      - 🇺🇸US美国4
       - 🇺🇸US美国5
+      - 未知7
+      - 🇳🇴NO挪威
+      - 🇺🇸US美国6
+      - 🇺🇸US美国7
+      - 🇬🇧GB英国
+      - 🇫🇷FR法国
+      - 🇭🇰HK香港
+      - 🇺🇸US美国8
+      - 未知8
+      - 🇬🇧GB英国2 666.6KB/s
+      - 🇺🇸US美国9
+      - 未知9
       - 未知10
+      - 🇸🇬SG新加坡2
+      - 🇺🇸US美国10
+      - 🇸🇬SG新加坡3 2.5MB/s
+      - 🇸🇬SG新加坡4 4.0MB/s
+      - 🇺🇸US美国11
+      - 🇺🇸US美国12
+      - 🇺🇸US美国13
+      - 🇺🇸US美国14
       - 未知11
       - 未知12
-      - 🇺🇸US美国6
-      - 🇸🇬SG新加坡2
-      - 🇺🇸US美国7
+      - 🇺🇸US美国15 545.8KB/s
+      - 🇺🇸US美国16
+      - 🇺🇸US美国17
+      - 🇺🇸US美国18
+      - 🇨🇦CA加拿大2
+      - 🇺🇸US美国19 543.1KB/s
       - 未知13
-      - 🇭🇰HK香港3
+      - 🇺🇸US美国20
       - 未知14
       - 🇯🇵JP日本2
-      - 未知15
-      - 🇭🇰HK香港4
+      - 🇬🇧GB英国3
+      - 🇺🇸US美国21
+      - 未知15 517.3KB/s
       - 未知16
+      - 🇨🇦CA加拿大3
+      - 🇭🇰HK香港2
+      - 🇺🇸US美国22
+      - 🇨🇦CA加拿大4
+      - 🇨🇦CA加拿大5
+      - 🇭🇰HK香港3
+      - 🇯🇵JP日本3 1.8MB/s
+      - 🇺🇸US美国23
+      - 🇷🇺RU俄罗斯3
+      - 🇨🇦CA加拿大6
+      - 🇩🇪DE德国
+      - 🇺🇸US美国24
       - 未知17
-      - 🇨🇦CA加拿大2
-      - 未知18 5.0MB/s
-      - 🇸🇬SG新加坡3
-      - 🇸🇬SG新加坡4
-      - 🇺🇸US美国8
-      - 🇷🇺RU俄罗斯2
-      - 未知19
-      - 未知20
-      - 🇭🇰HK香港5
-      - 未知21
+      - 🇺🇸US美国25
+      - 🇩🇪DE德国2
 
 
 rules:
