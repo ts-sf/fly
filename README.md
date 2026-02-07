@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.236.32:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%202.2MB%2Fs
-trojan://d03e1173-3109-43c0-a5dd-e2b56916c540@xiaozhu1.kkieo555.cn:11278?security=tls&headerType=none&type=tcp&sni=Telegram🇨🇳WangCai2#%E6%9C%AA%E7%9F%A52
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.116.227:3423?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%201.5MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@85.210.169.9:443#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiAxLjBNQi9zIiwiYWRkIjoidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIifQ==
+trojan://BxceQaOe@43.206.227.236:4183?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BTElJTEFQUk8vdjJyYXlORy1Db25maWciLCJwb3J0IjoiNDMzIiwiaWQiOiJGcmVlIiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
