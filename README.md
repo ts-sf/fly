@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.130.21:544?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%202.1MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTIiLCJhZGQiOiIxMDQuMjEuNjkuNDQiLCJwb3J0IjoiODA4MCIsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoibmFzbmV0LTUxMTk1MjQyNC5tY2l0ZWwuY28iLCJwYXRoIjoiL25hc25ldC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU+e+juWbvTIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoidHVyazEubmV0Lm5ldCIsInBvcnQiOiI4MCIsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbS4iLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEvP2RlPTI1NjAiLCJ0bHMiOiIiLCJzbmkiOiJUTV9BWkFSQkFZSkFCMS5uZXcuOTkud29ya2Vycy5kZXYiLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
-trojan://BxceQaOe@112.120.31.36:443?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiAxLjFNQi9zIiwiYWRkIjoiMjAuMTkzLjE1My4xOSIsInBvcnQiOiIxNTgzNCIsImlkIjoiMzlhOGMzNzQtNzZiMS00ZTkwLWFiODUtODVjZDlhNDJkZWQyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMiJ9
+trojan://T9BpZIVMNv@vip3.kaixincloud.top:8443?sni=sweden.vmaxpanel.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.68.250:4006?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%20188.1KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiMTUuMjM1LjgzLjIyOCIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImxhbW1hbGFuZC5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
+trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A52
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
