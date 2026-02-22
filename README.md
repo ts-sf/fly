@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6ImZhcGVuZy5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJmYXBlbmcub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmYXBlbmcub3JnIiwidGVzdF9uYW1lIjoiMiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjEwNC4xOS4xNzMuNjgiLCJwb3J0IjoiODA4MCIsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoibmFzbmV0LTU3MTI5OTY2Ny5yYWhhdmFyZDM2NS5jbyIsInBhdGgiOiIvTkFTTkVUL2NkbiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
-trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A54
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A55
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsInBvcnQiOiI0NDMiLCJpZCI6ImFsaWlsYXByby12MnJheW5nLWNvbmZpZyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnaXRodWIuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnaXRodWIuY29tIiwidGVzdF9uYW1lIjoi5pyq55+lIn0=
+trojan://BxceQaOe@16.163.31.145:54548?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://04e5b584-1850-483d-a844-9ad624a4ca8e@220.130.58.136:31101?sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nju.taipei104.indevs.in:443?sni=nju.taipei104.indevs.in#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@zzzxs.0j0.ccwu.cc:443?sni=zzzxs.0j0.ccwu.cc#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
