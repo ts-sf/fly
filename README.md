@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsInBvcnQiOiI0NDMiLCJpZCI6ImFsaWlsYXByby12MnJheW5nLWNvbmZpZyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnaXRodWIuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnaXRodWIuY29tIiwidGVzdF9uYW1lIjoi5pyq55+lIn0=
-trojan://BxceQaOe@16.163.31.145:54548?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://04e5b584-1850-483d-a844-9ad624a4ca8e@220.130.58.136:31101?sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nju.taipei104.indevs.in:443?sni=nju.taipei104.indevs.in#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@zzzxs.0j0.ccwu.cc:443?sni=zzzxs.0j0.ccwu.cc#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://64a59181551b5773e390bd717a7b7c06@52.192.209.59:3419?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://64a59181551b5773e390bd717a7b7c06@13.159.21.118:4856?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIDUzLjVNQi9zIiwiYWRkIjoiMTY1LjE0MC4yMTYuMTQxIiwicG9ydCI6IjQ0MyIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoi5pyq55+lIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:18148#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6ImZhcGVuZy5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJmYXBlbmcub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmYXBlbmcub3JnIiwidGVzdF9uYW1lIjoiMiJ9
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
