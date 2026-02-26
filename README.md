@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%E6%9C%AA%E7%9F%A54%207.1MB%2Fs
-trojan://6f038cee-6ba1-4941-bce5-de1969f37405@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE%2033.4KB%2Fs
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%20226.1KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEgMTkuNE1CL3MiLCJhZGQiOiJoZ3Ryb2phbi56YWJjLm5ldCIsInBvcnQiOiIyMDgzIiwiaWQiOiJlNjM5NWMyMC00NTcxLTRiMzQtZDZiMS01NWE1ZDM2ZTQ5ZWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJoZ3Ryb2phbi56YWJjLm5ldCIsInBhdGgiOiIvZTYzOTVjMjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#US%20119.0KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCAxLjhNQi9zIiwiYWRkIjoiMTcyLjIzMy4yMjkuOTEiLCJwb3J0IjoiMTQxMDIiLCJpZCI6IjI3YmE4N2ZjLTU4M2YtNDc2My05MDYwLTgzY2YwYjkyNjRkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQifQ==
+trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:1281?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%201.5MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTYgNzUyLjRLQi9zIiwiYWRkIjoibm1raS4xeXkuY2N3dS5jYyIsInBvcnQiOiI4MCIsImlkIjoiNGU0NWMxYjQtOTEwNy00NWRkLTk5OTUtY2RmN2NiYjQ0ZDlkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoibm1raS4xeXkuY2N3dS5jYyIsInBhdGgiOiIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVPnvo7lm702In0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjAgMTMzLjdNQi9zIiwiYWRkIjoiMTY1LjE0MC4yMTYuMTQxIiwicG9ydCI6IjQ0MyIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjAifQ==
+trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%201.5MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
