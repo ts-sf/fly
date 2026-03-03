@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoidGltZS5pciIsInBvcnQiOiI0NDMiLCJpZCI6Imxhc3QtdXBkYXRlLXRpbWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidGltZS5pciIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoidGltZS5pciIsInRlc3RfbmFtZSI6IuacquefpSJ9
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=io.ozone.ru#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6InR1cmsxLm5ldC5uZXQiLCJwb3J0IjoiODAiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InRyMS1zbWFydC5hZGVscGluZy5jb20uIiwicGF0aCI6Ii8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxLz9kZT0yNTYwIiwidGxzIjoiIiwic25pIjoiVE1fQVpBUkJBWUpBQjEubmV3Ljk5LndvcmtlcnMuZGV2IiwidGVzdF9uYW1lIjoiMiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6InlpY2h1ZW5nLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoieWljaHVlbmcub3JnIiwidGVzdF9uYW1lIjoiMyJ9
-trojan://fdeb5068-b9c7-486c-8ccf-8d2b744bd839@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:18148#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjE3Mi42NC4xNDkuMTgyIiwicG9ydCI6IjgwODAiLCJpZCI6Im5hc25ldCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im5hc25ldC01NzEyOTY0MTAyLnNoYXJnaGRhaWx5LmNvIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
+trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@57.180.36.84:3419?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
