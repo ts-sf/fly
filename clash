@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-03-05 10:53:34
+# 创建时间: 2026-03-05 17:00:16
 # 使用模版: V2RaySE 默认模版
-# 节点数量：11
+# 节点数量：7
 ####################################
 #
 mixed-port: 7890
@@ -12,17 +12,13 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知7 5.2MB/s","type":"vmess","server":"pq-hungary1.09vpn.com","port":80,"cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/"}}
-  - {"name":"🇨🇦CA加拿大2 454.9KB/s","type":"ss","server":"144.217.164.29","port":12000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"8JCsPssfgS8tiRwiMlhARg==","skip-cert-verify":true}
-  - {"name":"🇹🇼TW台湾 63.7KB/s","type":"ss","server":"switcher-nick-croquet.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"9tqhMdIrTkgQ46PvhyAtMH","skip-cert-verify":true}
-  - {"name":"未知10 82.1MB/s","type":"vmess","server":"192.227.249.227","port":27641,"cipher":"auto","uuid":"3b134252-e7c2-43df-98b7-da204104aa79","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬SG新加坡 1.7MB/s","type":"trojan","server":"153.121.45.139","port":4674,"alterId":0,"tls":true,"password":"f7dbed8b1ca85124e793ba6c0bcfd0db","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"未知25 6.3MB/s","type":"vmess","server":"94.232.247.165","port":45653,"cipher":"auto","uuid":"9e91d19a-c73f-4276-adbc-b337c374259c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知27 48.8MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US美国9 2.1MB/s","type":"trojan","server":"153.121.45.139","port":4920,"alterId":0,"tls":true,"password":"f7dbed8b1ca85124e793ba6c0bcfd0db","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国12 148.5KB/s","type":"ss","server":"tinkered-pennies-puppies.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"hbGrpfvNrJsUmKmPbR3iY2","skip-cert-verify":true}
-  - {"name":"未知32 39.4MB/s","type":"vmess","server":"hgtrojan.zabc.net","port":2083,"cipher":"auto","uuid":"e6395c20-4571-4b34-d6b1-55a5d36e49ea","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/e6395c20","headers":{"host":"hgtrojan.zabc.net"}}}
-  - {"name":"未知36 96.7MB/s","type":"vmess","server":"172.233.229.91","port":14102,"cipher":"auto","uuid":"27ba87fc-583f-4763-9060-83cf0b9264db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US美国 4.0MB/s","type":"ss","server":"series-a1.samanehha.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"W74XFALLLuw6m5IA","skip-cert-verify":true}
+  - {"name":"未知6 27.6MB/s","type":"vmess","server":"172.233.229.91","port":14102,"cipher":"auto","uuid":"27ba87fc-583f-4763-9060-83cf0b9264db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇦CA加拿大2 5.8MB/s","type":"ss","server":"144.217.164.29","port":12000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"8JCsPssfgS8tiRwiMlhARg==","skip-cert-verify":true}
+  - {"name":"未知12 3.9MB/s","type":"vmess","server":"94.232.247.165","port":45653,"cipher":"auto","uuid":"9e91d19a-c73f-4276-adbc-b337c374259c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知16 54.0MB/s","type":"vmess","server":"192.227.249.227","port":27641,"cipher":"auto","uuid":"3b134252-e7c2-43df-98b7-da204104aa79","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知24 255.0MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知28 25.8MB/s","type":"vmess","server":"hgtrojan.zabc.net","port":2083,"cipher":"auto","uuid":"e6395c20-4571-4b34-d6b1-55a5d36e49ea","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/e6395c20","headers":{"host":"hgtrojan.zabc.net"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -30,17 +26,13 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知7 5.2MB/s
-      - 🇨🇦CA加拿大2 454.9KB/s
-      - 🇹🇼TW台湾 63.7KB/s
-      - 未知10 82.1MB/s
-      - 🇸🇬SG新加坡 1.7MB/s
-      - 未知25 6.3MB/s
-      - 未知27 48.8MB/s
-      - 🇺🇸US美国9 2.1MB/s
-      - 🇺🇸US美国12 148.5KB/s
-      - 未知32 39.4MB/s
-      - 未知36 96.7MB/s
+      - 🇺🇸US美国 4.0MB/s
+      - 未知6 27.6MB/s
+      - 🇨🇦CA加拿大2 5.8MB/s
+      - 未知12 3.9MB/s
+      - 未知16 54.0MB/s
+      - 未知24 255.0MB/s
+      - 未知28 25.8MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -48,17 +40,13 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知7 5.2MB/s
-      - 🇨🇦CA加拿大2 454.9KB/s
-      - 🇹🇼TW台湾 63.7KB/s
-      - 未知10 82.1MB/s
-      - 🇸🇬SG新加坡 1.7MB/s
-      - 未知25 6.3MB/s
-      - 未知27 48.8MB/s
-      - 🇺🇸US美国9 2.1MB/s
-      - 🇺🇸US美国12 148.5KB/s
-      - 未知32 39.4MB/s
-      - 未知36 96.7MB/s
+      - 🇺🇸US美国 4.0MB/s
+      - 未知6 27.6MB/s
+      - 🇨🇦CA加拿大2 5.8MB/s
+      - 未知12 3.9MB/s
+      - 未知16 54.0MB/s
+      - 未知24 255.0MB/s
+      - 未知28 25.8MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -66,68 +54,52 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知7 5.2MB/s
-      - 🇨🇦CA加拿大2 454.9KB/s
-      - 🇹🇼TW台湾 63.7KB/s
-      - 未知10 82.1MB/s
-      - 🇸🇬SG新加坡 1.7MB/s
-      - 未知25 6.3MB/s
-      - 未知27 48.8MB/s
-      - 🇺🇸US美国9 2.1MB/s
-      - 🇺🇸US美国12 148.5KB/s
-      - 未知32 39.4MB/s
-      - 未知36 96.7MB/s
+      - 🇺🇸US美国 4.0MB/s
+      - 未知6 27.6MB/s
+      - 🇨🇦CA加拿大2 5.8MB/s
+      - 未知12 3.9MB/s
+      - 未知16 54.0MB/s
+      - 未知24 255.0MB/s
+      - 未知28 25.8MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知7 5.2MB/s
-      - 🇨🇦CA加拿大2 454.9KB/s
-      - 🇹🇼TW台湾 63.7KB/s
-      - 未知10 82.1MB/s
-      - 🇸🇬SG新加坡 1.7MB/s
-      - 未知25 6.3MB/s
-      - 未知27 48.8MB/s
-      - 🇺🇸US美国9 2.1MB/s
-      - 🇺🇸US美国12 148.5KB/s
-      - 未知32 39.4MB/s
-      - 未知36 96.7MB/s
+      - 🇺🇸US美国 4.0MB/s
+      - 未知6 27.6MB/s
+      - 🇨🇦CA加拿大2 5.8MB/s
+      - 未知12 3.9MB/s
+      - 未知16 54.0MB/s
+      - 未知24 255.0MB/s
+      - 未知28 25.8MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知7 5.2MB/s
-      - 🇨🇦CA加拿大2 454.9KB/s
-      - 🇹🇼TW台湾 63.7KB/s
-      - 未知10 82.1MB/s
-      - 🇸🇬SG新加坡 1.7MB/s
-      - 未知25 6.3MB/s
-      - 未知27 48.8MB/s
-      - 🇺🇸US美国9 2.1MB/s
-      - 🇺🇸US美国12 148.5KB/s
-      - 未知32 39.4MB/s
-      - 未知36 96.7MB/s
+      - 🇺🇸US美国 4.0MB/s
+      - 未知6 27.6MB/s
+      - 🇨🇦CA加拿大2 5.8MB/s
+      - 未知12 3.9MB/s
+      - 未知16 54.0MB/s
+      - 未知24 255.0MB/s
+      - 未知28 25.8MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知7 5.2MB/s
-      - 🇨🇦CA加拿大2 454.9KB/s
-      - 🇹🇼TW台湾 63.7KB/s
-      - 未知10 82.1MB/s
-      - 🇸🇬SG新加坡 1.7MB/s
-      - 未知25 6.3MB/s
-      - 未知27 48.8MB/s
-      - 🇺🇸US美国9 2.1MB/s
-      - 🇺🇸US美国12 148.5KB/s
-      - 未知32 39.4MB/s
-      - 未知36 96.7MB/s
+      - 🇺🇸US美国 4.0MB/s
+      - 未知6 27.6MB/s
+      - 🇨🇦CA加拿大2 5.8MB/s
+      - 未知12 3.9MB/s
+      - 未知16 54.0MB/s
+      - 未知24 255.0MB/s
+      - 未知28 25.8MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -151,17 +123,13 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知7 5.2MB/s
-      - 🇨🇦CA加拿大2 454.9KB/s
-      - 🇹🇼TW台湾 63.7KB/s
-      - 未知10 82.1MB/s
-      - 🇸🇬SG新加坡 1.7MB/s
-      - 未知25 6.3MB/s
-      - 未知27 48.8MB/s
-      - 🇺🇸US美国9 2.1MB/s
-      - 🇺🇸US美国12 148.5KB/s
-      - 未知32 39.4MB/s
-      - 未知36 96.7MB/s
+      - 🇺🇸US美国 4.0MB/s
+      - 未知6 27.6MB/s
+      - 🇨🇦CA加拿大2 5.8MB/s
+      - 未知12 3.9MB/s
+      - 未知16 54.0MB/s
+      - 未知24 255.0MB/s
+      - 未知28 25.8MB/s
 
 
 rules:
