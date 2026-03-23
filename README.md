@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.85.33:3057?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%206.0MB%2Fs
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A72%202.2MB%2Fs
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%203.7MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjIgMzAuME1CL3MiLCJhZGQiOiIxNzIuMjMzLjIyOS45MSIsInBvcnQiOiIxNDEwMiIsImlkIjoiMjdiYTg3ZmMtNTgzZi00NzYzLTkwNjAtODNjZjBiOTI2NGRiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjYgNy4yTUIvcyIsImFkZCI6Ijk0LjIzMi4yNDcuMTY1IiwicG9ydCI6IjQ1NjUzIiwiaWQiOiI5ZTkxZDE5YS1jNzNmLTQyNzYtYWRiYy1iMzM3YzM3NDI1OWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyNiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNiAyMC43TUIvcyIsImFkZCI6Ijk0LjIzMi4yNDcuMTY1IiwicG9ydCI6IjQ1NjUzIiwiaWQiOiI5ZTkxZDE5YS1jNzNmLTQyNzYtYWRiYy1iMzM3YzM3NDI1OWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2In0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOSAyNDcuM01CL3MiLCJhZGQiOiIxNzIuMjMzLjIyOS45MSIsInBvcnQiOiIxNDEwMiIsImlkIjoiMjdiYTg3ZmMtNTgzZi00NzYzLTkwNjAtODNjZjBiOTI2NGRiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiOSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%2031.5KB%2Fs
+trojan://14326_tf497f7b0@kto1.ttddd.xyz:443?sni=kto1.cnedu2.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7%2024.2KB%2Fs
+trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%2019.5MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
