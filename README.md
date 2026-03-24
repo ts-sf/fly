@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6ImZhcGVuZy5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJmYXBlbmcub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmYXBlbmcub3JnIiwidGVzdF9uYW1lIjoiMiJ9
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%2013.1MB%2Fs
-trojan://27390_t853d9c0b@tky8.ttddd.xyz:443?sni=tky8.cnedu2.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6InBxLWh1bmdhcnkxLjA5dnBuLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
+trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A5
+trojan://BxceQaOe@18.167.47.162:37223?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6InRpbWUuaXIiLCJwb3J0IjoiNDQzIiwiaWQiOiJsYXN0LXVwZGF0ZS10aW1lIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InRpbWUuaXIiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InRpbWUuaXIiLCJ0ZXN0X25hbWUiOiIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6ImRsbC5hdmFhYWFsLmlyIiwicG9ydCI6Ijg0NDMiLCJpZCI6IjcyNWY1ZmNkLTcyMWQtNDBhMC1iYTZiLTNjNzQ3NzYzMzExMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImNkZ2UuYXZhYWFhbC5pciIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiZGxsLmF2YWFhYWwuaXIiLCJ0ZXN0X25hbWUiOiIzIn0=
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
