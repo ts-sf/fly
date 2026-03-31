@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-03-31 11:29:12
+# 创建时间: 2026-03-31 17:17:51
 # 使用模版: V2RaySE 默认模版
-# 节点数量：8
+# 节点数量：12
 ####################################
 #
 mixed-port: 7890
@@ -12,14 +12,18 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇨🇦CA加拿大 1.1MB/s","type":"ss","server":"144.217.164.29","port":12000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"8JCsPssfgS8tiRwiMlhARg==","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国 4.7MB/s","type":"ss","server":"admin.c1.webramz.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"W74XFALLLuw6m5IA","skip-cert-verify":true}
-  - {"name":"未知9 116.1MB/s","type":"vmess","server":"172.233.229.91","port":14102,"cipher":"auto","uuid":"27ba87fc-583f-4763-9060-83cf0b9264db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US美国4 4.6MB/s","type":"ss","server":"admin.c1.havij.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"1kVr0KATIJI7mwOF","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国5 4.5MB/s","type":"ss","server":"series-a1.samanehha.co","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"W74XFALLLuw6m5IA","skip-cert-verify":true}
-  - {"name":"未知28 1.4MB/s","type":"vmess","server":"94.232.247.165","port":45653,"cipher":"auto","uuid":"9e91d19a-c73f-4276-adbc-b337c374259c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇪🇸ES西班牙 338.7KB/s","type":"ss","server":"185.223.82.82","port":10021,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"m02X9p9Cqn3Ic4l6PyJMF8","skip-cert-verify":true}
-  - {"name":"未知34 28.6MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇦CA加拿大 1.3MB/s","type":"ss","server":"144.217.164.29","port":12000,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"8JCsPssfgS8tiRwiMlhARg==","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国2 884.5KB/s","type":"trojan","server":"160.16.132.38","port":3057,"alterId":0,"tls":true,"password":"9f7d5cb76d1645101994d9b25891e3b7","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国4 799.9KB/s","type":"ss","server":"tinkered-pennies-puppies.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"hbGrpfvNrJsUmKmPbR3iY2","skip-cert-verify":true}
+  - {"name":"未知13 9.5MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬SG新加坡2 216.4KB/s","type":"trojan","server":"153.121.65.107","port":4674,"alterId":0,"tls":true,"password":"9f7d5cb76d1645101994d9b25891e3b7","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵JP日本 1.0MB/s","type":"trojan","server":"160.16.132.38","port":4937,"alterId":0,"tls":true,"password":"9f7d5cb76d1645101994d9b25891e3b7","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"未知16 188.3MB/s","type":"vmess","server":"172.233.229.91","port":14102,"cipher":"auto","uuid":"27ba87fc-583f-4763-9060-83cf0b9264db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知23 2.2MB/s","type":"vmess","server":"94.232.247.165","port":45653,"cipher":"auto","uuid":"9e91d19a-c73f-4276-adbc-b337c374259c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US美国14 977.5KB/s","type":"trojan","server":"52.192.219.241","port":3700,"alterId":0,"tls":true,"password":"9f7d5cb76d1645101994d9b25891e3b7","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵JP日本2 1.1MB/s","type":"trojan","server":"160.16.85.33","port":4380,"alterId":0,"tls":true,"password":"9f7d5cb76d1645101994d9b25891e3b7","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
+  - {"name":"🇹🇼TW台湾 28.6KB/s","type":"ss","server":"switcher-nick-croquet.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"9tqhMdIrTkgQ46PvhyAtMH","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡3 1.1MB/s","type":"trojan","server":"160.16.85.33","port":4674,"alterId":0,"tls":true,"password":"9f7d5cb76d1645101994d9b25891e3b7","sni":"www.nintendogames.net","skip-cert-verify":true,"udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -27,14 +31,18 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇨🇦CA加拿大 1.1MB/s
-      - 🇺🇸US美国 4.7MB/s
-      - 未知9 116.1MB/s
-      - 🇺🇸US美国4 4.6MB/s
-      - 🇺🇸US美国5 4.5MB/s
-      - 未知28 1.4MB/s
-      - 🇪🇸ES西班牙 338.7KB/s
-      - 未知34 28.6MB/s
+      - 🇨🇦CA加拿大 1.3MB/s
+      - 🇺🇸US美国2 884.5KB/s
+      - 🇺🇸US美国4 799.9KB/s
+      - 未知13 9.5MB/s
+      - 🇸🇬SG新加坡2 216.4KB/s
+      - 🇯🇵JP日本 1.0MB/s
+      - 未知16 188.3MB/s
+      - 未知23 2.2MB/s
+      - 🇺🇸US美国14 977.5KB/s
+      - 🇯🇵JP日本2 1.1MB/s
+      - 🇹🇼TW台湾 28.6KB/s
+      - 🇸🇬SG新加坡3 1.1MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -42,14 +50,18 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇨🇦CA加拿大 1.1MB/s
-      - 🇺🇸US美国 4.7MB/s
-      - 未知9 116.1MB/s
-      - 🇺🇸US美国4 4.6MB/s
-      - 🇺🇸US美国5 4.5MB/s
-      - 未知28 1.4MB/s
-      - 🇪🇸ES西班牙 338.7KB/s
-      - 未知34 28.6MB/s
+      - 🇨🇦CA加拿大 1.3MB/s
+      - 🇺🇸US美国2 884.5KB/s
+      - 🇺🇸US美国4 799.9KB/s
+      - 未知13 9.5MB/s
+      - 🇸🇬SG新加坡2 216.4KB/s
+      - 🇯🇵JP日本 1.0MB/s
+      - 未知16 188.3MB/s
+      - 未知23 2.2MB/s
+      - 🇺🇸US美国14 977.5KB/s
+      - 🇯🇵JP日本2 1.1MB/s
+      - 🇹🇼TW台湾 28.6KB/s
+      - 🇸🇬SG新加坡3 1.1MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -57,56 +69,72 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇨🇦CA加拿大 1.1MB/s
-      - 🇺🇸US美国 4.7MB/s
-      - 未知9 116.1MB/s
-      - 🇺🇸US美国4 4.6MB/s
-      - 🇺🇸US美国5 4.5MB/s
-      - 未知28 1.4MB/s
-      - 🇪🇸ES西班牙 338.7KB/s
-      - 未知34 28.6MB/s
+      - 🇨🇦CA加拿大 1.3MB/s
+      - 🇺🇸US美国2 884.5KB/s
+      - 🇺🇸US美国4 799.9KB/s
+      - 未知13 9.5MB/s
+      - 🇸🇬SG新加坡2 216.4KB/s
+      - 🇯🇵JP日本 1.0MB/s
+      - 未知16 188.3MB/s
+      - 未知23 2.2MB/s
+      - 🇺🇸US美国14 977.5KB/s
+      - 🇯🇵JP日本2 1.1MB/s
+      - 🇹🇼TW台湾 28.6KB/s
+      - 🇸🇬SG新加坡3 1.1MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇦CA加拿大 1.1MB/s
-      - 🇺🇸US美国 4.7MB/s
-      - 未知9 116.1MB/s
-      - 🇺🇸US美国4 4.6MB/s
-      - 🇺🇸US美国5 4.5MB/s
-      - 未知28 1.4MB/s
-      - 🇪🇸ES西班牙 338.7KB/s
-      - 未知34 28.6MB/s
+      - 🇨🇦CA加拿大 1.3MB/s
+      - 🇺🇸US美国2 884.5KB/s
+      - 🇺🇸US美国4 799.9KB/s
+      - 未知13 9.5MB/s
+      - 🇸🇬SG新加坡2 216.4KB/s
+      - 🇯🇵JP日本 1.0MB/s
+      - 未知16 188.3MB/s
+      - 未知23 2.2MB/s
+      - 🇺🇸US美国14 977.5KB/s
+      - 🇯🇵JP日本2 1.1MB/s
+      - 🇹🇼TW台湾 28.6KB/s
+      - 🇸🇬SG新加坡3 1.1MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇨🇦CA加拿大 1.1MB/s
-      - 🇺🇸US美国 4.7MB/s
-      - 未知9 116.1MB/s
-      - 🇺🇸US美国4 4.6MB/s
-      - 🇺🇸US美国5 4.5MB/s
-      - 未知28 1.4MB/s
-      - 🇪🇸ES西班牙 338.7KB/s
-      - 未知34 28.6MB/s
+      - 🇨🇦CA加拿大 1.3MB/s
+      - 🇺🇸US美国2 884.5KB/s
+      - 🇺🇸US美国4 799.9KB/s
+      - 未知13 9.5MB/s
+      - 🇸🇬SG新加坡2 216.4KB/s
+      - 🇯🇵JP日本 1.0MB/s
+      - 未知16 188.3MB/s
+      - 未知23 2.2MB/s
+      - 🇺🇸US美国14 977.5KB/s
+      - 🇯🇵JP日本2 1.1MB/s
+      - 🇹🇼TW台湾 28.6KB/s
+      - 🇸🇬SG新加坡3 1.1MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇦CA加拿大 1.1MB/s
-      - 🇺🇸US美国 4.7MB/s
-      - 未知9 116.1MB/s
-      - 🇺🇸US美国4 4.6MB/s
-      - 🇺🇸US美国5 4.5MB/s
-      - 未知28 1.4MB/s
-      - 🇪🇸ES西班牙 338.7KB/s
-      - 未知34 28.6MB/s
+      - 🇨🇦CA加拿大 1.3MB/s
+      - 🇺🇸US美国2 884.5KB/s
+      - 🇺🇸US美国4 799.9KB/s
+      - 未知13 9.5MB/s
+      - 🇸🇬SG新加坡2 216.4KB/s
+      - 🇯🇵JP日本 1.0MB/s
+      - 未知16 188.3MB/s
+      - 未知23 2.2MB/s
+      - 🇺🇸US美国14 977.5KB/s
+      - 🇯🇵JP日本2 1.1MB/s
+      - 🇹🇼TW台湾 28.6KB/s
+      - 🇸🇬SG新加坡3 1.1MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -130,14 +158,18 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇨🇦CA加拿大 1.1MB/s
-      - 🇺🇸US美国 4.7MB/s
-      - 未知9 116.1MB/s
-      - 🇺🇸US美国4 4.6MB/s
-      - 🇺🇸US美国5 4.5MB/s
-      - 未知28 1.4MB/s
-      - 🇪🇸ES西班牙 338.7KB/s
-      - 未知34 28.6MB/s
+      - 🇨🇦CA加拿大 1.3MB/s
+      - 🇺🇸US美国2 884.5KB/s
+      - 🇺🇸US美国4 799.9KB/s
+      - 未知13 9.5MB/s
+      - 🇸🇬SG新加坡2 216.4KB/s
+      - 🇯🇵JP日本 1.0MB/s
+      - 未知16 188.3MB/s
+      - 未知23 2.2MB/s
+      - 🇺🇸US美国14 977.5KB/s
+      - 🇯🇵JP日本2 1.1MB/s
+      - 🇹🇼TW台湾 28.6KB/s
+      - 🇸🇬SG新加坡3 1.1MB/s
 
 
 rules:
