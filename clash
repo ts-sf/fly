@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-04-15 01:23:07
+# 创建时间: 2026-04-15 11:38:42
 # 使用模版: V2RaySE 默认模版
-# 节点数量：6
+# 节点数量：5
 ####################################
 #
 mixed-port: 7890
@@ -12,12 +12,11 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇺🇸US美国4 234.3KB/s","type":"ss","server":"tinkered-pennies-puppies.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"hbGrpfvNrJsUmKmPbR3iY2","skip-cert-verify":true}
-  - {"name":"未知10 7.5MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇬🇧GB英国2 562.7KB/s","type":"trojan","server":"82.26.155.121","port":10369,"alterId":0,"tls":true,"password":"n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj","sni":"fra33.chasem2026sud.com","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国13 29.2KB/s","type":"ss","server":"switcher-nick-croquet.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"wwzVn2ZnHfqYa6l8EWh3eY","skip-cert-verify":true}
-  - {"name":"未知31 576.0KB/s","type":"vmess","server":"94.232.247.165","port":45653,"cipher":"auto","uuid":"9e91d19a-c73f-4276-adbc-b337c374259c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇬🇧GB英国4 3.6MB/s","type":"ss","server":"82.38.31.208","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"k1dBOmOB4oqi7Ump37a1bQ","skip-cert-verify":true}
+  - {"name":"🇬🇧GB英国 339.8KB/s","type":"trojan","server":"82.26.155.20","port":10369,"alterId":0,"tls":true,"password":"n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj","sni":"fra35.chasem2026sud.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇬🇧GB英国2 323.5KB/s","type":"trojan","server":"82.26.155.3","port":10369,"alterId":0,"tls":true,"password":"n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj","sni":"fra34.chasem2026sud.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇬🇧GB英国3 321.0KB/s","type":"trojan","server":"82.26.155.237","port":10369,"alterId":0,"tls":true,"password":"n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj","sni":"fra5.chasem2026sud.com","skip-cert-verify":true,"udp":true}
+  - {"name":"未知21 111.8MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知26 558.8KB/s","type":"vmess","server":"94.232.247.165","port":45653,"cipher":"auto","uuid":"9e91d19a-c73f-4276-adbc-b337c374259c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -25,12 +24,11 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇸US美国4 234.3KB/s
-      - 未知10 7.5MB/s
-      - 🇬🇧GB英国2 562.7KB/s
-      - 🇺🇸US美国13 29.2KB/s
-      - 未知31 576.0KB/s
-      - 🇬🇧GB英国4 3.6MB/s
+      - 🇬🇧GB英国 339.8KB/s
+      - 🇬🇧GB英国2 323.5KB/s
+      - 🇬🇧GB英国3 321.0KB/s
+      - 未知21 111.8MB/s
+      - 未知26 558.8KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -38,12 +36,11 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸US美国4 234.3KB/s
-      - 未知10 7.5MB/s
-      - 🇬🇧GB英国2 562.7KB/s
-      - 🇺🇸US美国13 29.2KB/s
-      - 未知31 576.0KB/s
-      - 🇬🇧GB英国4 3.6MB/s
+      - 🇬🇧GB英国 339.8KB/s
+      - 🇬🇧GB英国2 323.5KB/s
+      - 🇬🇧GB英国3 321.0KB/s
+      - 未知21 111.8MB/s
+      - 未知26 558.8KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -51,48 +48,44 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸US美国4 234.3KB/s
-      - 未知10 7.5MB/s
-      - 🇬🇧GB英国2 562.7KB/s
-      - 🇺🇸US美国13 29.2KB/s
-      - 未知31 576.0KB/s
-      - 🇬🇧GB英国4 3.6MB/s
+      - 🇬🇧GB英国 339.8KB/s
+      - 🇬🇧GB英国2 323.5KB/s
+      - 🇬🇧GB英国3 321.0KB/s
+      - 未知21 111.8MB/s
+      - 未知26 558.8KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国4 234.3KB/s
-      - 未知10 7.5MB/s
-      - 🇬🇧GB英国2 562.7KB/s
-      - 🇺🇸US美国13 29.2KB/s
-      - 未知31 576.0KB/s
-      - 🇬🇧GB英国4 3.6MB/s
+      - 🇬🇧GB英国 339.8KB/s
+      - 🇬🇧GB英国2 323.5KB/s
+      - 🇬🇧GB英国3 321.0KB/s
+      - 未知21 111.8MB/s
+      - 未知26 558.8KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇸US美国4 234.3KB/s
-      - 未知10 7.5MB/s
-      - 🇬🇧GB英国2 562.7KB/s
-      - 🇺🇸US美国13 29.2KB/s
-      - 未知31 576.0KB/s
-      - 🇬🇧GB英国4 3.6MB/s
+      - 🇬🇧GB英国 339.8KB/s
+      - 🇬🇧GB英国2 323.5KB/s
+      - 🇬🇧GB英国3 321.0KB/s
+      - 未知21 111.8MB/s
+      - 未知26 558.8KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国4 234.3KB/s
-      - 未知10 7.5MB/s
-      - 🇬🇧GB英国2 562.7KB/s
-      - 🇺🇸US美国13 29.2KB/s
-      - 未知31 576.0KB/s
-      - 🇬🇧GB英国4 3.6MB/s
+      - 🇬🇧GB英国 339.8KB/s
+      - 🇬🇧GB英国2 323.5KB/s
+      - 🇬🇧GB英国3 321.0KB/s
+      - 未知21 111.8MB/s
+      - 未知26 558.8KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -116,12 +109,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸US美国4 234.3KB/s
-      - 未知10 7.5MB/s
-      - 🇬🇧GB英国2 562.7KB/s
-      - 🇺🇸US美国13 29.2KB/s
-      - 未知31 576.0KB/s
-      - 🇬🇧GB英国4 3.6MB/s
+      - 🇬🇧GB英国 339.8KB/s
+      - 🇬🇧GB英国2 323.5KB/s
+      - 🇬🇧GB英国3 321.0KB/s
+      - 未知21 111.8MB/s
+      - 未知26 558.8KB/s
 
 
 rules:
