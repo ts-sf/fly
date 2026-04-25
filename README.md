@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://1234567890@193.23.218.192:443?sni=kfm-bn0.pages.dev#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-trojan://1234567890@95.85.232.148:443?sni=kfm-bn0.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://1234567890@213.176.77.231:443?sni=kfm-bn0.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://1234567890@144.31.118.170:443?sni=kfm-bn0.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-trojan://1234567890@159.195.79.8:8443?sni=kfm-bn0.pages.dev#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://1234567890@150.241.105.185:443?sni=kfm-bn0.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://1774240c00db2b77d5a99f6540c47b69@160.16.132.38:32876?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://1234567890@144.31.188.6:443?sni=kfm-bn0.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A52
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
