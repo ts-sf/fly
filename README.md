@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.237:10369?sni=fra5.chasem2026sud.com#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%20423.5KB%2Fs
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.121:10369?sni=fra33.chasem2026sud.com#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD2%20559.9KB%2Fs
-trojan://1234567890@194.164.198.156:8443?sni=kfm-bn0.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6Ijk0LjIzMi4yNDcuMTY1IiwicG9ydCI6IjQ1NjUzIiwiaWQiOiI5ZTkxZDE5YS1jNzNmLTQyNzYtYWRiYy1iMzM3YzM3NDI1OWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
-trojan://1234567890@64.188.115.82:443?sni=kfm-bn0.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://1774240c00db2b77d5a99f6540c47b69@18.183.73.62:2001?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://1234567890@138.124.28.173:443?sni=kfm-bn0.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://1234567890@138.124.32.78:443?sni=kfm-bn0.pages.dev#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.121:10369?sni=fra33.chasem2026sud.com#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%20625.2KB%2Fs
+trojan://1234567890@138.124.229.34:443?sni=kfm-bn0.pages.dev#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD2
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
