@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-04-27 12:01:36
+# 创建时间: 2026-04-27 18:30:52
 # 使用模版: V2RaySE 默认模版
-# 节点数量：5
+# 节点数量：2
 ####################################
 #
 mixed-port: 7890
@@ -12,11 +12,8 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇬🇧GB英国8 547.5KB/s","type":"trojan","server":"82.26.155.3","port":10369,"alterId":0,"tls":true,"password":"n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj","sni":"fra34.chasem2026sud.com","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国67","type":"trojan","server":"64.188.89.147","port":443,"alterId":0,"tls":true,"password":"1234567890","sni":"kfm-bn0.pages.dev","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国68","type":"trojan","server":"94.141.123.243","port":443,"alterId":0,"tls":true,"password":"1234567890","sni":"kfm-bn0.pages.dev","skip-cert-verify":true,"udp":true}
-  - {"name":"🇩🇪DE德国27","type":"trojan","server":"152.53.138.238","port":443,"alterId":0,"tls":true,"password":"1234567890","sni":"kfm-bn0.pages.dev","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国69","type":"trojan","server":"138.124.240.36","port":443,"alterId":0,"tls":true,"password":"1234567890","sni":"kfm-bn0.pages.dev","skip-cert-verify":true,"udp":true}
+  - {"name":"🇩🇪DE德国26","type":"trojan","server":"143.20.175.77","port":443,"alterId":0,"tls":true,"password":"1234567890","sni":"kfm-bn0.pages.dev","skip-cert-verify":true,"udp":true}
+  - {"name":"🇩🇪DE德国27","type":"trojan","server":"144.31.218.10","port":443,"alterId":0,"tls":true,"password":"1234567890","sni":"kfm-bn0.pages.dev","skip-cert-verify":true,"udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -24,11 +21,8 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇬🇧GB英国8 547.5KB/s
-      - 🇺🇸US美国67
-      - 🇺🇸US美国68
+      - 🇩🇪DE德国26
       - 🇩🇪DE德国27
-      - 🇺🇸US美国69
 
   - name: ♻️ 自动选择
     type: url-test
@@ -36,11 +30,8 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇬🇧GB英国8 547.5KB/s
-      - 🇺🇸US美国67
-      - 🇺🇸US美国68
+      - 🇩🇪DE德国26
       - 🇩🇪DE德国27
-      - 🇺🇸US美国69
 
   - name: 🌍 国外媒体
     type: select
@@ -48,44 +39,32 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧GB英国8 547.5KB/s
-      - 🇺🇸US美国67
-      - 🇺🇸US美国68
+      - 🇩🇪DE德国26
       - 🇩🇪DE德国27
-      - 🇺🇸US美国69
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧GB英国8 547.5KB/s
-      - 🇺🇸US美国67
-      - 🇺🇸US美国68
+      - 🇩🇪DE德国26
       - 🇩🇪DE德国27
-      - 🇺🇸US美国69
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇬🇧GB英国8 547.5KB/s
-      - 🇺🇸US美国67
-      - 🇺🇸US美国68
+      - 🇩🇪DE德国26
       - 🇩🇪DE德国27
-      - 🇺🇸US美国69
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧GB英国8 547.5KB/s
-      - 🇺🇸US美国67
-      - 🇺🇸US美国68
+      - 🇩🇪DE德国26
       - 🇩🇪DE德国27
-      - 🇺🇸US美国69
 
   - name: 🎯 全球直连
     type: select
@@ -109,11 +88,8 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧GB英国8 547.5KB/s
-      - 🇺🇸US美国67
-      - 🇺🇸US美国68
+      - 🇩🇪DE德国26
       - 🇩🇪DE德国27
-      - 🇺🇸US美国69
 
 
 rules:
