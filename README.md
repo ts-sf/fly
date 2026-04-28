@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://1234567890@92.246.137.150:443?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A52
-trojan://1234567890@121.128.161.235:10002?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A53
-trojan://1234567890@152.53.118.28:443?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A54
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?sni=fra35.chasem2026sud.com#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
-trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?sni=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://1234567890@138.124.87.163:8443?sni=kfm-bn0.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://1234567890@144.31.191.159:8443?sni=kfm-bn0.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://1234567890@121.128.161.235:10002?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A5
+trojan://1234567890@77.110.116.7:443?sni=kfm-bn0.pages.dev#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
+trojan://1234567890@84.200.192.87:2053?sni=kfm-bn0.pages.dev#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
