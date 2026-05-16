@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A52
-trojan://BxceQaOe@18.162.145.230:11233?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://8r%3C%5B9%27l6hAO%238ZQi@43.165.190.11:42841?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://8r%3C%5B9%27l6hAO%238ZQi@162.251.82.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6InRpbWUuaXIiLCJwb3J0IjoiNDQzIiwiaWQiOiJsYXN0LXVwZGF0ZS10aW1lIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InRpbWUuaXIiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InRpbWUuaXIiLCJ0ZXN0X25hbWUiOiIzIn0=
+trojan://8r%3C%5B9%27l6hAO%238ZQi@95.163.242.189:8443?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A5
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BTElJTEFQUk8vdjJyYXlORy1Db25maWciLCJwb3J0IjoiNDQzIiwiaWQiOiJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZ2l0aHViLmNvbSIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiZ2l0aHViLmNvbSIsInRlc3RfbmFtZSI6IjIifQ==
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.50.114:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyAyLjhNQi9zIiwiYWRkIjoiMTY1LjE0MC4yMTYuMTQxIiwicG9ydCI6IjQ0MyIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMyJ9
+trojan://8r%3C%5B9%27l6hAO%238ZQi@154.17.225.73:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
