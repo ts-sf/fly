@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@38.180.233.61:443?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A52
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjE1LjIzNS44My4yMjgiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsYW1tYWxhbmQub3JnIiwidGVzdF9uYW1lIjoiMyJ9
-trojan://8r%3C%5B9%27l6hAO%238ZQi@38.180.35.88:443?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A54
-trojan://8r%3C%5B9%27l6hAO%238ZQi@146.19.84.236:2053?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A55
-trojan://8r%3C%5B9%27l6hAO%238ZQi@95.164.62.196:443?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A56
+trojan://8r%3C%5B9%27l6hAO%238ZQi@64.227.62.172:2083?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://a922dfbe65cf53c7bc225fcfeb6cedbc@16.162.22.74:11541?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://a922dfbe65cf53c7bc225fcfeb6cedbc@3.114.7.15:4840?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD%20901.7KB%2Fs
+trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A5
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
