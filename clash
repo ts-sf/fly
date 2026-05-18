@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-05-18 12:40:25
+# 创建时间: 2026-05-18 19:55:16
 # 使用模版: V2RaySE 默认模版
-# 节点数量：3
+# 节点数量：5
 ####################################
 #
 mixed-port: 7890
@@ -12,9 +12,11 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇹🇼TW台湾 630.5KB/s","type":"ss","server":"r3mrcg007147vhp.cybervena.com","port":50099,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","skip-cert-verify":true}
-  - {"name":"未知23 9.7MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇬🇧GB英国 3.3MB/s","type":"ss","server":"82.38.31.179","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"k1dBOmOB4oqi7Ump37a1bQ","skip-cert-verify":true}
+  - {"name":"未知 267.0MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇩🇪DE德国 8.0MB/s","type":"ss","server":"hackney-latest-strike.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"XUMTygEM1jVYIvysXKqA5T","skip-cert-verify":true}
+  - {"name":"🇸🇬SG新加坡4 1.0MB/s","type":"trojan","server":"165.22.248.134","port":443,"alterId":0,"tls":true,"password":"8r%3C%5B9%27l6hAO%238ZQi","sni":"Koma-YT.PAGeS.Dev","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知29 349.5KB/s","type":"vmess","server":"pq-hungary1.09vpn.com","port":80,"cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/"}}
+  - {"name":"🇺🇸US美国23 127.0KB/s","type":"ss","server":"tinkered-pennies-puppies.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"hbGrpfvNrJsUmKmPbR3iY2","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -22,9 +24,11 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇹🇼TW台湾 630.5KB/s
-      - 未知23 9.7MB/s
-      - 🇬🇧GB英国 3.3MB/s
+      - 未知 267.0MB/s
+      - 🇩🇪DE德国 8.0MB/s
+      - 🇸🇬SG新加坡4 1.0MB/s
+      - 未知29 349.5KB/s
+      - 🇺🇸US美国23 127.0KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -32,9 +36,11 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇹🇼TW台湾 630.5KB/s
-      - 未知23 9.7MB/s
-      - 🇬🇧GB英国 3.3MB/s
+      - 未知 267.0MB/s
+      - 🇩🇪DE德国 8.0MB/s
+      - 🇸🇬SG新加坡4 1.0MB/s
+      - 未知29 349.5KB/s
+      - 🇺🇸US美国23 127.0KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -42,36 +48,44 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇹🇼TW台湾 630.5KB/s
-      - 未知23 9.7MB/s
-      - 🇬🇧GB英国 3.3MB/s
+      - 未知 267.0MB/s
+      - 🇩🇪DE德国 8.0MB/s
+      - 🇸🇬SG新加坡4 1.0MB/s
+      - 未知29 349.5KB/s
+      - 🇺🇸US美国23 127.0KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇹🇼TW台湾 630.5KB/s
-      - 未知23 9.7MB/s
-      - 🇬🇧GB英国 3.3MB/s
+      - 未知 267.0MB/s
+      - 🇩🇪DE德国 8.0MB/s
+      - 🇸🇬SG新加坡4 1.0MB/s
+      - 未知29 349.5KB/s
+      - 🇺🇸US美国23 127.0KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇹🇼TW台湾 630.5KB/s
-      - 未知23 9.7MB/s
-      - 🇬🇧GB英国 3.3MB/s
+      - 未知 267.0MB/s
+      - 🇩🇪DE德国 8.0MB/s
+      - 🇸🇬SG新加坡4 1.0MB/s
+      - 未知29 349.5KB/s
+      - 🇺🇸US美国23 127.0KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇹🇼TW台湾 630.5KB/s
-      - 未知23 9.7MB/s
-      - 🇬🇧GB英国 3.3MB/s
+      - 未知 267.0MB/s
+      - 🇩🇪DE德国 8.0MB/s
+      - 🇸🇬SG新加坡4 1.0MB/s
+      - 未知29 349.5KB/s
+      - 🇺🇸US美国23 127.0KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -95,9 +109,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇹🇼TW台湾 630.5KB/s
-      - 未知23 9.7MB/s
-      - 🇬🇧GB英国 3.3MB/s
+      - 未知 267.0MB/s
+      - 🇩🇪DE德国 8.0MB/s
+      - 🇸🇬SG新加坡4 1.0MB/s
+      - 未知29 349.5KB/s
+      - 🇺🇸US美国23 127.0KB/s
 
 
 rules:
