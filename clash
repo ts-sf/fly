@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-05-19 19:31:30
+# 创建时间: 2026-05-20 02:15:42
 # 使用模版: V2RaySE 默认模版
-# 节点数量：1
+# 节点数量：2
 ####################################
 #
 mixed-port: 7890
@@ -12,7 +12,8 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知27 282.3MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US美国2 39.3MB/s","type":"ss","server":"149.28.255.6","port":816,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"GyZ5Xo0ht41vYmW3H4","skip-cert-verify":true}
+  - {"name":"未知17 9.6MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -20,7 +21,8 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知27 282.3MB/s
+      - 🇺🇸US美国2 39.3MB/s
+      - 未知17 9.6MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -28,7 +30,8 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知27 282.3MB/s
+      - 🇺🇸US美国2 39.3MB/s
+      - 未知17 9.6MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -36,28 +39,32 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知27 282.3MB/s
+      - 🇺🇸US美国2 39.3MB/s
+      - 未知17 9.6MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知27 282.3MB/s
+      - 🇺🇸US美国2 39.3MB/s
+      - 未知17 9.6MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知27 282.3MB/s
+      - 🇺🇸US美国2 39.3MB/s
+      - 未知17 9.6MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知27 282.3MB/s
+      - 🇺🇸US美国2 39.3MB/s
+      - 未知17 9.6MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -81,7 +88,8 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知27 282.3MB/s
+      - 🇺🇸US美国2 39.3MB/s
+      - 未知17 9.6MB/s
 
 
 rules:
