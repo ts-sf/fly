@@ -2,7 +2,7 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-05-20 19:20:00
+# 创建时间: 2026-05-21 02:30:52
 # 使用模版: V2RaySE 默认模版
 # 节点数量：1
 ####################################
@@ -12,7 +12,7 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知7 315.0MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知3 7.5MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -20,7 +20,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知7 315.0MB/s
+      - 未知3 7.5MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -28,7 +28,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知7 315.0MB/s
+      - 未知3 7.5MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -36,28 +36,28 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知7 315.0MB/s
+      - 未知3 7.5MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知7 315.0MB/s
+      - 未知3 7.5MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知7 315.0MB/s
+      - 未知3 7.5MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知7 315.0MB/s
+      - 未知3 7.5MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -81,7 +81,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知7 315.0MB/s
+      - 未知3 7.5MB/s
 
 
 rules:
