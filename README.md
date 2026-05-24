@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiMTA0LjI2LjE0Ljg1IiwicG9ydCI6IjgwODAiLCJpZCI6ImU4YjE1MDBiLWU5ZTgtNTQ5Mi04MzEyLWY0ZWFkZjdkMDc2NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Im5hc25ldC0xNjIxOTEwOTkuc2hhcmdoZGFpbHkuY28iLCJwYXRoIjoiL25hc25ldC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjE3Mi42NC4xNDkuMTgyIiwicG9ydCI6IjgwODAiLCJpZCI6Im5hc25ldCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im5hc25ldC01NzEyOTY0MTAyLnNoYXJnaGRhaWx5LmNvIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.189.34:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.229.253.73:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B7HR%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A
-trojan://635340b47bddf8f41c123dc6f2b5f7ce@18.181.205.14:5224?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A5
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjEwNC4yMS42OS40NCIsInBvcnQiOiI4MDgwIiwiaWQiOiJuYXNuZXQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIifQ==
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.230.196:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD%2074.5KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.47.253.227:990#%E6%9C%AA%E7%9F%A53%2059.2KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
