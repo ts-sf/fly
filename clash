@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-05-25 12:50:15
+# 创建时间: 2026-05-25 20:01:10
 # 使用模版: V2RaySE 默认模版
-# 节点数量：5
+# 节点数量：3
 ####################################
 #
 mixed-port: 7890
@@ -12,11 +12,9 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇷🇴RO罗马尼亚 27.4KB/s","type":"ss","server":"188.214.157.58","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","skip-cert-verify":true}
-  - {"name":"🇬🇧GB英国 25.4KB/s","type":"ss","server":"171.22.254.129","port":990,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","skip-cert-verify":true}
-  - {"name":"🇳🇱NL荷兰 352.0KB/s","type":"ss","server":"213.109.147.242","port":62685,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"VpKABcOpNNA0l5G2AVOmw8","skip-cert-verify":true}
-  - {"name":"未知17 2.6MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知20 306.2KB/s","type":"vmess","server":"pq-hungary1.09vpn.com","port":80,"cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/"}}
+  - {"name":"🇺🇸US美国 547.2KB/s","type":"vmess","server":"v30.hdacd.com","port":30830,"cipher":"auto","uuid":"cbb3f877-d1fb-344c-87a9-d153bffd5484","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知14 32.2MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知26 131.8KB/s","type":"vmess","server":"pq-hungary1.09vpn.com","port":80,"cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/"}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -24,11 +22,9 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇷🇴RO罗马尼亚 27.4KB/s
-      - 🇬🇧GB英国 25.4KB/s
-      - 🇳🇱NL荷兰 352.0KB/s
-      - 未知17 2.6MB/s
-      - 未知20 306.2KB/s
+      - 🇺🇸US美国 547.2KB/s
+      - 未知14 32.2MB/s
+      - 未知26 131.8KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -36,11 +32,9 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇷🇴RO罗马尼亚 27.4KB/s
-      - 🇬🇧GB英国 25.4KB/s
-      - 🇳🇱NL荷兰 352.0KB/s
-      - 未知17 2.6MB/s
-      - 未知20 306.2KB/s
+      - 🇺🇸US美国 547.2KB/s
+      - 未知14 32.2MB/s
+      - 未知26 131.8KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -48,44 +42,36 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇷🇴RO罗马尼亚 27.4KB/s
-      - 🇬🇧GB英国 25.4KB/s
-      - 🇳🇱NL荷兰 352.0KB/s
-      - 未知17 2.6MB/s
-      - 未知20 306.2KB/s
+      - 🇺🇸US美国 547.2KB/s
+      - 未知14 32.2MB/s
+      - 未知26 131.8KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇷🇴RO罗马尼亚 27.4KB/s
-      - 🇬🇧GB英国 25.4KB/s
-      - 🇳🇱NL荷兰 352.0KB/s
-      - 未知17 2.6MB/s
-      - 未知20 306.2KB/s
+      - 🇺🇸US美国 547.2KB/s
+      - 未知14 32.2MB/s
+      - 未知26 131.8KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇷🇴RO罗马尼亚 27.4KB/s
-      - 🇬🇧GB英国 25.4KB/s
-      - 🇳🇱NL荷兰 352.0KB/s
-      - 未知17 2.6MB/s
-      - 未知20 306.2KB/s
+      - 🇺🇸US美国 547.2KB/s
+      - 未知14 32.2MB/s
+      - 未知26 131.8KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇷🇴RO罗马尼亚 27.4KB/s
-      - 🇬🇧GB英国 25.4KB/s
-      - 🇳🇱NL荷兰 352.0KB/s
-      - 未知17 2.6MB/s
-      - 未知20 306.2KB/s
+      - 🇺🇸US美国 547.2KB/s
+      - 未知14 32.2MB/s
+      - 未知26 131.8KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -109,11 +95,9 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇷🇴RO罗马尼亚 27.4KB/s
-      - 🇬🇧GB英国 25.4KB/s
-      - 🇳🇱NL荷兰 352.0KB/s
-      - 未知17 2.6MB/s
-      - 未知20 306.2KB/s
+      - 🇺🇸US美国 547.2KB/s
+      - 未知14 32.2MB/s
+      - 未知26 131.8KB/s
 
 
 rules:
