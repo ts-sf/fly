@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-05-26 12:24:55
+# 创建时间: 2026-05-27 02:37:01
 # 使用模版: V2RaySE 默认模版
-# 节点数量：6
+# 节点数量：1
 ####################################
 #
 mixed-port: 7890
@@ -12,12 +12,7 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇺🇸US美国 780.9KB/s","type":"ss","server":"82.38.31.179","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"k1dBOmOB4oqi7Ump37a1bQ","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国6 38.9KB/s","type":"ss","server":"hackney-latest-strike.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"XUMTygEM1jVYIvysXKqA5T","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国9 93.9KB/s","type":"ss","server":"195.133.2.2","port":34898,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"D1oFY5dskhFuI8PNbSA35s","skip-cert-verify":true}
-  - {"name":"未知16 153.4MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US美国13 762.0KB/s","type":"ss","server":"193.29.139.151","port":8080,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"oZIoA69Q8yhcQV8ka3Pa3A","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国21 118.4KB/s","type":"ss","server":"tinkered-pennies-puppies.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"hbGrpfvNrJsUmKmPbR3iY2","skip-cert-verify":true}
+  - {"name":"未知18 2.0MB/s","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -25,12 +20,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇸US美国 780.9KB/s
-      - 🇺🇸US美国6 38.9KB/s
-      - 🇺🇸US美国9 93.9KB/s
-      - 未知16 153.4MB/s
-      - 🇺🇸US美国13 762.0KB/s
-      - 🇺🇸US美国21 118.4KB/s
+      - 未知18 2.0MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -38,12 +28,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸US美国 780.9KB/s
-      - 🇺🇸US美国6 38.9KB/s
-      - 🇺🇸US美国9 93.9KB/s
-      - 未知16 153.4MB/s
-      - 🇺🇸US美国13 762.0KB/s
-      - 🇺🇸US美国21 118.4KB/s
+      - 未知18 2.0MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -51,48 +36,28 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸US美国 780.9KB/s
-      - 🇺🇸US美国6 38.9KB/s
-      - 🇺🇸US美国9 93.9KB/s
-      - 未知16 153.4MB/s
-      - 🇺🇸US美国13 762.0KB/s
-      - 🇺🇸US美国21 118.4KB/s
+      - 未知18 2.0MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国 780.9KB/s
-      - 🇺🇸US美国6 38.9KB/s
-      - 🇺🇸US美国9 93.9KB/s
-      - 未知16 153.4MB/s
-      - 🇺🇸US美国13 762.0KB/s
-      - 🇺🇸US美国21 118.4KB/s
+      - 未知18 2.0MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇸US美国 780.9KB/s
-      - 🇺🇸US美国6 38.9KB/s
-      - 🇺🇸US美国9 93.9KB/s
-      - 未知16 153.4MB/s
-      - 🇺🇸US美国13 762.0KB/s
-      - 🇺🇸US美国21 118.4KB/s
+      - 未知18 2.0MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸US美国 780.9KB/s
-      - 🇺🇸US美国6 38.9KB/s
-      - 🇺🇸US美国9 93.9KB/s
-      - 未知16 153.4MB/s
-      - 🇺🇸US美国13 762.0KB/s
-      - 🇺🇸US美国21 118.4KB/s
+      - 未知18 2.0MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -116,12 +81,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸US美国 780.9KB/s
-      - 🇺🇸US美国6 38.9KB/s
-      - 🇺🇸US美国9 93.9KB/s
-      - 未知16 153.4MB/s
-      - 🇺🇸US美国13 762.0KB/s
-      - 🇺🇸US美国21 118.4KB/s
+      - 未知18 2.0MB/s
 
 
 rules:
