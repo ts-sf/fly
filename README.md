@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://humanity@188.114.96.4:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://BxceQaOe@35.77.230.224:4327?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
-trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@16.163.157.10:6604?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@95.40.49.62:3135?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjE4NS4xNjguMTk1LjIxMSIsInBvcnQiOiIyOTY3OSIsImlkIjoiZGNiZTk0M2UtN2YxMi00NGIwLTgyZWMtYzYxZTRiMGJlNDEwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%2037.7KB%2Fs
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@218.150.34.228:10912?sni=vpn1.rnmcnm.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
