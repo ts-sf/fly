@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-05-29 19:41:15
+# 创建时间: 2026-05-30 02:42:46
 # 使用模版: V2RaySE 默认模版
-# 节点数量：7
+# 节点数量：4
 ####################################
 #
 mixed-port: 7890
@@ -12,13 +12,10 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知 182.6KB/s","type":"vmess","server":"172.232.103.186","port":22324,"cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇩🇪DE德国 127.9KB/s","type":"ss","server":"hackney-latest-strike.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"XUMTygEM1jVYIvysXKqA5T","skip-cert-verify":true}
-  - {"name":"未知5 95.2MB/s","type":"vmess","server":"82.198.246.9","port":180,"cipher":"auto","uuid":"d13fc2f5-3e05-4795-81eb-44143a09e552","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知11 367.6KB/s","type":"vmess","server":"yd3.ainivp.com","port":33402,"cipher":"auto","uuid":"9204afcd-026e-781f-1abc-c03efabd1344","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ray","headers":{"host":"yd3.ainivp.com"}}}
-  - {"name":"未知17 253.3KB/s","type":"vmess","server":"uk.connfull.org","port":2053,"cipher":"auto","uuid":"d64d52b1-144f-4bce-a6d7-1324de187b1b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US美国14 126.1KB/s","type":"ss","server":"tinkered-pennies-puppies.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"hbGrpfvNrJsUmKmPbR3iY2","skip-cert-verify":true}
-  - {"name":"未知19 3.2MB/s","type":"vmess","server":"66.163.117.58","port":22324,"cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知8 278.9KB/s","type":"vmess","server":"uk.connfull.org","port":2053,"cipher":"auto","uuid":"d64d52b1-144f-4bce-a6d7-1324de187b1b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US美国9 409.9KB/s","type":"ss","server":"149.104.109.74","port":21273,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"Ll6cYfXM5DzQbdtMMb72A_jqVnNljU3yqe","skip-cert-verify":true}
+  - {"name":"未知11 2.5MB/s","type":"vmess","server":"66.163.117.58","port":22324,"cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知17 92.4MB/s","type":"vmess","server":"82.198.246.9","port":180,"cipher":"auto","uuid":"d13fc2f5-3e05-4795-81eb-44143a09e552","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -26,13 +23,10 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知 182.6KB/s
-      - 🇩🇪DE德国 127.9KB/s
-      - 未知5 95.2MB/s
-      - 未知11 367.6KB/s
-      - 未知17 253.3KB/s
-      - 🇺🇸US美国14 126.1KB/s
-      - 未知19 3.2MB/s
+      - 未知8 278.9KB/s
+      - 🇺🇸US美国9 409.9KB/s
+      - 未知11 2.5MB/s
+      - 未知17 92.4MB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -40,13 +34,10 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知 182.6KB/s
-      - 🇩🇪DE德国 127.9KB/s
-      - 未知5 95.2MB/s
-      - 未知11 367.6KB/s
-      - 未知17 253.3KB/s
-      - 🇺🇸US美国14 126.1KB/s
-      - 未知19 3.2MB/s
+      - 未知8 278.9KB/s
+      - 🇺🇸US美国9 409.9KB/s
+      - 未知11 2.5MB/s
+      - 未知17 92.4MB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -54,52 +45,40 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知 182.6KB/s
-      - 🇩🇪DE德国 127.9KB/s
-      - 未知5 95.2MB/s
-      - 未知11 367.6KB/s
-      - 未知17 253.3KB/s
-      - 🇺🇸US美国14 126.1KB/s
-      - 未知19 3.2MB/s
+      - 未知8 278.9KB/s
+      - 🇺🇸US美国9 409.9KB/s
+      - 未知11 2.5MB/s
+      - 未知17 92.4MB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知 182.6KB/s
-      - 🇩🇪DE德国 127.9KB/s
-      - 未知5 95.2MB/s
-      - 未知11 367.6KB/s
-      - 未知17 253.3KB/s
-      - 🇺🇸US美国14 126.1KB/s
-      - 未知19 3.2MB/s
+      - 未知8 278.9KB/s
+      - 🇺🇸US美国9 409.9KB/s
+      - 未知11 2.5MB/s
+      - 未知17 92.4MB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知 182.6KB/s
-      - 🇩🇪DE德国 127.9KB/s
-      - 未知5 95.2MB/s
-      - 未知11 367.6KB/s
-      - 未知17 253.3KB/s
-      - 🇺🇸US美国14 126.1KB/s
-      - 未知19 3.2MB/s
+      - 未知8 278.9KB/s
+      - 🇺🇸US美国9 409.9KB/s
+      - 未知11 2.5MB/s
+      - 未知17 92.4MB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知 182.6KB/s
-      - 🇩🇪DE德国 127.9KB/s
-      - 未知5 95.2MB/s
-      - 未知11 367.6KB/s
-      - 未知17 253.3KB/s
-      - 🇺🇸US美国14 126.1KB/s
-      - 未知19 3.2MB/s
+      - 未知8 278.9KB/s
+      - 🇺🇸US美国9 409.9KB/s
+      - 未知11 2.5MB/s
+      - 未知17 92.4MB/s
 
   - name: 🎯 全球直连
     type: select
@@ -123,13 +102,10 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知 182.6KB/s
-      - 🇩🇪DE德国 127.9KB/s
-      - 未知5 95.2MB/s
-      - 未知11 367.6KB/s
-      - 未知17 253.3KB/s
-      - 🇺🇸US美国14 126.1KB/s
-      - 未知19 3.2MB/s
+      - 未知8 278.9KB/s
+      - 🇺🇸US美国9 409.9KB/s
+      - 未知11 2.5MB/s
+      - 未知17 92.4MB/s
 
 
 rules:
