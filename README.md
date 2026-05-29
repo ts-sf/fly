@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@16.163.29.124:11541?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoieWljaHVlbmcub3JnIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoieWljaHVlbmcub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ5aWNodWVuZy5vcmciLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
-trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@52.69.114.14:2663?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiMTUuMjM1LjgzLjIyOCIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImxhbW1hbGFuZC5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6InRpbWUuaXIiLCJwb3J0IjoiNDQzIiwiaWQiOiJsYXN0LXVwZGF0ZS10aW1lIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InRpbWUuaXIiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InRpbWUuaXIiLCJ0ZXN0X25hbWUiOiIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjE2MS4yNDguMzAuMyIsInBvcnQiOiIyMDA4NiIsImlkIjoiMTAwNmE5MjgtMjAyMS00YTNiLWJlYjUtZDU4NTNjNjI4MWM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
+trojan://mitivpn@14.102.228.76:443?security=tls&type=ws&sni=www.app-cloud.ir&path=/http/1.1#%E6%9C%AA%E7%9F%A54
+trojan://humanity@104.17.121.71:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
