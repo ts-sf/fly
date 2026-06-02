@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://BxceQaOe@18.183.163.141:4099?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
-trojan://d84665c37878196ecf983cf6910e3b44@18.163.33.60:3842?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%206.8MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiMTYxLjI0OC4zMC4zIiwicG9ydCI6IjIwMDg2IiwiaWQiOiIxMDA2YTkyOC0yMDIxLTRhM2ItYmViNS1kNTg1M2M2MjgxYzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IuacquefpSJ9
-trojan://d84665c37878196ecf983cf6910e3b44@18.163.33.60:5224?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?sni=vpn5.rnmcnm.com#%E6%9C%AA%E7%9F%A52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%20342.4KB%2Fs
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%20917.7KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
