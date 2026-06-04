@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?security=tls&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc#%E6%9C%AA%E7%9F%A5
-trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?sni=yazhou10.dynu.net#%E6%9C%AA%E7%9F%A52
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@218.152.227.25:12000?sni=vpn.rnmcnm.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?sni=az.01.naiun.bilibili.com#%F0%9F%87%A6%F0%9F%87%BFAZ%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://humanity@162.159.195.173:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A52
+trojan://Config0plus@45.130.125.76:443?security=tls&type=ws&sni=unnes.ac.id.cyylr.eu.cc&path=/sg-melbi&host=unnes.ac.id.cyylr.eu.cc#%E6%9C%AA%E7%9F%A53
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6InlpY2h1ZW5nLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoieWljaHVlbmcub3JnIiwidGVzdF9uYW1lIjoiNCJ9
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
