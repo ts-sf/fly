@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://humanity@162.159.195.173:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A52
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6InlpY2h1ZW5nLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoieWljaHVlbmcub3JnIiwidGVzdF9uYW1lIjoiMyJ9
-trojan://humanity@45.130.125.96:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A54
-trojan://humanity@66.81.247.155:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A55
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net#%E6%9C%AA%E7%9F%A52%201.5MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6InRpbWUuaXIiLCJwb3J0IjoiNDQzIiwiaWQiOiJsYXN0LXVwZGF0ZS10aW1lIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InRpbWUuaXIiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InRpbWUuaXIiLCJ0ZXN0X25hbWUiOiIzIn0=
+trojan://BxceQaOe@18.166.154.20:22057?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?sni=yazhou10.dynu.net#%E6%9C%AA%E7%9F%A54
+trojan://humanity@104.17.121.71:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%E6%9C%AA%E7%9F%A55
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
