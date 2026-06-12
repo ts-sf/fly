@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-06-12 13:01:30
+# 创建时间: 2026-06-12 19:53:25
 # 使用模版: V2RaySE 默认模版
-# 节点数量：3
+# 节点数量：2
 ####################################
 #
 mixed-port: 7890
@@ -12,9 +12,8 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇩🇪DE德国 153.9KB/s","type":"ss","server":"hackney-latest-strike.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"XUMTygEM1jVYIvysXKqA5T","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国26 260.9KB/s","type":"ss","server":"tinkered-pennies-puppies.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"hbGrpfvNrJsUmKmPbR3iY2","skip-cert-verify":true}
-  - {"name":"🇫🇷FR法国2 6.2MB/s","type":"trojan","server":"217.69.2.107","port":443,"alterId":0,"tls":true,"password":"YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh","sni":"www.weavenet.click","skip-cert-verify":true,"udp":true}
+  - {"name":"🇩🇪DE德国 179.2KB/s","type":"ss","server":"hackney-latest-strike.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"XUMTygEM1jVYIvysXKqA5T","skip-cert-verify":true}
+  - {"name":"🇺🇸US美国10 148.9KB/s","type":"ss","server":"tinkered-pennies-puppies.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"hbGrpfvNrJsUmKmPbR3iY2","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -22,9 +21,8 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇩🇪DE德国 153.9KB/s
-      - 🇺🇸US美国26 260.9KB/s
-      - 🇫🇷FR法国2 6.2MB/s
+      - 🇩🇪DE德国 179.2KB/s
+      - 🇺🇸US美国10 148.9KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -32,9 +30,8 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇩🇪DE德国 153.9KB/s
-      - 🇺🇸US美国26 260.9KB/s
-      - 🇫🇷FR法国2 6.2MB/s
+      - 🇩🇪DE德国 179.2KB/s
+      - 🇺🇸US美国10 148.9KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -42,36 +39,32 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇩🇪DE德国 153.9KB/s
-      - 🇺🇸US美国26 260.9KB/s
-      - 🇫🇷FR法国2 6.2MB/s
+      - 🇩🇪DE德国 179.2KB/s
+      - 🇺🇸US美国10 148.9KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇩🇪DE德国 153.9KB/s
-      - 🇺🇸US美国26 260.9KB/s
-      - 🇫🇷FR法国2 6.2MB/s
+      - 🇩🇪DE德国 179.2KB/s
+      - 🇺🇸US美国10 148.9KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇩🇪DE德国 153.9KB/s
-      - 🇺🇸US美国26 260.9KB/s
-      - 🇫🇷FR法国2 6.2MB/s
+      - 🇩🇪DE德国 179.2KB/s
+      - 🇺🇸US美国10 148.9KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇩🇪DE德国 153.9KB/s
-      - 🇺🇸US美国26 260.9KB/s
-      - 🇫🇷FR法国2 6.2MB/s
+      - 🇩🇪DE德国 179.2KB/s
+      - 🇺🇸US美国10 148.9KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -95,9 +88,8 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇩🇪DE德国 153.9KB/s
-      - 🇺🇸US美国26 260.9KB/s
-      - 🇫🇷FR法国2 6.2MB/s
+      - 🇩🇪DE德国 179.2KB/s
+      - 🇺🇸US美国10 148.9KB/s
 
 
 rules:
