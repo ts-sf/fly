@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@47.79.37.210:443#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@35.72.81.216:443#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
-trojan://d02e3bb7e6b3333e818d36866d40de6e@95.40.109.247:5701?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
-ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@54.248.143.139:443#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&headerType=none&type=tcp&sni=www.directorypipeline.click#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%203.3MB%2Fs
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.44:46424?sni=de.01.naiun.bilibili.com#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD2
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.43:46424?sni=de.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:48697?sni=gh.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:46424?sni=de.01.naiun.bilibili.com#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD3
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
