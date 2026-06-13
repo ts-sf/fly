@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoic2Vya2F0Lm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InNlcmthdC5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmthdC5vcmciLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
-trojan://407ecce0-dc85-465f-89f5-e520e9378baf@104.17.238.76:443?sni=ld.223350.xyz#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
-trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com#%F0%9F%87%A7%F0%9F%87%B7BR%E5%B7%B4%E8%A5%BF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net#%E6%9C%AA%E7%9F%A52
+trojan://d02e3bb7e6b3333e818d36866d40de6e@95.40.55.96:55973?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34450?sni=tt1.sonofthewinds.com#%E6%9C%AA%E7%9F%A5
+trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A52
+trojan://d02e3bb7e6b3333e818d36866d40de6e@16.162.192.48:2008?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://BxceQaOe@16.163.154.228:45744?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
