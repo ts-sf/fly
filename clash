@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-06-18 13:01:40
+# 创建时间: 2026-06-18 19:58:16
 # 使用模版: V2RaySE 默认模版
-# 节点数量：4
+# 节点数量：2
 ####################################
 #
 mixed-port: 7890
@@ -12,10 +12,8 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇷🇴RO罗马尼亚 3.9MB/s","type":"trojan","server":"185.137.157.59","port":443,"alterId":0,"tls":true,"password":"fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX","sni":"www.lateralio.click","skip-cert-verify":true,"udp":true}
-  - {"name":"🇺🇸US美国18 471.2KB/s","type":"ss","server":"tinkered-pennies-puppies.freesocks.work","port":443,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"hbGrpfvNrJsUmKmPbR3iY2","skip-cert-verify":true}
-  - {"name":"🇬🇧GB英国3 541.4KB/s","type":"ss","server":"148.253.208.76","port":3478,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"yu2XnSPWhmQjxn83iJA3DA","skip-cert-verify":true}
-  - {"name":"🇺🇸US美国23 391.3KB/s","type":"trojan","server":"38.54.13.189","port":443,"alterId":0,"tls":true,"password":"lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi","sni":"38.54.13.189","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸US美国5 113.3KB/s","type":"trojan","server":"130.94.94.15","port":443,"alterId":0,"tls":true,"password":"tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR","sni":"130.94.94.15","skip-cert-verify":true,"network":"tcp","udp":true}
+  - {"name":"🇺🇸US美国9 225.9KB/s","type":"trojan","server":"130.94.78.17","port":443,"alterId":0,"tls":true,"password":"PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v","skip-cert-verify":true,"udp":true}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -23,10 +21,8 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇷🇴RO罗马尼亚 3.9MB/s
-      - 🇺🇸US美国18 471.2KB/s
-      - 🇬🇧GB英国3 541.4KB/s
-      - 🇺🇸US美国23 391.3KB/s
+      - 🇺🇸US美国5 113.3KB/s
+      - 🇺🇸US美国9 225.9KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -34,10 +30,8 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇷🇴RO罗马尼亚 3.9MB/s
-      - 🇺🇸US美国18 471.2KB/s
-      - 🇬🇧GB英国3 541.4KB/s
-      - 🇺🇸US美国23 391.3KB/s
+      - 🇺🇸US美国5 113.3KB/s
+      - 🇺🇸US美国9 225.9KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -45,40 +39,32 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇷🇴RO罗马尼亚 3.9MB/s
-      - 🇺🇸US美国18 471.2KB/s
-      - 🇬🇧GB英国3 541.4KB/s
-      - 🇺🇸US美国23 391.3KB/s
+      - 🇺🇸US美国5 113.3KB/s
+      - 🇺🇸US美国9 225.9KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇷🇴RO罗马尼亚 3.9MB/s
-      - 🇺🇸US美国18 471.2KB/s
-      - 🇬🇧GB英国3 541.4KB/s
-      - 🇺🇸US美国23 391.3KB/s
+      - 🇺🇸US美国5 113.3KB/s
+      - 🇺🇸US美国9 225.9KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇷🇴RO罗马尼亚 3.9MB/s
-      - 🇺🇸US美国18 471.2KB/s
-      - 🇬🇧GB英国3 541.4KB/s
-      - 🇺🇸US美国23 391.3KB/s
+      - 🇺🇸US美国5 113.3KB/s
+      - 🇺🇸US美国9 225.9KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇷🇴RO罗马尼亚 3.9MB/s
-      - 🇺🇸US美国18 471.2KB/s
-      - 🇬🇧GB英国3 541.4KB/s
-      - 🇺🇸US美国23 391.3KB/s
+      - 🇺🇸US美国5 113.3KB/s
+      - 🇺🇸US美国9 225.9KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -102,10 +88,8 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇷🇴RO罗马尼亚 3.9MB/s
-      - 🇺🇸US美国18 471.2KB/s
-      - 🇬🇧GB英国3 541.4KB/s
-      - 🇺🇸US美国23 391.3KB/s
+      - 🇺🇸US美国5 113.3KB/s
+      - 🇺🇸US美国9 225.9KB/s
 
 
 rules:
