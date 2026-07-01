@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://humanity@104.18.152.143:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?security=tls#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjU3LjE1MS4xMDAuMjciLCJwb3J0IjoiMTAwODYiLCJpZCI6IjU1MGU4NDAwLWUyOWItNDFkNC1hNzE2LTQ0NjY1NTQ0MDAwMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIifQ==
-trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A53
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:47803?sni=d.usj1.cat.bilibili.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
+trojan://82c038b55e40ca2613b76bb98c7f6d1f@16.163.56.164:2008?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6ImRlNS50YXNrZmxvd2h1Yi5vcmciLCJwb3J0IjoiMjA4NyIsImlkIjoiMDFjY2ZhN2EtOGRlNy00NTFkLWJkNDEtMTk1N2FjYWJhMTVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZGU1LnRhc2tmbG93aHViLm9yZyIsInBhdGgiOiIvcmVhbHRpbWUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJkZTUudGFza2Zsb3dodWIub3JnIiwidGVzdF9uYW1lIjoiMiJ9
+trojan://82c038b55e40ca2613b76bb98c7f6d1f@43.199.41.146:37973?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+vmess://eyJ2IjoiMiIsInBzIjoiSEsiLCJhZGQiOiJlMDM0OWE1Mi1zdjhjZzAtdDd1aW5mLWk4aWUuaGszLnA1cHYuY29tIiwicG9ydCI6IjgwIiwiaWQiOiI5OTBlOGYzNC1iZDRmLTExZWYtYmRiOS1mMjNjOTFjZmJiYzkiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiSEsifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IlRNX0FaQVJCQVlKQUIxLlNFUlYuOS5wYWdFUy5ERVYiLCJwb3J0IjoiODAiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InRyMS1zbWFydC5hZGVscGluZy5jb20iLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEvP2RlPTI1NjAiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
