@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://humanity@104.16.250.22:443?type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A52
-trojan://humanity@202.37.33.80:443?type=ws&sni=www.creationlong.org&path=/assignment#%E6%9C%AA%E7%9F%A53
-trojan://humanity@199.181.197.111:443?type=ws&sni=www.calmloud.com&path=/assignment#%E6%9C%AA%E7%9F%A54
-trojan://humanity@104.25.112.190:443?type=ws&sni=www.gossipglove.com&path=/assignment#%E6%9C%AA%E7%9F%A55
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNiA4MC42TUIvcyIsImFkZCI6IjgyLjE5OC4yNDYuMjMzIiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJITC1GUkVFRE9NLTEuVU5ERUYuTkVUV09SSyIsInBhdGgiOiIvZjJmYzJhMWYiLCJ0bHMiOiIiLCJzbmkiOiJITC1GUkVFRE9NLTEuVU5ERUYuTkVUV09SSyIsInRlc3RfbmFtZSI6IjYifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNjhjOGY0NjItODQ2OC00OTMxLTkwYTgtNjgwYzNkNmNiM2MxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbSIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IuacquefpSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSEsiLCJhZGQiOiJlMDM0OWE1Mi1zdjhjZzAtdDd1aW5mLWk4aWUuaGszLnA1cHYuY29tIiwicG9ydCI6IjgwIiwiaWQiOiI5OTBlOGYzNC1iZDRmLTExZWYtYmRiOS1mMjNjOTFjZmJiYzkiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiSEsifQ==
+trojan://humanity@104.16.147.104:443?type=ws&sni=www.creationlong.org&path=/assignment#%E6%9C%AA%E7%9F%A52
+trojan://MiTiVPN@104.21.33.129:443?security=tls&type=ws&sni=Fo-F-lL.MaQror.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Fl&host=F-l.MaQror.ir#%E6%9C%AA%E7%9F%A53
+trojan://humanity@104.17.177.143:443?type=ws&sni=www.ignitelimit.com&path=/assignment#%E6%9C%AA%E7%9F%A54
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
