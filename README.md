@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://humanity@172.64.147.24:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A52
-trojan://humanity@45.130.125.158:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A53
-trojan://MiTiVPN@167.82.101.252:443?security=tls&type=ws&sni=ssl.fastly.com&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=sw&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjE1OS44OS4yOS4xMzYiLCJwb3J0IjoiODAiLCJpZCI6ImQyMGQ2ZWRlLTQzM2MtMTFlZC1iODFmLWNmZDkwNWRmOTk1OCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImN4LmNvbSIsInBhdGgiOiIvdm1lc3MiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0In0=
-trojan://humanity@104.18.152.54:443?type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A55
+trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?sni=vpn5.rnmcnm.com#%E6%9C%AA%E7%9F%A52
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjUxLjE5NS4yMzUuNzEiLCJwb3J0IjoiMjA1MiIsImlkIjoiNTllMjhmNzgtYzMxYi00NjEzLTlkOWYtMWU2NzMyYTMxZjQ2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjEwNC4xNi45MC4xMjAiLCJwb3J0IjoiODQ0MyIsImlkIjoiMDFjMDUzMGYtMTY4ZC00NjQ1LWE3NGMtZjJiM2IwMTVjMjE3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0Ijoibm9kZS1kZS0xLmU0ZTNlMi50b3AiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoibm9kZS1kZS0xLmU0ZTNlMi50b3AiLCJ0ZXN0X25hbWUiOiI0In0=
+vmess://eyJ2IjoiMiIsInBzIjoiSEsiLCJhZGQiOiIxMzEuMTg2LjYzLjg5IiwicG9ydCI6IjExNjU1IiwiaWQiOiI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJoay5uYmVlLnBwLnVhIiwicGF0aCI6Ii9hYSIsInRscyI6InRscyIsInNuaSI6ImhrLm5iZWUucHAudWEiLCJ0ZXN0X25hbWUiOiJISyJ9
+trojan://humanity@172.64.146.127:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
