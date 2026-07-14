@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjUuNzUuMjQ5LjI1MyIsInBvcnQiOiI0NzU1MCIsImlkIjoiNjEwM2U3OTItNDE5Mi00MzkwLThlMWEtNjEyNGZhZDFhYTNlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJzZXJpYnVzLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0ZXN0X25hbWUiOiIzIn0=
-trojan://humanity@104.19.230.21:443?type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A54
+trojan://BxceQaOe@18.166.58.225:32434?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://BxceQaOe@95.40.50.170:27161?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
 vmess://eyJ2IjoiMiIsInBzIjoiVVMiLCJhZGQiOiJjZmNkbjIuc2FuZmVuY2RuOS5jb20iLCJwb3J0IjoiMjA1MiIsImlkIjoiOWViYjA5ZWYtY2U2OS00YmJiLWJhOGYtM2JlNmM1MmVmOWMyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InppZnN0emFtaGsxLnlvZm5oa2ZjLnh5eiIsInBhdGgiOiIvdmlkZW8vVnVERmRrdHoiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUyJ9
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSAyNTYuNE1CL3MiLCJhZGQiOiI4Mi4xOTguMjQ2LjkiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvQFByb3h5VlBOMTEiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1In0=
+trojan://MiTiVPN@170.114.45.6:443?security=tls&type=ws&sni=nlandif-o-nhdl.MaQror.IR&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NL-55&host=n-la-nbvjad.MaQror.IR#%E6%9C%AA%E7%9F%A52
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjE1Mi42OS4xOTcuNzQiLCJwb3J0IjoiMTIzNDUiLCJpZCI6ImI4YTZiZjU4LTQ4NWEtNDA0Ni1iMzg2LWIzNjYxYmY2NWVmZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvYmIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
