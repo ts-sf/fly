@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?#%E6%9C%AA%E7%9F%A53%201.4MB%2Fs
-trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?#%E6%9C%AA%E7%9F%A55%201.3MB%2Fs
-trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?#%E6%9C%AA%E7%9F%A56%201.3MB%2Fs
-trojan://KV63147582@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos#%E6%9C%AA%E7%9F%A57%20315.3KB%2Fs
-trojan://KV63147582@electric-sturgeon.rooster465.autos:443?sni=electric-sturgeon.rooster465.autos#HK%20580.4KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiAyNy43TUIvcyIsImFkZCI6IjgyLjE5OC4yNDYuMzciLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6ImZyYTUuY2hhc2VtMjAyNnN1ZC5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6ImZyYTUuY2hhc2VtMjAyNnN1ZC5jb20iLCJ0ZXN0X25hbWUiOiIyIn0=
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?#%E6%9C%AA%E7%9F%A53%2016.1MB%2Fs
+trojan://CF68213490@tolerant-rattler.rooster465.autos:443?type=tcp&sni=tolerant-rattler.rooster465.autos#US2%207.4MB%2Fs
+trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?#%E6%9C%AA%E7%9F%A59%204.9MB%2Fs
+trojan://KV63147582@electric-sturgeon.rooster465.autos:443?sni=electric-sturgeon.rooster465.autos#HK%20377.9KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
