@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NQ26071394@sharing-porpoise.rooster465.autos:443?sni=sharing-porpoise.rooster465.autos#US%2043.1MB%2Fs
-trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos#%E6%9C%AA%E7%9F%A52%201.8MB%2Fs
-trojan://XG59623478@growing-oyster.rooster465.autos:443?#HK
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6ImlwYS54bi0tMjIwYmE4NGFtNmc5OXdpaGdpbGF1M2FyMWcuaW5mbyIsInBvcnQiOiIyMDUzIiwiaWQiOiJiMDQ4NjhmMC1iNTRkLTRmNDgtYWFkNC1lNTU0M2QwM2M5MDkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJjZG4ueG4tLTIyMGJhODRhbTZnOTl3aWhnaWxhdTNhcjFnLmluZm8iLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6ImNkbi54bi0tMjIwYmE4NGFtNmc5OXdpaGdpbGF1M2FyMWcuaW5mbyIsInRlc3RfbmFtZSI6IjMifQ==
-trojan://humanity@216.24.57.7:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A54
+trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?#%E6%9C%AA%E7%9F%A52%202.7MB%2Fs
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A53
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjE4NS4xMDQuMTg5LjM4IiwicG9ydCI6IjgwIiwiaWQiOiI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIxODUuMTA0LjE4OS4zOCIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMS8/ZGU9MjU2MCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQifQ==
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?#%E6%9C%AA%E7%9F%A55%202.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6%20508.9KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
