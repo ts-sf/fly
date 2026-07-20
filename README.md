@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?#%E6%9C%AA%E7%9F%A52%202.7MB%2Fs
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A53
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjE4NS4xMDQuMTg5LjM4IiwicG9ydCI6IjgwIiwiaWQiOiI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIxODUuMTA0LjE4OS4zOCIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMS8/ZGU9MjU2MCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQifQ==
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?#%E6%9C%AA%E7%9F%A55%202.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6%20508.9KB%2Fs
+trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A52
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?#%E6%9C%AA%E7%9F%A53%201.4MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjE1LjIzNS44My4yMjgiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsYW1tYWxhbmQub3JnIiwidGVzdF9uYW1lIjoiNCJ9
+trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?#%E6%9C%AA%E7%9F%A55%201.3MB%2Fs
+trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?#%E6%9C%AA%E7%9F%A56%201.3MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
