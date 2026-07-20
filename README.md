@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A52
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?#%E6%9C%AA%E7%9F%A53%201.4MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCIsImFkZCI6IjE1LjIzNS44My4yMjgiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsYW1tYWxhbmQub3JnIiwidGVzdF9uYW1lIjoiNCJ9
-trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?#%E6%9C%AA%E7%9F%A55%201.3MB%2Fs
-trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?#%E6%9C%AA%E7%9F%A56%201.3MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoidGcuaHJtcC5rZG5zLmZyIiwicG9ydCI6Ijg0NDMiLCJpZCI6ImFmMWNjZDg5LWI2NmItNDRlOC05OWI4LTBkOTQ1MDc4YzA0YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InRnLmhybXAua2Rucy5mciIsInBhdGgiOiIvdGlyZXh2bWVzcyIsInRscyI6InRscyIsInNuaSI6InRnLmhybXAua2Rucy5mciIsInRlc3RfbmFtZSI6IuacquefpSJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiAyNy43TUIvcyIsImFkZCI6IjgyLjE5OC4yNDYuMzciLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6ImZyYTUuY2hhc2VtMjAyNnN1ZC5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6ImZyYTUuY2hhc2VtMjAyNnN1ZC5jb20iLCJ0ZXN0X25hbWUiOiIyIn0=
+trojan://b490740312aedb5f9f6b84c7aebd08c0@54.46.77.161:38937?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.58.27:48738?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+vmess://eyJ2IjoiMiIsInBzIjoiVVMiLCJhZGQiOiIxNzIuMjMzLjExNi4zMyIsInBvcnQiOiI4MDgxIiwiaWQiOiJjY2VhNmQ1NS0yMzA5LTQwNTktOTNkYy1hNjJjZTdjZDNmN2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6ImRpdmFyY2RuLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMifQ==
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
