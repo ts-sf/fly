@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://humanity@104.16.174.6:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A52
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjY5Ljg0LjE4Mi40OSIsInBvcnQiOiI4MCIsImlkIjoiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uenVsYS51cGxhb2QtbXVzaWMuaXIuIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
-trojan://NQ26071394@tops-marlin.rooster465.autos:443?#%E6%9C%AA%E7%9F%A54%2011.5MB%2Fs
-trojan://NQ26071394@certain-prawn.rooster465.autos:443?#%E6%9C%AA%E7%9F%A55%204.8MB%2Fs
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?sni=149.104.104.58#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%20269.2KB%2Fs
+trojan://NQ26071394@sharing-porpoise.rooster465.autos:443?sni=sharing-porpoise.rooster465.autos#US%20202.2MB%2Fs
+trojan://CF68213490@tolerant-rattler.rooster465.autos:443?type=tcp&sni=tolerant-rattler.rooster465.autos#US2%20167.5MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6Ind3dy5zcGVlZHRlc3QubmV0IiwicG9ydCI6IjgwODAiLCJpZCI6ImIzNTUzZGZiLWU0YTQtNDU4NS05ZDFkLTc2YmMyZDBjY2I2NiIsImFpZCI6IjAiLCJzY3kiOiJhZXMtMTI4LWdjbSIsIm5ldCI6Imh0dHB1cGdyYWRlIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJuRXRIMi5Mb09sb09sb09sb08uQ09NLiIsInBhdGgiOiIvZWQ9PzIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjE4NS4xMDQuMTg5LjM4IiwicG9ydCI6IjgwIiwiaWQiOiI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIxODUuMTA0LjE4OS4zOCIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMS8/ZGU9MjU2MCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?#%E6%9C%AA%E7%9F%A54%201.5MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
