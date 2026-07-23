@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoiSEsyIDIwLjlLQi9zIiwiYWRkIjoidjkuaGRhY2QuY29tIiwicG9ydCI6IjMwODA5IiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkhLMiJ9
-trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos#%E6%9C%AA%E7%9F%A511%202.3MB%2Fs
-trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&headerType=none&type=tcp&sni=moving-wren.rooster465.autos#%E6%9C%AA%E7%9F%A512%203.0MB%2Fs
-trojan://NQ26071394@powerful-squid.rooster465.autos:443?#%E6%9C%AA%E7%9F%A521%202.0MB%2Fs
-trojan://XG59623478@3.249.67.252:443?security=tls&headerType=none&type=tcp&sni=singular-lark.rooster465.autos#%E6%9C%AA%E7%9F%A524%20701.5KB%2Fs
+trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos#%E6%9C%AA%E7%9F%A52%20483.7KB%2Fs
+trojan://OD90375861@54.184.22.123:443?sni=nearby-muskrat.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%207.2MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCAxLjBNQi9zIiwiYWRkIjoiMTYxLjMzLjEzOS4xMzgiLCJwb3J0IjoiNTg5MDUiLCJpZCI6IjE2MTBmOGRjLTA2NjEtNDAzMi1hYzZhLWE3MjUwNjAzZjYwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIxNjEuMzMuMTM5LjEzOCIsInBhdGgiOiIvMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4LXZtIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQifQ==
+trojan://NQ26071394@ready-kangaroo.rooster465.autos:443?security=tls&headerType=none&type=tcp&sni=ready-kangaroo.rooster465.autos#%E6%9C%AA%E7%9F%A57%20798.3KB%2Fs
+trojan://KV63147582@evolving-baboon.rooster465.autos:443?security=tls&headerType=none&type=tcp&sni=evolving-baboon.rooster465.autos#%E6%9C%AA%E7%9F%A510%20318.4KB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
