@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos#%E6%9C%AA%E7%9F%A52%20483.7KB%2Fs
-trojan://OD90375861@54.184.22.123:443?sni=nearby-muskrat.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%207.2MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCAxLjBNQi9zIiwiYWRkIjoiMTYxLjMzLjEzOS4xMzgiLCJwb3J0IjoiNTg5MDUiLCJpZCI6IjE2MTBmOGRjLTA2NjEtNDAzMi1hYzZhLWE3MjUwNjAzZjYwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIxNjEuMzMuMTM5LjEzOCIsInBhdGgiOiIvMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4LXZtIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQifQ==
-trojan://NQ26071394@ready-kangaroo.rooster465.autos:443?security=tls&headerType=none&type=tcp&sni=ready-kangaroo.rooster465.autos#%E6%9C%AA%E7%9F%A57%20798.3KB%2Fs
-trojan://KV63147582@evolving-baboon.rooster465.autos:443?security=tls&headerType=none&type=tcp&sni=evolving-baboon.rooster465.autos#%E6%9C%AA%E7%9F%A510%20318.4KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgNDg5LjJLQi9zIiwiYWRkIjoiMTAzLjE3Mi4xMzQuMTYyIiwicG9ydCI6IjI1NTMyIiwiaWQiOiI1YjI2ZjY4Yi05ZjdmLTQxZTUtYjM1Zi1lZDFhZGVkODMxZDUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJISyJ9
+trojan://JA96378052@evident-gnat.rooster465.autos:443?#%F0%9F%87%A6%F0%9F%87%BAAU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20317.5KB%2Fs
+trojan://NQ26071394@certain-prawn.rooster465.autos:443?#%E6%9C%AA%E7%9F%A510%201.9MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTMgMy43TUIvcyIsImFkZCI6IjkxLjEwNy4xMzUuMjQ5IiwicG9ydCI6IjE1NTAzIiwiaWQiOiI1MWZkYTAzYS1iNjQ4LTQ5NmYtODQyYy0wOWYyODRjYjc3YzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTMifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTUgMTgxLjJLQi9zIiwiYWRkIjoidjM1LmhkYWNkLmNvbSIsInBvcnQiOiIzMDgzNSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNSJ9
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/speed/clash`  
