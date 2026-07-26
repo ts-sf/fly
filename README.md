@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgNDM0LjBLQi9zIiwiYWRkIjoiMTAzLjE3Mi4xMzQuMTYyIiwicG9ydCI6IjI1NTMyIiwiaWQiOiI1YjI2ZjY4Yi05ZjdmLTQxZTUtYjM1Zi1lZDFhZGVkODMxZDUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJISyJ9
-trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos#%E6%9C%AA%E7%9F%A52%20650.7KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjE2MS4yNDguMzAuMyIsInBvcnQiOiIyMDA4NiIsImlkIjoiMTAwNmE5MjgtMjAyMS00YTNiLWJlYjUtZDU4NTNjNjI4MWM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
-trojan://humanity@104.17.111.8:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A54
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@14.53.107.138:29999?sni=vpn.rnmcnm.com#%E6%9C%AA%E7%9F%A55
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjUxLjgzLjUyLjE3MiIsInBvcnQiOiIyMDg1IiwiaWQiOiIyYzcyYzY2Ny0wOTNjLTQ3YTUtYTEwOC00OTNjOTMyODJiNTciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6ImZhc3QuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
+trojan://BxceQaOe@18.166.50.152:29085?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNCAzLjRNQi9zIiwiYWRkIjoiMjMuMTYyLjIwMC4xOTgiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNCJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcTQyVng1NmEyU2doQ25MdE95T0NG@216.105.168.19:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%205.3MB%2Fs
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
