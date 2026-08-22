@@ -12,11 +12,11 @@
 
 #### 部分节点  
 ``` 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiMTc4LjEwNS4yMTAuOTYiLCJwb3J0IjoiODAiLCJpZCI6Ijc4ZmIxYTYyLWIyNzYtNGExMy1hYjU3LWYyYjg3ZDBmMzdhNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoicGxheS5nb29nbGUuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjoiIiwidGVzdF9uYW1lIjoi5pyq55+lIn0=
-trojan://humanity@104.17.111.8:443?sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A72
-trojan://humanity@www.speedtest.org:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
-trojan://d5517dedef425597a1b9fdbaad99544e@18.163.126.92:18617?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://humanity@104.18.12.149:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://humanity@104.18.152.175:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiIsImFkZCI6IjEyOC4xNDAuNTkuMTU0IiwicG9ydCI6IjI2MDczIiwiaWQiOiJhNDRmNTUzOS0yYThiLTQ5M2MtOGQ0Mi1kNjljNGFkMTM2MDYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Ind3dy5hcHBsZS5jb20iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgOTEuMUtCL3MiLCJhZGQiOiI0Ny44Ni4xNjcuMTk0IiwicG9ydCI6IjgwMCIsImlkIjoiZjJjNjdjYWUtYzA5ZC00NzM5LTk0N2QtZjUzMDJkODdhM2MwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJzanNrZW5kbi5kaW5ndGFsay5jb20iLCJwYXRoIjoiL3giLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJISyJ9
+trojan://humanity@104.18.23.63:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://humanity@104.16.174.36:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
 ```
 ### 节点更新订阅  clash
 - `https://raw.githubusercontent.com/ts-sf/fly/main/clash`  
