@@ -2,7 +2,7 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-09-21 02:57:09
+# 创建时间: 2026-09-21 13:04:02
 # 使用模版: V2RaySE 默认模版
 # 节点数量：8
 ####################################
@@ -12,14 +12,14 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知480","type":"vmess","server":"89.127.218.61","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
-  - {"name":"未知481 5.0MB/s","type":"vmess","server":"134.195.196.211","port":18000,"cipher":"auto","uuid":"f8c8dc3d-0d37-46b0-8b34-a7232882fcfe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知482","type":"vmess","server":"pl2.pi10.ir","port":45402,"cipher":"auto","uuid":"113ae61b-d6da-4d08-9221-48595cb8436c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"US63","type":"vmess","server":"66.81.247.246","port":80,"cipher":"none","uuid":"28f8d51a-0e75-4fc3-a36e-03bf4e4d0910","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"127.0.0.1.太空學員.jосмическийкадет.spacecadet.安靜的地方第天day0ne.wonkacapitano.buzz."}}}
-  - {"name":"未知483","type":"vmess","server":"172.67.171.43","port":80,"cipher":"auto","uuid":"b79a6959-6feb-43ba-b3c7-f1afae9ea32c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"Uk2.vmess.site."}}}
-  - {"name":"未知484","type":"vmess","server":"tun-1.veraspeed.ir","port":2001,"cipher":"auto","uuid":"8605b8dd-5b4c-4f2f-96c1-a01495cbc37e","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知485","type":"vmess","server":"169.40.32.48","port":5062,"cipher":"auto","uuid":"f54e93d1-cd8e-434f-8122-4887e62c97f5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"httpupgrade"}
-  - {"name":"未知486","type":"vmess","server":"108.165.236.142","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
+  - {"name":"HK42","type":"vmess","server":"m01c7b2z26dtqgee.v.3dns.vip","port":443,"cipher":"auto","uuid":"f23bb427c1f94373876c2f43e9f790f3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"M01c7B2z26DtQGEe.v.3dns.vip"}}}
+  - {"name":"未知479","type":"vmess","server":"s10.tiiizshop.com","port":2082,"cipher":"auto","uuid":"5aa3424e-b5c5-460c-bbf1-d6f6169d30f5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"未知480","type":"vmess","server":"fapeng.org","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"fapeng.org"}}}
+  - {"name":"未知481","type":"vmess","server":"mute-math-d64e.0e503992ad7026.WOrKERs.deV","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/aveiror.com:443/linkvws","headers":{"host":"mute-math-d64e.0e503992ad7026.woRKERS.DeV"}}}
+  - {"name":"未知482","type":"vmess","server":"61.245.11.60","port":80,"cipher":"auto","uuid":"a3e3a710-79f8-4ae0-b83c-607aab40d197","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/"}}
+  - {"name":"🇺🇸US美国11","type":"trojan","server":"151.101.56.7","port":443,"alterId":0,"tls":true,"password":"MiTIVPN","sni":"ssl.fastly.com","skip-cert-verify":true,"network":"ws","udp":true}
+  - {"name":"未知483","type":"vmess","server":"94.156.170.102","port":110,"cipher":"auto","uuid":"8e9687fc-a3a7-414a-8676-8e2136797cfe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知484","type":"vmess","server":"142.132.178.99","port":443,"cipher":"auto","uuid":"5f72f180-b21b-4b7a-8484-240759012604","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/5f72f180-b21b-4b7a-8484-240759096785","headers":{"host":"apjhdggyx.com"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -27,14 +27,14 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - HK42
+      - 未知479
       - 未知480
-      - 未知481 5.0MB/s
+      - 未知481
       - 未知482
-      - US63
+      - 🇺🇸US美国11
       - 未知483
       - 未知484
-      - 未知485
-      - 未知486
 
   - name: ♻️ 自动选择
     type: url-test
@@ -42,14 +42,14 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - HK42
+      - 未知479
       - 未知480
-      - 未知481 5.0MB/s
+      - 未知481
       - 未知482
-      - US63
+      - 🇺🇸US美国11
       - 未知483
       - 未知484
-      - 未知485
-      - 未知486
 
   - name: 🌍 国外媒体
     type: select
@@ -57,56 +57,56 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - HK42
+      - 未知479
       - 未知480
-      - 未知481 5.0MB/s
+      - 未知481
       - 未知482
-      - US63
+      - 🇺🇸US美国11
       - 未知483
       - 未知484
-      - 未知485
-      - 未知486
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - HK42
+      - 未知479
       - 未知480
-      - 未知481 5.0MB/s
+      - 未知481
       - 未知482
-      - US63
+      - 🇺🇸US美国11
       - 未知483
       - 未知484
-      - 未知485
-      - 未知486
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - HK42
+      - 未知479
       - 未知480
-      - 未知481 5.0MB/s
+      - 未知481
       - 未知482
-      - US63
+      - 🇺🇸US美国11
       - 未知483
       - 未知484
-      - 未知485
-      - 未知486
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - HK42
+      - 未知479
       - 未知480
-      - 未知481 5.0MB/s
+      - 未知481
       - 未知482
-      - US63
+      - 🇺🇸US美国11
       - 未知483
       - 未知484
-      - 未知485
-      - 未知486
 
   - name: 🎯 全球直连
     type: select
@@ -130,14 +130,14 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - HK42
+      - 未知479
       - 未知480
-      - 未知481 5.0MB/s
+      - 未知481
       - 未知482
-      - US63
+      - 🇺🇸US美国11
       - 未知483
       - 未知484
-      - 未知485
-      - 未知486
 
 
 rules:
