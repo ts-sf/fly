@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-10-10 22:44:54
+# 创建时间: 2026-10-11 04:20:15
 # 使用模版: V2RaySE 默认模版
-# 节点数量：1
+# 节点数量：2
 ####################################
 #
 mixed-port: 7890
@@ -12,7 +12,8 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"US93","type":"vmess","server":"74.211.102.179","port":20001,"cipher":"auto","uuid":"7f5f0705-3dfb-4f56-9657-c95cade2ba83","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"HK49","type":"vmess","server":"43.198.204.35","port":443,"cipher":"auto","uuid":"f23bb427c1f94373876c2f43e9f790f3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"ce0gedpxwou6cqon.v.3dns.vip"}}}
+  - {"name":"未知648","type":"vmess","server":"193.180.211.155","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -20,7 +21,8 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - US93
+      - HK49
+      - 未知648
 
   - name: ♻️ 自动选择
     type: url-test
@@ -28,7 +30,8 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - US93
+      - HK49
+      - 未知648
 
   - name: 🌍 国外媒体
     type: select
@@ -36,28 +39,32 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - US93
+      - HK49
+      - 未知648
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US93
+      - HK49
+      - 未知648
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - US93
+      - HK49
+      - 未知648
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US93
+      - HK49
+      - 未知648
 
   - name: 🎯 全球直连
     type: select
@@ -81,7 +88,8 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - US93
+      - HK49
+      - 未知648
 
 
 rules:
