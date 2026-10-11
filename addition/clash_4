@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-10-11 04:20:15
+# 创建时间: 2026-10-11 13:57:15
 # 使用模版: V2RaySE 默认模版
-# 节点数量：2
+# 节点数量：8
 ####################################
 #
 mixed-port: 7890
@@ -12,8 +12,14 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"HK49","type":"vmess","server":"43.198.204.35","port":443,"cipher":"auto","uuid":"f23bb427c1f94373876c2f43e9f790f3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"ce0gedpxwou6cqon.v.3dns.vip"}}}
-  - {"name":"未知648","type":"vmess","server":"193.180.211.155","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
+  - {"name":"未知645","type":"vmess","server":"shahinnet-freenetcdn.melodyshopone2.ir","port":8080,"cipher":"auto","uuid":"96588912-3bcb-491c-8ce3-7a965bbec07f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sog.shahinnet.shop"}}}
+  - {"name":"未知646","type":"vmess","server":"irc.jahanclick.sbs","port":443,"cipher":"auto","uuid":"5316ff6b-a2ad-4a07-b7cf-20f314f335f4","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知647","type":"vmess","server":"3.79.184.50","port":1003,"cipher":"auto","uuid":"2371b2ae-4795-467e-9ca2-6d68c685ab23","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知648","type":"vmess","server":"80.74.25.110","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
+  - {"name":"未知649","type":"vmess","server":"45.131.209.253","port":80,"cipher":"none","uuid":"9ac947aa-de86-41c3-9a60-4c061c7c95f0","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"dl3.plot.cценарий.劇情голов0рез.fir3brand.煽動者追逐雷恩.погонезаpейн.wonkacapitano.buzz."}}}
+  - {"name":"未知650","type":"vmess","server":"104.21.15.212","port":443,"cipher":"auto","uuid":"76221bfb-e92f-4e80-81c5-6fe48f50ac0b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"glweidf.sbs"}}}
+  - {"name":"未知651","type":"vmess","server":"parrsweb.site","port":443,"cipher":"auto","uuid":"bd75484f-e7db-4b4f-a319-f9719e0c8825","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知652","type":"vmess","server":"206.1.96.188","port":19020,"cipher":"auto","uuid":"Nitro_Skybot@","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -21,8 +27,14 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - HK49
+      - 未知645
+      - 未知646
+      - 未知647
       - 未知648
+      - 未知649
+      - 未知650
+      - 未知651
+      - 未知652
 
   - name: ♻️ 自动选择
     type: url-test
@@ -30,8 +42,14 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - HK49
+      - 未知645
+      - 未知646
+      - 未知647
       - 未知648
+      - 未知649
+      - 未知650
+      - 未知651
+      - 未知652
 
   - name: 🌍 国外媒体
     type: select
@@ -39,32 +57,56 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - HK49
+      - 未知645
+      - 未知646
+      - 未知647
       - 未知648
+      - 未知649
+      - 未知650
+      - 未知651
+      - 未知652
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - HK49
+      - 未知645
+      - 未知646
+      - 未知647
       - 未知648
+      - 未知649
+      - 未知650
+      - 未知651
+      - 未知652
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - HK49
+      - 未知645
+      - 未知646
+      - 未知647
       - 未知648
+      - 未知649
+      - 未知650
+      - 未知651
+      - 未知652
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - HK49
+      - 未知645
+      - 未知646
+      - 未知647
       - 未知648
+      - 未知649
+      - 未知650
+      - 未知651
+      - 未知652
 
   - name: 🎯 全球直连
     type: select
@@ -88,8 +130,14 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - HK49
+      - 未知645
+      - 未知646
+      - 未知647
       - 未知648
+      - 未知649
+      - 未知650
+      - 未知651
+      - 未知652
 
 
 rules:
