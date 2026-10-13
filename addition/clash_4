@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-10-13 02:06:51
+# 创建时间: 2026-10-13 15:01:56
 # 使用模版: V2RaySE 默认模版
-# 节点数量：29
+# 节点数量：37
 ####################################
 #
 mixed-port: 7890
@@ -12,35 +12,43 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
+  - {"name":"未知650","type":"vmess","server":"mmhk01.micloud.buzz","port":46001,"cipher":"auto","uuid":"638501f6-0ba0-47cb-bcfe-200cc1169e81","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/zh-cn"}}
+  - {"name":"未知651","type":"vmess","server":"31.15.19.180","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
+  - {"name":"US91","type":"vmess","server":"142.171.48.179","port":28167,"cipher":"auto","uuid":"a0181cb3-fcc5-4a0a-9e71-db943a2309fa","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"gw.alicdn.com"}}}
+  - {"name":"未知652","type":"vmess","server":"91.107.169.224","port":80,"cipher":"auto","uuid":"d4b69108-f756-48af-a331-e8356bc95eb4","alterId":0,"tls":true,"skip-cert-verify":true,"network":"httpupgrade"}
+  - {"name":"未知653","type":"vmess","server":"5.188.190.252","port":22324,"cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知654","type":"vmess","server":"169.40.32.48","port":5061,"cipher":"auto","uuid":"f54e93d1-cd8e-434f-8122-4887e62c97f5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"httpupgrade"}
+  - {"name":"未知655","type":"vmess","server":"168.100.9.81","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
+  - {"name":"未知656","type":"vmess","server":"172.238.96.215","port":2053,"cipher":"auto","uuid":"9a1a05d9-69be-45d3-e326-c6621edf7b31","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/devm","headers":{"host":"deapp.jisuyun.top"}}}
+  - {"name":"未知657","type":"vmess","server":"104.16.61.8","port":2083,"cipher":"auto","uuid":"05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/obdii.cfd/linkws","headers":{"host":"6ba6-sound-6ba6.siliy37818.workers.dev"}}}
+  - {"name":"未知658","type":"vmess","server":"185.137.223.71","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
+  - {"name":"未知659","type":"vmess","server":"31.15.17.223","port":44258,"cipher":"auto","uuid":"17bbc069-aba1-4273-b557-28e83224fc17","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知660","type":"vmess","server":"4.182.7.0","port":8081,"cipher":"auto","uuid":"ec65b970-dce5-4ff1-9ec4-95ea0b01b15c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知661","type":"vmess","server":"130.94.93.63","port":14812,"cipher":"auto","uuid":"777d0ead-970a-4144-b8aa-e3aaf3a621f6","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/777d0ead"}}
+  - {"name":"未知662","type":"vmess","server":"45.89.52.114","port":13701,"cipher":"auto","uuid":"86a0c17d-1871-40e3-db65-2b9bf1a7650e","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知663","type":"vmess","server":"cdn-cloudflare455.korvexe.ir","port":2095,"cipher":"auto","uuid":"8000e374-6b7f-4bbf-b45f-2272657ed5f9","alterId":0,"tls":true,"skip-cert-verify":true,"network":"httpupgrade"}
+  - {"name":"US92","type":"vmess","server":"173.249.198.111","port":443,"cipher":"auto","uuid":"XEXEVIL","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tel=@VPNine1"}}
+  - {"name":"HK48","type":"vmess","server":"154.37.223.56","port":52080,"cipher":"auto","uuid":"f1ac5c82-00a4-400b-bb20-530c91b7c5bb","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知664","type":"vmess","server":"fast.jahancloud.space","port":443,"cipher":"auto","uuid":"1c2fd464-98e2-4f01-a635-d39f97170e69","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知665","type":"vmess","server":"lucas.ehsanazizi-speed-server.com","port":2111,"cipher":"auto","uuid":"a967bbce-11ed-4cbf-ad6d-9f82143d1aa8","alterId":0,"tls":true,"skip-cert-verify":true,"network":"xhttp"}
+  - {"name":"未知666","type":"vmess","server":"speed.jahancompany.sbs","port":443,"cipher":"auto","uuid":"e35a77bc-5a88-4f00-bc4e-1f9edd1d212c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"US93","type":"vmess","server":"45.158.127.48","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
-  - {"name":"未知645","type":"vmess","server":"fertest1.povrak.ir","port":37483,"cipher":"auto","uuid":"6780b0c5-5222-423b-b172-205669048a27","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知646","type":"vmess","server":"104.25.228.174","port":80,"cipher":"none","uuid":"5ea4a644-07e9-4ad0-860d-50bd9b6e7f94","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"dl2.升級.3скалация.mальчикицапля.男孩與蒼鷺.wonkacapitano.buzz."}}}
-  - {"name":"未知647","type":"vmess","server":"157.148.7.55","port":50011,"cipher":"auto","uuid":"1b30f413-2865-4d40-9146-4207778718cd","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知648","type":"vmess","server":"193.23.118.195","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
-  - {"name":"未知649","type":"vmess","server":"3dTmMsfpAlaqHI7b.v.3dns.vip","port":443,"cipher":"auto","uuid":"9b31490d-190e-4ef1-af0a-7ccab3e7c3b5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"3dTmMsfpAlaqHI7b.v.3dns.vip"}}}
-  - {"name":"未知650","type":"vmess","server":"5.160.131.227","port":9022,"cipher":"auto","uuid":"11c9da87-198b-40d5-a83e-546e8c73a50e","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知651","type":"vmess","server":"91.108.146.32","port":443,"cipher":"auto","uuid":"1fcf7664-a923-4a71-90f6-ff212fbb062e","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知652","type":"vmess","server":"ezdqguqp7faf.dop69.com","port":2087,"cipher":"auto","uuid":"6b306661-93c7-4653-94d6-a8adb742b82f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知653","type":"vmess","server":"dashboard.ojeshop.top","port":5380,"cipher":"auto","uuid":"0a406682-8c49-4c4a-b332-ed76322c16e2","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知654","type":"vmess","server":"image.colorviolet.ir","port":6800,"cipher":"auto","uuid":"6b8dbc66-ea40-444a-b93d-cb20c008af10","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"未知655","type":"vmess","server":"netherland3.povrak.ir","port":10281,"cipher":"auto","uuid":"2840d623-4c46-4d47-812d-d0fcd418b2ac","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知656","type":"vmess","server":"158.51.123.42","port":22324,"cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知657","type":"vmess","server":"nlp1.hupcloud.com","port":1070,"cipher":"auto","uuid":"da410df7-cde1-415c-a46e-87637e9748f9","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知658","type":"vmess","server":"112.132.215.108","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知659","type":"vmess","server":"dashboard.afrawebsite.top","port":3071,"cipher":"auto","uuid":"9a9b03e4-adf6-4803-b3aa-9cdce6d3840b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知660","type":"vmess","server":"191.96.94.50","port":27501,"cipher":"auto","uuid":"93842911-bc7f-47e9-a036-904d205b3d11","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知661","type":"vmess","server":"nomino.11hi8itbaf.workers.dev","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/rush-6it6b.teeopp.quest/","headers":{"host":"nomino.11hi8itbaf.workers.dev"}}}
-  - {"name":"US94","type":"vmess","server":"165.140.217.141","port":443,"cipher":"auto","uuid":"b65a2d69-5634-42a2-e4be-54e8a6176900","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知662","type":"vmess","server":"NowIbreatheflameseachtimeItalk.fairisfair.ir","port":8080,"cipher":"auto","uuid":"cd4ac563-40d6-4825-885b-a4d9422a3fd8","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知663","type":"vmess","server":"hms19.best-tizi.top","port":443,"cipher":"auto","uuid":"62aa5f80-0328-4004-a375-7f5a59df4022","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"hms19.best-tizi.top"}}}
-  - {"name":"未知664","type":"vmess","server":"renderer-stream-2-62.mirra.now","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket"}}
-  - {"name":"未知665","type":"vmess","server":"185.143.234.120","port":80,"cipher":"auto","uuid":"b831381d-6324-4d53-ad4f-8cda48b30811","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/graphql","headers":{"host":"koochehpas.com"}}}
-  - {"name":"未知666","type":"vmess","server":"185.204.170.125","port":1,"cipher":"auto","uuid":"00339ae9-7443-4b6e-9283-67aaed257433","alterId":0,"tls":true,"skip-cert-verify":true,"network":"xhttp"}
-  - {"name":"US95","type":"vmess","server":"216.106.183.35","port":22324,"cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知667","type":"vmess","server":"ipa.xn--220ba84am6g99wihgilau3ar1g.info","port":2053,"cipher":"auto","uuid":"b04868f0-b54d-4f48-aad4-e5543d03c909","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"cdn.xn--220ba84am6g99wihgilau3ar1g.info"}}}
-  - {"name":"未知668","type":"vmess","server":"64.188.106.254","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
-  - {"name":"未知669","type":"vmess","server":"ir28482.jdjcr.3842.marzara.ir","port":13041,"cipher":"auto","uuid":"bbbd34c2-bf6c-48d1-8e91-3cd12f14f2fb","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知670","type":"vmess","server":"linux.makuturkonline.ir","port":2087,"cipher":"auto","uuid":"e8c4193b-ad9b-4536-bc16-dc5ea6c49b48","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知667","type":"vmess","server":"172.64.146.191","port":2083,"cipher":"auto","uuid":"ac251237-576f-40c8-a543-554960c958b1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/or3","headers":{"host":"or.521166.xyz"}}}
+  - {"name":"🇷🇺RU俄罗斯","type":"ss","server":"185.242.86.156","port":54170,"cipher":"chacha20-ietf-poly1305","alterId":0,"tls":true,"password":"36ZCHeabUSfKjfQEvJ4HDV","skip-cert-verify":true}
+  - {"name":"未知668","type":"vmess","server":"172.67.176.245","port":443,"cipher":"auto","uuid":"0632bfa9-b15c-4257-8c75-32f7c0c53b27","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/graphql","headers":{"host":"cg1c12.waimaojd.com"}}}
+  - {"name":"未知669","type":"vmess","server":"206.1.103.155","port":61625,"cipher":"auto","uuid":"6cecaaad-fadc-4f1c-9a79-b5f7fa995076","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知670","type":"vmess","server":"Sada.seervexo.ir","port":1995,"cipher":"auto","uuid":"8896c158-a596-4b0a-a32e-9491e1e62339","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"未知671","type":"vmess","server":"162.4.136.79","port":443,"cipher":"auto","uuid":"db50a20e-7ff5-4e70-948f-17cc9ca7c154","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1/gpu-stream/socket","headers":{"host":"renderer-stream-2-62.mirra.now"}}}
+  - {"name":"US94","type":"vmess","server":"82.198.246.97","port":180,"cipher":"auto","uuid":"d13fc2f5-3e05-4795-81eb-44143a09e552","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"US95","type":"vmess","server":"165.140.217.14","port":443,"cipher":"auto","uuid":"b65a2d69-5634-42a2-e4be-54e8a6176900","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知672","type":"vmess","server":"mtn-maznet.ddns.net","port":2083,"cipher":"auto","uuid":"fdfe76d8-7971-4720-a76f-4b7ba23cc707","alterId":0,"tls":true,"skip-cert-verify":true,"network":"grpc"}
+  - {"name":"未知673","type":"vmess","server":"tun-1.veraspeed.ir","port":2002,"cipher":"auto","uuid":"8605b8dd-5b4c-4f2f-96c1-a01495cbc37e","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知674","type":"vmess","server":"136.243.83.105","port":46277,"cipher":"auto","uuid":"aa8a26cd-94f4-4f11-a3b3-48f30a127627","alterId":0,"tls":true,"skip-cert-verify":true,"network":"grpc"}
+  - {"name":"未知675","type":"vmess","server":"154.47.21.54","port":8099,"cipher":"auto","uuid":"fa1897db-1925-4c86-a495-939a959af900","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知676","type":"vmess","server":"104.18.32.47","port":8080,"cipher":"auto","uuid":"5ba0defa-bd3c-43b1-8800-1d61887a07c4","alterId":0,"tls":true,"skip-cert-verify":true,"network":"httpupgrade"}
+  - {"name":"未知677","type":"vmess","server":"94.249.187.46","port":2086,"cipher":"auto","uuid":"f6361af8-bb8f-4609-bf5d-3fc0f688f47b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知678","type":"vmess","server":"a.baradiha.com","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkvws","headers":{"host":"a.baradiha.com"}}}
+  - {"name":"HK49 8.6KB/s","type":"vmess","server":"47.243.194.125","port":443,"cipher":"auto","uuid":"f23bb427c1f94373876c2f43e9f790f3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"nycqg19zkwacpm1b.v.3dns.vip"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -48,14 +56,9 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - US93
-      - 未知645
-      - 未知646
-      - 未知647
-      - 未知648
-      - 未知649
       - 未知650
       - 未知651
+      - US91
       - 未知652
       - 未知653
       - 未知654
@@ -66,17 +69,30 @@ proxy-groups:
       - 未知659
       - 未知660
       - 未知661
-      - US94
       - 未知662
       - 未知663
+      - US92
+      - HK48
       - 未知664
       - 未知665
       - 未知666
-      - US95
+      - US93
       - 未知667
+      - 🇷🇺RU俄罗斯
       - 未知668
       - 未知669
       - 未知670
+      - 未知671
+      - US94
+      - US95
+      - 未知672
+      - 未知673
+      - 未知674
+      - 未知675
+      - 未知676
+      - 未知677
+      - 未知678
+      - HK49 8.6KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -84,14 +100,9 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - US93
-      - 未知645
-      - 未知646
-      - 未知647
-      - 未知648
-      - 未知649
       - 未知650
       - 未知651
+      - US91
       - 未知652
       - 未知653
       - 未知654
@@ -102,17 +113,30 @@ proxy-groups:
       - 未知659
       - 未知660
       - 未知661
-      - US94
       - 未知662
       - 未知663
+      - US92
+      - HK48
       - 未知664
       - 未知665
       - 未知666
-      - US95
+      - US93
       - 未知667
+      - 🇷🇺RU俄罗斯
       - 未知668
       - 未知669
       - 未知670
+      - 未知671
+      - US94
+      - US95
+      - 未知672
+      - 未知673
+      - 未知674
+      - 未知675
+      - 未知676
+      - 未知677
+      - 未知678
+      - HK49 8.6KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -120,14 +144,9 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - US93
-      - 未知645
-      - 未知646
-      - 未知647
-      - 未知648
-      - 未知649
       - 未知650
       - 未知651
+      - US91
       - 未知652
       - 未知653
       - 未知654
@@ -138,31 +157,39 @@ proxy-groups:
       - 未知659
       - 未知660
       - 未知661
-      - US94
       - 未知662
       - 未知663
+      - US92
+      - HK48
       - 未知664
       - 未知665
       - 未知666
-      - US95
+      - US93
       - 未知667
+      - 🇷🇺RU俄罗斯
       - 未知668
       - 未知669
       - 未知670
+      - 未知671
+      - US94
+      - US95
+      - 未知672
+      - 未知673
+      - 未知674
+      - 未知675
+      - 未知676
+      - 未知677
+      - 未知678
+      - HK49 8.6KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US93
-      - 未知645
-      - 未知646
-      - 未知647
-      - 未知648
-      - 未知649
       - 未知650
       - 未知651
+      - US91
       - 未知652
       - 未知653
       - 未知654
@@ -173,31 +200,39 @@ proxy-groups:
       - 未知659
       - 未知660
       - 未知661
-      - US94
       - 未知662
       - 未知663
+      - US92
+      - HK48
       - 未知664
       - 未知665
       - 未知666
-      - US95
+      - US93
       - 未知667
+      - 🇷🇺RU俄罗斯
       - 未知668
       - 未知669
       - 未知670
+      - 未知671
+      - US94
+      - US95
+      - 未知672
+      - 未知673
+      - 未知674
+      - 未知675
+      - 未知676
+      - 未知677
+      - 未知678
+      - HK49 8.6KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - US93
-      - 未知645
-      - 未知646
-      - 未知647
-      - 未知648
-      - 未知649
       - 未知650
       - 未知651
+      - US91
       - 未知652
       - 未知653
       - 未知654
@@ -208,31 +243,39 @@ proxy-groups:
       - 未知659
       - 未知660
       - 未知661
-      - US94
       - 未知662
       - 未知663
+      - US92
+      - HK48
       - 未知664
       - 未知665
       - 未知666
-      - US95
+      - US93
       - 未知667
+      - 🇷🇺RU俄罗斯
       - 未知668
       - 未知669
       - 未知670
+      - 未知671
+      - US94
+      - US95
+      - 未知672
+      - 未知673
+      - 未知674
+      - 未知675
+      - 未知676
+      - 未知677
+      - 未知678
+      - HK49 8.6KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - US93
-      - 未知645
-      - 未知646
-      - 未知647
-      - 未知648
-      - 未知649
       - 未知650
       - 未知651
+      - US91
       - 未知652
       - 未知653
       - 未知654
@@ -243,17 +286,30 @@ proxy-groups:
       - 未知659
       - 未知660
       - 未知661
-      - US94
       - 未知662
       - 未知663
+      - US92
+      - HK48
       - 未知664
       - 未知665
       - 未知666
-      - US95
+      - US93
       - 未知667
+      - 🇷🇺RU俄罗斯
       - 未知668
       - 未知669
       - 未知670
+      - 未知671
+      - US94
+      - US95
+      - 未知672
+      - 未知673
+      - 未知674
+      - 未知675
+      - 未知676
+      - 未知677
+      - 未知678
+      - HK49 8.6KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -277,14 +333,9 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - US93
-      - 未知645
-      - 未知646
-      - 未知647
-      - 未知648
-      - 未知649
       - 未知650
       - 未知651
+      - US91
       - 未知652
       - 未知653
       - 未知654
@@ -295,17 +346,30 @@ proxy-groups:
       - 未知659
       - 未知660
       - 未知661
-      - US94
       - 未知662
       - 未知663
+      - US92
+      - HK48
       - 未知664
       - 未知665
       - 未知666
-      - US95
+      - US93
       - 未知667
+      - 🇷🇺RU俄罗斯
       - 未知668
       - 未知669
       - 未知670
+      - 未知671
+      - US94
+      - US95
+      - 未知672
+      - 未知673
+      - 未知674
+      - 未知675
+      - 未知676
+      - 未知677
+      - 未知678
+      - HK49 8.6KB/s
 
 
 rules:
