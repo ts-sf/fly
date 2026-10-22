@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-10-22 22:06:23
+# 创建时间: 2026-10-23 04:23:03
 # 使用模版: V2RaySE 默认模版
-# 节点数量：4
+# 节点数量：6
 ####################################
 #
 mixed-port: 7890
@@ -12,10 +12,12 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知820","type":"vmess","server":"vspjj8w2.selqora.ir","port":51595,"cipher":"auto","uuid":"961acd2b-37a6-4214-b055-63ba6bf4f425","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知821","type":"vmess","server":"36.133.74.15","port":50011,"cipher":"auto","uuid":"e1be6941-0667-469c-9224-6f34adb549ba","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知822","type":"vmess","server":"de-nin.neninet.ir","port":31074,"cipher":"auto","uuid":"475e7934-442f-40c5-972b-12f6e0a5a05d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知823","type":"vmess","server":"rush-t2tvv.ceeopp.site","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/ke716z/7x219hzy.m3u8","headers":{"host":"rush-t2tvv.ceeopp.site"}}}
+  - {"name":"未知823","type":"vmess","server":"dashboard.afrasim.top","port":5388,"cipher":"auto","uuid":"b2bc2ff5-e36e-453b-84e9-d93a33203ac3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知824","type":"vmess","server":"fast.jahancloud.space","port":443,"cipher":"auto","uuid":"1c2fd464-98e2-4f01-a635-d39f97170e69","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知825","type":"vmess","server":"tokien.mrmtn.xyz","port":2121,"cipher":"auto","uuid":"29c4a3bd-9d8c-4ac3-b279-8b201560c227","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"TW16","type":"vmess","server":"mdk.mdmekjll.best","port":80,"cipher":"auto","uuid":"6E571484-4166-4699-8F58-B34A1823691F","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/game/resources","headers":{"host":"mdk.mdmekjll.best"}}}
+  - {"name":"未知826","type":"vmess","server":"tot-1.povrak.ir","port":56268,"cipher":"auto","uuid":"6df4f26a-258a-4a58-bf45-cb6091277e36","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"HK47","type":"vmess","server":"47.243.92.155","port":443,"cipher":"auto","uuid":"f23bb427-c1f9-4373-876c-2f43e9f790f3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"mTCKUNDiGePwU3uP.v.3dns.vip"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -23,10 +25,12 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知820
-      - 未知821
-      - 未知822
       - 未知823
+      - 未知824
+      - 未知825
+      - TW16
+      - 未知826
+      - HK47
 
   - name: ♻️ 自动选择
     type: url-test
@@ -34,10 +38,12 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知820
-      - 未知821
-      - 未知822
       - 未知823
+      - 未知824
+      - 未知825
+      - TW16
+      - 未知826
+      - HK47
 
   - name: 🌍 国外媒体
     type: select
@@ -45,40 +51,48 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知820
-      - 未知821
-      - 未知822
       - 未知823
+      - 未知824
+      - 未知825
+      - TW16
+      - 未知826
+      - HK47
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知820
-      - 未知821
-      - 未知822
       - 未知823
+      - 未知824
+      - 未知825
+      - TW16
+      - 未知826
+      - HK47
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知820
-      - 未知821
-      - 未知822
       - 未知823
+      - 未知824
+      - 未知825
+      - TW16
+      - 未知826
+      - HK47
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知820
-      - 未知821
-      - 未知822
       - 未知823
+      - 未知824
+      - 未知825
+      - TW16
+      - 未知826
+      - HK47
 
   - name: 🎯 全球直连
     type: select
@@ -102,10 +116,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知820
-      - 未知821
-      - 未知822
       - 未知823
+      - 未知824
+      - 未知825
+      - TW16
+      - 未知826
+      - HK47
 
 
 rules:
