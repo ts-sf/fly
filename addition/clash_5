@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-10-22 12:56:59
+# 创建时间: 2026-10-22 22:06:23
 # 使用模版: V2RaySE 默认模版
-# 节点数量：1
+# 节点数量：4
 ####################################
 #
 mixed-port: 7890
@@ -12,7 +12,10 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知819","type":"vmess","server":"node.socks5.kdns.fr","port":443,"cipher":"auto","uuid":"e1ed0569-bfe4-468f-aa9a-63819e8229ef","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/e1ed0569-bfe4-468f-aa9a-63819e8229ef-vm","headers":{"host":"chest-own-llp-collections.trycloudflare.com"}}}
+  - {"name":"未知820","type":"vmess","server":"vspjj8w2.selqora.ir","port":51595,"cipher":"auto","uuid":"961acd2b-37a6-4214-b055-63ba6bf4f425","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知821","type":"vmess","server":"36.133.74.15","port":50011,"cipher":"auto","uuid":"e1be6941-0667-469c-9224-6f34adb549ba","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知822","type":"vmess","server":"de-nin.neninet.ir","port":31074,"cipher":"auto","uuid":"475e7934-442f-40c5-972b-12f6e0a5a05d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知823","type":"vmess","server":"rush-t2tvv.ceeopp.site","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/ke716z/7x219hzy.m3u8","headers":{"host":"rush-t2tvv.ceeopp.site"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -20,7 +23,10 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 未知819
+      - 未知820
+      - 未知821
+      - 未知822
+      - 未知823
 
   - name: ♻️ 自动选择
     type: url-test
@@ -28,7 +34,10 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 未知819
+      - 未知820
+      - 未知821
+      - 未知822
+      - 未知823
 
   - name: 🌍 国外媒体
     type: select
@@ -36,28 +45,40 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 未知819
+      - 未知820
+      - 未知821
+      - 未知822
+      - 未知823
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知819
+      - 未知820
+      - 未知821
+      - 未知822
+      - 未知823
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 未知819
+      - 未知820
+      - 未知821
+      - 未知822
+      - 未知823
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 未知819
+      - 未知820
+      - 未知821
+      - 未知822
+      - 未知823
 
   - name: 🎯 全球直连
     type: select
@@ -81,7 +102,10 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 未知819
+      - 未知820
+      - 未知821
+      - 未知822
+      - 未知823
 
 
 rules:
