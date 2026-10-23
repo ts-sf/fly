@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-10-23 04:23:03
+# 创建时间: 2026-10-23 13:02:57
 # 使用模版: V2RaySE 默认模版
-# 节点数量：6
+# 节点数量：10
 ####################################
 #
 mixed-port: 7890
@@ -12,12 +12,16 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"未知823","type":"vmess","server":"dashboard.afrasim.top","port":5388,"cipher":"auto","uuid":"b2bc2ff5-e36e-453b-84e9-d93a33203ac3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知824","type":"vmess","server":"fast.jahancloud.space","port":443,"cipher":"auto","uuid":"1c2fd464-98e2-4f01-a635-d39f97170e69","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知825","type":"vmess","server":"tokien.mrmtn.xyz","port":2121,"cipher":"auto","uuid":"29c4a3bd-9d8c-4ac3-b279-8b201560c227","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"TW16","type":"vmess","server":"mdk.mdmekjll.best","port":80,"cipher":"auto","uuid":"6E571484-4166-4699-8F58-B34A1823691F","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/game/resources","headers":{"host":"mdk.mdmekjll.best"}}}
-  - {"name":"未知826","type":"vmess","server":"tot-1.povrak.ir","port":56268,"cipher":"auto","uuid":"6df4f26a-258a-4a58-bf45-cb6091277e36","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"HK47","type":"vmess","server":"47.243.92.155","port":443,"cipher":"auto","uuid":"f23bb427-c1f9-4373-876c-2f43e9f790f3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"mTCKUNDiGePwU3uP.v.3dns.vip"}}}
+  - {"name":"未知821","type":"vmess","server":"91.107.169.224","port":80,"cipher":"auto","uuid":"d4b69108-f756-48af-a331-e8356bc95eb4","alterId":0,"tls":true,"skip-cert-verify":true,"network":"httpupgrade"}
+  - {"name":"US114","type":"vmess","server":"45.39.33.10","port":8443,"cipher":"auto","uuid":"4d6997cf-7856-4aab-85e5-f22169e56e65","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"US115","type":"vmess","server":"159.65.44.98","port":8881,"cipher":"auto","uuid":"db5afae4-ac23-41a6-8378-f307a9a47436","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知822","type":"vmess","server":"104.16.61.8","port":2086,"cipher":"auto","uuid":"441da342-ce90-441e-bff9-d2ceb55e68ca","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ivideos.sbs/linkws","headers":{"host":"vmess.taxar71054.workers.dev"}}}
+  - {"name":"未知823","type":"vmess","server":"104.18.32.47","port":8080,"cipher":"auto","uuid":"5ba0defa-bd3c-43b1-8800-1d61887a07c4","alterId":0,"tls":true,"skip-cert-verify":true,"network":"httpupgrade"}
+  - {"name":"未知824","type":"vmess","server":"139.28.240.68","port":2086,"cipher":"auto","uuid":"f6361af8-bb8f-4609-bf5d-3fc0f688f47b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知825","type":"vmess","server":"66.154.113.180","port":443,"cipher":"auto","uuid":"1c3fb1c0-1204-49db-b842-f72d50f014c1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/KualaLumpur1","headers":{"host":"my.lovehk.xyz"}}}
+  - {"name":"未知826","type":"vmess","server":"hms19.best-tizi.top","port":443,"cipher":"auto","uuid":"62aa5f80-0328-4004-a375-7f5a59df4022","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"hms19.best-tizi.top"}}}
+  - {"name":"未知827","type":"vmess","server":"gerdi-2.povrak.ir","port":50407,"cipher":"auto","uuid":"675bcc24-bb80-401d-a09d-6c73e1d46be6","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知828","type":"vmess","server":"178.95.176.16","port":2086,"cipher":"auto","uuid":"f6361af8-bb8f-4609-bf5d-3fc0f688f47b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -25,12 +29,16 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - 未知821
+      - US114
+      - US115
+      - 未知822
       - 未知823
       - 未知824
       - 未知825
-      - TW16
       - 未知826
-      - HK47
+      - 未知827
+      - 未知828
 
   - name: ♻️ 自动选择
     type: url-test
@@ -38,12 +46,16 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 未知821
+      - US114
+      - US115
+      - 未知822
       - 未知823
       - 未知824
       - 未知825
-      - TW16
       - 未知826
-      - HK47
+      - 未知827
+      - 未知828
 
   - name: 🌍 国外媒体
     type: select
@@ -51,48 +63,64 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 未知821
+      - US114
+      - US115
+      - 未知822
       - 未知823
       - 未知824
       - 未知825
-      - TW16
       - 未知826
-      - HK47
+      - 未知827
+      - 未知828
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 未知821
+      - US114
+      - US115
+      - 未知822
       - 未知823
       - 未知824
       - 未知825
-      - TW16
       - 未知826
-      - HK47
+      - 未知827
+      - 未知828
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - 未知821
+      - US114
+      - US115
+      - 未知822
       - 未知823
       - 未知824
       - 未知825
-      - TW16
       - 未知826
-      - HK47
+      - 未知827
+      - 未知828
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 未知821
+      - US114
+      - US115
+      - 未知822
       - 未知823
       - 未知824
       - 未知825
-      - TW16
       - 未知826
-      - HK47
+      - 未知827
+      - 未知828
 
   - name: 🎯 全球直连
     type: select
@@ -116,12 +144,16 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 未知821
+      - US114
+      - US115
+      - 未知822
       - 未知823
       - 未知824
       - 未知825
-      - TW16
       - 未知826
-      - HK47
+      - 未知827
+      - 未知828
 
 
 rules:
