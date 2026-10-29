@@ -2,9 +2,9 @@
 ####################################
 # 创建者: https://github.com/ts-sf/fly
 # 客户端: Clash
-# 创建时间: 2026-10-29 23:35:48
+# 创建时间: 2026-10-30 05:27:22
 # 使用模版: V2RaySE 默认模版
-# 节点数量：27
+# 节点数量：32
 ####################################
 #
 mixed-port: 7890
@@ -12,33 +12,38 @@ allow-lan: true
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"🇳🇿NZ新西兰 2.2MB/s","type":"ss","server":"202.50.253.27","port":19999,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=","skip-cert-verify":true}
-  - {"name":"🇳🇿NZ新西兰2 2.1MB/s","type":"ss","server":"202.50.253.72","port":19999,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=","skip-cert-verify":true}
-  - {"name":"未知90 140.2KB/s","type":"vmess","server":"152.67.8.205","port":80,"cipher":"auto","uuid":"9db4c708-aef8-4359-821b-38e47990be0d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"未知145 618.4KB/s","type":"vmess","server":"cf.090227.xyz","port":443,"cipher":"auto","uuid":"0cf6d970-3f1d-4aae-a989-92a8f76ae3db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws?ed=2048","headers":{"host":"vmess.lbw666.dpdns.org"}}}
-  - {"name":"未知172 2.5KB/s","type":"vmess","server":"wjofhsqteueywxeq.v.3dns.vip","port":443,"cipher":"auto","uuid":"a9f4de8b-68f1-44b6-b6a2-1db60940503a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"wjofhsqteueywxeq.v.3dns.vip"}}}
-  - {"name":"HK12 9.7KB/s","type":"vmess","server":"154.37.223.56","port":52080,"cipher":"auto","uuid":"f1ac5c82-00a4-400b-bb20-530c91b7c5bb","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知224 2.0MB/s","type":"vmess","server":"cf.0sm.com","port":443,"cipher":"auto","uuid":"0cf6d970-3f1d-4aae-a989-92a8f76ae3db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws?ed=2048","headers":{"host":"vmess.lbw666.dpdns.org"}}}
-  - {"name":"未知301 34.7MB/s","type":"vmess","server":"172.66.203.67","port":443,"cipher":"auto","uuid":"0cf6d970-3f1d-4aae-a989-92a8f76ae3db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws?ed=2048","headers":{"host":"vmess.lbw666.dpdns.org"}}}
-  - {"name":"未知317 363.6KB/s","type":"vmess","server":"162.159.135.234","port":2083,"cipher":"auto","uuid":"ac251237-576f-40c8-a543-554960c958b1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/or3","headers":{"host":"or3.sfacg.uk"}}}
-  - {"name":"未知343 92.9KB/s","type":"vmess","server":"de.zhou-yufan.com","port":443,"cipher":"auto","uuid":"f38e591d-d13a-4c30-9763-6be3ad65f3ec","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知375 29.2MB/s","type":"vmess","server":"23.162.200.198","port":18000,"cipher":"auto","uuid":"f8c8dc3d-0d37-46b0-8b34-a7232882fcfe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"HK19 39.0KB/s","type":"vmess","server":"8.217.254.88","port":443,"cipher":"auto","uuid":"f23bb427c1f94373876c2f43e9f790f3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"2b9hwY8oCx7Q74NM.v.3dns.vip"}}}
-  - {"name":"HK20 1.9KB/s","type":"vmess","server":"47.242.81.94","port":52080,"cipher":"auto","uuid":"e47b9f77-60e4-4738-8d53-772b6002e146","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知417 1.8MB/s","type":"vmess","server":"104.17.136.198","port":443,"cipher":"auto","uuid":"0cf6d970-3f1d-4aae-a989-92a8f76ae3db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws?ed=2048","headers":{"host":"vmess.lbw666.dpdns.org"}}}
-  - {"name":"未知439 285.0KB/s","type":"vmess","server":"172.67.161.144","port":8443,"cipher":"auto","uuid":"60441548-b68e-43b2-8191-e3b884be4b3c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/lMnsZUN4/","headers":{"host":"v2ray1.dozapp.xyz"}}}
-  - {"name":"未知482 168.6KB/s","type":"vmess","server":"38.60.224.173","port":32153,"cipher":"auto","uuid":"5cf1f470-3f70-4589-a2a4-4657ea3a1edf","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知484 1.5MB/s","type":"vmess","server":"149.88.23.202","port":18000,"cipher":"auto","uuid":"f8c8dc3d-0d37-46b0-8b34-a7232882fcfe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"HK23 14.0KB/s","type":"vmess","server":"156.245.232.239","port":35043,"cipher":"auto","uuid":"b15e481d-17e4-41a8-84c2-23d4f0514d9a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"www.pubgmobile.com"}}}
-  - {"name":"🇳🇿NZ新西兰3 2.6MB/s","type":"ss","server":"202.50.253.45","port":19999,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=","skip-cert-verify":true}
-  - {"name":"未知583 305.1KB/s","type":"vmess","server":"146.56.112.110","port":8888,"cipher":"auto","uuid":"e7c302f3-90d6-42dd-9d7d-94a3683a3707","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"未知604 141.8KB/s","type":"vmess","server":"cdn.sfacg.uk","port":2083,"cipher":"auto","uuid":"ac251237-576f-40c8-a543-554960c958b1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/or3","headers":{"host":"or3.sfacg.uk"}}}
-  - {"name":"HK33 30.0KB/s","type":"vmess","server":"47.243.194.125","port":443,"cipher":"auto","uuid":"f23bb427c1f94373876c2f43e9f790f3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"nycqg19zkwacpm1b.v.3dns.vip"}}}
-  - {"name":"未知706 130.7KB/s","type":"vmess","server":"cf.877771.xyz","port":443,"cipher":"auto","uuid":"0cf6d970-3f1d-4aae-a989-92a8f76ae3db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws?ed=2048","headers":{"host":"vmess.lbw666.dpdns.org"}}}
-  - {"name":"US94 151.9MB/s","type":"vmess","server":"84.17.41.2","port":18000,"cipher":"none","uuid":"f8c8dc3d-0d37-46b0-8b34-a7232882fcfe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"US101 20.2MB/s","type":"vmess","server":"us-23.hihu.net","port":80,"cipher":"auto","uuid":"8a9aaa70-ced9-11f1-b934-205c6d5f5d78","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/870ao26f"}}
-  - {"name":"HK42 35.6KB/s","type":"vmess","server":"47.244.120.197","port":23026,"cipher":"auto","uuid":"b9de1bc9-baa7-41ac-86f7-ccd59695cb21","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki"}}
-  - {"name":"未知915 3.4MB/s","type":"vmess","server":"134.195.196.211","port":18000,"cipher":"auto","uuid":"f8c8dc3d-0d37-46b0-8b34-a7232882fcfe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"US 9.7MB/s","type":"vmess","server":"us-23.hihu.net","port":80,"cipher":"auto","uuid":"8a9aaa70-ced9-11f1-b934-205c6d5f5d78","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/870ao26f"}}
+  - {"name":"未知72 500.5KB/s","type":"vmess","server":"104.21.57.84","port":8443,"cipher":"auto","uuid":"60441548-b68e-43b2-8191-e3b884be4b3c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/lMnsZUN4/","headers":{"host":"v2ray1.dozapp.xyz"}}}
+  - {"name":"未知84 1.0MB/s","type":"vmess","server":"158.160.180.165","port":24212,"cipher":"auto","uuid":"c58c1205-b308-416f-8503-c04557abf93d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知141 363.1KB/s","type":"vmess","server":"162.159.135.234","port":2083,"cipher":"auto","uuid":"ac251237-576f-40c8-a543-554960c958b1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/or3","headers":{"host":"or3.sfacg.uk"}}}
+  - {"name":"未知157 302.9KB/s","type":"vmess","server":"cf.0sm.com","port":443,"cipher":"auto","uuid":"0cf6d970-3f1d-4aae-a989-92a8f76ae3db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws?ed=2048","headers":{"host":"vmess.lbw666.dpdns.org"}}}
+  - {"name":"未知175 3.4MB/s","type":"vmess","server":"free.ertebatgoostar.ir","port":443,"cipher":"auto","uuid":"118b0abc-c8f6-476a-9777-bc73f6e2548b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知184 372.1KB/s","type":"vmess","server":"172.64.80.1","port":8443,"cipher":"auto","uuid":"60441548-b68e-43b2-8191-e3b884be4b3c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/lMnsZUN4/","headers":{"host":"v2ray1.dozapp.xyz"}}}
+  - {"name":"未知195 12.0MB/s","type":"vmess","server":"67.220.95.3","port":18000,"cipher":"aes-128-gcm","uuid":"f8c8dc3d-0d37-46b0-8b34-a7232882fcfe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"HK12 1.6MB/s","type":"vmess","server":"6jdvarazgu3qqr6q.v.3dns.vip","port":443,"cipher":"auto","uuid":"f23bb427c1f94373876c2f43e9f790f3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess"}}
+  - {"name":"US22 39.3MB/s","type":"vmess","server":"rib9jxayoqjgn2kw.v.3dns.vip","port":443,"cipher":"auto","uuid":"9b31490d-190e-4ef1-af0a-7ccab3e7c3b5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"rib9jxayoqjgn2kw.v.3dns.vip"}}}
+  - {"name":"未知281 164.9KB/s","type":"vmess","server":"152.67.8.205","port":80,"cipher":"auto","uuid":"9db4c708-aef8-4359-821b-38e47990be0d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"未知286 264.0KB/s","type":"vmess","server":"104.17.77.77","port":8443,"cipher":"auto","uuid":"60441548-b68e-43b2-8191-e3b884be4b3c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/lMnsZUN4/","headers":{"host":"v2ray1.dozapp.xyz"}}}
+  - {"name":"US34 16.5MB/s","type":"vmess","server":"47.88.79.34","port":443,"cipher":"auto","uuid":"9b31490d-190e-4ef1-af0a-7ccab3e7c3b5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"rib9jxayoqjgn2kw.v.3dns.vip"}}}
+  - {"name":"未知353 6.6MB/s","type":"vmess","server":"cf.877771.xyz","port":443,"cipher":"auto","uuid":"0cf6d970-3f1d-4aae-a989-92a8f76ae3db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws?ed=2048","headers":{"host":"vmess.lbw666.dpdns.org"}}}
+  - {"name":"HK21 50.6KB/s","type":"vmess","server":"156.245.232.239","port":35043,"cipher":"auto","uuid":"b15e481d-17e4-41a8-84c2-23d4f0514d9a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"www.pubgmobile.com"}}}
+  - {"name":"未知386 15.3MB/s","type":"vmess","server":"www.windowsmsidownloads.com","port":443,"cipher":"auto","uuid":"80be2deb-3b27-4775-9bd1-7f2a2b9c261b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/truth","headers":{"host":"www.windowsmsidownloads.com"}}}
+  - {"name":"US51 102.6MB/s","type":"vmess","server":"84.17.41.2","port":18000,"cipher":"none","uuid":"f8c8dc3d-0d37-46b0-8b34-a7232882fcfe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇳🇿NZ新西兰 8.1MB/s","type":"ss","server":"202.50.253.90","port":19999,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=","skip-cert-verify":true}
+  - {"name":"未知439 2.3MB/s","type":"vmess","server":"104.17.136.198","port":443,"cipher":"auto","uuid":"0cf6d970-3f1d-4aae-a989-92a8f76ae3db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws?ed=2048","headers":{"host":"vmess.lbw666.dpdns.org"}}}
+  - {"name":"🇳🇿NZ新西兰2 15.6MB/s","type":"ss","server":"202.50.253.18","port":19999,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=","skip-cert-verify":true}
+  - {"name":"未知502 9.6MB/s","type":"vmess","server":"172.66.203.67","port":443,"cipher":"auto","uuid":"0cf6d970-3f1d-4aae-a989-92a8f76ae3db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws?ed=2048","headers":{"host":"vmess.lbw666.dpdns.org"}}}
+  - {"name":"未知571 457.6KB/s","type":"vmess","server":"172.67.167.78","port":8443,"cipher":"auto","uuid":"60441548-b68e-43b2-8191-e3b884be4b3c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/lMnsZUN4/","headers":{"host":"v2ray1.dozapp.xyz"}}}
+  - {"name":"HK37 46.4KB/s","type":"vmess","server":"154.37.223.56","port":52080,"cipher":"auto","uuid":"f1ac5c82-00a4-400b-bb20-530c91b7c5bb","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知677 670.4KB/s","type":"vmess","server":"104.21.91.53","port":8443,"cipher":"auto","uuid":"60441548-b68e-43b2-8191-e3b884be4b3c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/lMnsZUN4/","headers":{"host":"v2ray1.dozapp.xyz"}}}
+  - {"name":"未知704 78.9KB/s","type":"vmess","server":"chatgpt.com","port":8443,"cipher":"auto","uuid":"60441548-b68e-43b2-8191-e3b884be4b3c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/lMnsZUN4/","headers":{"host":"v2ray1.dozapp.xyz"}}}
+  - {"name":"未知721 6.6MB/s","type":"vmess","server":"cf.090227.xyz","port":443,"cipher":"auto","uuid":"0cf6d970-3f1d-4aae-a989-92a8f76ae3db","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws?ed=2048","headers":{"host":"vmess.lbw666.dpdns.org"}}}
+  - {"name":"HK41 7.3KB/s","type":"vmess","server":"8.217.254.88","port":443,"cipher":"auto","uuid":"f23bb427c1f94373876c2f43e9f790f3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws-vmess","headers":{"host":"2b9hwY8oCx7Q74NM.v.3dns.vip"}}}
+  - {"name":"未知751 469.8KB/s","type":"vmess","server":"168.138.43.75","port":80,"cipher":"auto","uuid":"11c3627f-31e8-4695-dfbd-34076e2f1f5d","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/cctv13.m3u8"}}
+  - {"name":"HK43 5.1KB/s","type":"vmess","server":"47.242.81.94","port":52080,"cipher":"auto","uuid":"e47b9f77-60e4-4738-8d53-772b6002e146","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"未知830 1.5MB/s","type":"vmess","server":"132.145.80.230","port":80,"cipher":"auto","uuid":"5155860e-d07d-46c3-9128-3afbd84626c7","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/cctv13.m3u8"}}
+  - {"name":"🇳🇿NZ新西兰3 11.8MB/s","type":"ss","server":"202.50.253.54","port":19999,"cipher":"aes-256-gcm","alterId":0,"tls":true,"password":"ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=","skip-cert-verify":true}
+  - {"name":"未知888 199.2KB/s","type":"vmess","server":"172.67.161.144","port":8443,"cipher":"auto","uuid":"60441548-b68e-43b2-8191-e3b884be4b3c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/lMnsZUN4/","headers":{"host":"v2ray1.dozapp.xyz"}}}
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -46,33 +51,38 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇳🇿NZ新西兰 2.2MB/s
-      - 🇳🇿NZ新西兰2 2.1MB/s
-      - 未知90 140.2KB/s
-      - 未知145 618.4KB/s
-      - 未知172 2.5KB/s
-      - HK12 9.7KB/s
-      - 未知224 2.0MB/s
-      - 未知301 34.7MB/s
-      - 未知317 363.6KB/s
-      - 未知343 92.9KB/s
-      - 未知375 29.2MB/s
-      - HK19 39.0KB/s
-      - HK20 1.9KB/s
-      - 未知417 1.8MB/s
-      - 未知439 285.0KB/s
-      - 未知482 168.6KB/s
-      - 未知484 1.5MB/s
-      - HK23 14.0KB/s
-      - 🇳🇿NZ新西兰3 2.6MB/s
-      - 未知583 305.1KB/s
-      - 未知604 141.8KB/s
-      - HK33 30.0KB/s
-      - 未知706 130.7KB/s
-      - US94 151.9MB/s
-      - US101 20.2MB/s
-      - HK42 35.6KB/s
-      - 未知915 3.4MB/s
+      - US 9.7MB/s
+      - 未知72 500.5KB/s
+      - 未知84 1.0MB/s
+      - 未知141 363.1KB/s
+      - 未知157 302.9KB/s
+      - 未知175 3.4MB/s
+      - 未知184 372.1KB/s
+      - 未知195 12.0MB/s
+      - HK12 1.6MB/s
+      - US22 39.3MB/s
+      - 未知281 164.9KB/s
+      - 未知286 264.0KB/s
+      - US34 16.5MB/s
+      - 未知353 6.6MB/s
+      - HK21 50.6KB/s
+      - 未知386 15.3MB/s
+      - US51 102.6MB/s
+      - 🇳🇿NZ新西兰 8.1MB/s
+      - 未知439 2.3MB/s
+      - 🇳🇿NZ新西兰2 15.6MB/s
+      - 未知502 9.6MB/s
+      - 未知571 457.6KB/s
+      - HK37 46.4KB/s
+      - 未知677 670.4KB/s
+      - 未知704 78.9KB/s
+      - 未知721 6.6MB/s
+      - HK41 7.3KB/s
+      - 未知751 469.8KB/s
+      - HK43 5.1KB/s
+      - 未知830 1.5MB/s
+      - 🇳🇿NZ新西兰3 11.8MB/s
+      - 未知888 199.2KB/s
 
   - name: ♻️ 自动选择
     type: url-test
@@ -80,33 +90,38 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇳🇿NZ新西兰 2.2MB/s
-      - 🇳🇿NZ新西兰2 2.1MB/s
-      - 未知90 140.2KB/s
-      - 未知145 618.4KB/s
-      - 未知172 2.5KB/s
-      - HK12 9.7KB/s
-      - 未知224 2.0MB/s
-      - 未知301 34.7MB/s
-      - 未知317 363.6KB/s
-      - 未知343 92.9KB/s
-      - 未知375 29.2MB/s
-      - HK19 39.0KB/s
-      - HK20 1.9KB/s
-      - 未知417 1.8MB/s
-      - 未知439 285.0KB/s
-      - 未知482 168.6KB/s
-      - 未知484 1.5MB/s
-      - HK23 14.0KB/s
-      - 🇳🇿NZ新西兰3 2.6MB/s
-      - 未知583 305.1KB/s
-      - 未知604 141.8KB/s
-      - HK33 30.0KB/s
-      - 未知706 130.7KB/s
-      - US94 151.9MB/s
-      - US101 20.2MB/s
-      - HK42 35.6KB/s
-      - 未知915 3.4MB/s
+      - US 9.7MB/s
+      - 未知72 500.5KB/s
+      - 未知84 1.0MB/s
+      - 未知141 363.1KB/s
+      - 未知157 302.9KB/s
+      - 未知175 3.4MB/s
+      - 未知184 372.1KB/s
+      - 未知195 12.0MB/s
+      - HK12 1.6MB/s
+      - US22 39.3MB/s
+      - 未知281 164.9KB/s
+      - 未知286 264.0KB/s
+      - US34 16.5MB/s
+      - 未知353 6.6MB/s
+      - HK21 50.6KB/s
+      - 未知386 15.3MB/s
+      - US51 102.6MB/s
+      - 🇳🇿NZ新西兰 8.1MB/s
+      - 未知439 2.3MB/s
+      - 🇳🇿NZ新西兰2 15.6MB/s
+      - 未知502 9.6MB/s
+      - 未知571 457.6KB/s
+      - HK37 46.4KB/s
+      - 未知677 670.4KB/s
+      - 未知704 78.9KB/s
+      - 未知721 6.6MB/s
+      - HK41 7.3KB/s
+      - 未知751 469.8KB/s
+      - HK43 5.1KB/s
+      - 未知830 1.5MB/s
+      - 🇳🇿NZ新西兰3 11.8MB/s
+      - 未知888 199.2KB/s
 
   - name: 🌍 国外媒体
     type: select
@@ -114,132 +129,152 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇳🇿NZ新西兰 2.2MB/s
-      - 🇳🇿NZ新西兰2 2.1MB/s
-      - 未知90 140.2KB/s
-      - 未知145 618.4KB/s
-      - 未知172 2.5KB/s
-      - HK12 9.7KB/s
-      - 未知224 2.0MB/s
-      - 未知301 34.7MB/s
-      - 未知317 363.6KB/s
-      - 未知343 92.9KB/s
-      - 未知375 29.2MB/s
-      - HK19 39.0KB/s
-      - HK20 1.9KB/s
-      - 未知417 1.8MB/s
-      - 未知439 285.0KB/s
-      - 未知482 168.6KB/s
-      - 未知484 1.5MB/s
-      - HK23 14.0KB/s
-      - 🇳🇿NZ新西兰3 2.6MB/s
-      - 未知583 305.1KB/s
-      - 未知604 141.8KB/s
-      - HK33 30.0KB/s
-      - 未知706 130.7KB/s
-      - US94 151.9MB/s
-      - US101 20.2MB/s
-      - HK42 35.6KB/s
-      - 未知915 3.4MB/s
+      - US 9.7MB/s
+      - 未知72 500.5KB/s
+      - 未知84 1.0MB/s
+      - 未知141 363.1KB/s
+      - 未知157 302.9KB/s
+      - 未知175 3.4MB/s
+      - 未知184 372.1KB/s
+      - 未知195 12.0MB/s
+      - HK12 1.6MB/s
+      - US22 39.3MB/s
+      - 未知281 164.9KB/s
+      - 未知286 264.0KB/s
+      - US34 16.5MB/s
+      - 未知353 6.6MB/s
+      - HK21 50.6KB/s
+      - 未知386 15.3MB/s
+      - US51 102.6MB/s
+      - 🇳🇿NZ新西兰 8.1MB/s
+      - 未知439 2.3MB/s
+      - 🇳🇿NZ新西兰2 15.6MB/s
+      - 未知502 9.6MB/s
+      - 未知571 457.6KB/s
+      - HK37 46.4KB/s
+      - 未知677 670.4KB/s
+      - 未知704 78.9KB/s
+      - 未知721 6.6MB/s
+      - HK41 7.3KB/s
+      - 未知751 469.8KB/s
+      - HK43 5.1KB/s
+      - 未知830 1.5MB/s
+      - 🇳🇿NZ新西兰3 11.8MB/s
+      - 未知888 199.2KB/s
 
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇳🇿NZ新西兰 2.2MB/s
-      - 🇳🇿NZ新西兰2 2.1MB/s
-      - 未知90 140.2KB/s
-      - 未知145 618.4KB/s
-      - 未知172 2.5KB/s
-      - HK12 9.7KB/s
-      - 未知224 2.0MB/s
-      - 未知301 34.7MB/s
-      - 未知317 363.6KB/s
-      - 未知343 92.9KB/s
-      - 未知375 29.2MB/s
-      - HK19 39.0KB/s
-      - HK20 1.9KB/s
-      - 未知417 1.8MB/s
-      - 未知439 285.0KB/s
-      - 未知482 168.6KB/s
-      - 未知484 1.5MB/s
-      - HK23 14.0KB/s
-      - 🇳🇿NZ新西兰3 2.6MB/s
-      - 未知583 305.1KB/s
-      - 未知604 141.8KB/s
-      - HK33 30.0KB/s
-      - 未知706 130.7KB/s
-      - US94 151.9MB/s
-      - US101 20.2MB/s
-      - HK42 35.6KB/s
-      - 未知915 3.4MB/s
+      - US 9.7MB/s
+      - 未知72 500.5KB/s
+      - 未知84 1.0MB/s
+      - 未知141 363.1KB/s
+      - 未知157 302.9KB/s
+      - 未知175 3.4MB/s
+      - 未知184 372.1KB/s
+      - 未知195 12.0MB/s
+      - HK12 1.6MB/s
+      - US22 39.3MB/s
+      - 未知281 164.9KB/s
+      - 未知286 264.0KB/s
+      - US34 16.5MB/s
+      - 未知353 6.6MB/s
+      - HK21 50.6KB/s
+      - 未知386 15.3MB/s
+      - US51 102.6MB/s
+      - 🇳🇿NZ新西兰 8.1MB/s
+      - 未知439 2.3MB/s
+      - 🇳🇿NZ新西兰2 15.6MB/s
+      - 未知502 9.6MB/s
+      - 未知571 457.6KB/s
+      - HK37 46.4KB/s
+      - 未知677 670.4KB/s
+      - 未知704 78.9KB/s
+      - 未知721 6.6MB/s
+      - HK41 7.3KB/s
+      - 未知751 469.8KB/s
+      - HK43 5.1KB/s
+      - 未知830 1.5MB/s
+      - 🇳🇿NZ新西兰3 11.8MB/s
+      - 未知888 199.2KB/s
 
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇳🇿NZ新西兰 2.2MB/s
-      - 🇳🇿NZ新西兰2 2.1MB/s
-      - 未知90 140.2KB/s
-      - 未知145 618.4KB/s
-      - 未知172 2.5KB/s
-      - HK12 9.7KB/s
-      - 未知224 2.0MB/s
-      - 未知301 34.7MB/s
-      - 未知317 363.6KB/s
-      - 未知343 92.9KB/s
-      - 未知375 29.2MB/s
-      - HK19 39.0KB/s
-      - HK20 1.9KB/s
-      - 未知417 1.8MB/s
-      - 未知439 285.0KB/s
-      - 未知482 168.6KB/s
-      - 未知484 1.5MB/s
-      - HK23 14.0KB/s
-      - 🇳🇿NZ新西兰3 2.6MB/s
-      - 未知583 305.1KB/s
-      - 未知604 141.8KB/s
-      - HK33 30.0KB/s
-      - 未知706 130.7KB/s
-      - US94 151.9MB/s
-      - US101 20.2MB/s
-      - HK42 35.6KB/s
-      - 未知915 3.4MB/s
+      - US 9.7MB/s
+      - 未知72 500.5KB/s
+      - 未知84 1.0MB/s
+      - 未知141 363.1KB/s
+      - 未知157 302.9KB/s
+      - 未知175 3.4MB/s
+      - 未知184 372.1KB/s
+      - 未知195 12.0MB/s
+      - HK12 1.6MB/s
+      - US22 39.3MB/s
+      - 未知281 164.9KB/s
+      - 未知286 264.0KB/s
+      - US34 16.5MB/s
+      - 未知353 6.6MB/s
+      - HK21 50.6KB/s
+      - 未知386 15.3MB/s
+      - US51 102.6MB/s
+      - 🇳🇿NZ新西兰 8.1MB/s
+      - 未知439 2.3MB/s
+      - 🇳🇿NZ新西兰2 15.6MB/s
+      - 未知502 9.6MB/s
+      - 未知571 457.6KB/s
+      - HK37 46.4KB/s
+      - 未知677 670.4KB/s
+      - 未知704 78.9KB/s
+      - 未知721 6.6MB/s
+      - HK41 7.3KB/s
+      - 未知751 469.8KB/s
+      - HK43 5.1KB/s
+      - 未知830 1.5MB/s
+      - 🇳🇿NZ新西兰3 11.8MB/s
+      - 未知888 199.2KB/s
 
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇳🇿NZ新西兰 2.2MB/s
-      - 🇳🇿NZ新西兰2 2.1MB/s
-      - 未知90 140.2KB/s
-      - 未知145 618.4KB/s
-      - 未知172 2.5KB/s
-      - HK12 9.7KB/s
-      - 未知224 2.0MB/s
-      - 未知301 34.7MB/s
-      - 未知317 363.6KB/s
-      - 未知343 92.9KB/s
-      - 未知375 29.2MB/s
-      - HK19 39.0KB/s
-      - HK20 1.9KB/s
-      - 未知417 1.8MB/s
-      - 未知439 285.0KB/s
-      - 未知482 168.6KB/s
-      - 未知484 1.5MB/s
-      - HK23 14.0KB/s
-      - 🇳🇿NZ新西兰3 2.6MB/s
-      - 未知583 305.1KB/s
-      - 未知604 141.8KB/s
-      - HK33 30.0KB/s
-      - 未知706 130.7KB/s
-      - US94 151.9MB/s
-      - US101 20.2MB/s
-      - HK42 35.6KB/s
-      - 未知915 3.4MB/s
+      - US 9.7MB/s
+      - 未知72 500.5KB/s
+      - 未知84 1.0MB/s
+      - 未知141 363.1KB/s
+      - 未知157 302.9KB/s
+      - 未知175 3.4MB/s
+      - 未知184 372.1KB/s
+      - 未知195 12.0MB/s
+      - HK12 1.6MB/s
+      - US22 39.3MB/s
+      - 未知281 164.9KB/s
+      - 未知286 264.0KB/s
+      - US34 16.5MB/s
+      - 未知353 6.6MB/s
+      - HK21 50.6KB/s
+      - 未知386 15.3MB/s
+      - US51 102.6MB/s
+      - 🇳🇿NZ新西兰 8.1MB/s
+      - 未知439 2.3MB/s
+      - 🇳🇿NZ新西兰2 15.6MB/s
+      - 未知502 9.6MB/s
+      - 未知571 457.6KB/s
+      - HK37 46.4KB/s
+      - 未知677 670.4KB/s
+      - 未知704 78.9KB/s
+      - 未知721 6.6MB/s
+      - HK41 7.3KB/s
+      - 未知751 469.8KB/s
+      - HK43 5.1KB/s
+      - 未知830 1.5MB/s
+      - 🇳🇿NZ新西兰3 11.8MB/s
+      - 未知888 199.2KB/s
 
   - name: 🎯 全球直连
     type: select
@@ -263,33 +298,38 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇳🇿NZ新西兰 2.2MB/s
-      - 🇳🇿NZ新西兰2 2.1MB/s
-      - 未知90 140.2KB/s
-      - 未知145 618.4KB/s
-      - 未知172 2.5KB/s
-      - HK12 9.7KB/s
-      - 未知224 2.0MB/s
-      - 未知301 34.7MB/s
-      - 未知317 363.6KB/s
-      - 未知343 92.9KB/s
-      - 未知375 29.2MB/s
-      - HK19 39.0KB/s
-      - HK20 1.9KB/s
-      - 未知417 1.8MB/s
-      - 未知439 285.0KB/s
-      - 未知482 168.6KB/s
-      - 未知484 1.5MB/s
-      - HK23 14.0KB/s
-      - 🇳🇿NZ新西兰3 2.6MB/s
-      - 未知583 305.1KB/s
-      - 未知604 141.8KB/s
-      - HK33 30.0KB/s
-      - 未知706 130.7KB/s
-      - US94 151.9MB/s
-      - US101 20.2MB/s
-      - HK42 35.6KB/s
-      - 未知915 3.4MB/s
+      - US 9.7MB/s
+      - 未知72 500.5KB/s
+      - 未知84 1.0MB/s
+      - 未知141 363.1KB/s
+      - 未知157 302.9KB/s
+      - 未知175 3.4MB/s
+      - 未知184 372.1KB/s
+      - 未知195 12.0MB/s
+      - HK12 1.6MB/s
+      - US22 39.3MB/s
+      - 未知281 164.9KB/s
+      - 未知286 264.0KB/s
+      - US34 16.5MB/s
+      - 未知353 6.6MB/s
+      - HK21 50.6KB/s
+      - 未知386 15.3MB/s
+      - US51 102.6MB/s
+      - 🇳🇿NZ新西兰 8.1MB/s
+      - 未知439 2.3MB/s
+      - 🇳🇿NZ新西兰2 15.6MB/s
+      - 未知502 9.6MB/s
+      - 未知571 457.6KB/s
+      - HK37 46.4KB/s
+      - 未知677 670.4KB/s
+      - 未知704 78.9KB/s
+      - 未知721 6.6MB/s
+      - HK41 7.3KB/s
+      - 未知751 469.8KB/s
+      - HK43 5.1KB/s
+      - 未知830 1.5MB/s
+      - 🇳🇿NZ新西兰3 11.8MB/s
+      - 未知888 199.2KB/s
 
 
 rules:
